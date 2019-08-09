@@ -24,7 +24,7 @@ def parse(url):
         #print(middle)
         #print(dds[0].text.strip())
         #print(gameWeek)
-        if ':' in middle and dds[0].text.strip() in strips:
+        if ':' in middle:
             print(homeTeam + "," + awayTeam  + "," + gameWeek + "," + date)
             return homeTeam + "," + awayTeam  + "," + gameWeek + "," + date
         else:
