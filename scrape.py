@@ -55,15 +55,15 @@ def parse(url):
                 homeTeamContainers = soup.findAll('div', attrs = {'class' : 'container left'})
                 homeTeamStarting = homeTeamContainers[2]
                 homeTeamBench = homeTeamContainers[3]
-                homeTeamYellows = len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/700/img/events/YC.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/699/img/events/YC.png' }))
-                homeTeamReds = len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/700/img/events/RC.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/699/img/events/RC.png' }))
+                homeTeamYellows = len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/YC.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/YC.png' }))
+                homeTeamReds = len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/RC.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/RC.png' })) + len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/Y2C.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/Y2C.png' }))
                 homeTeamCards = homeTeamYellows + homeTeamReds
 
                 awayTeamContainers = soup.findAll('div', attrs = {'class' : 'container right'})
                 awayTeamStarting = awayTeamContainers[2]
                 awayTeamBench = awayTeamContainers[3]
-                awayTeamYellows = len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/700/img/events/YC.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/699/img/events/YC.png' }))
-                awayTeamReds = len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/700/img/events/RC.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/699/img/events/RC.png' }))
+                awayTeamYellows = len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/YC.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/YC.png' }))
+                awayTeamReds = len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/RC.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/RC.png' })) + len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/Y2C.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/705/img/events/Y2C.png' }))
                 awayTeamCards = awayTeamYellows + awayTeamReds
 
                 matchCards = homeTeamCards + awayTeamCards
