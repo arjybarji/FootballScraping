@@ -5,10 +5,12 @@ import numpy as np
 import uuid
 import time
 from multiprocessing import Pool
+import sys, os
+
 
 def parse(url):
     try:
-        print(url)
+        #print(url)
         delays = [0.25,0.5,0.75,1]
         delay = np.random.choice(delays)
         #time.sleep(delay)
@@ -81,19 +83,21 @@ def parse(url):
                     matchCorners = int(homeCorners) + int(awayCorners)
 
                     print("Got Score . " + homeTeam + " vs " + awayTeam+" . " + gameWeek )
-                    stats.write(homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + homeCorners + "," + awayCorners + "," + homeCornersConc + "," + awayCornersConc + "," + str(matchCorners)+","+dds[0].text.strip() + "\n")
+                    return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + homeCorners + "," + awayCorners + "," + homeCornersConc + "," + awayCornersConc + "," + str(matchCorners)+","+dds[0].text.strip() + "\n")
                 except Exception as e:
                     print("Got Score no corners. " + homeTeam + " vs " + awayTeam+" . " + gameWeek + " NO FRAME")
-                    stats.write(homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip() + "\n")
+                    return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip() + "\n")
         else:
-            fixtures.write(homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "\n")
-            links.write(url + "\n")
             print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek)
+            return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "£" + url)
     except Exception as e:
-        print(e)
+        exc_type, exc_obj, exc_tb = sys.exc_info()
+        fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
+        print(exc_type, fname, exc_tb.tb_lineno)
         print(url)
+        return("L$" + url + "\n")
 
-fixturesToCome = []
+
 stats = open('Statsv2.csv','a',encoding='utf-8')
 fixtures = open('fixturesv2.csv','w',encoding='utf-8')
 
@@ -103,7 +107,30 @@ content = [x.strip() for x in content]
 
 links = open('links.txt','w')
 
-for url in content:
-    
-    parse(url)
+if __name__ == '__main__':
+    start_time = time.time()
+    p = Pool(20)  # Pool tells how many at a time
+    records = p.map(parse, content)
+    p.terminate()
+    p.join()
+    print(len(records))
+    for r in records:
+        print(r)
+        if r is not None:
+            if r[0] == "S":
+                splitted = r.split("$")
+                stats.write(splitted[1])
+            if r[0] == "F":
+                splitted = r.split("$")
+                splitted2 = splitted[1].split("£")
+                fixtures.write(splitted2[0] + "\n")
+                links.write(splitted2[1] + "\n")
+            if r[0] == "L":
+                splitted = r.split("$")
+                links.write(splitted[1])
+    print("--- %s seconds ---" % (time.time() - start_time))
 
+'''
+for url in content:
+    parse(url)
+'''
