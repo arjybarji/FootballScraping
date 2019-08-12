@@ -1,6 +1,3 @@
-Leicester City,Wolverhampton Wanderers,1,11 August 2019
-Manchester United,Chelsea,1,11 August 2019
-Newcastle United,Arsenal,1,11 August 2019
 Arsenal,Burnley,2,17 August 2019
 Aston Villa,AFC Bournemouth,2,17 August 2019
 Brighton & Hove Albion,West Ham United,2,17 August 2019
@@ -391,10 +388,6 @@ Milan,Brescia,2,31 August 2019
 Sassuolo,Sampdoria,2,1 September 2019
 Udinese,Parma,2,1 September 2019
 Milan,Internazionale,4,21 September 2019
-PSV,ADO Den Haag,2,11 August 2019
-Fortuna Sittard,Heracles,2,11 August 2019
-Heerenveen,Feyenoord,2,11 August 2019
-RKC Waalwijk,AZ,2,11 August 2019
 Utrecht,PEC Zwolle,2,11 August 2019
 Vitesse,PEC Zwolle,3,16 August 2019
 VVV,Ajax,3,17 August 2019
@@ -1609,7 +1602,6 @@ Peterborough United,Tranmere Rovers,46,3 May 2020
 Northampton Town,Salford City,14,19 October 2019
 Leeds United,Preston North End,24,26 December 2019
 Oldham Athletic,Macclesfield Town,14,19 October 2019
-Rotherham United,Sunderland,46,3 May 2020
 Luton Town,Fulham,24,26 December 2019
 Plymouth Argyle,Carlisle United,14,19 October 2019
 Southend United,Shrewsbury Town,46,3 May 2020
@@ -2266,7 +2258,6 @@ Macclesfield Town,Swindon Town,46,25 April 2020
 Mansfield Town,Crawley Town,46,25 April 2020
 Morecambe,Scunthorpe United,46,25 April 2020
 Newport County,Northampton Town,46,25 April 2020
-Plymouth Argyle,Port Vale,46,25 April 2020
 Deportivo Alavés,Levante,1,18 August 2019
 Athletic Club,Barcelona,1,16 August 2019
 Atlético Madrid,Getafe,1,18 August 2019
@@ -2303,11 +2294,11 @@ Real Betis,Getafe,4,15 September 2019
 Celta de Vigo,Granada,4,15 September 2019
 Eibar,Espanyol,4,15 September 2019
 Leganés,Villarreal,4,14 September 2019
+Mallorca,Athletic Club,4,13 September 2019
 Real Madrid,Levante,4,14 September 2019
+Real Sociedad,Atlético Madrid,4,14 September 2019
 Real Valladolid,Osasuna,4,15 September 2019
-Strasbourg,Metz,1,11 August 2019
 Lille,Nantes,1,11 August 2019
-PSG,Nîmes,1,11 August 2019
 Metz,Monaco,2,17 August 2019
 Toulouse,Dijon,2,17 August 2019
 Olympique Lyonnais,Angers SCO,2,16 August 2019
@@ -2395,10 +2386,8 @@ Augsburg,Bayer Leverkusen,6,28 September 2019
 Köln,Hertha BSC,6,29 September 2019
 Paderborn,Bayern München,6,28 September 2019
 Union Berlin,Eintracht Frankfurt,6,27 September 2019
-Sporting Braga,Moreirense,1,11 August 2019
 Marítimo,Sporting CP,1,11 August 2019
 Vitória Setúbal,Tondela,1,12 August 2019
-Boavista,Desportivo Aves,1,11 August 2019
 Rio Ave,Vitória Guimarães,1,8 September 2019
 Famalicão,Rio Ave,2,16 August 2019
 Paços de Ferreira,Santa Clara,2,18 August 2019
@@ -2821,7 +2810,6 @@ Ajax II,Volendam,13,4 November 2019
 Volendam,Utrecht II,14,8 November 2019
 PSV II,Telstar,14,8 November 2019
 Go Ahead Eagles,Dordrecht,14,8 November 2019
-Excelsior,Eindhoven,14,8 November 2019
 NEC,TOP Oss,14,8 November 2019
 Roda JC,Cambuur,14,8 November 2019
 Ajax II,Den Bosch,14,8 November 2019
@@ -3401,7 +3389,6 @@ Benevento,Pescara,28,7 March 2020
 Cittadella,Pordenone,28,7 March 2020
 Perugia,Salernitana,28,7 March 2020
 Juve Stabia,Spezia,28,7 March 2020
-Empoli,Trapani,28,7 March 2020
 Cremonese,Benevento,29,14 March 2020
 Crotone,Chievo,29,14 March 2020
 Livorno,Cittadella,29,14 March 2020
@@ -3549,14 +3536,12 @@ Alcorcón,Real Zaragoza,4,8 September 2019
 Deportivo La Coruña,Albacete,4,7 September 2019
 Extremadura UD,Numancia,4,7 September 2019
 Fuenlabrada,Ponferradina,4,7 September 2019
+Girona,Rayo Vallecano,4,8 September 2019
 Huesca,Sporting Gijón,4,8 September 2019
 Mirandés,Real Oviedo,4,8 September 2019
+Málaga,Almería,4,7 September 2019
 Racing Santander,Cádiz,4,6 September 2019
-Feirense,Vilafranquense,1,11 August 2019
-Académica,Leixões,1,11 August 2019
-Sporting Covilhã,Porto II,1,11 August 2019
-Penafiel,Academico Viseu,1,11 August 2019
-Benfica II,Estoril,1,11 August 2019
+Tenerife,Las Palmas,4,7 September 2019
 Chaves,Mafra,2,17 August 2019
 Estoril,Farense,2,18 August 2019
 Porto II,Varzim,2,18 August 2019
@@ -3854,8 +3839,6 @@ Benfica II,Porto II,34,17 May 2020
 Sporting Covilhã,Farense,34,17 May 2020
 Penafiel,Vilafranquense,34,17 May 2020
 Varzim,Casa Pia,34,17 May 2020
-Rangers,Hibernian,2,11 August 2019
-St. Mirren,Aberdeen,2,11 August 2019
 Celtic,Hearts,3,24 August 2019
 Hamilton Academical,Motherwell,3,24 August 2019
 Hibernian,St. Johnstone,3,24 August 2019
@@ -4382,9 +4365,6 @@ Yeni Malatyaspor,Alanyaspor,3,1 September 2019
 Konyaspor,Antalyaspor,3,31 August 2019
 Beşiktaş,Rizespor,3,31 August 2019
 Kayserispor,Galatasaray,3,30 August 2019
-Nagoya Grampus,Kawasaki Frontale,22,10 August 2019
-Cerezo Osaka,Sagan Tosu,22,11 August 2019
-Júbilo Iwata,Shonan Bellmare,22,11 August 2019
 Shimizu S-Pulse,Consadole Sapporo,23,17 August 2019
 Vegalta Sendai,Kawasaki Frontale,23,17 August 2019
 Tokyo,Sanfrecce Hiroshima,23,17 August 2019
@@ -4413,14 +4393,6 @@ Vissel Kobe,Consadole Sapporo,25,31 August 2019
 Sagan Tosu,Vegalta Sendai,25,31 August 2019
 Cerezo Osaka,Kawasaki Frontale,25,1 September 2019
 Athletico Paranaense,São Paulo,13,22 August 2019
-Internacional,Corinthians,14,11 August 2019
-Atlético Mineiro,Fluminense,14,11 August 2019
-Ceará,Chapecoense,14,10 August 2019
-Palmeiras,Bahia,14,11 August 2019
-Flamengo,Grêmio,14,11 August 2019
-Botafogo,Athletico Paranaense,14,11 August 2019
-Avaí,Cruzeiro,14,11 August 2019
-Goiás,Vasco da Gama,14,12 August 2019
 CSA,Fortaleza,14,13 August 2019
 Grêmio,Palmeiras,15,18 August 2019
 Cruzeiro,Santos,15,18 August 2019
@@ -4492,8 +4464,6 @@ Shenzhen,Guangzhou R&F,22,14 August 2019
 Guangzhou Evergrande,Chongqing Dangdai Lifan,22,15 August 2019
 Shanghai SIPG,Tianjin Teda,22,14 August 2019
 Shanghai Shenhua,Shenzhen,23,26 September 2019
-Chongqing Dangdai Lifan,Tianjin Tianhai,23,11 August 2019
-Beijing Guoan,Guangzhou Evergrande,23,11 August 2019
 Shenzhen,Beijing Guoan,24,13 September 2019
 Jiangsu Suning,Guangzhou Evergrande,24,13 September 2019
 Shandong Luneng,Shanghai SIPG,24,13 September 2019
@@ -4517,6 +4487,7 @@ Tianjin Teda,Beijing Renhe,26,20 October 2019
 Shanghai Shenhua,Dalian Yifang,26,20 October 2019
 Jiangsu Suning,Hebei CFFC,26,20 October 2019
 Henan Jianye,Chongqing Dangdai Lifan,26,20 October 2019
+Chongqing Dangdai Lifan,Shanghai Shenhua,27,25 October 2019
 Hebei CFFC,Guangzhou R&F,27,26 October 2019
 Beijing Guoan,Tianjin Teda,27,26 October 2019
 Shenzhen,Wuhan Zall,27,26 October 2019
@@ -4549,10 +4520,6 @@ Jiangsu Suning,Tianjin Tianhai,30,1 December 2019
 Tianjin Teda,Chongqing Dangdai Lifan,30,1 December 2019
 Beijing Guoan,Shandong Luneng,30,1 December 2019
 SønderjyskE,AGF,5,12 August 2019
-AaB,Esbjerg,5,11 August 2019
-Horsens,Midtjylland,5,11 August 2019
-Nordsjælland,Silkeborg,5,11 August 2019
-Hobro,Brøndby,5,11 August 2019
 Midtjylland,Hobro,6,18 August 2019
 Brøndby,AaB,6,18 August 2019
 Randers,København,6,16 August 2019
@@ -4566,7 +4533,6 @@ Brøndby,AGF,7,25 August 2019
 Horsens,AaB,7,26 August 2019
 Hobro,OB,7,23 August 2019
 Esbjerg,Silkeborg,7,25 August 2019
-Lyngby,Randers,7,25 August 2019
 Midtjylland,Brøndby,8,1 September 2019
 AaB,København,8,1 September 2019
 Randers,Silkeborg,8,1 September 2019
@@ -4703,11 +4669,7 @@ Hobro,Lyngby,26,22 March 2020
 Stabæk,Vålerenga,9,14 August 2019
 Kristiansund,Bodø / Glimt,10,14 August 2019
 Viking,Sarpsborg 08,10,14 August 2019
-Haugesund,Ranheim,17,11 August 2019
-Kristiansund,Odd,17,11 August 2019
-Bodø / Glimt,Viking,17,11 August 2019
 Lillestrøm,Mjøndalen,17,12 August 2019
-Strømsgodset,Vålerenga,17,11 August 2019
 Vålerenga,Haugesund,18,18 August 2019
 Ranheim,Molde,18,18 August 2019
 Sarpsborg 08,Bodø / Glimt,18,19 August 2019
@@ -4813,10 +4775,6 @@ Tromsø,Stabæk,30,30 November 2019
 Lillestrøm,Sarpsborg 08,30,30 November 2019
 Mjøndalen,Vålerenga,30,30 November 2019
 Rostov,Krylya Sovetov,5,12 August 2019
-CSKA Moskva,Sochi,5,11 August 2019
-Lokomotiv Moskva,Ural,5,11 August 2019
-Akhmat Grozny,Spartak Moskva,5,11 August 2019
-Arsenal Tula,Ufa,5,11 August 2019
 Zenit,Akhmat Grozny,6,17 August 2019
 Spartak Moskva,CSKA Moskva,6,19 August 2019
 Tambov,Krasnodar,6,18 August 2019
@@ -4882,9 +4840,6 @@ Derry City,Finn Harps,36,25 October 2019
 Dundalk,St Patrick's Athl.,36,25 October 2019
 Shamrock Rovers,Cork City,36,25 October 2019
 Waterford,UCD,36,25 October 2019
-Mattersburg,Austria Wien,3,11 August 2019
-Hartberg,Sturm Graz,3,11 August 2019
-Swarovski Tirol,St. Pölten,3,11 August 2019
 LASK,Swarovski Tirol,4,17 August 2019
 Wolfsberger AC,Mattersburg,4,17 August 2019
 St. Pölten,Salzburg,4,17 August 2019
@@ -4999,9 +4954,6 @@ Austria Wien,St. Pölten,22,7 March 2020
 Mattersburg,LASK,22,7 March 2020
 Admira,Rheindorf Altach,22,7 March 2020
 Hartberg,Swarovski Tirol,22,7 March 2020
-Sint-Truiden,Standard Liège,3,11 August 2019
-Sporting Charleroi,Antwerp,3,11 August 2019
-Royal Excel Mouscron,Gent,3,11 August 2019
 Club Brugge,AS Eupen,4,16 August 2019
 Kortrijk,Anderlecht,4,17 August 2019
 Mechelen,Cercle Brugge,4,17 August 2019
@@ -5042,10 +4994,6 @@ Zulte-Waregem,Gent,8,21 September 2019
 Sporting Charleroi,Sint-Truiden,8,21 September 2019
 Antwerp,Cercle Brugge,8,21 September 2019
 Waasland-Beveren,Royal Excel Mouscron,8,21 September 2019
-Slavia Praha,Slovan Liberec,5,10 August 2019
-Viktoria Plzeň,Slovácko,5,11 August 2019
-Mladá Boleslav,Sparta Praha,5,11 August 2019
-Jablonec,Opava,5,11 August 2019
 Karviná,Slovan Liberec,6,18 August 2019
 Bohemians 1905,Sigma Olomouc,6,17 August 2019
 České Budějovice,Slavia Praha,6,16 August 2019
@@ -5246,8 +5194,6 @@ Karviná,Mladá Boleslav,30,25 April 2020
 Teplice,Příbram,30,25 April 2020
 Bohemians 1905,Jablonec,30,25 April 2020
 Opava,České Budějovice,30,25 April 2020
-Slaven Koprivnica,Hajduk Split,4,11 August 2019
-Gorica,Rijeka,4,11 August 2019
 Dinamo Zagreb,Inter Zaprešić,5,16 August 2019
 Rijeka,Osijek,5,18 August 2019
 Hajduk Split,Gorica,5,18 August 2019
@@ -5263,48 +5209,34 @@ Hajduk Split,Dinamo Zagreb,7,31 August 2019
 Istra 1961,Osijek,7,31 August 2019
 Varaždin,Gorica,7,31 August 2019
 Lokomotiva Zagreb,Slaven Koprivnica,7,31 August 2019
-Boca Juniors,Aldosivi,3,19 August 2019
-San Lorenzo,Rosario Central,3,17 August 2019
-Argentinos Juniors,Banfield,3,17 August 2019
-Racing Club,River Plate,3,18 August 2019
-Estudiantes,Independiente,3,20 August 2019
-Lanús,Vélez Sarsfield,3,18 August 2019
-Defensa y Justicia,Arsenal,3,18 August 2019
-Newell's Old Boys,Unión,3,17 August 2019
-Colón,Gimnasia La Plata,3,19 August 2019
-Talleres de Córdoba,Central Córdoba SdE,3,17 August 2019
-Patronato,Huracán,3,18 August 2019
-Atlético Tucumán,Godoy Cruz,3,19 August 2019
-River Plate,Talleres de Córdoba,4,25 August 2019
-Huracán,Argentinos Juniors,4,27 August 2019
-Vélez Sarsfield,Newell's Old Boys,4,24 August 2019
-Independiente,Colón,4,25 August 2019
-Gimnasia La Plata,Defensa y Justicia,4,24 August 2019
-Banfield,Boca Juniors,4,26 August 2019
-Arsenal,San Lorenzo,4,24 August 2019
-Aldosivi,Atlético Tucumán,4,27 August 2019
-Central Córdoba SdE,Racing Club,4,25 August 2019
-Rosario Central,Patronato,4,24 August 2019
-Unión,Lanús,4,25 August 2019
-Godoy Cruz,Estudiantes,4,25 August 2019
-River Plate,Boca Juniors,5,1 September 2019
-San Lorenzo,Unión,5,31 August 2019
-Argentinos Juniors,Gimnasia La Plata,5,31 August 2019
-Racing Club,Godoy Cruz,5,1 September 2019
-Estudiantes,Vélez Sarsfield,5,31 August 2019
-Lanús,Central Córdoba SdE,5,31 August 2019
-Defensa y Justicia,Banfield,5,31 August 2019
-Newell's Old Boys,Huracán,5,1 September 2019
-Colón,Rosario Central,5,1 September 2019
-Talleres de Córdoba,Aldosivi,5,1 September 2019
-Patronato,Independiente,5,31 August 2019
-Atlético Tucumán,Arsenal,5,1 September 2019
-Norrköping,Elfsborg,19,11 August 2019
+Lechia Gdańsk,Jagiellonia Białystok,4,12 August 2019
+Wisła Płock,Legia Warszawa,4,16 September 2019
+Arka Gdynia,Lech Poznań,5,17 August 2019
+Jagiellonia Białystok,Górnik Zabrze,5,17 August 2019
+Korona Kielce,Pogoń Szczecin,5,19 August 2019
+Legia Warszawa,Zagłębie Lubin,5,18 August 2019
+Piast Gliwice,Wisła Płock,5,18 August 2019
+Raków Częstochowa,Lechia Gdańsk,5,18 August 2019
+Śląsk Wrocław,Cracovia Kraków,5,17 August 2019
+Wisła Kraków,ŁKS Łódź,5,16 August 2019
+Cracovia Kraków,Arka Gdynia,6,24 August 2019
+Górnik Zabrze,Korona Kielce,6,25 August 2019
+Jagiellonia Białystok,Wisła Kraków,6,23 August 2019
+Lechia Gdańsk,Śląsk Wrocław,6,24 August 2019
+ŁKS Łódź,Legia Warszawa,6,25 August 2019
+Pogoń Szczecin,Wisła Płock,6,26 August 2019
+Raków Częstochowa,Lech Poznań,6,24 August 2019
+Zagłębie Lubin,Piast Gliwice,6,25 August 2019
+Arka Gdynia,Górnik Zabrze,7,30 August 2019
+Korona Kielce,Jagiellonia Białystok,7,30 August 2019
+Lech Poznań,Cracovia Kraków,7,1 September 2019
+Legia Warszawa,Raków Częstochowa,7,1 September 2019
+Piast Gliwice,Lechia Gdańsk,7,31 August 2019
+Śląsk Wrocław,Pogoń Szczecin,7,1 September 2019
+Wisła Kraków,Zagłębie Lubin,7,31 August 2019
+Wisła Płock,ŁKS Łódź,7,31 August 2019
 Kalmar,Örebro,19,12 August 2019
-Hammarby,Helsingborg,19,11 August 2019
 IFK Göteborg,Falkenberg,19,12 August 2019
-Häcken,Malmö FF,19,11 August 2019
-AFC Eskilstuna,AIK,19,11 August 2019
 Helsingborg,IFK Göteborg,20,19 August 2019
 Elfsborg,Östersunds FK,20,19 August 2019
 Örebro,Häcken,20,18 August 2019
@@ -5369,9 +5301,7 @@ Djurgården,Hammarby,27,6 October 2019
 Häcken,Östersunds FK,27,6 October 2019
 AIK,Örebro,27,5 October 2019
 Sirius,Helsingborg,27,5 October 2019
-Lugano,Sion,4,11 August 2019
-Luzern,Thun,4,11 August 2019
-Zürich,Neuchâtel Xamax,4,11 August 2019
+St. Gallen,Young Boys,4,10 August 2019
 Neuchâtel Xamax,Basel,5,24 August 2019
 Young Boys,Zürich,5,24 August 2019
 Sion,Luzern,5,25 August 2019
@@ -5399,8 +5329,6 @@ Lugano,Neuchâtel Xamax,9,29 September 2019
 Servette,Zürich,9,29 September 2019
 Ilves,HIFK,11,27 August 2019
 SJK,Mariehamn,11,15 August 2019
-Mariehamn,Ilves,19,11 August 2019
-RoPS,VPS,19,11 August 2019
 Inter Turku,HIFK,20,16 August 2019
 Ilves,KuPS,20,16 August 2019
 KPV,HJK,20,18 August 2019

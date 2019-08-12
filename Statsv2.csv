@@ -2,9 +2,12 @@ Liverpool,Norwich City,1,4,1,5,y,4,0,0,4,4,0,1,1,0,1,0,2,2,11,2,2,11,13,Premier 
 AFC Bournemouth,Sheffield United,1,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,3,4,4,3,7,Premier League
 Burnley,Southampton,1,3,0,3,n,0,0,0,0,0,3,0,0,3,3,0,0,0,2,7,7,2,9,Premier League
 Crystal Palace,Everton,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,6,2,2,6,8,Premier League
+Leicester City,Wolverhampton Wanderers,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,12,3,3,12,15,Premier League
 Tottenham Hotspur,Aston Villa,1,3,1,4,y,0,1,1,0,1,3,0,0,3,3,1,0,1,14,0,0,14,14,Premier League
 Watford,Brighton & Hove Albion,1,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,1,1,5,2,2,5,7,Premier League
 West Ham United,Manchester City,1,0,5,5,n,0,1,1,0,1,0,4,4,0,4,2,2,4,1,1,1,1,2,Premier League
+Manchester United,Chelsea,1,4,0,4,n,1,0,0,1,1,3,0,0,3,3,3,4,7,3,5,5,3,8,Premier League
+Newcastle United,Arsenal,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,5,3,3,5,8,Premier League
 PEC Zwolle,Willem II,1,1,3,4,y,1,1,1,1,2,0,2,2,0,2,1,1,2,2,9,9,2,11,Eredivisie
 Vitesse,Ajax,1,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,3,6,0,9,9,0,9,Eredivisie
 Emmen,Groningen,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,2,4,6,7,7,6,13,Eredivisie
@@ -17,7 +20,11 @@ AZ,Fortuna Sittard,1,4,0,4,n,0,0,0,0,0,4,0,0,4,4,1,1,2,14,1,1,14,15,Eredivisie
 Sparta Rotterdam,VVV,2,4,1,5,y,0,1,1,0,1,4,0,0,4,4,2,2,4,2,4,4,2,6,Eredivisie
 Groningen,Twente,2,1,3,4,y,0,0,0,0,0,1,3,3,1,4,5,2,7,3,0,0,3,3,Eredivisie
 Ajax,Emmen,2,5,0,5,n,1,0,0,1,1,4,0,0,4,4,0,1,1,7,3,3,7,10,Eredivisie
+PSV,ADO Den Haag,2,3,1,4,y,1,1,1,1,2,2,0,0,2,2,1,0,1,12,1,1,12,13,Eredivisie
 Willem II,Vitesse,2,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,2,4,4,7,7,4,11,Eredivisie
+Fortuna Sittard,Heracles,2,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,4,6,4,12,12,4,16,Eredivisie
+Heerenveen,Feyenoord,2,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,2,Eredivisie
+RKC Waalwijk,AZ,2,0,2,2,n,0,2,2,0,2,0,0,0,0,0,3,1,4,9,6,6,9,15,Eredivisie
 AFC Wimbledon,Rotherham United,1,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,0,1,,,,,,League One
 Blackpool,Bristol Rovers,1,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,,,,,,League One
 Burton Albion,Ipswich Town,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,3,7,,,,,,League One
@@ -91,12 +98,16 @@ Walsall,Forest Green Rovers,2,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,3,5,,,,,,League Two
 Dijon,Saint-Étienne,1,1,2,3,y,1,2,2,1,3,0,0,0,0,0,0,2,2,12,5,5,12,17,Ligue 1
 Olympique Marseille,Reims,1,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,0,1,5,3,3,5,8,Ligue 1
 Nice,Amiens SC,1,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,4,7,7,3,3,7,10,Ligue 1
+Strasbourg,Metz,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,1,1,3,4,4,3,7,Ligue 1
 Montpellier,Rennes,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,4,7,7,1,1,7,8,Ligue 1
 Angers SCO,Bordeaux,1,3,1,4,y,3,1,1,3,4,0,0,0,0,0,2,1,3,4,3,3,4,7,Ligue 1
+PSG,Nîmes,1,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,0,2,2,6,6,2,8,Ligue 1
 Brest,Toulouse,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,4,7,7,4,11,Ligue 1
 Monaco,Olympique Lyonnais,1,0,3,3,n,0,2,2,0,2,0,1,1,0,1,3,2,5,2,5,5,2,7,Ligue 1
 Gil Vicente,Porto,1,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,3,6,4,6,6,4,10,Primeira Liga
+Sporting Braga,Moreirense,1,3,1,4,y,1,0,0,1,1,2,1,1,2,3,2,2,4,7,4,4,7,11,Primeira Liga
 Santa Clara,Famalicão,1,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,3,3,14,6,6,14,20,Primeira Liga
+Boavista,Desportivo Aves,1,2,1,3,y,1,1,1,1,2,1,0,0,1,1,5,3,8,3,8,8,3,11,Primeira Liga
 Portimonense,Belenenses,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,5,5,5,5,10,Primeira Liga
 Go Ahead Eagles,MVV,1,3,2,5,y,2,1,1,2,3,1,1,1,1,2,0,1,1,5,3,3,5,8,Eerste Divisie
 De Graafschap,Cambuur,1,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,3,6,7,2,2,7,9,Eerste Divisie
@@ -154,6 +165,10 @@ Ajaccio,Caen,3,1,2,3,y,0,2,2,0,2,1,0,0,1,1,4,2,6,13,6,6,13,19,Ligue 2
 Clermont,Lens,3,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,5,3,3,5,8,Ligue 2
 Nancy,Lorient,3,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,6,9,3,7,7,3,10,Ligue 2
 Sochaux,Auxerre,3,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,3,5,5,3,8,Ligue 2
+Feirense,Vilafranquense,1,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,1,3,3,9,9,3,12,Segunda Liga
+Académica,Leixões,1,3,2,5,y,1,0,0,1,1,2,2,2,2,4,2,5,7,9,10,10,9,19,Segunda Liga
+Sporting Covilhã,Porto II,1,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,2,4,2,11,11,2,13,Segunda Liga
+Penafiel,Academico Viseu,1,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,6,9,10,4,4,10,14,Segunda Liga
 Farense,Casa Pia,1,3,1,4,y,1,1,1,1,2,2,0,0,2,2,1,1,2,5,2,2,5,7,Segunda Liga
 Nacional,Chaves,1,3,0,3,n,0,0,0,0,0,3,0,0,3,3,3,4,7,3,6,6,3,9,Segunda Liga
 Varzim,UD Oliveirense,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,5,6,4,4,4,4,8,Segunda Liga
@@ -167,7 +182,9 @@ Kilmarnock,Rangers,1,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,2,4,2,7,7,2,9,Premiership
 Hamilton Academical,Kilmarnock,2,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,,,,,,Premiership
 Hearts,Ross County,2,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,3,3,,,,,,Premiership
 Motherwell,Celtic,2,2,5,7,y,1,2,2,1,3,1,3,3,1,4,5,0,5,5,5,5,5,10,Premiership
+Rangers,Hibernian,2,6,1,7,y,2,1,1,2,3,4,0,0,4,4,2,5,7,,,,,,Premiership
 St. Johnstone,Livingston,2,2,2,4,y,0,2,2,0,2,2,0,0,2,2,1,3,4,,,,,,Premiership
+St. Mirren,Aberdeen,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,,,,,,Premiership
 Alloa Athletic,Partick Thistle,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,1,1,,,,,,Championship
 Arbroath,Queen of the South,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,Championship
 Ayr United,Greenock Morton,1,4,2,6,y,1,0,0,1,1,3,2,2,3,5,1,2,3,,,,,,Championship
@@ -369,8 +386,11 @@ Consadole Sapporo,Urawa Reds,22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,0,1,2,3,3,2,5,J1 L
 Shimizu S-Pulse,Matsumoto Yamaga,22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,5,8,8,5,13,J1 League
 Kashima Antlers,Yokohama F. Marinos,22,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,2,3,8,7,7,8,15,J1 League
 Tokyo,Vegalta Sendai,22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,4,4,4,6,6,4,10,J1 League
+Nagoya Grampus,Kawasaki Frontale,22,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,3,3,4,5,5,4,9,J1 League
 Gamba Osaka,Sanfrecce Hiroshima,22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,0,2,4,2,2,4,6,J1 League
 Oita Trinita,Vissel Kobe,22,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,5,3,3,5,8,J1 League
+Cerezo Osaka,Sagan Tosu,22,1,2,3,y,1,0,0,1,1,0,2,2,0,2,1,2,3,7,7,7,7,14,J1 League
+Júbilo Iwata,Shonan Bellmare,22,2,3,5,y,1,0,0,1,1,1,3,3,1,4,0,0,0,9,6,6,9,15,J1 League
 Grêmio,Santos,1,1,2,3,y,0,2,2,0,2,1,0,0,1,1,3,5,8,12,2,2,12,14,Serie A
 Atlético Mineiro,Avaí,1,2,1,3,y,2,1,1,2,3,0,0,0,0,0,0,1,1,4,4,4,4,8,Serie A
 Ceará,CSA,1,4,0,4,n,2,0,0,2,2,2,0,0,2,2,0,1,1,3,6,6,3,9,Serie A
@@ -500,6 +520,15 @@ Vasco da Gama,CSA,13,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,1,5,,,,,,Serie A
 Fluminense,Internacional,13,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,2,3,8,5,5,8,13,Serie A
 Avaí,Botafogo,13,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,1,4,16,1,1,16,17,Serie A
 Bahia,Flamengo,13,3,0,3,n,3,0,0,3,3,0,0,0,0,0,2,1,3,4,7,7,4,11,Serie A
+Internacional,Corinthians,14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,9,3,3,9,12,Serie A
+Atlético Mineiro,Fluminense,14,2,1,3,y,1,0,0,1,1,1,1,1,1,2,4,4,8,3,5,5,3,8,Serie A
+Ceará,Chapecoense,14,4,1,5,y,1,0,0,1,1,3,1,1,3,4,3,2,5,,,,,,Serie A
+Palmeiras,Bahia,14,2,2,4,y,1,0,0,1,1,1,2,2,1,3,7,5,12,8,3,3,8,11,Serie A
+São Paulo,Santos,14,3,2,5,y,0,1,1,0,1,3,1,1,3,4,6,1,7,5,2,2,5,7,Serie A
+Flamengo,Grêmio,14,3,1,4,y,3,1,1,3,4,0,0,0,0,0,4,2,6,4,3,3,4,7,Serie A
+Botafogo,Athletico Paranaense,14,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,1,4,7,7,7,7,14,Serie A
+Avaí,Cruzeiro,14,2,2,4,y,1,0,0,1,1,1,2,2,1,3,5,3,8,5,1,1,5,6,Serie A
+Goiás,Vasco da Gama,14,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,5,9,3,4,4,3,7,Serie A
 Shandong Luneng,Beijing Renhe,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,CSL
 Guangzhou Evergrande,Tianjin Tianhai,1,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,1,3,,,,,,CSL
 Shanghai Shenhua,Shanghai SIPG,1,0,4,4,n,0,1,1,0,1,0,3,3,0,3,4,1,5,3,6,6,3,9,CSL
@@ -670,6 +699,8 @@ Shanghai SIPG,Tianjin Tianhai,21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,4,7,6,5,5,6,11,CS
 Hebei CFFC,Shandong Luneng,23,0,3,3,n,0,0,0,0,0,0,3,3,0,3,1,1,2,6,9,9,6,15,CSL
 Dalian Yifang,Jiangsu Suning,23,2,2,4,y,2,2,2,2,4,0,0,0,0,0,2,6,8,4,9,9,4,13,CSL
 Henan Jianye,Beijing Renhe,23,2,1,3,y,1,0,0,1,1,1,1,1,1,2,4,6,10,4,9,9,4,13,CSL
+Chongqing Dangdai Lifan,Tianjin Tianhai,23,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,2,3,2,2,2,2,4,CSL
+Beijing Guoan,Guangzhou Evergrande,23,1,3,4,y,1,1,1,1,2,0,2,2,0,2,3,2,5,1,2,2,1,3,CSL
 Guangzhou R&F,Shanghai SIPG,23,2,2,4,y,0,0,0,0,0,2,2,2,2,4,1,2,3,1,6,6,1,7,CSL
 Tianjin Teda,Wuhan Zall,23,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,5,7,7,5,12,CSL
 Wuhan Zall,Tianjin Tianhai,11,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,1,1,4,8,8,4,12,CSL
@@ -702,7 +733,11 @@ Esbjerg,OB,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,5,4,9,4,2,2,4,6,Superliga
 Lyngby,AGF,4,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,2,4,2,6,6,2,8,Superliga
 Silkeborg,Hobro,4,2,3,5,y,1,1,1,1,2,1,2,2,1,3,0,3,3,6,4,4,6,10,Superliga
 København,Lyngby,5,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,5,6,9,5,5,9,14,Superliga
+AaB,Esbjerg,5,4,0,4,n,4,0,0,4,4,0,0,0,0,0,1,4,5,6,4,4,6,10,Superliga
 OB,Randers,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,8,3,3,8,11,Superliga
+Horsens,Midtjylland,5,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,3,4,4,7,7,4,11,Superliga
+Nordsjælland,Silkeborg,5,2,2,4,y,0,2,2,0,2,2,0,0,2,2,1,2,3,13,3,3,13,16,Superliga
+Hobro,Brøndby,5,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,3,4,6,5,5,6,11,Superliga
 Odd,Brann,1,3,2,5,y,1,1,1,1,2,2,1,1,2,3,0,2,2,2,4,4,2,6,Eliteserien
 Vålerenga,Mjøndalen,1,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,1,3,8,3,3,8,11,Eliteserien
 Ranheim,Tromsø,1,1,2,3,y,1,0,0,1,1,0,2,2,0,2,1,2,3,2,8,8,2,10,Eliteserien
@@ -831,6 +866,10 @@ Viking,Molde,16,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,2,4,0,6,6,0,6,Eliteserien
 Rosenborg,Tromsø,17,5,2,7,y,3,1,1,3,4,2,1,1,2,3,0,3,3,9,6,6,9,15,Eliteserien
 Molde,Sarpsborg 08,17,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,1,3,8,5,5,8,13,Eliteserien
 Brann,Stabæk,17,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,0,0,10,3,3,10,13,Eliteserien
+Haugesund,Ranheim,17,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,4,4,4,4,8,Eliteserien
+Kristiansund,Odd,17,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,3,5,7,1,1,7,8,Eliteserien
+Bodø / Glimt,Viking,17,2,1,3,y,2,0,0,2,2,0,1,1,0,1,1,3,4,5,3,3,5,8,Eliteserien
+Strømsgodset,Vålerenga,17,3,2,5,y,1,0,0,1,1,2,2,2,2,4,1,0,1,5,6,6,5,11,Eliteserien
 Zenit,Tambov,1,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,2,1,1,2,3,Premier League
 Spartak Moskva,Sochi,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,2,6,7,5,5,7,12,Premier League
 Rostov,Orenburg,1,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,3,5,5,0,0,5,5,Premier League
@@ -864,7 +903,11 @@ Rubin Kazan,CSKA Moskva,4,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,3,6,2,7,7,2,9,Premier Le
 Krylya Sovetov,Lokomotiv Moskva,4,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,2,7,4,8,8,4,12,Premier League
 Ural,Rostov,4,2,2,4,y,1,0,0,1,1,1,2,2,1,3,3,2,5,5,7,7,5,12,Premier League
 Krasnodar,Rubin Kazan,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,5,5,5,5,10,Premier League
+CSKA Moskva,Sochi,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,10,3,3,10,13,Premier League
 Dinamo Moskva,Zenit,5,0,2,2,n,0,1,1,0,1,0,1,1,0,1,5,3,8,7,6,6,7,13,Premier League
+Lokomotiv Moskva,Ural,5,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,3,4,5,5,5,5,10,Premier League
+Akhmat Grozny,Spartak Moskva,5,1,3,4,y,0,2,2,0,2,1,1,1,1,2,4,2,6,7,3,3,7,10,Premier League
+Arsenal Tula,Ufa,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,5,7,7,5,12,Premier League
 Orenburg,Tambov,5,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,2,3,5,3,3,5,8,Premier League
 Bohemians,Finn Harps,1,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,1,3,7,1,1,7,8,Premier Division
 Derry City,UCD,1,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,0,1,10,1,1,10,11,Premier Division
@@ -957,6 +1000,7 @@ Dundalk,St Patrick's Athl.,18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,5,5,15,2,2,15,17,Pre
 Waterford,UCD,18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,0,2,7,2,2,7,9,Premier Division
 Shamrock Rovers,Cork City,18,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,5,7,,,,,,Premier Division
 Bohemians,Finn Harps,19,5,3,8,y,2,1,1,2,3,3,2,2,3,5,2,4,6,,,,,,Premier Division
+Derry City,UCD,19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,,,,,,Premier Division
 Dundalk,Sligo Rovers,19,4,0,4,n,1,0,0,1,1,3,0,0,3,3,1,3,4,6,4,4,6,10,Premier Division
 St Patrick's Athl.,Cork City,19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,5,6,5,3,3,5,8,Premier Division
 Finn Harps,Dundalk,20,0,3,3,n,0,2,2,0,2,0,1,1,0,1,1,0,1,5,4,4,5,9,Premier Division
@@ -1014,6 +1058,9 @@ St. Pölten,Rapid Wien,2,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,4,7,5,8,8,5,13,Bundesliga
 Salzburg,Wolfsberger AC,3,5,2,7,y,2,1,1,2,3,3,1,1,3,4,2,2,4,5,8,8,5,13,Bundesliga
 Rapid Wien,Rheindorf Altach,3,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,3,4,3,2,2,3,5,Bundesliga
 Admira,LASK,3,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,1,4,4,6,6,4,10,Bundesliga
+Mattersburg,Austria Wien,3,1,5,6,y,0,2,2,0,2,1,3,3,1,4,1,1,2,6,4,4,6,10,Bundesliga
+Hartberg,Sturm Graz,3,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,4,8,4,6,6,4,10,Bundesliga
+Swarovski Tirol,St. Pölten,3,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,2,5,4,5,5,4,9,Bundesliga
 Genk,Kortrijk,1,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,1,1,6,2,2,6,8,First Division A
 Cercle Brugge,Standard Liège,1,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,1,3,3,7,7,3,10,First Division A
 Sint-Truiden,Royal Excel Mouscron,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,4,6,5,5,5,5,10,First Division A
@@ -1035,6 +1082,9 @@ KV Oostende,Club Brugge,3,0,2,2,n,0,0,0,0,0,0,2,2,0,2,0,0,0,3,6,6,3,9,First Divi
 AS Eupen,Waasland-Beveren,3,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,1,3,4,7,7,4,11,First Division A
 Cercle Brugge,Kortrijk,3,1,3,4,y,1,0,0,1,1,0,3,3,0,3,1,1,2,2,3,3,2,5,First Division A
 Genk,Zulte-Waregem,3,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,3,2,2,3,5,First Division A
+Sint-Truiden,Standard Liège,3,2,1,3,y,2,0,0,2,2,0,1,1,0,1,4,4,8,0,5,5,0,5,First Division A
+Sporting Charleroi,Antwerp,3,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,1,1,5,4,4,5,9,First Division A
+Royal Excel Mouscron,Gent,3,2,1,3,y,2,1,1,2,3,0,0,0,0,0,0,1,1,2,7,7,2,9,First Division A
 Sparta Praha,Slovácko,1,0,2,2,n,0,2,2,0,2,0,0,0,0,0,1,4,5,6,9,9,6,15,Czech Liga
 Zlín,Slavia Praha,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,0,1,5,3,3,5,8,Czech Liga
 Viktoria Plzeň,Sigma Olomouc,1,3,1,4,y,1,1,1,1,2,2,0,0,2,2,2,6,8,6,4,4,6,10,Czech Liga
@@ -1067,9 +1117,13 @@ Karviná,Slavia Praha,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,7,3,3,7,10,Czech Liga
 Slovan Liberec,Sigma Olomouc,4,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,3,7,4,4,4,4,8,Czech Liga
 České Budějovice,Jablonec,4,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,0,2,0,5,5,0,5,Czech Liga
 Sigma Olomouc,Karviná,5,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,7,3,3,7,10,Czech Liga
+Slavia Praha,Slovan Liberec,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,9,3,3,9,12,Czech Liga
 Zlín,Teplice,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,3,4,4,3,7,Czech Liga
+Viktoria Plzeň,Slovácko,5,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,3,1,1,3,4,Czech Liga
 Baník Ostrava,Bohemians 1905,5,4,2,6,y,2,1,1,2,3,2,1,1,2,3,1,2,3,8,1,1,8,9,Czech Liga
+Mladá Boleslav,Sparta Praha,5,4,3,7,y,2,1,1,2,3,2,2,2,2,4,1,1,2,8,6,6,8,14,Czech Liga
 Příbram,České Budějovice,5,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,5,6,3,3,3,3,6,Czech Liga
+Jablonec,Opava,5,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,3,3,8,0,0,8,8,Czech Liga
 Gorica,Inter Zaprešić,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,2,2,6,3,3,6,9,1. HNL
 Osijek,Slaven Koprivnica,1,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,4,5,5,5,5,5,10,1. HNL
 Dinamo Zagreb,Lokomotiva Zagreb,1,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,4,5,2,5,5,2,7,1. HNL
@@ -1085,30 +1139,41 @@ Dinamo Zagreb,Gorica,3,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,5,6,10,3,3,10,13,1. HNL
 Rijeka,Slaven Koprivnica,3,3,1,4,y,2,0,0,2,2,1,1,1,1,2,2,3,5,,,,,,1. HNL
 Hajduk Split,Lokomotiva Zagreb,3,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,0,2,5,3,3,5,8,1. HNL
 Istra 1961,Varaždin,3,3,1,4,y,1,0,0,1,1,2,1,1,2,3,3,4,7,,,,,,1. HNL
+Inter Zaprešić,Varaždin,4,2,2,4,y,2,1,1,2,3,0,1,1,0,1,2,6,8,7,3,3,7,10,1. HNL
+Lokomotiva Zagreb,Istra 1961,4,4,1,5,y,2,0,0,2,2,2,1,1,2,3,1,1,2,5,5,5,5,10,1. HNL
+Slaven Koprivnica,Hajduk Split,4,2,1,3,y,1,0,0,1,1,1,1,1,1,2,7,6,13,3,6,6,3,9,1. HNL
+Gorica,Rijeka,4,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,3,5,5,6,6,5,11,1. HNL
 Osijek,Dinamo Zagreb,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,5,1,6,,,,,,1. HNL
-Racing Club,Unión,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,9,2,2,9,11,Superliga
-Colón,Patronato,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,3,6,5,6,6,5,11,Superliga
-San Lorenzo,Godoy Cruz,1,3,2,5,y,1,0,0,1,1,2,2,2,2,4,0,6,6,7,2,2,7,9,Superliga
-Lanús,Gimnasia La Plata,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,7,8,13,7,7,13,20,Superliga
-Argentinos Juniors,River Plate,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,5,8,5,5,5,5,10,Superliga
-Estudiantes,Aldosivi,1,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,6,4,4,6,10,Superliga
-Newell's Old Boys,Central Córdoba SdE,1,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,5,8,9,6,6,9,15,Superliga
-Talleres de Córdoba,Vélez Sarsfield,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,2,4,4,2,6,Superliga
-Defensa y Justicia,Independiente,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,6,1,7,2,6,6,2,8,Superliga
-Boca Juniors,Huracán,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,10,6,6,10,16,Superliga
-Arsenal,Banfield,1,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,7,5,5,7,12,Superliga
-Atlético Tucumán,Rosario Central,1,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,0,3,2,3,3,2,5,Superliga
-Huracán,Colón,2,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,3,6,4,5,5,4,9,Superliga
-Aldosivi,Argentinos Juniors,2,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,9,2,2,9,11,Superliga
-Rosario Central,Talleres de Córdoba,2,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,3,4,4,3,7,Superliga
-Central Córdoba SdE,Atlético Tucumán,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,2,2,6,5,5,6,11,Superliga
-Vélez Sarsfield,Racing Club,2,2,2,4,y,2,0,0,2,2,0,2,2,0,2,3,2,5,1,4,4,1,5,Superliga
-Unión,Defensa y Justicia,2,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,4,6,6,8,8,6,14,Superliga
-Gimnasia La Plata,San Lorenzo,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,11,6,6,11,17,Superliga
-Banfield,Estudiantes,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,5,2,7,4,4,4,4,8,Superliga
-River Plate,Lanús,2,3,0,3,n,2,0,0,2,2,1,0,0,1,1,4,1,5,7,2,2,7,9,Superliga
-Patronato,Boca Juniors,2,0,2,2,n,0,2,2,0,2,0,0,0,0,0,4,2,6,3,2,2,3,5,Superliga
-Godoy Cruz,Arsenal,2,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,2,2,2,4,4,2,6,Superliga
+Arka Gdynia,Jagiellonia Białystok,1,0,3,3,n,0,2,2,0,2,0,1,1,0,1,1,1,2,9,6,6,9,15,Ekstraklasa
+Legia Warszawa,Pogoń Szczecin,1,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,2,4,8,3,3,8,11,Ekstraklasa
+ŁKS Łódź,Lechia Gdańsk,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,6,4,4,6,10,Ekstraklasa
+Piast Gliwice,Lech Poznań,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,1,4,3,9,9,3,12,Ekstraklasa
+Raków Częstochowa,Korona Kielce,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,4,4,4,4,8,Ekstraklasa
+Wisła Kraków,Śląsk Wrocław,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,6,12,12,6,18,Ekstraklasa
+Wisła Płock,Górnik Zabrze,1,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,4,7,9,5,5,9,14,Ekstraklasa
+Zagłębie Lubin,Cracovia Kraków,1,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,2,2,2,5,5,2,7,Ekstraklasa
+Cracovia Kraków,ŁKS Łódź,2,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,2,4,8,5,5,8,13,Ekstraklasa
+Górnik Zabrze,Zagłębie Lubin,2,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,0,2,6,5,5,6,11,Ekstraklasa
+Jagiellonia Białystok,Raków Częstochowa,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,4,7,5,3,3,5,8,Ekstraklasa
+Korona Kielce,Legia Warszawa,2,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,3,5,8,3,3,8,11,Ekstraklasa
+Lech Poznań,Wisła Płock,2,4,0,4,n,1,0,0,1,1,3,0,0,3,3,3,2,5,2,2,2,2,4,Ekstraklasa
+Lechia Gdańsk,Wisła Kraków,2,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,6,5,5,6,11,Ekstraklasa
+Pogoń Szczecin,Arka Gdynia,2,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,3,3,4,6,6,4,10,Ekstraklasa
+Śląsk Wrocław,Piast Gliwice,2,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,2,5,6,1,1,6,7,Ekstraklasa
+Arka Gdynia,Korona Kielce,3,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,6,7,6,1,1,6,7,Ekstraklasa
+Legia Warszawa,Śląsk Wrocław,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,8,3,3,8,11,Ekstraklasa
+ŁKS Łódź,Lech Poznań,3,1,2,3,y,1,2,2,1,3,0,0,0,0,0,3,4,7,4,6,6,4,10,Ekstraklasa
+Piast Gliwice,Pogoń Szczecin,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,6,3,3,6,9,Ekstraklasa
+Raków Częstochowa,Cracovia Kraków,3,1,3,4,y,1,2,2,1,3,0,1,1,0,1,2,3,5,8,3,3,8,11,Ekstraklasa
+Wisła Kraków,Górnik Zabrze,3,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,4,6,4,7,7,4,11,Ekstraklasa
+Wisła Płock,Lechia Gdańsk,3,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,6,9,9,2,2,9,11,Ekstraklasa
+Zagłębie Lubin,Jagiellonia Białystok,3,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,1,2,8,7,7,8,15,Ekstraklasa
+Cracovia Kraków,Korona Kielce,4,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,0,1,8,3,3,8,11,Ekstraklasa
+Górnik Zabrze,Raków Częstochowa,4,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,7,8,8,7,15,Ekstraklasa
+Lech Poznań,Śląsk Wrocław,4,1,3,4,y,1,3,3,1,4,0,0,0,0,0,4,3,7,6,2,2,6,8,Ekstraklasa
+ŁKS Łódź,Piast Gliwice,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,1,4,13,2,2,13,15,Ekstraklasa
+Pogoń Szczecin,Wisła Kraków,4,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,5,3,3,5,8,Ekstraklasa
+Zagłębie Lubin,Arka Gdynia,4,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,0,1,1,3,3,1,4,Ekstraklasa
 Helsingborg,Norrköping,1,3,1,4,y,2,1,1,2,3,1,0,0,1,1,1,3,4,2,2,2,2,4,Allsvenskan
 Elfsborg,Hammarby,1,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,2,3,6,6,6,6,12,Allsvenskan
 Falkenberg,Örebro,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,2,4,4,2,6,Allsvenskan
@@ -1253,8 +1318,12 @@ Kalmar,Hammarby,18,2,2,4,y,0,1,1,0,1,2,1,1,2,3,3,3,6,5,4,4,5,9,Allsvenskan
 Malmö FF,GIF Sundsvall,18,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,3,4,9,1,1,9,10,Allsvenskan
 Häcken,Sirius,18,4,1,5,y,3,1,1,3,4,1,0,0,1,1,2,3,5,4,8,8,4,12,Allsvenskan
 AIK,Norrköping,18,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,2,5,4,5,5,4,9,Allsvenskan
+Norrköping,Elfsborg,19,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,1,1,4,2,2,4,6,Allsvenskan
 GIF Sundsvall,Östersunds FK,19,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,7,0,0,7,7,Allsvenskan
+Hammarby,Helsingborg,19,2,1,3,y,2,0,0,2,2,0,1,1,0,1,1,0,1,4,0,0,4,4,Allsvenskan
 Djurgården,Sirius,19,4,0,4,n,3,0,0,3,3,1,0,0,1,1,2,1,3,9,2,2,9,11,Allsvenskan
+Häcken,Malmö FF,19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,3,5,9,4,4,9,13,Allsvenskan
+AFC Eskilstuna,AIK,19,2,4,6,y,1,1,1,1,2,1,3,3,1,4,0,2,2,4,3,3,4,7,Allsvenskan
 Sion,Basel,1,1,4,5,y,1,1,1,1,2,0,3,3,0,3,1,3,4,5,3,3,5,8,Super League
 Thun,Neuchâtel Xamax,1,2,2,4,y,0,1,1,0,1,2,1,1,2,3,2,7,9,1,2,2,1,3,Super League
 St. Gallen,Luzern,1,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,5,8,5,2,2,5,7,Super League
@@ -1271,7 +1340,9 @@ Neuchâtel Xamax,St. Gallen,3,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,0,3,1,4,4,1,5,Super 
 Servette,Luzern,3,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,7,2,2,7,9,Super League
 Young Boys,Lugano,3,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,3,5,4,4,4,4,8,Super League
 Basel,Servette,4,3,1,4,y,2,1,1,2,3,1,0,0,1,1,1,2,3,5,3,3,5,8,Super League
-St. Gallen,Young Boys,4,2,3,5,y,1,2,2,1,3,1,1,1,1,2,2,4,6,4,5,5,4,9,Super League
+Lugano,Sion,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,5,5,5,5,10,Super League
+Luzern,Thun,4,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,9,4,4,9,13,Super League
+Zürich,Neuchâtel Xamax,4,2,2,4,y,1,0,0,1,1,1,2,2,1,3,4,4,8,8,3,3,8,11,Super League
 KuPS,RoPS,1,2,2,4,y,0,1,1,0,1,2,1,1,2,3,3,3,6,5,2,2,5,7,Veikkausliiga
 HJK,Inter Turku,1,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,1,3,9,0,0,9,9,Veikkausliiga
 SJK,HIFK,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,,,,,,Veikkausliiga
@@ -1382,3 +1453,5 @@ HIFK,KPV,19,3,2,5,y,0,2,2,0,2,3,0,0,3,3,3,2,5,7,1,1,7,8,Veikkausliiga
 Honka,SJK,19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,1,5,5,1,6,Veikkausliiga
 HJK,Lahti,19,4,0,4,n,3,0,0,3,3,1,0,0,1,1,1,2,3,7,4,4,7,11,Veikkausliiga
 KuPS,Inter Turku,19,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,1,1,2,5,5,2,7,Veikkausliiga
+Mariehamn,Ilves,19,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,8,4,4,8,12,Veikkausliiga
+RoPS,VPS,19,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,1,4,,,,,,Veikkausliiga
