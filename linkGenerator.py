@@ -1,11 +1,12 @@
 links = []
 file = open('links.txt','w')
+#file = open('AllLinks.txt','w')
 
 def getLinks(start,end):
     for i in range(start,end+1):
         leagueUrl = 'https://us.soccerway.com/matches/2018/08/10/england/premier-league/manchester-united-fc/leicester-city-fc/'
         file.write( leagueUrl +str(i)+'/' + "\n")
-for j in range(0,33):
+for j in range(0,36):
     if(j == 0):
         #Premier League
         getLinks(3029073,3029452)
@@ -93,7 +94,7 @@ for j in range(0,33):
     elif (j==28):
         #Croatia
         getLinks(3029812,3029991)
-    if (j==29):
+    elif (j==29):
         #Poland
         getLinks(3025700,3025939)        
     elif (j==30):
@@ -105,3 +106,13 @@ for j in range(0,33):
     elif (j==32):
         #Finland
         getLinks(2967551,2967682)
+    elif (j==33):
+        #LigaMx
+        getLinks(3040957,3041127)
+    elif (j==34):
+        #National League
+        getLinks(3053879,3054430)
+    elif (j==35):
+        #National League North and South
+        getLinks(3054487,3055410)
+        

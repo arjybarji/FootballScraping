@@ -25,6 +25,7 @@ Willem II,Vitesse,2,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,2,4,4,7,7,4,11,Eredivisie
 Fortuna Sittard,Heracles,2,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,4,6,4,12,12,4,16,Eredivisie
 Heerenveen,Feyenoord,2,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,2,Eredivisie
 RKC Waalwijk,AZ,2,0,2,2,n,0,2,2,0,2,0,0,0,0,0,3,1,4,9,6,6,9,15,Eredivisie
+Utrecht,PEC Zwolle,2,3,1,4,y,0,1,1,0,1,3,0,0,3,3,2,1,3,11,3,3,11,14,Eredivisie
 AFC Wimbledon,Rotherham United,1,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,0,1,,,,,,League One
 Blackpool,Bristol Rovers,1,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,,,,,,League One
 Burton Albion,Ipswich Town,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,3,7,,,,,,League One
@@ -92,7 +93,7 @@ Mansfield Town,Morecambe,2,2,2,4,y,1,2,2,1,3,1,0,0,1,1,3,2,5,,,,,,League Two
 Oldham Athletic,Crewe Alexandra,2,1,2,3,y,1,2,2,1,3,0,0,0,0,0,2,1,3,,,,,,League Two
 Plymouth Argyle,Colchester United,2,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,,,,,,League Two
 Port Vale,Northampton Town,2,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,5,6,,,,,,League Two
-Stevenage,Exeter City,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,,,,,,League Two
+Stevenage,Exeter City,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,2,4,,,,,,League Two
 Swindon Town,Carlisle United,2,3,2,5,y,0,0,0,0,0,3,2,2,3,5,2,2,4,,,,,,League Two
 Walsall,Forest Green Rovers,2,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,3,5,,,,,,League Two
 Dijon,Saint-Étienne,1,1,2,3,y,1,2,2,1,3,0,0,0,0,0,0,2,2,12,5,5,12,17,Ligue 1
@@ -101,12 +102,16 @@ Nice,Amiens SC,1,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,4,7,7,3,3,7,10,Ligue 1
 Strasbourg,Metz,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,1,1,3,4,4,3,7,Ligue 1
 Montpellier,Rennes,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,4,7,7,1,1,7,8,Ligue 1
 Angers SCO,Bordeaux,1,3,1,4,y,3,1,1,3,4,0,0,0,0,0,2,1,3,4,3,3,4,7,Ligue 1
+Lille,Nantes,1,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,4,6,5,11,11,5,16,Ligue 1
 PSG,Nîmes,1,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,0,2,2,6,6,2,8,Ligue 1
 Brest,Toulouse,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,4,7,7,4,11,Ligue 1
 Monaco,Olympique Lyonnais,1,0,3,3,n,0,2,2,0,2,0,1,1,0,1,3,2,5,2,5,5,2,7,Ligue 1
 Gil Vicente,Porto,1,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,3,6,4,6,6,4,10,Primeira Liga
 Sporting Braga,Moreirense,1,3,1,4,y,1,0,0,1,1,2,1,1,2,3,2,2,4,7,4,4,7,11,Primeira Liga
+Marítimo,Sporting CP,1,1,1,2,y,1,1,1,1,2,0,0,0,0,0,4,4,8,2,8,8,2,10,Primeira Liga
+Vitória Setúbal,Tondela,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,7,2,9,3,3,3,3,6,Primeira Liga
 Santa Clara,Famalicão,1,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,3,3,14,6,6,14,20,Primeira Liga
+Benfica,Paços de Ferreira,1,5,0,5,n,2,0,0,2,2,3,0,0,3,3,0,4,4,10,3,3,10,13,Primeira Liga
 Boavista,Desportivo Aves,1,2,1,3,y,1,1,1,1,2,1,0,0,1,1,5,3,8,3,8,8,3,11,Primeira Liga
 Portimonense,Belenenses,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,5,5,5,5,10,Primeira Liga
 Go Ahead Eagles,MVV,1,3,2,5,y,2,1,1,2,3,1,1,1,1,2,0,1,1,5,3,3,5,8,Eerste Divisie
@@ -117,6 +122,8 @@ TOP Oss,Ajax II,1,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,1,3,3,8,8,3,11,Eerste Divisie
 Helmond Sport,Volendam,1,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,1,5,3,3,3,3,6,Eerste Divisie
 Dordrecht,NAC Breda,1,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,1,4,8,6,6,8,14,Eerste Divisie
 Excelsior,Utrecht II,1,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,0,1,9,5,5,9,14,Eerste Divisie
+PSV II,Den Bosch,1,2,2,4,y,2,1,1,2,3,0,1,1,0,1,1,2,3,6,4,4,6,10,Eerste Divisie
+AZ II,Telstar,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,3,3,6,3,3,6,9,Eerste Divisie
 Stuttgart,Hannover 96,1,2,1,3,y,2,1,1,2,3,0,0,0,0,0,6,3,9,4,3,3,4,7,2. Bundesliga
 Hamburger SV,Darmstadt 98,1,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,4,6,7,2,2,7,9,2. Bundesliga
 Holstein Kiel,Sandhausen,1,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,4,4,5,7,7,5,12,2. Bundesliga
@@ -171,6 +178,7 @@ Sporting Covilhã,Porto II,1,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,2,4,2,11,11,2,13,Segu
 Penafiel,Academico Viseu,1,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,6,9,10,4,4,10,14,Segunda Liga
 Farense,Casa Pia,1,3,1,4,y,1,1,1,1,2,2,0,0,2,2,1,1,2,5,2,2,5,7,Segunda Liga
 Nacional,Chaves,1,3,0,3,n,0,0,0,0,0,3,0,0,3,3,3,4,7,3,6,6,3,9,Segunda Liga
+Benfica II,Estoril,1,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,2,5,10,2,2,10,12,Segunda Liga
 Varzim,UD Oliveirense,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,5,6,4,4,4,4,8,Segunda Liga
 Mafra,Cova Piedade,1,3,2,5,y,2,0,0,2,2,1,2,2,1,3,5,3,8,5,5,5,5,10,Segunda Liga
 Aberdeen,Hearts,1,3,2,5,y,1,0,0,1,1,2,2,2,2,4,4,5,9,,,,,,Premiership
@@ -529,6 +537,7 @@ Flamengo,Grêmio,14,3,1,4,y,3,1,1,3,4,0,0,0,0,0,4,2,6,4,3,3,4,7,Serie A
 Botafogo,Athletico Paranaense,14,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,1,4,7,7,7,7,14,Serie A
 Avaí,Cruzeiro,14,2,2,4,y,1,0,0,1,1,1,2,2,1,3,5,3,8,5,1,1,5,6,Serie A
 Goiás,Vasco da Gama,14,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,5,9,3,4,4,3,7,Serie A
+CSA,Fortaleza,14,0,2,2,n,0,2,2,0,2,0,0,0,0,0,3,1,4,2,3,3,2,5,Serie A
 Shandong Luneng,Beijing Renhe,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,CSL
 Guangzhou Evergrande,Tianjin Tianhai,1,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,1,3,,,,,,CSL
 Shanghai Shenhua,Shanghai SIPG,1,0,4,4,n,0,1,1,0,1,0,3,3,0,3,4,1,5,3,6,6,3,9,CSL
@@ -733,6 +742,7 @@ Esbjerg,OB,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,5,4,9,4,2,2,4,6,Superliga
 Lyngby,AGF,4,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,2,4,2,6,6,2,8,Superliga
 Silkeborg,Hobro,4,2,3,5,y,1,1,1,1,2,1,2,2,1,3,0,3,3,6,4,4,6,10,Superliga
 København,Lyngby,5,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,5,6,9,5,5,9,14,Superliga
+SønderjyskE,AGF,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,3,3,7,2,2,7,9,Superliga
 AaB,Esbjerg,5,4,0,4,n,4,0,0,4,4,0,0,0,0,0,1,4,5,6,4,4,6,10,Superliga
 OB,Randers,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,8,3,3,8,11,Superliga
 Horsens,Midtjylland,5,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,3,4,4,7,7,4,11,Superliga
@@ -869,6 +879,7 @@ Brann,Stabæk,17,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,0,0,10,3,3,10,13,Eliteserien
 Haugesund,Ranheim,17,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,4,4,4,4,8,Eliteserien
 Kristiansund,Odd,17,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,3,5,7,1,1,7,8,Eliteserien
 Bodø / Glimt,Viking,17,2,1,3,y,2,0,0,2,2,0,1,1,0,1,1,3,4,5,3,3,5,8,Eliteserien
+Lillestrøm,Mjøndalen,17,3,2,5,y,2,1,1,2,3,1,1,1,1,2,0,3,3,7,5,5,7,12,Eliteserien
 Strømsgodset,Vålerenga,17,3,2,5,y,1,0,0,1,1,2,2,2,2,4,1,0,1,5,6,6,5,11,Eliteserien
 Zenit,Tambov,1,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,2,1,1,2,3,Premier League
 Spartak Moskva,Sochi,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,2,6,7,5,5,7,12,Premier League
@@ -902,6 +913,7 @@ Sochi,Ufa,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,6,2,2,6,8,Premier League
 Rubin Kazan,CSKA Moskva,4,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,3,6,2,7,7,2,9,Premier League
 Krylya Sovetov,Lokomotiv Moskva,4,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,2,7,4,8,8,4,12,Premier League
 Ural,Rostov,4,2,2,4,y,1,0,0,1,1,1,2,2,1,3,3,2,5,5,7,7,5,12,Premier League
+Rostov,Krylya Sovetov,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,0,3,6,4,4,6,10,Premier League
 Krasnodar,Rubin Kazan,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,5,5,5,5,10,Premier League
 CSKA Moskva,Sochi,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,10,3,3,10,13,Premier League
 Dinamo Moskva,Zenit,5,0,2,2,n,0,1,1,0,1,0,1,1,0,1,5,3,8,7,6,6,7,13,Premier League
@@ -1082,7 +1094,7 @@ KV Oostende,Club Brugge,3,0,2,2,n,0,0,0,0,0,0,2,2,0,2,0,0,0,3,6,6,3,9,First Divi
 AS Eupen,Waasland-Beveren,3,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,1,3,4,7,7,4,11,First Division A
 Cercle Brugge,Kortrijk,3,1,3,4,y,1,0,0,1,1,0,3,3,0,3,1,1,2,2,3,3,2,5,First Division A
 Genk,Zulte-Waregem,3,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,3,2,2,3,5,First Division A
-Sint-Truiden,Standard Liège,3,2,1,3,y,2,0,0,2,2,0,1,1,0,1,4,4,8,0,5,5,0,5,First Division A
+Sint-Truiden,Standard Liège,3,2,1,3,y,2,0,0,2,2,0,1,1,0,1,4,3,7,0,5,5,0,5,First Division A
 Sporting Charleroi,Antwerp,3,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,1,1,5,4,4,5,9,First Division A
 Royal Excel Mouscron,Gent,3,2,1,3,y,2,1,1,2,3,0,0,0,0,0,0,1,1,2,7,7,2,9,First Division A
 Sparta Praha,Slovácko,1,0,2,2,n,0,2,2,0,2,0,0,0,0,0,1,4,5,6,9,9,6,15,Czech Liga
@@ -1171,6 +1183,7 @@ Zagłębie Lubin,Jagiellonia Białystok,3,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,1,2,8,7,
 Cracovia Kraków,Korona Kielce,4,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,0,1,8,3,3,8,11,Ekstraklasa
 Górnik Zabrze,Raków Częstochowa,4,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,7,8,8,7,15,Ekstraklasa
 Lech Poznań,Śląsk Wrocław,4,1,3,4,y,1,3,3,1,4,0,0,0,0,0,4,3,7,6,2,2,6,8,Ekstraklasa
+Lechia Gdańsk,Jagiellonia Białystok,4,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,2,11,11,2,13,Ekstraklasa
 ŁKS Łódź,Piast Gliwice,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,1,4,13,2,2,13,15,Ekstraklasa
 Pogoń Szczecin,Wisła Kraków,4,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,5,3,3,5,8,Ekstraklasa
 Zagłębie Lubin,Arka Gdynia,4,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,0,1,1,3,3,1,4,Ekstraklasa
@@ -1320,8 +1333,10 @@ Häcken,Sirius,18,4,1,5,y,3,1,1,3,4,1,0,0,1,1,2,3,5,4,8,8,4,12,Allsvenskan
 AIK,Norrköping,18,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,2,5,4,5,5,4,9,Allsvenskan
 Norrköping,Elfsborg,19,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,1,1,4,2,2,4,6,Allsvenskan
 GIF Sundsvall,Östersunds FK,19,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,7,0,0,7,7,Allsvenskan
+Kalmar,Örebro,19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,1,1,1,1,2,Allsvenskan
 Hammarby,Helsingborg,19,2,1,3,y,2,0,0,2,2,0,1,1,0,1,1,0,1,4,0,0,4,4,Allsvenskan
 Djurgården,Sirius,19,4,0,4,n,3,0,0,3,3,1,0,0,1,1,2,1,3,9,2,2,9,11,Allsvenskan
+IFK Göteborg,Falkenberg,19,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,1,2,6,10,10,6,16,Allsvenskan
 Häcken,Malmö FF,19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,3,5,9,4,4,9,13,Allsvenskan
 AFC Eskilstuna,AIK,19,2,4,6,y,1,1,1,1,2,1,3,3,1,4,0,2,2,4,3,3,4,7,Allsvenskan
 Sion,Basel,1,1,4,5,y,1,1,1,1,2,0,3,3,0,3,1,3,4,5,3,3,5,8,Super League
@@ -1340,6 +1355,7 @@ Neuchâtel Xamax,St. Gallen,3,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,0,3,1,4,4,1,5,Super 
 Servette,Luzern,3,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,7,2,2,7,9,Super League
 Young Boys,Lugano,3,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,3,5,4,4,4,4,8,Super League
 Basel,Servette,4,3,1,4,y,2,1,1,2,3,1,0,0,1,1,1,2,3,5,3,3,5,8,Super League
+St. Gallen,Young Boys,4,2,3,5,y,1,2,2,1,3,1,1,1,1,2,2,4,6,4,5,5,4,9,Super League
 Lugano,Sion,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,5,5,5,5,10,Super League
 Luzern,Thun,4,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,9,4,4,9,13,Super League
 Zürich,Neuchâtel Xamax,4,2,2,4,y,1,0,0,1,1,1,2,2,1,3,4,4,8,8,3,3,8,11,Super League
@@ -1425,12 +1441,6 @@ SJK,Inter Turku,14,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,1,3,,,,,,Veikkausliiga
 HIFK,HJK,14,0,2,2,n,0,2,2,0,2,0,0,0,0,0,3,3,6,4,7,7,4,11,Veikkausliiga
 Inter Turku,Lahti,14,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,1,2,5,5,5,5,10,Veikkausliiga
 KPV,VPS,14,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,5,7,,,,,,Veikkausliiga
-RoPS,Mariehamn,15,1,2,3,y,0,2,2,0,2,1,0,0,1,1,3,1,4,,,,,,Veikkausliiga
-Honka,KuPS,15,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,1,2,12,4,4,12,16,Veikkausliiga
-Ilves,SJK,15,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,3,4,2,3,3,2,5,Veikkausliiga
-SJK,VPS,15,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,0,3,6,3,3,6,9,Veikkausliiga
-Honka,HIFK,15,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,3,3,5,3,3,5,8,Veikkausliiga
-Mariehamn,KPV,15,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,2,3,6,2,2,6,8,Veikkausliiga
 Lahti,Ilves,16,1,0,1,n,1,0,0,1,1,0,0,0,0,0,5,0,5,0,13,13,0,13,Veikkausliiga
 KPV,SJK,16,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,2,3,,,,,,Veikkausliiga
 VPS,Lahti,16,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,,,,,,Veikkausliiga
@@ -1455,3 +1465,160 @@ HJK,Lahti,19,4,0,4,n,3,0,0,3,3,1,0,0,1,1,1,2,3,7,4,4,7,11,Veikkausliiga
 KuPS,Inter Turku,19,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,1,1,2,5,5,2,7,Veikkausliiga
 Mariehamn,Ilves,19,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,8,4,4,8,12,Veikkausliiga
 RoPS,VPS,19,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,1,4,,,,,,Veikkausliiga
+Puebla,Tijuana,1,1,3,4,y,1,1,1,1,2,0,2,2,0,2,1,0,1,7,4,4,7,11,Liga MX
+Atlas,Juárez,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,5,7,7,5,12,Liga MX
+Atlético San Luis,Pumas UNAM,1,0,2,2,n,0,2,2,0,2,0,0,0,0,0,0,3,3,3,5,5,3,8,Liga MX
+Pachuca,León,1,1,3,4,y,1,3,3,1,4,0,0,0,0,0,1,2,3,6,2,2,6,8,Liga MX
+Tigres UANL,Morelia,1,4,2,6,y,3,0,0,3,3,1,2,2,1,3,1,0,1,1,2,2,1,3,Liga MX
+América,Monterrey,1,4,2,6,y,2,2,2,2,4,2,0,0,2,2,2,3,5,7,3,3,7,10,Liga MX
+Necaxa,Cruz Azul,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,4,4,4,4,8,Liga MX
+Toluca,Querétaro,1,0,2,2,n,0,0,0,0,0,0,2,2,0,2,4,0,4,5,5,5,5,10,Liga MX
+Santos Laguna,Guadalajara,1,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,1,3,6,8,8,6,14,Liga MX
+Morelia,Atlas,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,5,3,3,5,8,Liga MX
+Veracruz,Pachuca,2,3,3,6,y,2,1,1,2,3,1,2,2,1,3,2,1,3,7,8,8,7,15,Liga MX
+León,América,2,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,5,8,7,4,4,7,11,Liga MX
+Tijuana,Querétaro,2,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,3,5,4,3,3,4,7,Liga MX
+Cruz Azul,Toluca,2,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,7,5,5,7,12,Liga MX
+Pumas UNAM,Necaxa,2,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,3,4,4,1,1,4,5,Liga MX
+Atlético San Luis,Monterrey,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,5,8,8,5,13,Liga MX
+Guadalajara,Tigres UANL,2,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,4,6,8,6,6,8,14,Liga MX
+Santos Laguna,Juárez,2,3,0,3,n,0,0,0,0,0,3,0,0,3,3,0,2,2,8,3,3,8,11,Liga MX
+Puebla,Guadalajara,3,1,1,2,y,1,1,1,1,2,0,0,0,0,0,5,4,9,5,5,5,5,10,Liga MX
+Atlas,Santos Laguna,3,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,3,8,2,5,5,2,7,Liga MX
+Querétaro,Cruz Azul,3,3,0,3,n,3,0,0,3,3,0,0,0,0,0,2,2,4,5,2,2,5,7,Liga MX
+América,Tijuana,3,3,1,4,y,0,0,0,0,0,3,1,1,3,4,2,6,8,4,1,1,4,5,Liga MX
+Pachuca,Morelia,3,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,1,3,9,3,3,9,12,Liga MX
+Monterrey,León,3,3,2,5,y,1,2,2,1,3,2,0,0,2,2,3,3,6,12,3,3,12,15,Liga MX
+Necaxa,Veracruz,3,7,0,7,n,1,0,0,1,1,6,0,0,6,6,1,1,2,1,7,7,1,8,Liga MX
+Pumas UNAM,Tigres UANL,3,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,3,7,5,2,2,5,7,Liga MX
+Juárez,Toluca,3,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,4,6,1,6,6,1,7,Liga MX
+Morelia,Monterrey,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,2,6,7,6,6,7,13,Liga MX
+Veracruz,Atlas,4,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,1,3,5,1,1,5,6,Liga MX
+Tijuana,Pumas UNAM,4,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,5,9,0,4,4,0,4,Liga MX
+Querétaro,Pachuca,4,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,4,5,6,2,2,6,8,Liga MX
+Cruz Azul,Juárez,4,2,0,2,n,2,0,0,2,2,0,0,0,0,0,3,2,5,10,3,3,10,13,Liga MX
+Tigres UANL,Necaxa,4,3,1,4,y,3,1,1,3,4,0,0,0,0,0,1,3,4,5,1,1,5,6,Liga MX
+Guadalajara,Atlético San Luis,4,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,1,2,6,6,6,6,12,Liga MX
+Toluca,América,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,5,7,9,5,5,9,14,Liga MX
+Santos Laguna,Puebla,4,4,1,5,y,2,1,1,2,3,2,0,0,2,2,1,4,5,3,2,2,3,5,Liga MX
+Aldershot Town,Fylde,1,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,2,2,7,4,4,7,11,National League
+Barnet,Yeovil Town,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,2,2,3,3,3,3,6,National League
+Chesterfield,Dover Athletic,1,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,1,1,2,4,4,2,6,National League
+Chorley,Bromley,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,1,5,5,1,6,National League
+Dagenham & Redbridge,Woking,1,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,0,1,8,3,3,8,11,National League
+Eastleigh,Notts County,1,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,6,5,5,6,11,National League
+Ebbsfleet United,Halifax Town,1,1,4,5,y,1,1,1,1,2,0,3,3,0,3,3,2,5,4,7,7,4,11,National League
+Harrogate Town,Solihull Moors,1,2,2,4,y,0,1,1,0,1,2,1,1,2,3,2,1,3,8,3,3,8,11,National League
+Hartlepool United,Sutton United,1,1,3,4,y,1,2,2,1,3,0,1,1,0,1,1,1,2,6,3,3,6,9,National League
+Stockport County,Maidenhead United,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,3,3,5,2,2,5,7,National League
+Torquay United,Boreham Wood,1,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,2,2,2,2,4,National League
+Wrexham,Barrow,1,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,3,5,5,10,10,5,15,National League
+Fylde,Chorley,2,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,7,6,6,7,13,National League
+Barrow,Harrogate Town,2,0,3,3,n,0,1,1,0,1,0,2,2,0,2,2,2,4,6,4,4,6,10,National League
+Boreham Wood,Wrexham,2,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,1,2,8,3,3,8,11,National League
+Bromley,Ebbsfleet United,2,3,1,4,y,2,0,0,2,2,1,1,1,1,2,1,2,3,10,6,6,10,16,National League
+Dover Athletic,Dagenham & Redbridge,2,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,2,4,,,,,,National League
+Halifax Town,Hartlepool United,2,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,5,6,7,4,4,7,11,National League
+Maidenhead United,Chesterfield,2,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,4,7,7,4,11,National League
+Notts County,Stockport County,2,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,1,1,6,8,8,6,14,National League
+Solihull Moors,Torquay United,2,3,0,3,n,3,0,0,3,3,0,0,0,0,0,1,2,3,6,7,7,6,13,National League
+Sutton United,Barnet,2,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,0,1,7,2,2,7,9,National League
+Woking,Aldershot Town,2,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,7,7,7,7,14,National League
+Yeovil Town,Eastleigh,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,2,7,7,2,9,National League
+Fylde,Ebbsfleet United,3,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,4,7,7,4,11,National League
+Barrow,Eastleigh,3,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,4,6,3,7,7,3,10,National League
+Boreham Wood,Chesterfield,3,2,2,4,y,1,2,2,1,3,1,0,0,1,1,0,4,4,6,3,3,6,9,National League
+Bromley,Torquay United,3,3,3,6,y,2,1,1,2,3,1,2,2,1,3,4,3,7,3,7,7,3,10,National League
+Dover Athletic,Wrexham,3,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,2,5,5,2,2,5,7,National League
+Halifax Town,Dagenham & Redbridge,3,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,6,9,9,6,15,National League
+Maidenhead United,Hartlepool United,3,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,4,7,7,4,11,National League
+Notts County,Barnet,3,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,1,3,6,7,7,6,13,National League
+Solihull Moors,Aldershot Town,3,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,3,6,3,5,5,3,8,National League
+Sutton United,Chorley,3,2,2,4,y,1,2,2,1,3,1,0,0,1,1,1,0,1,6,3,3,6,9,National League
+Woking,Harrogate Town,3,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,3,14,14,3,17,National League
+Yeovil Town,Stockport County,3,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,0,3,5,7,7,5,12,National League
+Altrincham,York City,1,1,3,4,y,1,1,1,1,2,0,2,2,0,2,0,0,0,,,,,,National League N / S
+Blyth Spartans,Gloucester City,1,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,0,0,,,,,,National League N / S
+Boston United,Chester,1,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Brackley Town,Alfreton Town,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Curzon Ashton,Bradford (Park Avenue),1,5,0,5,n,2,0,0,2,2,3,0,0,3,3,0,0,0,,,,,,National League N / S
+Farsley Celtic,Darlington,1,3,1,4,y,3,0,0,3,3,0,1,1,0,1,0,0,0,,,,,,National League N / S
+Gateshead,Southport,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Guiseley,King's Lynn Town,1,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,0,0,,,,,,National League N / S
+Hereford,Spennymoor Town,1,2,2,4,y,1,0,0,1,1,1,2,2,1,3,0,0,0,,,,,,National League N / S
+Kettering Town,AFC Telford United,1,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,0,0,,,,,,National League N / S
+Kidderminster Harriers,Leamington,1,2,2,4,y,0,1,1,0,1,2,1,1,2,3,0,0,0,,,,,,National League N / S
+AFC Telford United,Kidderminster Harriers,2,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Alfreton Town,Boston United,2,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,,,,,,National League N / S
+Bradford (Park Avenue),Guiseley,2,0,5,5,n,0,3,3,0,3,0,2,2,0,2,0,0,0,,,,,,National League N / S
+Chester,Altrincham,2,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Gloucester City,Hereford,2,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,,,,,,National League N / S
+King's Lynn Town,Kettering Town,2,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,0,0,,,,,,National League N / S
+Leamington,Brackley Town,2,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Southport,Curzon Ashton,2,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,National League N / S
+York City,Farsley Celtic,2,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Darlington,Gateshead,2,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Bath City,Braintree Town,1,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,,,,,,National League N / S
+Billericay Town,Eastbourne Borough,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Chelmsford City,Hampton & Richmond,1,4,1,5,y,2,0,0,2,2,2,1,1,2,3,0,0,0,,,,,,National League N / S
+Havant & Waterlooville,Welling United,1,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Hemel Hempstead Town,Hungerford Town,1,4,1,5,y,2,1,1,2,3,2,0,0,2,2,0,0,0,,,,,,National League N / S
+Maidstone United,Weymouth,1,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,0,0,,,,,,National League N / S
+Oxford City,Concord Rangers,1,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,0,0,,,,,,National League N / S
+Slough Town,Dorking Wanderers,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,,,,,,National League N / S
+St Albans City,Chippenham Town,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Tonbridge Angels,Dulwich Hamlet,1,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,0,0,,,,,,National League N / S
+Wealdstone,Dartford,1,4,1,5,y,1,1,1,1,2,3,0,0,3,3,0,0,0,,,,,,National League N / S
+Braintree Town,Billericay Town,2,2,3,5,y,1,1,1,1,2,1,2,2,1,3,0,0,0,,,,,,National League N / S
+Chippenham Town,Oxford City,2,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,,,,,,National League N / S
+Concord Rangers,Chelmsford City,2,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,0,0,,,,,,National League N / S
+Dartford,St Albans City,2,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Dorking Wanderers,Hemel Hempstead Town,2,3,1,4,y,1,0,0,1,1,2,1,1,2,3,0,0,0,,,,,,National League N / S
+Dulwich Hamlet,Wealdstone,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Eastbourne Borough,Tonbridge Angels,2,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Hampton & Richmond,Havant & Waterlooville,2,3,4,7,y,2,1,1,2,3,1,3,3,1,4,0,0,0,,,,,,National League N / S
+Hungerford Town,Slough Town,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Welling United,Maidstone United,2,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Weymouth,Bath City,2,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,,,,,,National League N / S
+Braintree Town,Wealdstone,3,0,4,4,n,0,1,1,0,1,0,3,3,0,3,0,0,0,,,,,,National League N / S
+Chippenham Town,Billericay Town,3,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Concord Rangers,Slough Town,3,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,0,0,,,,,,National League N / S
+Dartford,Havant & Waterlooville,3,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,,,,,,National League N / S
+Dorking Wanderers,Tonbridge Angels,3,3,1,4,y,2,0,0,2,2,1,1,1,1,2,0,0,0,,,,,,National League N / S
+Dulwich Hamlet,St Albans City,3,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,0,0,,,,,,National League N / S
+Eastbourne Borough,Oxford City,3,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,,,,,,National League N / S
+Hampton & Richmond,Hemel Hempstead Town,3,1,2,3,y,1,1,1,1,2,0,1,1,0,1,0,0,0,,,,,,National League N / S
+Hungerford Town,Maidstone United,3,1,3,4,y,1,1,1,1,2,0,2,2,0,2,0,0,0,,,,,,National League N / S
+Welling United,Bath City,3,0,3,3,n,0,3,3,0,3,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Weymouth,Chelmsford City,3,4,1,5,y,1,1,1,1,2,3,0,0,3,3,0,0,0,,,,,,National League N / S
+Chelmsford City,Dartford,4,4,0,4,n,0,0,0,0,0,4,0,0,4,4,0,0,0,,,,,,National League N / S
+Jiangsu Suning,Henan Jianye,22,3,0,3,n,0,0,0,0,0,3,0,0,3,3,3,1,4,4,5,5,4,9,CSL
+RoPS,Mariehamn,15,1,2,3,y,0,2,2,0,2,1,0,0,1,1,3,1,4,,,,,,Veikkausliiga
+Honka,KuPS,15,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,1,2,12,4,4,12,16,Veikkausliiga
+Ilves,SJK,15,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,3,4,2,3,3,2,5,Veikkausliiga
+SJK,VPS,15,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,0,3,6,3,3,6,9,Veikkausliiga
+Honka,HIFK,15,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,3,3,5,3,3,5,8,Veikkausliiga
+Mariehamn,KPV,15,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,2,3,6,2,2,6,8,Veikkausliiga
+Aldershot Town,Bromley,4,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,3,5,,,,,,National League
+Barnet,Dover Athletic,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,3,3,1,6,6,1,7,National League
+Chesterfield,Woking,4,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,3,5,5,3,3,5,8,National League
+Chorley,Solihull Moors,4,1,6,7,y,0,2,2,0,2,1,4,4,1,5,3,2,5,7,3,3,7,10,National League
+Dagenham & Redbridge,Boreham Wood,4,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,2,2,5,5,5,5,10,National League
+Eastleigh,Sutton United,4,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,1,3,12,0,0,12,12,National League
+Ebbsfleet United,Yeovil Town,4,1,3,4,y,0,1,1,0,1,1,2,2,1,3,3,1,4,6,1,1,6,7,National League
+Harrogate Town,Notts County,4,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,1,3,7,5,5,7,12,National League
+Hartlepool United,Fylde,4,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,2,3,2,5,5,2,7,National League
+Stockport County,Barrow,4,3,2,5,y,0,1,1,0,1,3,1,1,3,4,2,2,4,7,4,4,7,11,National League
+Torquay United,Maidenhead United,4,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,4,5,9,3,3,9,12,National League
+Wrexham,Halifax Town,4,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,2,6,7,4,4,7,11,National League
+AFC Telford United,Gateshead,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,National League N / S
+Alfreton Town,Blyth Spartans,3,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,0,0,,,,,,National League N / S
+Bradford (Park Avenue),Kidderminster Harriers,3,0,3,3,n,0,2,2,0,2,0,1,1,0,1,0,0,0,,,,,,National League N / S
+Chester,Farsley Celtic,3,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,0,0,,,,,,National League N / S
+Darlington,Kettering Town,3,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,0,0,,,,,,National League N / S
+Gloucester City,Altrincham,3,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,,,,,,National League N / S
+King's Lynn Town,Hereford,3,3,1,4,y,2,0,0,2,2,1,1,1,1,2,0,0,0,,,,,,National League N / S
+Leamington,Curzon Ashton,3,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,,,,,,National League N / S
+Southport,Guiseley,3,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,0,0,,,,,,National League N / S
+York City,Brackley Town,3,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,National League N / S
+Curzon Ashton,Darlington,4,3,1,4,y,2,1,1,2,3,1,0,0,1,1,0,0,0,,,,,,National League N / S

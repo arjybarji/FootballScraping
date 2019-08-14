@@ -388,7 +388,6 @@ Milan,Brescia,2,31 August 2019
 Sassuolo,Sampdoria,2,1 September 2019
 Udinese,Parma,2,1 September 2019
 Milan,Internazionale,4,21 September 2019
-Utrecht,PEC Zwolle,2,11 August 2019
 Vitesse,PEC Zwolle,3,16 August 2019
 VVV,Ajax,3,17 August 2019
 ADO Den Haag,Sparta Rotterdam,3,17 August 2019
@@ -1602,6 +1601,7 @@ Peterborough United,Tranmere Rovers,46,3 May 2020
 Northampton Town,Salford City,14,19 October 2019
 Leeds United,Preston North End,24,26 December 2019
 Oldham Athletic,Macclesfield Town,14,19 October 2019
+Rotherham United,Sunderland,46,3 May 2020
 Luton Town,Fulham,24,26 December 2019
 Plymouth Argyle,Carlisle United,14,19 October 2019
 Southend United,Shrewsbury Town,46,3 May 2020
@@ -2258,6 +2258,7 @@ Macclesfield Town,Swindon Town,46,25 April 2020
 Mansfield Town,Crawley Town,46,25 April 2020
 Morecambe,Scunthorpe United,46,25 April 2020
 Newport County,Northampton Town,46,25 April 2020
+Plymouth Argyle,Port Vale,46,25 April 2020
 Deportivo Alavés,Levante,1,18 August 2019
 Athletic Club,Barcelona,1,16 August 2019
 Atlético Madrid,Getafe,1,18 August 2019
@@ -2273,7 +2274,7 @@ Barcelona,Real Betis,2,25 August 2019
 Celta de Vigo,Valencia,2,24 August 2019
 Getafe,Athletic Club,2,24 August 2019
 Granada,Sevilla,2,23 August 2019
-Leganés,Atlético Madrid,2,26 August 2019
+Leganés,Atlético Madrid,2,25 August 2019
 Levante,Villarreal,2,23 August 2019
 Mallorca,Real Sociedad,2,25 August 2019
 Osasuna,Eibar,2,24 August 2019
@@ -2298,7 +2299,6 @@ Mallorca,Athletic Club,4,13 September 2019
 Real Madrid,Levante,4,14 September 2019
 Real Sociedad,Atlético Madrid,4,14 September 2019
 Real Valladolid,Osasuna,4,15 September 2019
-Lille,Nantes,1,11 August 2019
 Metz,Monaco,2,17 August 2019
 Toulouse,Dijon,2,17 August 2019
 Olympique Lyonnais,Angers SCO,2,16 August 2019
@@ -2386,8 +2386,6 @@ Augsburg,Bayer Leverkusen,6,28 September 2019
 Köln,Hertha BSC,6,29 September 2019
 Paderborn,Bayern München,6,28 September 2019
 Union Berlin,Eintracht Frankfurt,6,27 September 2019
-Marítimo,Sporting CP,1,11 August 2019
-Vitória Setúbal,Tondela,1,12 August 2019
 Rio Ave,Vitória Guimarães,1,8 September 2019
 Famalicão,Rio Ave,2,16 August 2019
 Paços de Ferreira,Santa Clara,2,18 August 2019
@@ -2686,7 +2684,6 @@ Sporting Braga,Porto,34,17 May 2020
 Santa Clara,Vitória Guimarães,34,17 May 2020
 Moreirense,Tondela,34,17 May 2020
 Telstar,AZ II,20,20 December 2019
-PSV II,Den Bosch,1,12 August 2019
 Cambuur,Go Ahead Eagles,2,16 August 2019
 Volendam,Roda JC,2,16 August 2019
 NAC Breda,Helmond Sport,2,16 August 2019
@@ -2810,6 +2807,7 @@ Ajax II,Volendam,13,4 November 2019
 Volendam,Utrecht II,14,8 November 2019
 PSV II,Telstar,14,8 November 2019
 Go Ahead Eagles,Dordrecht,14,8 November 2019
+Excelsior,Eindhoven,14,8 November 2019
 NEC,TOP Oss,14,8 November 2019
 Roda JC,Cambuur,14,8 November 2019
 Ajax II,Den Bosch,14,8 November 2019
@@ -2874,7 +2872,6 @@ Den Bosch,PSV II,20,20 December 2019
 Excelsior,Cambuur,20,20 December 2019
 Ajax II,TOP Oss,20,20 December 2019
 Almere City,Roda JC,20,20 December 2019
-AZ II,Telstar,1,12 August 2019
 Utrecht II,Go Ahead Eagles,20,20 December 2019
 Cambuur,Volendam,21,10 January 2020
 Dordrecht,Excelsior,21,10 January 2020
@@ -3114,8 +3111,8 @@ Ascoli,Trapani,1,24 August 2019
 Cittadella,Spezia,1,24 August 2019
 Crotone,Cosenza,1,24 August 2019
 Empoli,Juve Stabia,1,24 August 2019
-Perugia,Chievo,1,24 August 2019
-Pisa,Benevento,1,24 August 2019
+Perugia,Chievo,1,25 August 2019
+Pisa,Benevento,1,23 August 2019
 Pordenone,Frosinone,1,24 August 2019
 Salernitana,Pescara,1,24 August 2019
 Venezia,Cremonese,1,24 August 2019
@@ -3124,10 +3121,10 @@ Benevento,Cittadella,2,31 August 2019
 Chievo,Empoli,2,31 August 2019
 Cosenza,Salernitana,2,31 August 2019
 Cremonese,Virtus Entella,2,31 August 2019
-Frosinone,Ascoli,2,31 August 2019
+Frosinone,Ascoli,2,1 September 2019
 Juve Stabia,Pisa,2,31 August 2019
 Livorno,Perugia,2,31 August 2019
-Pescara,Pordenone,2,31 August 2019
+Pescara,Pordenone,2,1 September 2019
 Spezia,Crotone,2,31 August 2019
 Trapani,Venezia,2,31 August 2019
 Ascoli,Livorno,3,14 September 2019
@@ -3389,6 +3386,7 @@ Benevento,Pescara,28,7 March 2020
 Cittadella,Pordenone,28,7 March 2020
 Perugia,Salernitana,28,7 March 2020
 Juve Stabia,Spezia,28,7 March 2020
+Empoli,Trapani,28,7 March 2020
 Cremonese,Benevento,29,14 March 2020
 Crotone,Chievo,29,14 March 2020
 Livorno,Cittadella,29,14 March 2020
@@ -3512,7 +3510,7 @@ Rayo Vallecano,Mirandés,1,17 August 2019
 Real Zaragoza,Tenerife,1,17 August 2019
 Albacete,Girona,2,23 August 2019
 Alcorcón,Elche,2,24 August 2019
-Extremadura UD,Fuenlabrada,2,26 August 2019
+Extremadura UD,Fuenlabrada,2,25 August 2019
 Huesca,Deportivo La Coruña,2,25 August 2019
 Mirandés,Cádiz,2,24 August 2019
 Málaga,Las Palmas,2,24 August 2019
@@ -3525,7 +3523,7 @@ Almería,Huesca,3,31 August 2019
 Cádiz,Extremadura UD,3,1 September 2019
 Fuenlabrada,Real Oviedo,3,30 August 2019
 Girona,Málaga,3,1 September 2019
-Las Palmas,Racing Santander,3,31 October 2019
+Las Palmas,Racing Santander,3,31 August 2019
 Lugo,Alcorcón,3,1 September 2019
 Numancia,Mirandés,3,31 August 2019
 Ponferradina,Tenerife,3,1 September 2019
@@ -3534,6 +3532,7 @@ Sporting Gijón,Albacete,3,1 September 2019
 Real Zaragoza,Elche,3,30 August 2019
 Alcorcón,Real Zaragoza,4,8 September 2019
 Deportivo La Coruña,Albacete,4,7 September 2019
+Elche,Lugo,4,8 September 2019
 Extremadura UD,Numancia,4,7 September 2019
 Fuenlabrada,Ponferradina,4,7 September 2019
 Girona,Rayo Vallecano,4,8 September 2019
@@ -4392,8 +4391,8 @@ Júbilo Iwata,Sanfrecce Hiroshima,25,31 August 2019
 Vissel Kobe,Consadole Sapporo,25,31 August 2019
 Sagan Tosu,Vegalta Sendai,25,31 August 2019
 Cerezo Osaka,Kawasaki Frontale,25,1 September 2019
+Shimizu S-Pulse,Nagoya Grampus,26,13 September 2019
 Athletico Paranaense,São Paulo,13,22 August 2019
-CSA,Fortaleza,14,13 August 2019
 Grêmio,Palmeiras,15,18 August 2019
 Cruzeiro,Santos,15,18 August 2019
 Fortaleza,Internacional,15,17 August 2019
@@ -4456,7 +4455,6 @@ Goiás,Fluminense,20,24 September 2019
 CSA,Ceará,20,22 September 2019
 Tianjin Tianhai,Wuhan Zall,26,18 October 2019
 Dalian Yifang,Beijing Guoan,22,15 August 2019
-Jiangsu Suning,Henan Jianye,22,13 August 2019
 Beijing Renhe,Hebei CFFC,22,14 August 2019
 Wuhan Zall,Shandong Luneng,22,15 August 2019
 Tianjin Tianhai,Shanghai Shenhua,22,15 August 2019
@@ -4519,7 +4517,6 @@ Shanghai SIPG,Shenzhen,30,1 December 2019
 Jiangsu Suning,Tianjin Tianhai,30,1 December 2019
 Tianjin Teda,Chongqing Dangdai Lifan,30,1 December 2019
 Beijing Guoan,Shandong Luneng,30,1 December 2019
-SønderjyskE,AGF,5,12 August 2019
 Midtjylland,Hobro,6,18 August 2019
 Brøndby,AaB,6,18 August 2019
 Randers,København,6,16 August 2019
@@ -4533,6 +4530,7 @@ Brøndby,AGF,7,25 August 2019
 Horsens,AaB,7,26 August 2019
 Hobro,OB,7,23 August 2019
 Esbjerg,Silkeborg,7,25 August 2019
+Lyngby,Randers,7,25 August 2019
 Midtjylland,Brøndby,8,1 September 2019
 AaB,København,8,1 September 2019
 Randers,Silkeborg,8,1 September 2019
@@ -4669,7 +4667,6 @@ Hobro,Lyngby,26,22 March 2020
 Stabæk,Vålerenga,9,14 August 2019
 Kristiansund,Bodø / Glimt,10,14 August 2019
 Viking,Sarpsborg 08,10,14 August 2019
-Lillestrøm,Mjøndalen,17,12 August 2019
 Vålerenga,Haugesund,18,18 August 2019
 Ranheim,Molde,18,18 August 2019
 Sarpsborg 08,Bodø / Glimt,18,19 August 2019
@@ -4774,7 +4771,6 @@ Kristiansund,Strømsgodset,30,30 November 2019
 Tromsø,Stabæk,30,30 November 2019
 Lillestrøm,Sarpsborg 08,30,30 November 2019
 Mjøndalen,Vålerenga,30,30 November 2019
-Rostov,Krylya Sovetov,5,12 August 2019
 Zenit,Akhmat Grozny,6,17 August 2019
 Spartak Moskva,CSKA Moskva,6,19 August 2019
 Tambov,Krasnodar,6,18 August 2019
@@ -5209,7 +5205,6 @@ Hajduk Split,Dinamo Zagreb,7,31 August 2019
 Istra 1961,Osijek,7,31 August 2019
 Varaždin,Gorica,7,31 August 2019
 Lokomotiva Zagreb,Slaven Koprivnica,7,31 August 2019
-Lechia Gdańsk,Jagiellonia Białystok,4,12 August 2019
 Wisła Płock,Legia Warszawa,4,16 September 2019
 Arka Gdynia,Lech Poznań,5,17 August 2019
 Jagiellonia Białystok,Górnik Zabrze,5,17 August 2019
@@ -5235,8 +5230,6 @@ Piast Gliwice,Lechia Gdańsk,7,31 August 2019
 Śląsk Wrocław,Pogoń Szczecin,7,1 September 2019
 Wisła Kraków,Zagłębie Lubin,7,31 August 2019
 Wisła Płock,ŁKS Łódź,7,31 August 2019
-Kalmar,Örebro,19,12 August 2019
-IFK Göteborg,Falkenberg,19,12 August 2019
 Helsingborg,IFK Göteborg,20,19 August 2019
 Elfsborg,Östersunds FK,20,19 August 2019
 Örebro,Häcken,20,18 August 2019
@@ -5301,7 +5294,14 @@ Djurgården,Hammarby,27,6 October 2019
 Häcken,Östersunds FK,27,6 October 2019
 AIK,Örebro,27,5 October 2019
 Sirius,Helsingborg,27,5 October 2019
-St. Gallen,Young Boys,4,10 August 2019
+Helsingborg,Häcken,28,19 October 2019
+Örebro,Elfsborg,28,21 October 2019
+Falkenberg,AIK,28,20 October 2019
+Norrköping,Kalmar,28,20 October 2019
+Östersunds FK,Sirius,28,19 October 2019
+Hammarby,Malmö FF,28,20 October 2019
+IFK Göteborg,Djurgården,28,21 October 2019
+AFC Eskilstuna,GIF Sundsvall,28,18 October 2019
 Neuchâtel Xamax,Basel,5,24 August 2019
 Young Boys,Zürich,5,24 August 2019
 Sion,Luzern,5,25 August 2019
@@ -5347,3 +5347,1479 @@ Ilves,Inter Turku,22,31 August 2019
 VPS,HIFK,22,31 August 2019
 HJK,RoPS,22,1 September 2019
 Lahti,Mariehamn,22,1 September 2019
+Puebla,Pachuca,5,17 August 2019
+Atlas,Cruz Azul,5,17 August 2019
+Atlético San Luis,Tigres UANL,5,18 August 2019
+León,Guadalajara,5,18 August 2019
+América,Morelia,5,18 August 2019
+Monterrey,Toluca,5,18 August 2019
+Pumas UNAM,Veracruz,5,18 August 2019
+Necaxa,Santos Laguna,5,19 August 2019
+Juárez,Querétaro,5,19 August 2019
+Veracruz,Atlético San Luis,6,24 August 2019
+Morelia,Pumas UNAM,6,24 August 2019
+Santos Laguna,Monterrey,6,24 August 2019
+Querétaro,León,6,25 August 2019
+Pachuca,Atlas,6,25 August 2019
+Cruz Azul,Puebla,6,25 August 2019
+Tigres UANL,América,6,25 August 2019
+Toluca,Tijuana,6,25 August 2019
+Guadalajara,Necaxa,6,26 August 2019
+Veracruz,Querétaro,7,28 August 2019
+Atlético San Luis,Morelia,7,28 August 2019
+Atlas,Tigres UANL,7,28 August 2019
+América,Pachuca,7,28 August 2019
+León,Santos Laguna,7,29 August 2019
+Tijuana,Cruz Azul,7,29 August 2019
+Necaxa,Toluca,7,29 August 2019
+Puebla,Juárez,7,30 August 2019
+Monterrey,Pumas UNAM,7,30 August 2019
+Morelia,Veracruz,8,31 August 2019
+Atlas,América,8,31 August 2019
+Necaxa,Tijuana,8,1 September 2019
+Tigres UANL,León,8,1 September 2019
+Pachuca,Atlético San Luis,8,1 September 2019
+Cruz Azul,Guadalajara,8,1 September 2019
+Pumas UNAM,Toluca,8,1 September 2019
+Querétaro,Puebla,8,2 September 2019
+Juárez,Monterrey,8,2 September 2019
+Puebla,Atlético San Luis,9,14 September 2019
+Veracruz,Cruz Azul,9,14 September 2019
+Tijuana,Tigres UANL,9,14 September 2019
+Monterrey,Necaxa,9,15 September 2019
+León,Juárez,9,15 September 2019
+Guadalajara,Atlas,9,15 September 2019
+Toluca,Morelia,9,15 September 2019
+Santos Laguna,Pachuca,9,16 September 2019
+América,Pumas UNAM,9,15 September 2019
+Morelia,Guadalajara,10,21 September 2019
+Atlas,Toluca,10,21 September 2019
+Atlético San Luis,Santos Laguna,10,22 September 2019
+Necaxa,León,10,22 September 2019
+Monterrey,Puebla,10,22 September 2019
+Pachuca,Tijuana,10,22 September 2019
+América,Querétaro,10,22 September 2019
+Pumas UNAM,Cruz Azul,10,22 September 2019
+Juárez,Veracruz,10,23 September 2019
+Querétaro,Necaxa,11,25 September 2019
+Tigres UANL,Puebla,11,25 September 2019
+Guadalajara,Pachuca,11,25 September 2019
+León,Atlas,11,25 September 2019
+Juárez,América,11,26 September 2019
+Santos Laguna,Veracruz,11,26 September 2019
+Tijuana,Morelia,11,26 September 2019
+Cruz Azul,Monterrey,11,26 September 2019
+Toluca,Atlético San Luis,11,27 September 2019
+Puebla,León,12,28 September 2019
+Atlas,Querétaro,12,28 September 2019
+Pachuca,Cruz Azul,12,29 September 2019
+Monterrey,Tigres UANL,12,29 September 2019
+Necaxa,Juárez,12,29 September 2019
+América,Guadalajara,12,29 September 2019
+Pumas UNAM,Santos Laguna,12,29 September 2019
+Atlético San Luis,Tijuana,12,30 September 2019
+Veracruz,Toluca,12,30 September 2019
+Morelia,Necaxa,13,5 October 2019
+Tijuana,Atlas,13,5 October 2019
+León,Veracruz,13,6 October 2019
+Cruz Azul,América,13,6 October 2019
+Tigres UANL,Santos Laguna,13,6 October 2019
+Guadalajara,Pumas UNAM,13,6 October 2019
+Toluca,Puebla,13,6 October 2019
+Juárez,Atlético San Luis,13,7 October 2019
+Querétaro,Monterrey,13,7 October 2019
+Puebla,Atlas,14,19 October 2019
+Veracruz,Tigres UANL,14,19 October 2019
+Santos Laguna,Tijuana,14,19 October 2019
+Cruz Azul,Morelia,14,20 October 2019
+Pachuca,Juárez,14,20 October 2019
+Necaxa,América,14,20 October 2019
+Pumas UNAM,León,14,20 October 2019
+Atlético San Luis,Querétaro,14,21 October 2019
+Monterrey,Guadalajara,14,21 October 2019
+Morelia,Santos Laguna,15,26 October 2019
+Atlas,Necaxa,15,26 October 2019
+Tijuana,Veracruz,15,26 October 2019
+Querétaro,Pumas UNAM,15,27 October 2019
+América,Puebla,15,27 October 2019
+León,Atlético San Luis,15,27 October 2019
+Tigres UANL,Cruz Azul,15,27 October 2019
+Toluca,Pachuca,15,27 October 2019
+Juárez,Guadalajara,15,28 October 2019
+Santos Laguna,Querétaro,16,30 October 2019
+Veracruz,Puebla,16,30 October 2019
+Atlético San Luis,América,16,30 October 2019
+Pumas UNAM,Atlas,16,30 October 2019
+Pachuca,Monterrey,16,31 October 2019
+Guadalajara,Tijuana,16,31 October 2019
+Tigres UANL,Toluca,16,31 October 2019
+Morelia,Juárez,16,1 November 2019
+Cruz Azul,León,16,1 November 2019
+Puebla,Pumas UNAM,17,2 November 2019
+Atlas,Atlético San Luis,17,2 November 2019
+Querétaro,Tigres UANL,17,3 November 2019
+América,Santos Laguna,17,3 November 2019
+Monterrey,Veracruz,17,3 November 2019
+Necaxa,Pachuca,17,3 November 2019
+Toluca,Guadalajara,17,3 November 2019
+Juárez,Tijuana,17,4 November 2019
+León,Morelia,17,4 November 2019
+Morelia,Puebla,18,9 November 2019
+Veracruz,América,18,9 November 2019
+Tijuana,Monterrey,18,9 November 2019
+Atlético San Luis,Necaxa,18,10 November 2019
+Tigres UANL,Pachuca,18,10 November 2019
+Guadalajara,Querétaro,18,10 November 2019
+León,Toluca,18,10 November 2019
+Pumas UNAM,Juárez,18,10 November 2019
+Santos Laguna,Cruz Azul,18,11 November 2019
+Puebla,Necaxa,19,23 November 2019
+Tijuana,León,19,23 November 2019
+Querétaro,Morelia,19,24 November 2019
+Cruz Azul,Atlético San Luis,19,24 November 2019
+Monterrey,Atlas,19,24 November 2019
+Pachuca,Pumas UNAM,19,24 November 2019
+Guadalajara,Veracruz,19,24 November 2019
+Toluca,Santos Laguna,19,24 November 2019
+Juárez,Tigres UANL,19,25 November 2019
+Fylde,Woking,5,17 August 2019
+Aldershot Town,Halifax Town,5,17 August 2019
+Barnet,Chesterfield,5,17 August 2019
+Barrow,Yeovil Town,5,17 August 2019
+Boreham Wood,Sutton United,5,17 August 2019
+Dagenham & Redbridge,Harrogate Town,5,17 August 2019
+Dover Athletic,Torquay United,5,17 August 2019
+Hartlepool United,Bromley,5,17 August 2019
+Maidenhead United,Chorley,5,17 August 2019
+Notts County,Wrexham,5,18 August 2019
+Solihull Moors,Ebbsfleet United,5,17 August 2019
+Stockport County,Eastleigh,5,17 August 2019
+Bromley,Boreham Wood,6,24 August 2019
+Chesterfield,Barrow,6,24 August 2019
+Chorley,Hartlepool United,6,24 August 2019
+Eastleigh,Dagenham & Redbridge,6,24 August 2019
+Ebbsfleet United,Notts County,6,24 August 2019
+Halifax Town,Fylde,6,24 August 2019
+Harrogate Town,Stockport County,6,24 August 2019
+Sutton United,Dover Athletic,6,24 August 2019
+Torquay United,Aldershot Town,6,24 August 2019
+Woking,Solihull Moors,6,24 August 2019
+Wrexham,Barnet,6,24 August 2019
+Yeovil Town,Maidenhead United,6,24 August 2019
+Fylde,Harrogate Town,7,26 August 2019
+Aldershot Town,Sutton United,7,26 August 2019
+Barnet,Torquay United,7,26 August 2019
+Barrow,Halifax Town,7,26 August 2019
+Boreham Wood,Ebbsfleet United,7,26 August 2019
+Dagenham & Redbridge,Yeovil Town,7,26 August 2019
+Dover Athletic,Woking,7,26 August 2019
+Hartlepool United,Wrexham,7,26 August 2019
+Maidenhead United,Bromley,7,26 August 2019
+Notts County,Chorley,7,26 August 2019
+Solihull Moors,Eastleigh,7,26 August 2019
+Stockport County,Chesterfield,7,26 August 2019
+Bromley,Fylde,8,31 August 2019
+Chesterfield,Dagenham & Redbridge,8,31 August 2019
+Chorley,Boreham Wood,8,31 August 2019
+Eastleigh,Barnet,8,31 August 2019
+Ebbsfleet United,Aldershot Town,8,31 August 2019
+Halifax Town,Solihull Moors,8,31 August 2019
+Harrogate Town,Dover Athletic,8,31 August 2019
+Sutton United,Maidenhead United,8,31 August 2019
+Torquay United,Hartlepool United,8,31 August 2019
+Woking,Barrow,8,31 August 2019
+Wrexham,Stockport County,8,31 August 2019
+Yeovil Town,Notts County,8,31 August 2019
+Barnet,Aldershot Town,9,3 September 2019
+Barrow,Hartlepool United,9,3 September 2019
+Chesterfield,Halifax Town,9,3 September 2019
+Dagenham & Redbridge,Bromley,9,4 September 2019
+Dover Athletic,Ebbsfleet United,9,3 September 2019
+Eastleigh,Boreham Wood,9,3 September 2019
+Harrogate Town,Chorley,9,3 September 2019
+Notts County,Solihull Moors,9,3 September 2019
+Stockport County,Fylde,9,3 September 2019
+Woking,Torquay United,9,3 September 2019
+Wrexham,Maidenhead United,9,3 September 2019
+Yeovil Town,Sutton United,9,3 September 2019
+Fylde,Barnet,10,7 September 2019
+Aldershot Town,Barrow,10,7 September 2019
+Boreham Wood,Dover Athletic,10,7 September 2019
+Bromley,Chesterfield,10,7 September 2019
+Chorley,Stockport County,10,7 September 2019
+Ebbsfleet United,Eastleigh,10,7 September 2019
+Halifax Town,Yeovil Town,10,7 September 2019
+Hartlepool United,Woking,10,7 September 2019
+Maidenhead United,Dagenham & Redbridge,10,7 September 2019
+Solihull Moors,Wrexham,10,1 October 2019
+Sutton United,Notts County,10,7 September 2019
+Torquay United,Harrogate Town,10,7 September 2019
+Barnet,Maidenhead United,11,14 September 2019
+Barrow,Solihull Moors,11,14 September 2019
+Chesterfield,Torquay United,11,14 September 2019
+Dagenham & Redbridge,Hartlepool United,11,14 September 2019
+Dover Athletic,Chorley,11,14 September 2019
+Eastleigh,Bromley,11,14 September 2019
+Harrogate Town,Boreham Wood,11,14 September 2019
+Notts County,Halifax Town,11,14 September 2019
+Stockport County,Aldershot Town,11,14 September 2019
+Woking,Ebbsfleet United,11,14 September 2019
+Wrexham,Sutton United,11,14 September 2019
+Yeovil Town,Fylde,11,14 September 2019
+Fylde,Eastleigh,12,21 September 2019
+Aldershot Town,Wrexham,12,21 September 2019
+Boreham Wood,Stockport County,12,21 September 2019
+Bromley,Notts County,12,21 September 2019
+Chorley,Woking,12,21 September 2019
+Ebbsfleet United,Barrow,12,21 September 2019
+Halifax Town,Barnet,12,21 September 2019
+Hartlepool United,Dover Athletic,12,21 September 2019
+Maidenhead United,Harrogate Town,12,21 September 2019
+Solihull Moors,Yeovil Town,12,21 September 2019
+Sutton United,Chesterfield,12,21 September 2019
+Torquay United,Dagenham & Redbridge,12,21 September 2019
+Fylde,Wrexham,13,24 September 2019
+Aldershot Town,Yeovil Town,13,24 September 2019
+Boreham Wood,Notts County,13,24 September 2019
+Bromley,Woking,13,24 September 2019
+Chorley,Barrow,13,24 September 2019
+Ebbsfleet United,Barnet,13,24 September 2019
+Halifax Town,Harrogate Town,13,24 September 2019
+Hartlepool United,Chesterfield,13,24 September 2019
+Maidenhead United,Dover Athletic,13,24 September 2019
+Solihull Moors,Stockport County,13,24 September 2019
+Sutton United,Dagenham & Redbridge,13,24 September 2019
+Torquay United,Eastleigh,13,24 September 2019
+Barnet,Solihull Moors,14,28 September 2019
+Barrow,Maidenhead United,14,28 September 2019
+Chesterfield,Aldershot Town,14,28 September 2019
+Dagenham & Redbridge,Chorley,14,28 September 2019
+Dover Athletic,Halifax Town,14,28 September 2019
+Eastleigh,Hartlepool United,14,28 September 2019
+Harrogate Town,Sutton United,14,28 September 2019
+Notts County,Fylde,14,28 September 2019
+Stockport County,Torquay United,14,28 September 2019
+Woking,Boreham Wood,14,28 September 2019
+Wrexham,Ebbsfleet United,14,28 September 2019
+Yeovil Town,Bromley,14,28 September 2019
+Boreham Wood,Solihull Moors,15,5 October 2019
+Bromley,Barrow,15,5 October 2019
+Chesterfield,Eastleigh,15,5 October 2019
+Chorley,Aldershot Town,15,5 October 2019
+Dagenham & Redbridge,Barnet,15,5 October 2019
+Dover Athletic,Notts County,15,5 October 2019
+Harrogate Town,Ebbsfleet United,15,5 October 2019
+Hartlepool United,Yeovil Town,15,5 October 2019
+Maidenhead United,Halifax Town,15,5 October 2019
+Sutton United,Stockport County,15,5 October 2019
+Torquay United,Fylde,15,5 October 2019
+Woking,Wrexham,15,5 October 2019
+Fylde,Chesterfield,16,8 October 2019
+Aldershot Town,Dover Athletic,16,8 October 2019
+Barnet,Bromley,16,8 October 2019
+Barrow,Boreham Wood,16,8 October 2019
+Eastleigh,Maidenhead United,16,8 October 2019
+Ebbsfleet United,Torquay United,16,8 October 2019
+Halifax Town,Chorley,16,8 October 2019
+Notts County,Dagenham & Redbridge,16,8 October 2019
+Solihull Moors,Sutton United,16,8 October 2019
+Stockport County,Hartlepool United,16,9 October 2019
+Wrexham,Harrogate Town,16,8 October 2019
+Yeovil Town,Woking,16,8 October 2019
+Fylde,Sutton United,17,12 October 2019
+Aldershot Town,Hartlepool United,17,12 October 2019
+Barnet,Woking,17,12 October 2019
+Barrow,Dover Athletic,17,12 October 2019
+Eastleigh,Chorley,17,12 October 2019
+Ebbsfleet United,Maidenhead United,17,12 October 2019
+Halifax Town,Boreham Wood,17,12 October 2019
+Notts County,Torquay United,17,12 October 2019
+Solihull Moors,Bromley,17,12 October 2019
+Stockport County,Dagenham & Redbridge,17,12 October 2019
+Wrexham,Chesterfield,17,12 October 2019
+Yeovil Town,Harrogate Town,17,12 October 2019
+Boreham Wood,Fylde,18,26 October 2019
+Bromley,Halifax Town,18,26 October 2019
+Chesterfield,Notts County,18,26 October 2019
+Chorley,Yeovil Town,18,26 October 2019
+Dagenham & Redbridge,Wrexham,18,26 October 2019
+Dover Athletic,Stockport County,18,26 October 2019
+Harrogate Town,Aldershot Town,18,26 October 2019
+Hartlepool United,Barnet,18,26 October 2019
+Maidenhead United,Solihull Moors,18,26 October 2019
+Sutton United,Ebbsfleet United,18,26 October 2019
+Torquay United,Barrow,18,26 October 2019
+Woking,Eastleigh,18,26 October 2019
+Boreham Wood,Aldershot Town,19,29 October 2019
+Bromley,Stockport County,19,29 October 2019
+Chesterfield,Yeovil Town,19,29 October 2019
+Chorley,Ebbsfleet United,19,29 October 2019
+Dagenham & Redbridge,Barrow,19,29 October 2019
+Dover Athletic,Eastleigh,19,29 October 2019
+Harrogate Town,Barnet,19,29 October 2019
+Hartlepool United,Solihull Moors,19,29 October 2019
+Maidenhead United,Fylde,19,29 October 2019
+Sutton United,Halifax Town,19,29 October 2019
+Torquay United,Wrexham,19,29 October 2019
+Woking,Notts County,19,29 October 2019
+Fylde,Dover Athletic,20,2 November 2019
+Aldershot Town,Maidenhead United,20,2 November 2019
+Barnet,Chorley,20,2 November 2019
+Barrow,Sutton United,20,2 November 2019
+Eastleigh,Harrogate Town,20,2 November 2019
+Ebbsfleet United,Chesterfield,20,2 November 2019
+Halifax Town,Torquay United,20,2 November 2019
+Notts County,Hartlepool United,20,2 November 2019
+Solihull Moors,Dagenham & Redbridge,20,2 November 2019
+Stockport County,Woking,20,2 November 2019
+Wrexham,Bromley,20,2 November 2019
+Yeovil Town,Boreham Wood,20,2 November 2019
+Barnet,Stockport County,21,16 November 2019
+Boreham Wood,Maidenhead United,21,16 November 2019
+Bromley,Harrogate Town,21,16 November 2019
+Chesterfield,Chorley,21,16 November 2019
+Dagenham & Redbridge,Aldershot Town,21,16 November 2019
+Eastleigh,Wrexham,21,16 November 2019
+Ebbsfleet United,Hartlepool United,21,16 November 2019
+Notts County,Barrow,21,16 November 2019
+Solihull Moors,Fylde,21,16 November 2019
+Torquay United,Sutton United,21,16 November 2019
+Woking,Halifax Town,21,16 November 2019
+Yeovil Town,Dover Athletic,21,16 November 2019
+Fylde,Dagenham & Redbridge,22,23 November 2019
+Aldershot Town,Notts County,22,23 November 2019
+Barrow,Barnet,22,23 November 2019
+Chorley,Torquay United,22,23 November 2019
+Dover Athletic,Solihull Moors,22,23 November 2019
+Halifax Town,Eastleigh,22,23 November 2019
+Harrogate Town,Chesterfield,22,23 November 2019
+Hartlepool United,Boreham Wood,22,23 November 2019
+Maidenhead United,Woking,22,23 November 2019
+Stockport County,Ebbsfleet United,22,23 November 2019
+Sutton United,Bromley,22,23 November 2019
+Wrexham,Yeovil Town,22,23 November 2019
+Barnet,Ebbsfleet United,23,26 November 2019
+Barrow,Chorley,23,26 November 2019
+Chesterfield,Hartlepool United,23,26 November 2019
+Dagenham & Redbridge,Sutton United,23,26 November 2019
+Dover Athletic,Maidenhead United,23,26 November 2019
+Eastleigh,Torquay United,23,26 November 2019
+Harrogate Town,Halifax Town,23,26 November 2019
+Notts County,Boreham Wood,23,26 November 2019
+Stockport County,Solihull Moors,23,26 November 2019
+Woking,Bromley,23,26 November 2019
+Wrexham,Fylde,23,26 November 2019
+Yeovil Town,Aldershot Town,23,26 November 2019
+Fylde,Notts County,24,30 November 2019
+Aldershot Town,Chesterfield,24,30 November 2019
+Boreham Wood,Woking,24,30 November 2019
+Bromley,Yeovil Town,24,30 November 2019
+Chorley,Dagenham & Redbridge,24,30 November 2019
+Ebbsfleet United,Wrexham,24,30 November 2019
+Halifax Town,Dover Athletic,24,30 November 2019
+Hartlepool United,Eastleigh,24,30 November 2019
+Maidenhead United,Barrow,24,30 November 2019
+Solihull Moors,Barnet,24,30 November 2019
+Sutton United,Harrogate Town,24,30 November 2019
+Torquay United,Stockport County,24,30 November 2019
+Barnet,Fylde,25,7 December 2019
+Barrow,Aldershot Town,25,7 December 2019
+Chesterfield,Bromley,25,7 December 2019
+Dagenham & Redbridge,Maidenhead United,25,7 December 2019
+Dover Athletic,Boreham Wood,25,7 December 2019
+Eastleigh,Ebbsfleet United,25,7 December 2019
+Harrogate Town,Torquay United,25,7 December 2019
+Notts County,Sutton United,25,7 December 2019
+Stockport County,Chorley,25,7 December 2019
+Woking,Hartlepool United,25,7 December 2019
+Wrexham,Solihull Moors,25,7 December 2019
+Yeovil Town,Halifax Town,25,7 December 2019
+Fylde,Yeovil Town,26,21 December 2019
+Aldershot Town,Stockport County,26,21 December 2019
+Boreham Wood,Harrogate Town,26,21 December 2019
+Bromley,Eastleigh,26,21 December 2019
+Chorley,Dover Athletic,26,21 December 2019
+Ebbsfleet United,Woking,26,21 December 2019
+Halifax Town,Notts County,26,21 December 2019
+Hartlepool United,Dagenham & Redbridge,26,21 December 2019
+Maidenhead United,Barnet,26,21 December 2019
+Solihull Moors,Barrow,26,21 December 2019
+Sutton United,Wrexham,26,21 December 2019
+Torquay United,Chesterfield,26,21 December 2019
+Barnet,Boreham Wood,27,26 December 2019
+Barrow,Fylde,27,26 December 2019
+Chesterfield,Solihull Moors,27,26 December 2019
+Dagenham & Redbridge,Ebbsfleet United,27,26 December 2019
+Dover Athletic,Bromley,27,26 December 2019
+Eastleigh,Aldershot Town,27,26 December 2019
+Harrogate Town,Hartlepool United,27,26 December 2019
+Notts County,Maidenhead United,27,26 December 2019
+Stockport County,Halifax Town,27,26 December 2019
+Woking,Sutton United,27,26 December 2019
+Wrexham,Chorley,27,26 December 2019
+Yeovil Town,Torquay United,27,26 December 2019
+Fylde,Stockport County,28,28 December 2019
+Aldershot Town,Barnet,28,28 December 2019
+Boreham Wood,Eastleigh,28,28 December 2019
+Bromley,Dagenham & Redbridge,28,28 December 2019
+Chorley,Harrogate Town,28,28 December 2019
+Ebbsfleet United,Dover Athletic,28,28 December 2019
+Halifax Town,Chesterfield,28,28 December 2019
+Hartlepool United,Barrow,28,28 December 2019
+Maidenhead United,Wrexham,28,28 December 2019
+Solihull Moors,Notts County,28,28 December 2019
+Sutton United,Yeovil Town,28,28 December 2019
+Torquay United,Woking,28,28 December 2019
+Fylde,Barrow,29,1 January 2020
+Aldershot Town,Eastleigh,29,1 January 2020
+Boreham Wood,Barnet,29,1 January 2020
+Bromley,Dover Athletic,29,1 January 2020
+Chorley,Wrexham,29,1 January 2020
+Ebbsfleet United,Dagenham & Redbridge,29,1 January 2020
+Halifax Town,Stockport County,29,1 January 2020
+Hartlepool United,Harrogate Town,29,1 January 2020
+Maidenhead United,Notts County,29,1 January 2020
+Solihull Moors,Chesterfield,29,1 January 2020
+Sutton United,Woking,29,1 January 2020
+Torquay United,Yeovil Town,29,1 January 2020
+Barnet,Halifax Town,30,4 January 2020
+Barrow,Ebbsfleet United,30,4 January 2020
+Chesterfield,Sutton United,30,4 January 2020
+Dagenham & Redbridge,Torquay United,30,4 January 2020
+Dover Athletic,Hartlepool United,30,4 January 2020
+Eastleigh,Fylde,30,4 January 2020
+Harrogate Town,Maidenhead United,30,4 January 2020
+Notts County,Bromley,30,4 January 2020
+Stockport County,Boreham Wood,30,4 January 2020
+Woking,Chorley,30,4 January 2020
+Wrexham,Aldershot Town,30,4 January 2020
+Yeovil Town,Solihull Moors,30,4 January 2020
+Fylde,Torquay United,31,18 January 2020
+Aldershot Town,Chorley,31,18 January 2020
+Barnet,Dagenham & Redbridge,31,18 January 2020
+Barrow,Bromley,31,18 January 2020
+Eastleigh,Chesterfield,31,18 January 2020
+Ebbsfleet United,Harrogate Town,31,18 January 2020
+Halifax Town,Maidenhead United,31,18 January 2020
+Notts County,Dover Athletic,31,18 January 2020
+Solihull Moors,Boreham Wood,31,18 January 2020
+Stockport County,Sutton United,31,18 January 2020
+Wrexham,Woking,31,18 January 2020
+Yeovil Town,Hartlepool United,31,18 January 2020
+Boreham Wood,Barrow,32,25 January 2020
+Bromley,Barnet,32,25 January 2020
+Chesterfield,Fylde,32,25 January 2020
+Chorley,Halifax Town,32,25 January 2020
+Dagenham & Redbridge,Notts County,32,25 January 2020
+Dover Athletic,Aldershot Town,32,25 January 2020
+Harrogate Town,Wrexham,32,25 January 2020
+Hartlepool United,Stockport County,32,25 January 2020
+Maidenhead United,Eastleigh,32,25 January 2020
+Sutton United,Solihull Moors,32,25 January 2020
+Torquay United,Ebbsfleet United,32,25 January 2020
+Woking,Yeovil Town,32,25 January 2020
+Fylde,Boreham Wood,33,1 February 2020
+Aldershot Town,Harrogate Town,33,1 February 2020
+Barnet,Hartlepool United,33,1 February 2020
+Barrow,Torquay United,33,1 February 2020
+Eastleigh,Woking,33,1 February 2020
+Ebbsfleet United,Sutton United,33,1 February 2020
+Halifax Town,Bromley,33,1 February 2020
+Notts County,Chesterfield,33,1 February 2020
+Solihull Moors,Maidenhead United,33,1 February 2020
+Stockport County,Dover Athletic,33,1 February 2020
+Wrexham,Dagenham & Redbridge,33,1 February 2020
+Yeovil Town,Chorley,33,1 February 2020
+Boreham Wood,Halifax Town,34,8 February 2020
+Bromley,Solihull Moors,34,8 February 2020
+Chesterfield,Wrexham,34,8 February 2020
+Chorley,Eastleigh,34,8 February 2020
+Dagenham & Redbridge,Stockport County,34,8 February 2020
+Dover Athletic,Barrow,34,8 February 2020
+Harrogate Town,Yeovil Town,34,8 February 2020
+Hartlepool United,Aldershot Town,34,8 February 2020
+Maidenhead United,Ebbsfleet United,34,8 February 2020
+Sutton United,Fylde,34,8 February 2020
+Torquay United,Notts County,34,8 February 2020
+Woking,Barnet,34,8 February 2020
+Fylde,Maidenhead United,35,15 February 2020
+Aldershot Town,Boreham Wood,35,15 February 2020
+Barnet,Harrogate Town,35,15 February 2020
+Barrow,Dagenham & Redbridge,35,15 February 2020
+Eastleigh,Dover Athletic,35,15 February 2020
+Ebbsfleet United,Chorley,35,15 February 2020
+Halifax Town,Sutton United,35,15 February 2020
+Notts County,Woking,35,15 February 2020
+Solihull Moors,Hartlepool United,35,15 February 2020
+Stockport County,Bromley,35,15 February 2020
+Wrexham,Torquay United,35,15 February 2020
+Yeovil Town,Chesterfield,35,15 February 2020
+Boreham Wood,Yeovil Town,36,22 February 2020
+Bromley,Wrexham,36,22 February 2020
+Chesterfield,Ebbsfleet United,36,22 February 2020
+Chorley,Barnet,36,22 February 2020
+Dagenham & Redbridge,Solihull Moors,36,22 February 2020
+Dover Athletic,Fylde,36,22 February 2020
+Harrogate Town,Eastleigh,36,22 February 2020
+Hartlepool United,Notts County,36,22 February 2020
+Maidenhead United,Aldershot Town,36,22 February 2020
+Sutton United,Barrow,36,22 February 2020
+Torquay United,Halifax Town,36,22 February 2020
+Woking,Stockport County,36,22 February 2020
+Barnet,Barrow,37,29 February 2020
+Boreham Wood,Hartlepool United,37,29 February 2020
+Bromley,Sutton United,37,29 February 2020
+Chesterfield,Harrogate Town,37,29 February 2020
+Dagenham & Redbridge,Fylde,37,29 February 2020
+Eastleigh,Halifax Town,37,29 February 2020
+Ebbsfleet United,Stockport County,37,29 February 2020
+Notts County,Aldershot Town,37,29 February 2020
+Solihull Moors,Dover Athletic,37,29 February 2020
+Torquay United,Chorley,37,29 February 2020
+Woking,Maidenhead United,37,29 February 2020
+Yeovil Town,Wrexham,37,29 February 2020
+Fylde,Solihull Moors,38,7 March 2020
+Aldershot Town,Dagenham & Redbridge,38,7 March 2020
+Barrow,Notts County,38,7 March 2020
+Chorley,Chesterfield,38,7 March 2020
+Dover Athletic,Yeovil Town,38,7 March 2020
+Halifax Town,Woking,38,7 March 2020
+Harrogate Town,Bromley,38,7 March 2020
+Hartlepool United,Ebbsfleet United,38,7 March 2020
+Maidenhead United,Boreham Wood,38,7 March 2020
+Stockport County,Barnet,38,7 March 2020
+Sutton United,Torquay United,38,7 March 2020
+Wrexham,Eastleigh,38,7 March 2020
+Fylde,Aldershot Town,39,14 March 2020
+Barrow,Wrexham,39,14 March 2020
+Boreham Wood,Torquay United,39,14 March 2020
+Bromley,Chorley,39,14 March 2020
+Dover Athletic,Chesterfield,39,14 March 2020
+Halifax Town,Ebbsfleet United,39,14 March 2020
+Maidenhead United,Stockport County,39,14 March 2020
+Notts County,Eastleigh,39,14 March 2020
+Solihull Moors,Harrogate Town,39,14 March 2020
+Sutton United,Hartlepool United,39,14 March 2020
+Woking,Dagenham & Redbridge,39,14 March 2020
+Yeovil Town,Barnet,39,14 March 2020
+Aldershot Town,Woking,40,21 March 2020
+Barnet,Sutton United,40,21 March 2020
+Chesterfield,Maidenhead United,40,21 March 2020
+Chorley,Fylde,40,21 March 2020
+Dagenham & Redbridge,Dover Athletic,40,21 March 2020
+Eastleigh,Yeovil Town,40,21 March 2020
+Ebbsfleet United,Bromley,40,21 March 2020
+Harrogate Town,Barrow,40,21 March 2020
+Hartlepool United,Halifax Town,40,21 March 2020
+Stockport County,Notts County,40,21 March 2020
+Torquay United,Solihull Moors,40,21 March 2020
+Wrexham,Boreham Wood,40,21 March 2020
+Fylde,Hartlepool United,41,28 March 2020
+Barrow,Stockport County,41,28 March 2020
+Boreham Wood,Dagenham & Redbridge,41,28 March 2020
+Bromley,Aldershot Town,41,28 March 2020
+Dover Athletic,Barnet,41,28 March 2020
+Halifax Town,Wrexham,41,28 March 2020
+Maidenhead United,Torquay United,41,28 March 2020
+Notts County,Harrogate Town,41,28 March 2020
+Solihull Moors,Chorley,41,28 March 2020
+Sutton United,Eastleigh,41,28 March 2020
+Woking,Chesterfield,41,28 March 2020
+Yeovil Town,Ebbsfleet United,41,28 March 2020
+Aldershot Town,Solihull Moors,42,4 April 2020
+Barnet,Notts County,42,4 April 2020
+Chesterfield,Boreham Wood,42,4 April 2020
+Chorley,Sutton United,42,4 April 2020
+Dagenham & Redbridge,Halifax Town,42,4 April 2020
+Eastleigh,Barrow,42,4 April 2020
+Ebbsfleet United,Fylde,42,4 April 2020
+Harrogate Town,Woking,42,4 April 2020
+Hartlepool United,Maidenhead United,42,4 April 2020
+Stockport County,Yeovil Town,42,4 April 2020
+Torquay United,Bromley,42,4 April 2020
+Wrexham,Dover Athletic,42,4 April 2020
+Bromley,Maidenhead United,43,10 April 2020
+Chesterfield,Stockport County,43,10 April 2020
+Chorley,Notts County,43,10 April 2020
+Eastleigh,Solihull Moors,43,10 April 2020
+Ebbsfleet United,Boreham Wood,43,10 April 2020
+Halifax Town,Barrow,43,10 April 2020
+Harrogate Town,Fylde,43,10 April 2020
+Sutton United,Aldershot Town,43,10 April 2020
+Torquay United,Barnet,43,10 April 2020
+Woking,Dover Athletic,43,10 April 2020
+Wrexham,Hartlepool United,43,10 April 2020
+Yeovil Town,Dagenham & Redbridge,43,10 April 2020
+Fylde,Halifax Town,44,13 April 2020
+Aldershot Town,Torquay United,44,13 April 2020
+Barnet,Wrexham,44,13 April 2020
+Barrow,Chesterfield,44,13 April 2020
+Boreham Wood,Bromley,44,13 April 2020
+Dagenham & Redbridge,Eastleigh,44,13 April 2020
+Dover Athletic,Sutton United,44,13 April 2020
+Hartlepool United,Chorley,44,13 April 2020
+Maidenhead United,Yeovil Town,44,13 April 2020
+Notts County,Ebbsfleet United,44,13 April 2020
+Solihull Moors,Woking,44,13 April 2020
+Stockport County,Harrogate Town,44,13 April 2020
+Bromley,Hartlepool United,45,18 April 2020
+Chesterfield,Barnet,45,18 April 2020
+Chorley,Maidenhead United,45,18 April 2020
+Eastleigh,Stockport County,45,18 April 2020
+Ebbsfleet United,Solihull Moors,45,18 April 2020
+Halifax Town,Aldershot Town,45,18 April 2020
+Harrogate Town,Dagenham & Redbridge,45,18 April 2020
+Sutton United,Boreham Wood,45,18 April 2020
+Torquay United,Dover Athletic,45,18 April 2020
+Woking,Fylde,45,18 April 2020
+Wrexham,Notts County,45,18 April 2020
+Yeovil Town,Barrow,45,18 April 2020
+Fylde,Bromley,46,25 April 2020
+Aldershot Town,Ebbsfleet United,46,25 April 2020
+Barnet,Eastleigh,46,25 April 2020
+Barrow,Woking,46,25 April 2020
+Boreham Wood,Chorley,46,25 April 2020
+Dagenham & Redbridge,Chesterfield,46,25 April 2020
+Dover Athletic,Harrogate Town,46,25 April 2020
+Hartlepool United,Torquay United,46,25 April 2020
+Maidenhead United,Sutton United,46,25 April 2020
+Notts County,Yeovil Town,46,25 April 2020
+Solihull Moors,Halifax Town,46,25 April 2020
+Stockport County,Wrexham,46,25 April 2020
+Spennymoor Town,Blyth Spartans,2,10 September 2019
+AFC Telford United,King's Lynn Town,5,17 August 2019
+Alfreton Town,Bradford (Park Avenue),5,17 August 2019
+Blyth Spartans,Hereford,5,17 August 2019
+Boston United,Guiseley,5,17 August 2019
+Brackley Town,Altrincham,5,17 August 2019
+Chester,Gloucester City,5,17 August 2019
+Curzon Ashton,Kidderminster Harriers,5,17 August 2019
+Darlington,Southport,5,17 August 2019
+Farsley Celtic,Spennymoor Town,5,17 August 2019
+Kettering Town,Gateshead,5,17 August 2019
+York City,Leamington,5,17 August 2019
+Altrincham,Darlington,6,24 August 2019
+Bradford (Park Avenue),Blyth Spartans,6,24 August 2019
+Gateshead,Farsley Celtic,6,24 August 2019
+Gloucester City,Boston United,6,24 August 2019
+Guiseley,Alfreton Town,6,24 August 2019
+Hereford,Brackley Town,6,24 August 2019
+Kidderminster Harriers,Chester,6,24 August 2019
+King's Lynn Town,Curzon Ashton,6,24 August 2019
+Leamington,Kettering Town,6,24 August 2019
+Southport,AFC Telford United,6,24 August 2019
+Spennymoor Town,York City,6,24 August 2019
+AFC Telford United,Leamington,7,26 August 2019
+Alfreton Town,Southport,7,26 August 2019
+Blyth Spartans,Guiseley,7,26 August 2019
+Boston United,Altrincham,7,26 August 2019
+Brackley Town,Gloucester City,7,26 August 2019
+Chester,Hereford,7,26 August 2019
+Curzon Ashton,Spennymoor Town,7,26 August 2019
+Darlington,Bradford (Park Avenue),7,26 August 2019
+Farsley Celtic,King's Lynn Town,7,26 August 2019
+Kettering Town,Kidderminster Harriers,7,26 August 2019
+York City,Gateshead,7,26 August 2019
+Altrincham,Farsley Celtic,8,31 August 2019
+Bradford (Park Avenue),AFC Telford United,8,31 August 2019
+Gateshead,Brackley Town,8,31 August 2019
+Gloucester City,York City,8,31 August 2019
+Guiseley,Curzon Ashton,8,31 August 2019
+Hereford,Boston United,8,31 August 2019
+Kidderminster Harriers,Alfreton Town,8,31 August 2019
+King's Lynn Town,Darlington,8,31 August 2019
+Leamington,Blyth Spartans,8,31 August 2019
+Southport,Kettering Town,8,31 August 2019
+Spennymoor Town,Chester,8,31 August 2019
+Curzon Ashton,Chester,9,2 September 2019
+AFC Telford United,Gloucester City,9,3 September 2019
+Bradford (Park Avenue),Farsley Celtic,9,3 September 2019
+Gateshead,Spennymoor Town,9,3 September 2019
+Guiseley,York City,9,3 September 2019
+Kettering Town,Boston United,9,3 September 2019
+Kidderminster Harriers,Brackley Town,9,3 September 2019
+King's Lynn Town,Alfreton Town,9,3 September 2019
+Leamington,Hereford,9,3 September 2019
+Southport,Altrincham,9,3 September 2019
+Darlington,Blyth Spartans,9,4 September 2019
+Alfreton Town,Curzon Ashton,10,7 September 2019
+Altrincham,Leamington,10,7 September 2019
+Blyth Spartans,Kidderminster Harriers,10,7 September 2019
+Boston United,Bradford (Park Avenue),10,7 September 2019
+Brackley Town,AFC Telford United,10,7 September 2019
+Chester,Guiseley,10,7 September 2019
+Farsley Celtic,Kettering Town,10,7 September 2019
+Gloucester City,Darlington,10,7 September 2019
+Hereford,Gateshead,10,7 September 2019
+Spennymoor Town,King's Lynn Town,10,7 September 2019
+York City,Southport,10,7 September 2019
+AFC Telford United,Chester,11,14 September 2019
+Bradford (Park Avenue),Spennymoor Town,11,14 September 2019
+Curzon Ashton,Brackley Town,11,14 September 2019
+Darlington,York City,11,14 September 2019
+Gateshead,Boston United,11,14 September 2019
+Guiseley,Hereford,11,14 September 2019
+Kettering Town,Alfreton Town,11,14 September 2019
+Kidderminster Harriers,Altrincham,11,14 September 2019
+King's Lynn Town,Gloucester City,11,14 September 2019
+Leamington,Farsley Celtic,11,14 September 2019
+Southport,Blyth Spartans,11,14 September 2019
+Alfreton Town,Darlington,12,28 September 2019
+Altrincham,Gateshead,12,28 September 2019
+Blyth Spartans,AFC Telford United,12,28 September 2019
+Boston United,Southport,12,28 September 2019
+Brackley Town,Bradford (Park Avenue),12,28 September 2019
+Chester,Leamington,12,28 September 2019
+Farsley Celtic,Curzon Ashton,12,28 September 2019
+Gloucester City,Guiseley,12,28 September 2019
+Hereford,Kettering Town,12,28 September 2019
+Spennymoor Town,Kidderminster Harriers,12,28 September 2019
+York City,King's Lynn Town,12,28 September 2019
+AFC Telford United,York City,13,12 October 2019
+Bradford (Park Avenue),Hereford,13,12 October 2019
+Curzon Ashton,Blyth Spartans,13,12 October 2019
+Darlington,Boston United,13,12 October 2019
+Gateshead,Gloucester City,13,12 October 2019
+Guiseley,Altrincham,13,12 October 2019
+Kettering Town,Spennymoor Town,13,12 October 2019
+Kidderminster Harriers,Farsley Celtic,13,12 October 2019
+King's Lynn Town,Chester,13,12 October 2019
+Leamington,Alfreton Town,13,12 October 2019
+Southport,Brackley Town,13,12 October 2019
+AFC Telford United,Guiseley,14,19 October 2019
+Alfreton Town,Farsley Celtic,14,19 October 2019
+Blyth Spartans,Chester,14,19 October 2019
+Brackley Town,Spennymoor Town,14,19 October 2019
+Darlington,Kidderminster Harriers,14,19 October 2019
+Gateshead,Curzon Ashton,14,19 October 2019
+Gloucester City,Bradford (Park Avenue),14,19 October 2019
+Kettering Town,Altrincham,14,19 October 2019
+King's Lynn Town,Leamington,14,19 October 2019
+Southport,Hereford,14,19 October 2019
+York City,Boston United,14,19 October 2019
+Altrincham,AFC Telford United,15,26 October 2019
+Boston United,Blyth Spartans,15,26 October 2019
+Bradford (Park Avenue),Southport,15,26 October 2019
+Chester,York City,15,26 October 2019
+Curzon Ashton,Kettering Town,15,26 October 2019
+Farsley Celtic,Brackley Town,15,26 October 2019
+Guiseley,Darlington,15,26 October 2019
+Hereford,Alfreton Town,15,26 October 2019
+Kidderminster Harriers,King's Lynn Town,15,26 October 2019
+Leamington,Gateshead,15,26 October 2019
+Spennymoor Town,Gloucester City,15,26 October 2019
+AFC Telford United,Boston United,16,2 November 2019
+Alfreton Town,Spennymoor Town,16,2 November 2019
+Blyth Spartans,Farsley Celtic,16,2 November 2019
+Brackley Town,Chester,16,2 November 2019
+Darlington,Hereford,16,2 November 2019
+Gateshead,Guiseley,16,2 November 2019
+Gloucester City,Curzon Ashton,16,2 November 2019
+Kettering Town,Bradford (Park Avenue),16,2 November 2019
+King's Lynn Town,Altrincham,16,2 November 2019
+Southport,Leamington,16,2 November 2019
+York City,Kidderminster Harriers,16,2 November 2019
+Altrincham,Blyth Spartans,17,9 November 2019
+Boston United,Brackley Town,17,9 November 2019
+Bradford (Park Avenue),King's Lynn Town,17,9 November 2019
+Chester,Alfreton Town,17,9 November 2019
+Curzon Ashton,AFC Telford United,17,9 November 2019
+Farsley Celtic,Gloucester City,17,9 November 2019
+Guiseley,Kettering Town,17,9 November 2019
+Hereford,York City,17,9 November 2019
+Kidderminster Harriers,Gateshead,17,9 November 2019
+Leamington,Darlington,17,9 November 2019
+Spennymoor Town,Southport,17,9 November 2019
+AFC Telford United,Spennymoor Town,18,16 November 2019
+Alfreton Town,Gloucester City,18,16 November 2019
+Altrincham,Hereford,18,16 November 2019
+Brackley Town,Darlington,18,16 November 2019
+Bradford (Park Avenue),Leamington,18,16 November 2019
+Curzon Ashton,York City,18,16 November 2019
+Farsley Celtic,Boston United,18,16 November 2019
+Gateshead,Chester,18,16 November 2019
+Guiseley,Kidderminster Harriers,18,16 November 2019
+Kettering Town,Blyth Spartans,18,16 November 2019
+Southport,King's Lynn Town,18,16 November 2019
+Blyth Spartans,Brackley Town,19,30 November 2019
+Boston United,Curzon Ashton,19,30 November 2019
+Chester,Bradford (Park Avenue),19,30 November 2019
+Darlington,AFC Telford United,19,30 November 2019
+Gloucester City,Kettering Town,19,30 November 2019
+Hereford,Farsley Celtic,19,30 November 2019
+Kidderminster Harriers,Southport,19,30 November 2019
+King's Lynn Town,Gateshead,19,30 November 2019
+Leamington,Guiseley,19,30 November 2019
+Spennymoor Town,Altrincham,19,30 November 2019
+York City,Alfreton Town,19,30 November 2019
+AFC Telford United,Farsley Celtic,20,7 December 2019
+Bradford (Park Avenue),Altrincham,20,7 December 2019
+Curzon Ashton,Hereford,20,7 December 2019
+Darlington,Chester,20,7 December 2019
+Gateshead,Alfreton Town,20,7 December 2019
+Guiseley,Brackley Town,20,7 December 2019
+Kettering Town,York City,20,7 December 2019
+Kidderminster Harriers,Boston United,20,7 December 2019
+King's Lynn Town,Blyth Spartans,20,7 December 2019
+Leamington,Spennymoor Town,20,7 December 2019
+Southport,Gloucester City,20,7 December 2019
+Alfreton Town,Kettering Town,21,21 December 2019
+Altrincham,Kidderminster Harriers,21,21 December 2019
+Blyth Spartans,Southport,21,21 December 2019
+Boston United,Gateshead,21,21 December 2019
+Brackley Town,Curzon Ashton,21,21 December 2019
+Chester,AFC Telford United,21,21 December 2019
+Farsley Celtic,Leamington,21,21 December 2019
+Gloucester City,King's Lynn Town,21,21 December 2019
+Hereford,Guiseley,21,21 December 2019
+Spennymoor Town,Bradford (Park Avenue),21,21 December 2019
+York City,Darlington,21,21 December 2019
+AFC Telford United,Alfreton Town,22,26 December 2019
+Bradford (Park Avenue),York City,22,26 December 2019
+Curzon Ashton,Altrincham,22,26 December 2019
+Darlington,Spennymoor Town,22,26 December 2019
+Gateshead,Blyth Spartans,22,26 December 2019
+Guiseley,Farsley Celtic,22,26 December 2019
+Kettering Town,Brackley Town,22,26 December 2019
+Kidderminster Harriers,Hereford,22,26 December 2019
+King's Lynn Town,Boston United,22,26 December 2019
+Leamington,Gloucester City,22,26 December 2019
+Southport,Chester,22,26 December 2019
+Alfreton Town,King's Lynn Town,23,28 December 2019
+Altrincham,Southport,23,28 December 2019
+Blyth Spartans,Darlington,23,28 December 2019
+Boston United,Kettering Town,23,28 December 2019
+Brackley Town,Kidderminster Harriers,23,28 December 2019
+Chester,Curzon Ashton,23,28 December 2019
+Farsley Celtic,Bradford (Park Avenue),23,28 December 2019
+Gloucester City,AFC Telford United,23,28 December 2019
+Hereford,Leamington,23,28 December 2019
+Spennymoor Town,Gateshead,23,28 December 2019
+York City,Guiseley,23,28 December 2019
+Alfreton Town,AFC Telford United,24,1 January 2020
+Altrincham,Curzon Ashton,24,1 January 2020
+Blyth Spartans,Gateshead,24,1 January 2020
+Boston United,King's Lynn Town,24,1 January 2020
+Brackley Town,Kettering Town,24,1 January 2020
+Chester,Southport,24,1 January 2020
+Farsley Celtic,Guiseley,24,1 January 2020
+Gloucester City,Leamington,24,1 January 2020
+Hereford,Kidderminster Harriers,24,1 January 2020
+Spennymoor Town,Darlington,24,1 January 2020
+York City,Bradford (Park Avenue),24,1 January 2020
+AFC Telford United,Brackley Town,25,4 January 2020
+Bradford (Park Avenue),Boston United,25,4 January 2020
+Curzon Ashton,Alfreton Town,25,4 January 2020
+Darlington,Gloucester City,25,4 January 2020
+Gateshead,Hereford,25,4 January 2020
+Guiseley,Chester,25,4 January 2020
+Kettering Town,Farsley Celtic,25,4 January 2020
+Kidderminster Harriers,Blyth Spartans,25,4 January 2020
+King's Lynn Town,Spennymoor Town,25,4 January 2020
+Leamington,Altrincham,25,4 January 2020
+Southport,York City,25,4 January 2020
+Alfreton Town,Leamington,26,11 January 2020
+Altrincham,Guiseley,26,11 January 2020
+Blyth Spartans,Curzon Ashton,26,11 January 2020
+Boston United,Darlington,26,11 January 2020
+Brackley Town,Southport,26,11 January 2020
+Chester,King's Lynn Town,26,11 January 2020
+Farsley Celtic,Kidderminster Harriers,26,11 January 2020
+Gloucester City,Gateshead,26,11 January 2020
+Hereford,Bradford (Park Avenue),26,11 January 2020
+Spennymoor Town,Kettering Town,26,11 January 2020
+York City,AFC Telford United,26,11 January 2020
+AFC Telford United,Blyth Spartans,27,18 January 2020
+Bradford (Park Avenue),Brackley Town,27,18 January 2020
+Curzon Ashton,Farsley Celtic,27,18 January 2020
+Darlington,Alfreton Town,27,18 January 2020
+Gateshead,Altrincham,27,18 January 2020
+Guiseley,Gloucester City,27,18 January 2020
+Kettering Town,Hereford,27,18 January 2020
+Kidderminster Harriers,Spennymoor Town,27,18 January 2020
+King's Lynn Town,York City,27,18 January 2020
+Leamington,Chester,27,18 January 2020
+Southport,Boston United,27,18 January 2020
+Alfreton Town,Gateshead,28,25 January 2020
+Altrincham,Bradford (Park Avenue),28,25 January 2020
+Blyth Spartans,King's Lynn Town,28,25 January 2020
+Boston United,Kidderminster Harriers,28,25 January 2020
+Brackley Town,Guiseley,28,25 January 2020
+Chester,Darlington,28,25 January 2020
+Farsley Celtic,AFC Telford United,28,25 January 2020
+Gloucester City,Southport,28,25 January 2020
+Hereford,Curzon Ashton,28,25 January 2020
+Spennymoor Town,Leamington,28,25 January 2020
+York City,Kettering Town,28,25 January 2020
+AFC Telford United,Altrincham,29,1 February 2020
+Alfreton Town,Hereford,29,1 February 2020
+Blyth Spartans,Boston United,29,1 February 2020
+Brackley Town,Farsley Celtic,29,1 February 2020
+Darlington,Guiseley,29,1 February 2020
+Gateshead,Leamington,29,1 February 2020
+Gloucester City,Spennymoor Town,29,1 February 2020
+Kettering Town,Curzon Ashton,29,1 February 2020
+King's Lynn Town,Kidderminster Harriers,29,1 February 2020
+Southport,Bradford (Park Avenue),29,1 February 2020
+York City,Chester,29,1 February 2020
+Altrincham,Kettering Town,30,8 February 2020
+Boston United,York City,30,8 February 2020
+Bradford (Park Avenue),Gloucester City,30,8 February 2020
+Chester,Blyth Spartans,30,8 February 2020
+Curzon Ashton,Gateshead,30,8 February 2020
+Farsley Celtic,Alfreton Town,30,8 February 2020
+Guiseley,AFC Telford United,30,8 February 2020
+Hereford,Southport,30,8 February 2020
+Kidderminster Harriers,Darlington,30,8 February 2020
+Leamington,King's Lynn Town,30,8 February 2020
+Spennymoor Town,Brackley Town,30,8 February 2020
+AFC Telford United,Curzon Ashton,31,15 February 2020
+Alfreton Town,Chester,31,15 February 2020
+Blyth Spartans,Altrincham,31,15 February 2020
+Brackley Town,Boston United,31,15 February 2020
+Darlington,Leamington,31,15 February 2020
+Gateshead,Kidderminster Harriers,31,15 February 2020
+Gloucester City,Farsley Celtic,31,15 February 2020
+Kettering Town,Guiseley,31,15 February 2020
+King's Lynn Town,Bradford (Park Avenue),31,15 February 2020
+Southport,Spennymoor Town,31,15 February 2020
+York City,Hereford,31,15 February 2020
+Altrincham,King's Lynn Town,32,22 February 2020
+Boston United,AFC Telford United,32,22 February 2020
+Bradford (Park Avenue),Kettering Town,32,22 February 2020
+Chester,Brackley Town,32,22 February 2020
+Curzon Ashton,Gloucester City,32,22 February 2020
+Farsley Celtic,Blyth Spartans,32,22 February 2020
+Guiseley,Gateshead,32,22 February 2020
+Hereford,Darlington,32,22 February 2020
+Kidderminster Harriers,York City,32,22 February 2020
+Leamington,Southport,32,22 February 2020
+Spennymoor Town,Alfreton Town,32,22 February 2020
+Blyth Spartans,Kettering Town,33,29 February 2020
+Boston United,Farsley Celtic,33,29 February 2020
+Chester,Gateshead,33,29 February 2020
+Darlington,Brackley Town,33,29 February 2020
+Gloucester City,Alfreton Town,33,29 February 2020
+Hereford,Altrincham,33,29 February 2020
+Kidderminster Harriers,Guiseley,33,29 February 2020
+King's Lynn Town,Southport,33,29 February 2020
+Leamington,Bradford (Park Avenue),33,29 February 2020
+Spennymoor Town,AFC Telford United,33,29 February 2020
+York City,Curzon Ashton,33,29 February 2020
+AFC Telford United,Darlington,34,7 March 2020
+Alfreton Town,York City,34,7 March 2020
+Altrincham,Spennymoor Town,34,7 March 2020
+Brackley Town,Blyth Spartans,34,7 March 2020
+Bradford (Park Avenue),Chester,34,7 March 2020
+Curzon Ashton,Boston United,34,7 March 2020
+Farsley Celtic,Hereford,34,7 March 2020
+Gateshead,King's Lynn Town,34,7 March 2020
+Guiseley,Leamington,34,7 March 2020
+Kettering Town,Gloucester City,34,7 March 2020
+Southport,Kidderminster Harriers,34,7 March 2020
+AFC Telford United,Kettering Town,35,14 March 2020
+Alfreton Town,Brackley Town,35,14 March 2020
+Bradford (Park Avenue),Curzon Ashton,35,14 March 2020
+Chester,Boston United,35,14 March 2020
+Darlington,Farsley Celtic,35,14 March 2020
+Gloucester City,Blyth Spartans,35,14 March 2020
+King's Lynn Town,Guiseley,35,14 March 2020
+Leamington,Kidderminster Harriers,35,14 March 2020
+Southport,Gateshead,35,14 March 2020
+Spennymoor Town,Hereford,35,14 March 2020
+York City,Altrincham,35,14 March 2020
+Altrincham,Chester,36,21 March 2020
+Blyth Spartans,Spennymoor Town,36,21 March 2020
+Boston United,Alfreton Town,36,21 March 2020
+Brackley Town,Leamington,36,21 March 2020
+Curzon Ashton,Southport,36,21 March 2020
+Farsley Celtic,York City,36,21 March 2020
+Gateshead,Darlington,36,21 March 2020
+Guiseley,Bradford (Park Avenue),36,21 March 2020
+Hereford,Gloucester City,36,21 March 2020
+Kettering Town,King's Lynn Town,36,21 March 2020
+Kidderminster Harriers,AFC Telford United,36,21 March 2020
+AFC Telford United,Hereford,37,28 March 2020
+Alfreton Town,Altrincham,37,28 March 2020
+Bradford (Park Avenue),Gateshead,37,28 March 2020
+Chester,Kettering Town,37,28 March 2020
+Darlington,Curzon Ashton,37,28 March 2020
+Gloucester City,Kidderminster Harriers,37,28 March 2020
+King's Lynn Town,Brackley Town,37,28 March 2020
+Leamington,Boston United,37,28 March 2020
+Southport,Farsley Celtic,37,28 March 2020
+Spennymoor Town,Guiseley,37,28 March 2020
+York City,Blyth Spartans,37,28 March 2020
+Altrincham,Gloucester City,38,4 April 2020
+Blyth Spartans,Alfreton Town,38,4 April 2020
+Boston United,Spennymoor Town,38,4 April 2020
+Brackley Town,York City,38,4 April 2020
+Curzon Ashton,Leamington,38,4 April 2020
+Farsley Celtic,Chester,38,4 April 2020
+Gateshead,AFC Telford United,38,4 April 2020
+Guiseley,Southport,38,4 April 2020
+Hereford,King's Lynn Town,38,4 April 2020
+Kettering Town,Darlington,38,4 April 2020
+Kidderminster Harriers,Bradford (Park Avenue),38,4 April 2020
+Altrincham,Boston United,39,10 April 2020
+Bradford (Park Avenue),Darlington,39,10 April 2020
+Gateshead,York City,39,10 April 2020
+Gloucester City,Brackley Town,39,10 April 2020
+Guiseley,Blyth Spartans,39,10 April 2020
+Hereford,Chester,39,10 April 2020
+Kidderminster Harriers,Kettering Town,39,10 April 2020
+King's Lynn Town,Farsley Celtic,39,10 April 2020
+Leamington,AFC Telford United,39,10 April 2020
+Southport,Alfreton Town,39,10 April 2020
+Spennymoor Town,Curzon Ashton,39,10 April 2020
+AFC Telford United,Southport,40,13 April 2020
+Alfreton Town,Guiseley,40,13 April 2020
+Boston United,Gloucester City,40,13 April 2020
+Brackley Town,Hereford,40,13 April 2020
+Chester,Kidderminster Harriers,40,13 April 2020
+Curzon Ashton,King's Lynn Town,40,13 April 2020
+Darlington,Altrincham,40,13 April 2020
+Farsley Celtic,Gateshead,40,13 April 2020
+Kettering Town,Leamington,40,13 April 2020
+York City,Spennymoor Town,40,13 April 2020
+Altrincham,Brackley Town,41,18 April 2020
+Bradford (Park Avenue),Alfreton Town,41,18 April 2020
+Gateshead,Kettering Town,41,18 April 2020
+Gloucester City,Chester,41,18 April 2020
+Guiseley,Boston United,41,18 April 2020
+Hereford,Blyth Spartans,41,18 April 2020
+Kidderminster Harriers,Curzon Ashton,41,18 April 2020
+King's Lynn Town,AFC Telford United,41,18 April 2020
+Leamington,York City,41,18 April 2020
+Southport,Darlington,41,18 April 2020
+Spennymoor Town,Farsley Celtic,41,18 April 2020
+AFC Telford United,Bradford (Park Avenue),42,25 April 2020
+Alfreton Town,Kidderminster Harriers,42,25 April 2020
+Blyth Spartans,Leamington,42,25 April 2020
+Boston United,Hereford,42,25 April 2020
+Brackley Town,Gateshead,42,25 April 2020
+Chester,Spennymoor Town,42,25 April 2020
+Curzon Ashton,Guiseley,42,25 April 2020
+Darlington,King's Lynn Town,42,25 April 2020
+Farsley Celtic,Altrincham,42,25 April 2020
+Kettering Town,Southport,42,25 April 2020
+York City,Gloucester City,42,25 April 2020
+Havant & Waterlooville,Dorking Wanderers,4,14 August 2019
+Bath City,Tonbridge Angels,5,17 August 2019
+Braintree Town,Eastbourne Borough,5,17 August 2019
+Dulwich Hamlet,Concord Rangers,5,17 August 2019
+Hampton & Richmond,Billericay Town,5,17 August 2019
+Havant & Waterlooville,Chelmsford City,5,17 August 2019
+Hemel Hempstead Town,Wealdstone,5,17 August 2019
+Hungerford Town,Chippenham Town,5,17 August 2019
+Maidstone United,Slough Town,5,17 August 2019
+St Albans City,Dorking Wanderers,5,17 August 2019
+Welling United,Oxford City,5,17 August 2019
+Weymouth,Dartford,5,17 August 2019
+Billericay Town,St Albans City,6,24 August 2019
+Chelmsford City,Welling United,6,24 August 2019
+Chippenham Town,Weymouth,6,24 August 2019
+Concord Rangers,Maidstone United,6,24 August 2019
+Dartford,Braintree Town,6,24 August 2019
+Dorking Wanderers,Hampton & Richmond,6,24 August 2019
+Eastbourne Borough,Dulwich Hamlet,6,24 August 2019
+Oxford City,Hemel Hempstead Town,6,24 August 2019
+Slough Town,Bath City,6,24 August 2019
+Tonbridge Angels,Havant & Waterlooville,6,24 August 2019
+Wealdstone,Hungerford Town,6,24 August 2019
+Bath City,Oxford City,7,26 August 2019
+Braintree Town,Dorking Wanderers,7,26 August 2019
+Dulwich Hamlet,Slough Town,7,26 August 2019
+Hampton & Richmond,Chippenham Town,7,26 August 2019
+Havant & Waterlooville,Eastbourne Borough,7,26 August 2019
+Hemel Hempstead Town,Billericay Town,7,26 August 2019
+Hungerford Town,Dartford,7,26 August 2019
+Maidstone United,Chelmsford City,7,26 August 2019
+St Albans City,Concord Rangers,7,26 August 2019
+Welling United,Tonbridge Angels,7,26 August 2019
+Weymouth,Wealdstone,7,26 August 2019
+Billericay Town,Hungerford Town,8,31 August 2019
+Chelmsford City,Bath City,8,31 August 2019
+Chippenham Town,Braintree Town,8,31 August 2019
+Concord Rangers,Welling United,8,31 August 2019
+Dartford,Hemel Hempstead Town,8,31 August 2019
+Dorking Wanderers,Dulwich Hamlet,8,31 August 2019
+Eastbourne Borough,Hampton & Richmond,8,31 August 2019
+Oxford City,Havant & Waterlooville,8,31 August 2019
+Slough Town,St Albans City,8,31 August 2019
+Tonbridge Angels,Weymouth,8,31 August 2019
+Wealdstone,Maidstone United,8,31 August 2019
+Chelmsford City,Billericay Town,9,2 September 2019
+Bath City,Hampton & Richmond,9,3 September 2019
+Concord Rangers,Braintree Town,9,3 September 2019
+Dorking Wanderers,Chippenham Town,9,3 September 2019
+Dulwich Hamlet,Maidstone United,9,3 September 2019
+Oxford City,Weymouth,9,3 September 2019
+Slough Town,Hemel Hempstead Town,9,3 September 2019
+St Albans City,Wealdstone,9,3 September 2019
+Tonbridge Angels,Dartford,9,3 September 2019
+Welling United,Eastbourne Borough,9,3 September 2019
+Havant & Waterlooville,Hungerford Town,9,4 September 2019
+Billericay Town,Bath City,10,7 September 2019
+Braintree Town,Dulwich Hamlet,10,7 September 2019
+Chippenham Town,Tonbridge Angels,10,7 September 2019
+Dartford,Dorking Wanderers,10,7 September 2019
+Eastbourne Borough,Slough Town,10,7 September 2019
+Hampton & Richmond,Concord Rangers,10,7 September 2019
+Hemel Hempstead Town,Chelmsford City,10,7 September 2019
+Hungerford Town,St Albans City,10,7 September 2019
+Maidstone United,Havant & Waterlooville,10,7 September 2019
+Wealdstone,Oxford City,10,7 September 2019
+Weymouth,Welling United,10,7 September 2019
+Bath City,Eastbourne Borough,11,14 September 2019
+Chelmsford City,Chippenham Town,11,14 September 2019
+Concord Rangers,Dartford,11,14 September 2019
+Dorking Wanderers,Maidstone United,11,14 September 2019
+Dulwich Hamlet,Hungerford Town,11,14 September 2019
+Havant & Waterlooville,Braintree Town,11,14 September 2019
+Oxford City,Billericay Town,11,14 September 2019
+Slough Town,Hampton & Richmond,11,14 September 2019
+St Albans City,Weymouth,11,14 September 2019
+Tonbridge Angels,Hemel Hempstead Town,11,14 September 2019
+Welling United,Wealdstone,11,14 September 2019
+Billericay Town,Dorking Wanderers,12,28 September 2019
+Braintree Town,Oxford City,12,28 September 2019
+Chippenham Town,Dulwich Hamlet,12,28 September 2019
+Dartford,Slough Town,12,28 September 2019
+Eastbourne Borough,Chelmsford City,12,28 September 2019
+Hampton & Richmond,Tonbridge Angels,12,28 September 2019
+Hemel Hempstead Town,Bath City,12,28 September 2019
+Hungerford Town,Welling United,12,28 September 2019
+Maidstone United,St Albans City,12,28 September 2019
+Wealdstone,Havant & Waterlooville,12,28 September 2019
+Weymouth,Concord Rangers,12,28 September 2019
+Bath City,Maidstone United,13,12 October 2019
+Chelmsford City,Wealdstone,13,12 October 2019
+Concord Rangers,Chippenham Town,13,12 October 2019
+Dorking Wanderers,Hungerford Town,13,12 October 2019
+Dulwich Hamlet,Weymouth,13,12 October 2019
+Havant & Waterlooville,Hemel Hempstead Town,13,12 October 2019
+Oxford City,Dartford,13,12 October 2019
+Slough Town,Billericay Town,13,12 October 2019
+St Albans City,Eastbourne Borough,13,12 October 2019
+Tonbridge Angels,Braintree Town,13,12 October 2019
+Welling United,Hampton & Richmond,13,12 October 2019
+Billericay Town,Wealdstone,14,19 October 2019
+Braintree Town,Maidstone United,14,19 October 2019
+Chippenham Town,Hemel Hempstead Town,14,19 October 2019
+Concord Rangers,Hungerford Town,14,19 October 2019
+Dorking Wanderers,Oxford City,14,19 October 2019
+Dulwich Hamlet,Havant & Waterlooville,14,19 October 2019
+Eastbourne Borough,Weymouth,14,19 October 2019
+Hampton & Richmond,Dartford,14,19 October 2019
+Slough Town,Welling United,14,19 October 2019
+St Albans City,Bath City,14,19 October 2019
+Tonbridge Angels,Chelmsford City,14,19 October 2019
+Bath City,Dorking Wanderers,15,26 October 2019
+Chelmsford City,Dulwich Hamlet,15,26 October 2019
+Dartford,Chippenham Town,15,26 October 2019
+Havant & Waterlooville,Concord Rangers,15,26 October 2019
+Hemel Hempstead Town,Eastbourne Borough,15,26 October 2019
+Hungerford Town,Hampton & Richmond,15,26 October 2019
+Maidstone United,Billericay Town,15,26 October 2019
+Oxford City,Slough Town,15,26 October 2019
+Wealdstone,Tonbridge Angels,15,26 October 2019
+Welling United,St Albans City,15,26 October 2019
+Weymouth,Braintree Town,15,26 October 2019
+Billericay Town,Weymouth,16,2 November 2019
+Braintree Town,Hungerford Town,16,2 November 2019
+Chippenham Town,Welling United,16,2 November 2019
+Concord Rangers,Hemel Hempstead Town,16,2 November 2019
+Dorking Wanderers,Wealdstone,16,2 November 2019
+Dulwich Hamlet,Bath City,16,2 November 2019
+Eastbourne Borough,Dartford,16,2 November 2019
+Hampton & Richmond,Maidstone United,16,2 November 2019
+Slough Town,Chelmsford City,16,2 November 2019
+St Albans City,Havant & Waterlooville,16,2 November 2019
+Tonbridge Angels,Oxford City,16,2 November 2019
+Bath City,Concord Rangers,17,9 November 2019
+Chelmsford City,Dorking Wanderers,17,9 November 2019
+Dartford,Billericay Town,17,9 November 2019
+Havant & Waterlooville,Slough Town,17,9 November 2019
+Hemel Hempstead Town,Braintree Town,17,9 November 2019
+Hungerford Town,Tonbridge Angels,17,9 November 2019
+Maidstone United,Chippenham Town,17,9 November 2019
+Oxford City,St Albans City,17,9 November 2019
+Wealdstone,Eastbourne Borough,17,9 November 2019
+Welling United,Dulwich Hamlet,17,9 November 2019
+Weymouth,Hampton & Richmond,17,9 November 2019
+Chelmsford City,Oxford City,18,16 November 2019
+Chippenham Town,Slough Town,18,16 November 2019
+Concord Rangers,Dorking Wanderers,18,16 November 2019
+Dartford,Maidstone United,18,16 November 2019
+Dulwich Hamlet,Billericay Town,18,16 November 2019
+Hampton & Richmond,Wealdstone,18,16 November 2019
+Havant & Waterlooville,Bath City,18,16 November 2019
+Hemel Hempstead Town,Weymouth,18,16 November 2019
+Hungerford Town,Eastbourne Borough,18,16 November 2019
+Tonbridge Angels,St Albans City,18,16 November 2019
+Welling United,Braintree Town,18,16 November 2019
+Bath City,Dartford,19,30 November 2019
+Billericay Town,Havant & Waterlooville,19,30 November 2019
+Braintree Town,Hampton & Richmond,19,30 November 2019
+Dorking Wanderers,Welling United,19,30 November 2019
+Eastbourne Borough,Chippenham Town,19,30 November 2019
+Maidstone United,Hemel Hempstead Town,19,30 November 2019
+Oxford City,Dulwich Hamlet,19,30 November 2019
+Slough Town,Tonbridge Angels,19,30 November 2019
+St Albans City,Chelmsford City,19,30 November 2019
+Wealdstone,Concord Rangers,19,30 November 2019
+Weymouth,Hungerford Town,19,30 November 2019
+Bath City,Wealdstone,20,7 December 2019
+Chelmsford City,Hungerford Town,20,7 December 2019
+Concord Rangers,Eastbourne Borough,20,7 December 2019
+Dorking Wanderers,Weymouth,20,7 December 2019
+Dulwich Hamlet,Dartford,20,7 December 2019
+Havant & Waterlooville,Chippenham Town,20,7 December 2019
+Oxford City,Maidstone United,20,7 December 2019
+Slough Town,Braintree Town,20,7 December 2019
+St Albans City,Hampton & Richmond,20,7 December 2019
+Tonbridge Angels,Billericay Town,20,7 December 2019
+Welling United,Hemel Hempstead Town,20,7 December 2019
+Billericay Town,Oxford City,21,21 December 2019
+Braintree Town,Havant & Waterlooville,21,21 December 2019
+Chippenham Town,Chelmsford City,21,21 December 2019
+Dartford,Concord Rangers,21,21 December 2019
+Eastbourne Borough,Bath City,21,21 December 2019
+Hampton & Richmond,Slough Town,21,21 December 2019
+Hemel Hempstead Town,Tonbridge Angels,21,21 December 2019
+Hungerford Town,Dulwich Hamlet,21,21 December 2019
+Maidstone United,Dorking Wanderers,21,21 December 2019
+Wealdstone,Welling United,21,21 December 2019
+Weymouth,St Albans City,21,21 December 2019
+Bath City,Chippenham Town,22,26 December 2019
+Chelmsford City,Braintree Town,22,26 December 2019
+Concord Rangers,Billericay Town,22,26 December 2019
+Dorking Wanderers,Eastbourne Borough,22,26 December 2019
+Dulwich Hamlet,Hampton & Richmond,22,26 December 2019
+Havant & Waterlooville,Weymouth,22,26 December 2019
+Oxford City,Hungerford Town,22,26 December 2019
+Slough Town,Wealdstone,22,26 December 2019
+St Albans City,Hemel Hempstead Town,22,26 December 2019
+Tonbridge Angels,Maidstone United,22,26 December 2019
+Welling United,Dartford,22,26 December 2019
+Billericay Town,Chelmsford City,23,28 December 2019
+Braintree Town,Concord Rangers,23,28 December 2019
+Chippenham Town,Dorking Wanderers,23,28 December 2019
+Dartford,Tonbridge Angels,23,28 December 2019
+Eastbourne Borough,Welling United,23,28 December 2019
+Hampton & Richmond,Bath City,23,28 December 2019
+Hemel Hempstead Town,Slough Town,23,28 December 2019
+Hungerford Town,Havant & Waterlooville,23,28 December 2019
+Maidstone United,Dulwich Hamlet,23,28 December 2019
+Wealdstone,St Albans City,23,28 December 2019
+Weymouth,Oxford City,23,28 December 2019
+Billericay Town,Concord Rangers,24,1 January 2020
+Braintree Town,Chelmsford City,24,1 January 2020
+Chippenham Town,Bath City,24,1 January 2020
+Dartford,Welling United,24,1 January 2020
+Eastbourne Borough,Dorking Wanderers,24,1 January 2020
+Hampton & Richmond,Dulwich Hamlet,24,1 January 2020
+Hemel Hempstead Town,St Albans City,24,1 January 2020
+Hungerford Town,Oxford City,24,1 January 2020
+Maidstone United,Tonbridge Angels,24,1 January 2020
+Wealdstone,Slough Town,24,1 January 2020
+Weymouth,Havant & Waterlooville,24,1 January 2020
+Bath City,Billericay Town,25,4 January 2020
+Chelmsford City,Hemel Hempstead Town,25,4 January 2020
+Concord Rangers,Hampton & Richmond,25,4 January 2020
+Dorking Wanderers,Dartford,25,4 January 2020
+Dulwich Hamlet,Braintree Town,25,4 January 2020
+Havant & Waterlooville,Maidstone United,25,4 January 2020
+Oxford City,Wealdstone,25,4 January 2020
+Slough Town,Eastbourne Borough,25,4 January 2020
+St Albans City,Hungerford Town,25,4 January 2020
+Tonbridge Angels,Chippenham Town,25,4 January 2020
+Welling United,Weymouth,25,4 January 2020
+Billericay Town,Slough Town,26,11 January 2020
+Braintree Town,Tonbridge Angels,26,11 January 2020
+Chippenham Town,Concord Rangers,26,11 January 2020
+Dartford,Oxford City,26,11 January 2020
+Eastbourne Borough,St Albans City,26,11 January 2020
+Hampton & Richmond,Welling United,26,11 January 2020
+Hemel Hempstead Town,Havant & Waterlooville,26,11 January 2020
+Hungerford Town,Dorking Wanderers,26,11 January 2020
+Maidstone United,Bath City,26,11 January 2020
+Wealdstone,Chelmsford City,26,11 January 2020
+Weymouth,Dulwich Hamlet,26,11 January 2020
+Bath City,Hemel Hempstead Town,27,18 January 2020
+Chelmsford City,Eastbourne Borough,27,18 January 2020
+Concord Rangers,Weymouth,27,18 January 2020
+Dorking Wanderers,Billericay Town,27,18 January 2020
+Dulwich Hamlet,Chippenham Town,27,18 January 2020
+Havant & Waterlooville,Wealdstone,27,18 January 2020
+Oxford City,Braintree Town,27,18 January 2020
+Slough Town,Dartford,27,18 January 2020
+St Albans City,Maidstone United,27,18 January 2020
+Tonbridge Angels,Hampton & Richmond,27,18 January 2020
+Welling United,Hungerford Town,27,18 January 2020
+Billericay Town,Tonbridge Angels,28,25 January 2020
+Braintree Town,Slough Town,28,25 January 2020
+Chippenham Town,Havant & Waterlooville,28,25 January 2020
+Dartford,Dulwich Hamlet,28,25 January 2020
+Eastbourne Borough,Concord Rangers,28,25 January 2020
+Hampton & Richmond,St Albans City,28,25 January 2020
+Hemel Hempstead Town,Welling United,28,25 January 2020
+Hungerford Town,Chelmsford City,28,25 January 2020
+Maidstone United,Oxford City,28,25 January 2020
+Wealdstone,Bath City,28,25 January 2020
+Weymouth,Dorking Wanderers,28,25 January 2020
+Billericay Town,Maidstone United,29,1 February 2020
+Braintree Town,Weymouth,29,1 February 2020
+Chippenham Town,Dartford,29,1 February 2020
+Concord Rangers,Havant & Waterlooville,29,1 February 2020
+Dorking Wanderers,Bath City,29,1 February 2020
+Dulwich Hamlet,Chelmsford City,29,1 February 2020
+Eastbourne Borough,Hemel Hempstead Town,29,1 February 2020
+Hampton & Richmond,Hungerford Town,29,1 February 2020
+Slough Town,Oxford City,29,1 February 2020
+St Albans City,Welling United,29,1 February 2020
+Tonbridge Angels,Wealdstone,29,1 February 2020
+Bath City,St Albans City,30,8 February 2020
+Chelmsford City,Tonbridge Angels,30,8 February 2020
+Dartford,Hampton & Richmond,30,8 February 2020
+Havant & Waterlooville,Dulwich Hamlet,30,8 February 2020
+Hemel Hempstead Town,Chippenham Town,30,8 February 2020
+Hungerford Town,Concord Rangers,30,8 February 2020
+Maidstone United,Braintree Town,30,8 February 2020
+Oxford City,Dorking Wanderers,30,8 February 2020
+Wealdstone,Billericay Town,30,8 February 2020
+Welling United,Slough Town,30,8 February 2020
+Weymouth,Eastbourne Borough,30,8 February 2020
+Billericay Town,Dartford,31,15 February 2020
+Braintree Town,Hemel Hempstead Town,31,15 February 2020
+Chippenham Town,Maidstone United,31,15 February 2020
+Concord Rangers,Bath City,31,15 February 2020
+Dorking Wanderers,Chelmsford City,31,15 February 2020
+Dulwich Hamlet,Welling United,31,15 February 2020
+Eastbourne Borough,Wealdstone,31,15 February 2020
+Hampton & Richmond,Weymouth,31,15 February 2020
+Slough Town,Havant & Waterlooville,31,15 February 2020
+St Albans City,Oxford City,31,15 February 2020
+Tonbridge Angels,Hungerford Town,31,15 February 2020
+Bath City,Dulwich Hamlet,32,22 February 2020
+Chelmsford City,Slough Town,32,22 February 2020
+Dartford,Eastbourne Borough,32,22 February 2020
+Havant & Waterlooville,St Albans City,32,22 February 2020
+Hemel Hempstead Town,Concord Rangers,32,22 February 2020
+Hungerford Town,Braintree Town,32,22 February 2020
+Maidstone United,Hampton & Richmond,32,22 February 2020
+Oxford City,Tonbridge Angels,32,22 February 2020
+Wealdstone,Dorking Wanderers,32,22 February 2020
+Welling United,Chippenham Town,32,22 February 2020
+Weymouth,Billericay Town,32,22 February 2020
+Braintree Town,Bath City,33,29 February 2020
+Chippenham Town,St Albans City,33,29 February 2020
+Concord Rangers,Oxford City,33,29 February 2020
+Dartford,Wealdstone,33,29 February 2020
+Dorking Wanderers,Slough Town,33,29 February 2020
+Dulwich Hamlet,Tonbridge Angels,33,29 February 2020
+Eastbourne Borough,Billericay Town,33,29 February 2020
+Hampton & Richmond,Chelmsford City,33,29 February 2020
+Hungerford Town,Hemel Hempstead Town,33,29 February 2020
+Welling United,Havant & Waterlooville,33,29 February 2020
+Weymouth,Maidstone United,33,29 February 2020
+Bath City,Weymouth,34,7 March 2020
+Billericay Town,Braintree Town,34,7 March 2020
+Chelmsford City,Concord Rangers,34,7 March 2020
+Havant & Waterlooville,Hampton & Richmond,34,7 March 2020
+Hemel Hempstead Town,Dorking Wanderers,34,7 March 2020
+Maidstone United,Welling United,34,7 March 2020
+Oxford City,Chippenham Town,34,7 March 2020
+Slough Town,Hungerford Town,34,7 March 2020
+St Albans City,Dartford,34,7 March 2020
+Tonbridge Angels,Eastbourne Borough,34,7 March 2020
+Wealdstone,Dulwich Hamlet,34,7 March 2020
+Braintree Town,St Albans City,35,14 March 2020
+Chippenham Town,Wealdstone,35,14 March 2020
+Concord Rangers,Tonbridge Angels,35,14 March 2020
+Dartford,Chelmsford City,35,14 March 2020
+Dorking Wanderers,Havant & Waterlooville,35,14 March 2020
+Dulwich Hamlet,Hemel Hempstead Town,35,14 March 2020
+Eastbourne Borough,Maidstone United,35,14 March 2020
+Hampton & Richmond,Oxford City,35,14 March 2020
+Hungerford Town,Bath City,35,14 March 2020
+Welling United,Billericay Town,35,14 March 2020
+Weymouth,Slough Town,35,14 March 2020
+Bath City,Welling United,36,21 March 2020
+Billericay Town,Chippenham Town,36,21 March 2020
+Chelmsford City,Weymouth,36,21 March 2020
+Havant & Waterlooville,Dartford,36,21 March 2020
+Hemel Hempstead Town,Hampton & Richmond,36,21 March 2020
+Maidstone United,Hungerford Town,36,21 March 2020
+Oxford City,Eastbourne Borough,36,21 March 2020
+Slough Town,Concord Rangers,36,21 March 2020
+St Albans City,Dulwich Hamlet,36,21 March 2020
+Tonbridge Angels,Dorking Wanderers,36,21 March 2020
+Wealdstone,Braintree Town,36,21 March 2020
+Chelmsford City,St Albans City,37,28 March 2020
+Chippenham Town,Eastbourne Borough,37,28 March 2020
+Concord Rangers,Wealdstone,37,28 March 2020
+Dartford,Bath City,37,28 March 2020
+Dulwich Hamlet,Oxford City,37,28 March 2020
+Hampton & Richmond,Braintree Town,37,28 March 2020
+Havant & Waterlooville,Billericay Town,37,28 March 2020
+Hemel Hempstead Town,Maidstone United,37,28 March 2020
+Hungerford Town,Weymouth,37,28 March 2020
+Tonbridge Angels,Slough Town,37,28 March 2020
+Welling United,Dorking Wanderers,37,28 March 2020
+Bath City,Havant & Waterlooville,38,4 April 2020
+Billericay Town,Dulwich Hamlet,38,4 April 2020
+Braintree Town,Welling United,38,4 April 2020
+Dorking Wanderers,Concord Rangers,38,4 April 2020
+Eastbourne Borough,Hungerford Town,38,4 April 2020
+Maidstone United,Dartford,38,4 April 2020
+Oxford City,Chelmsford City,38,4 April 2020
+Slough Town,Chippenham Town,38,4 April 2020
+St Albans City,Tonbridge Angels,38,4 April 2020
+Wealdstone,Hampton & Richmond,38,4 April 2020
+Weymouth,Hemel Hempstead Town,38,4 April 2020
+Bath City,Slough Town,39,10 April 2020
+Braintree Town,Dartford,39,10 April 2020
+Dulwich Hamlet,Eastbourne Borough,39,10 April 2020
+Hampton & Richmond,Dorking Wanderers,39,10 April 2020
+Havant & Waterlooville,Tonbridge Angels,39,10 April 2020
+Hemel Hempstead Town,Oxford City,39,10 April 2020
+Hungerford Town,Wealdstone,39,10 April 2020
+Maidstone United,Concord Rangers,39,10 April 2020
+St Albans City,Billericay Town,39,10 April 2020
+Welling United,Chelmsford City,39,10 April 2020
+Weymouth,Chippenham Town,39,10 April 2020
+Billericay Town,Hemel Hempstead Town,40,13 April 2020
+Chelmsford City,Maidstone United,40,13 April 2020
+Chippenham Town,Hampton & Richmond,40,13 April 2020
+Concord Rangers,St Albans City,40,13 April 2020
+Dartford,Hungerford Town,40,13 April 2020
+Dorking Wanderers,Braintree Town,40,13 April 2020
+Eastbourne Borough,Havant & Waterlooville,40,13 April 2020
+Oxford City,Bath City,40,13 April 2020
+Slough Town,Dulwich Hamlet,40,13 April 2020
+Tonbridge Angels,Welling United,40,13 April 2020
+Wealdstone,Weymouth,40,13 April 2020
+Bath City,Chelmsford City,41,18 April 2020
+Braintree Town,Chippenham Town,41,18 April 2020
+Dulwich Hamlet,Dorking Wanderers,41,18 April 2020
+Hampton & Richmond,Eastbourne Borough,41,18 April 2020
+Havant & Waterlooville,Oxford City,41,18 April 2020
+Hemel Hempstead Town,Dartford,41,18 April 2020
+Hungerford Town,Billericay Town,41,18 April 2020
+Maidstone United,Wealdstone,41,18 April 2020
+St Albans City,Slough Town,41,18 April 2020
+Welling United,Concord Rangers,41,18 April 2020
+Weymouth,Tonbridge Angels,41,18 April 2020
+Billericay Town,Hampton & Richmond,42,25 April 2020
+Chelmsford City,Havant & Waterlooville,42,25 April 2020
+Chippenham Town,Hungerford Town,42,25 April 2020
+Concord Rangers,Dulwich Hamlet,42,25 April 2020
+Dartford,Weymouth,42,25 April 2020
+Dorking Wanderers,St Albans City,42,25 April 2020
+Eastbourne Borough,Braintree Town,42,25 April 2020
+Oxford City,Welling United,42,25 April 2020
+Slough Town,Maidstone United,42,25 April 2020
+Tonbridge Angels,Bath City,42,25 April 2020
+Wealdstone,Hemel Hempstead Town,42,25 April 2020
