@@ -37,7 +37,7 @@ content = [x.strip() for x in content]
 
 if __name__ == '__main__':
     start_time = time.time()
-    p = Pool(20)  # Pool tells how many at a time
+    p = Pool(30)  # Pool tells how many at a time
     records = p.map(parse, content)
     p.terminate()
     p.join()

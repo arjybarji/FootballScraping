@@ -6,6 +6,7 @@ import uuid
 import time
 from multiprocessing import Pool
 import sys, os
+import urllib.request
 
 
 def parse(url):
@@ -83,7 +84,7 @@ def parse(url):
                     matchCorners = int(homeCorners) + int(awayCorners)
 
                     print("Got Score . " + homeTeam + " vs " + awayTeam+" . " + gameWeek )
-                    return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + homeCorners + "," + awayCorners + "," + homeCornersConc + "," + awayCornersConc + "," + str(matchCorners)+","+dds[0].text.strip() + "\n")
+                    return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + homeCorners + "," + awayCorners + "," + homeCornersConc + "," + awayCornersConc + "," + str(matchCorners)+","+dds[0].text.strip()"\n")
                 except Exception as e:
                     print("Got Score no corners. " + homeTeam + " vs " + awayTeam+" . " + gameWeek + " NO FRAME")
                     return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip() + "\n")
@@ -94,6 +95,7 @@ def parse(url):
         exc_type, exc_obj, exc_tb = sys.exc_info()
         fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
         print(exc_type, fname, exc_tb.tb_lineno)
+        print(teams)
         print(url)
         return("L$" + url + "\n")
 
@@ -106,31 +108,38 @@ with open('links.txt') as f:
 content = [x.strip() for x in content]
 
 links = open('links.txt','w')
+errors = open('errors.txt','w')
+done = open('done.txt','w')
 
 if __name__ == '__main__':
     start_time = time.time()
-    p = Pool(30)  # Pool tells how many at a time
+    p = Pool(25)  # Pool tells how many at a time
     records = p.map(parse, content)
     p.terminate()
     p.join()
-    print(len(records))
+    errorNum = 0
+    statsNum = 0
+    fixturesNum = 0
     for r in records:
-        print(r)
+        #print(r)
         if r is not None:
             if r[0] == "S":
                 splitted = r.split("$")
                 stats.write(splitted[1])
+                statsNum = statsNum+1
             if r[0] == "F":
                 splitted = r.split("$")
                 splitted2 = splitted[1].split("£")
                 fixtures.write(splitted2[0] + "\n")
                 links.write(splitted2[1] + "\n")
+                fixturesNum = fixturesNum+1
             if r[0] == "L":
                 splitted = r.split("$")
                 links.write(splitted[1])
+                errors.write(splitted[1])
+                errorNum = errorNum+1
+    print("Length of Records:" + str(len(records)))
+    print("Stats: " + str(statsNum))
+    print("Fixtures: " + str(fixturesNum))
+    print("Errors:" + str(errorNum))
     print("--- %s seconds ---" % (time.time() - start_time))
-
-'''
-for url in content:
-    parse(url)
-'''
