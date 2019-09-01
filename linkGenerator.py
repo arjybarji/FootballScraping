@@ -1,6 +1,6 @@
 links = []
-#file = open('links.txt','w')
-file = open('AllLinks.txt','w')
+file = open('links.txt','w')
+#file = open('AllLinks.txt','w')
 
 def getLinks(start,end):
     for i in range(start,end+1):
