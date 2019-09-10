@@ -6,6 +6,7 @@ def getLinks(start,end):
     for i in range(start,end+1):
         leagueUrl = 'https://us.soccerway.com/matches/2018/08/10/england/premier-league/manchester-united-fc/leicester-city-fc/'
         file.write( leagueUrl +str(i)+'/' + "\n")
+        
 #Premier League
 getLinks(3029073,3029452)
 #Serie A

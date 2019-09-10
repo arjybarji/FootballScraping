@@ -1,4 +1,3 @@
-Arsenal,Tottenham Hotspur,4,1 September 2019
 AFC Bournemouth,Everton,5,15 September 2019
 Aston Villa,West Ham United,5,16 September 2019
 Brighton & Hove Albion,Burnley,5,14 September 2019
@@ -71,9 +70,7 @@ Watford,Chelsea,11,2 November 2019
 West Ham United,Newcastle United,11,2 November 2019
 Burnley,West Ham United,12,9 November 2019
 Chelsea,Crystal Palace,12,9 November 2019
-Leicester City,Arsenal,12,9 November 2019
 Liverpool,Manchester City,12,9 November 2019
-Manchester United,Brighton & Hove Albion,12,9 November 2019
 Newcastle United,AFC Bournemouth,12,9 November 2019
 Norwich City,Watford,12,9 November 2019
 Southampton,Everton,12,9 November 2019
@@ -93,9 +90,7 @@ Burnley,Crystal Palace,14,30 November 2019
 Chelsea,West Ham United,14,30 November 2019
 Leicester City,Everton,14,30 November 2019
 Liverpool,Brighton & Hove Albion,14,30 November 2019
-Manchester United,Aston Villa,14,30 November 2019
 Newcastle United,Manchester City,14,30 November 2019
-Norwich City,Arsenal,14,30 November 2019
 Southampton,Watford,14,30 November 2019
 Tottenham Hotspur,AFC Bournemouth,14,30 November 2019
 Wolverhampton Wanderers,Sheffield United,14,30 November 2019
@@ -138,7 +133,6 @@ Newcastle United,Crystal Palace,18,21 December 2019
 Norwich City,Wolverhampton Wanderers,18,21 December 2019
 Tottenham Hotspur,Chelsea,18,21 December 2019
 Watford,Manchester United,18,21 December 2019
-West Ham United,Liverpool,18,21 December 2019
 AFC Bournemouth,Arsenal,19,26 December 2019
 Aston Villa,Norwich City,19,26 December 2019
 Chelsea,Southampton,19,26 December 2019
@@ -339,21 +333,148 @@ Manchester City,Norwich City,38,17 May 2020
 Newcastle United,Liverpool,38,17 May 2020
 Southampton,Sheffield United,38,17 May 2020
 West Ham United,Aston Villa,38,17 May 2020
-Atalanta,Torino,2,1 September 2019
-Cagliari,Internazionale,2,1 September 2019
-Genoa,Fiorentina,2,1 September 2019
-Lazio,Roma,2,1 September 2019
-Lecce,Hellas Verona,2,1 September 2019
-Sassuolo,Sampdoria,2,1 September 2019
-Udinese,Parma,2,1 September 2019
+Fiorentina,Juventus,3,14 September 2019
+Genoa,Atalanta,3,15 September 2019
+Hellas Verona,Milan,3,15 September 2019
+Internazionale,Udinese,3,14 September 2019
+Napoli,Sampdoria,3,14 September 2019
+Parma,Cagliari,3,15 September 2019
+Roma,Sassuolo,3,15 September 2019
+SPAL,Lazio,3,15 September 2019
+Torino,Lecce,3,16 September 2019
+Atalanta,Fiorentina,4,22 September 2019
+Bologna,Roma,4,22 September 2019
+Cagliari,Genoa,4,20 September 2019
+Lazio,Parma,4,22 September 2019
+Lecce,Napoli,4,22 September 2019
 Milan,Internazionale,4,21 September 2019
+Sampdoria,Torino,4,22 September 2019
+Sassuolo,SPAL,4,22 September 2019
+Udinese,Brescia,4,21 September 2019
+Brescia,Juventus,5,24 September 2019
+Fiorentina,Sampdoria,5,25 September 2019
+Genoa,Bologna,5,25 September 2019
+Hellas Verona,Udinese,5,24 September 2019
+Internazionale,Lazio,5,25 September 2019
+Napoli,Cagliari,5,25 September 2019
+Parma,Sassuolo,5,25 September 2019
+Roma,Atalanta,5,25 September 2019
+SPAL,Lecce,5,25 September 2019
+Torino,Milan,5,26 September 2019
+Cagliari,Hellas Verona,6,29 September 2019
+Juventus,SPAL,6,28 September 2019
+Lazio,Genoa,6,29 September 2019
+Lecce,Roma,6,29 September 2019
+Milan,Fiorentina,6,29 September 2019
+Napoli,Brescia,6,29 September 2019
+Parma,Torino,6,30 September 2019
+Sampdoria,Internazionale,6,28 September 2019
+Sassuolo,Atalanta,6,28 September 2019
+Udinese,Bologna,6,29 September 2019
+Atalanta,Lecce,7,6 October 2019
+Bologna,Lazio,7,6 October 2019
+Brescia,Sassuolo,7,4 October 2019
+Fiorentina,Udinese,7,6 October 2019
+Genoa,Milan,7,5 October 2019
+Hellas Verona,Sampdoria,7,5 October 2019
 Internazionale,Juventus,7,6 October 2019
-Roma,Napoli,11,3 November 2019
+Roma,Cagliari,7,6 October 2019
+SPAL,Parma,7,5 October 2019
+Torino,Napoli,7,6 October 2019
+Brescia,Fiorentina,8,21 October 2019
+Cagliari,SPAL,8,20 October 2019
+Juventus,Bologna,8,19 October 2019
+Lazio,Atalanta,8,19 October 2019
+Milan,Lecce,8,20 October 2019
+Napoli,Hellas Verona,8,19 October 2019
+Parma,Genoa,8,20 October 2019
+Sampdoria,Roma,8,20 October 2019
+Sassuolo,Internazionale,8,20 October 2019
+Udinese,Torino,8,20 October 2019
+Atalanta,Udinese,9,27 October 2019
+Bologna,Sampdoria,9,27 October 2019
+Fiorentina,Lazio,9,27 October 2019
+Genoa,Brescia,9,26 October 2019
+Hellas Verona,Sassuolo,9,25 October 2019
+Internazionale,Parma,9,26 October 2019
+Lecce,Juventus,9,26 October 2019
+Roma,Milan,9,27 October 2019
+SPAL,Napoli,9,27 October 2019
+Torino,Cagliari,9,27 October 2019
+Brescia,Internazionale,10,29 October 2019
+Cagliari,Bologna,10,30 October 2019
+Juventus,Genoa,10,30 October 2019
+Lazio,Torino,10,30 October 2019
+Milan,SPAL,10,31 October 2019
+Napoli,Atalanta,10,30 October 2019
+Parma,Hellas Verona,10,29 October 2019
+Sampdoria,Lecce,10,30 October 2019
+Sassuolo,Fiorentina,10,30 October 2019
+Udinese,Roma,10,30 October 2019
+Atalanta,Cagliari,11,3 November 2019
+Bologna,Internazionale,11,2 November 2019
+Fiorentina,Parma,11,3 November 2019
+Genoa,Udinese,11,3 November 2019
+Hellas Verona,Brescia,11,3 November 2019
+Lecce,Sassuolo,11,3 November 2019
+Milan,Lazio,11,3 November 2019
+Roma,Napoli,11,2 November 2019
+SPAL,Sampdoria,11,4 November 2019
 Torino,Juventus,11,2 November 2019
+Brescia,Torino,12,9 November 2019
+Cagliari,Fiorentina,12,10 November 2019
+Internazionale,Hellas Verona,12,9 November 2019
+Juventus,Milan,12,10 November 2019
+Lazio,Lecce,12,10 November 2019
+Napoli,Genoa,12,9 November 2019
+Parma,Roma,12,10 November 2019
+Sampdoria,Atalanta,12,10 November 2019
+Sassuolo,Bologna,12,8 November 2019
+Udinese,SPAL,12,10 November 2019
+Atalanta,Juventus,13,23 November 2019
+Bologna,Parma,13,24 November 2019
+Hellas Verona,Fiorentina,13,24 November 2019
+Lecce,Cagliari,13,24 November 2019
+Milan,Napoli,13,23 November 2019
+Roma,Brescia,13,24 November 2019
+Sampdoria,Udinese,13,24 November 2019
+Sassuolo,Lazio,13,24 November 2019
+SPAL,Genoa,13,25 November 2019
+Torino,Internazionale,13,23 November 2019
+Brescia,Atalanta,14,30 November 2019
+Cagliari,Sampdoria,14,2 December 2019
+Fiorentina,Lecce,14,30 November 2019
+Genoa,Torino,14,30 November 2019
+Hellas Verona,Roma,14,1 December 2019
+Internazionale,SPAL,14,1 December 2019
+Juventus,Sassuolo,14,1 December 2019
+Lazio,Udinese,14,1 December 2019
+Napoli,Bologna,14,1 December 2019
+Parma,Milan,14,1 December 2019
+Atalanta,Hellas Verona,15,7 December 2019
+Bologna,Milan,15,8 December 2019
+Internazionale,Roma,15,6 December 2019
+Lazio,Juventus,15,7 December 2019
+Lecce,Genoa,15,8 December 2019
+Sassuolo,Cagliari,15,8 December 2019
+SPAL,Brescia,15,8 December 2019
+Torino,Fiorentina,15,8 December 2019
+Udinese,Napoli,15,7 December 2019
+Bologna,Atalanta,16,15 December 2019
+Brescia,Lecce,16,14 December 2019
+Cagliari,Lazio,16,16 December 2019
+Fiorentina,Internazionale,16,15 December 2019
+Genoa,Sampdoria,16,14 December 2019
+Hellas Verona,Torino,16,15 December 2019
+Juventus,Udinese,16,15 December 2019
+Milan,Sassuolo,16,15 December 2019
+Napoli,Parma,16,14 December 2019
+Roma,SPAL,16,15 December 2019
+Napoli,Internazionale,18,6 January 2020
+Roma,Juventus,19,12 January 2020
 Ajax,Fortuna Sittard,4,25 September 2019
 PSV,Groningen,4,25 September 2019
 Feyenoord,AZ,4,26 September 2019
-RKC Waalwijk,PSV,5,1 September 2019
 AZ,Sparta Rotterdam,6,14 September 2019
 PSV,Vitesse,6,14 September 2019
 VVV,Groningen,6,14 September 2019
@@ -372,9 +493,9 @@ ADO Den Haag,AZ,7,22 September 2019
 PSV,Ajax,7,22 September 2019
 Heerenveen,Utrecht,7,22 September 2019
 Emmen,Feyenoord,7,22 September 2019
-VVV,Heerenveen,8,29 September 2019
-AZ,Heracles,8,28 September 2019
-PEC Zwolle,PSV,8,28 September 2019
+VVV,Heerenveen,8,28 September 2019
+AZ,Heracles,8,29 September 2019
+PEC Zwolle,PSV,8,29 September 2019
 Ajax,Groningen,8,28 September 2019
 Fortuna Sittard,Sparta Rotterdam,8,28 September 2019
 Feyenoord,Twente,8,29 September 2019
@@ -384,11 +505,11 @@ Emmen,ADO Den Haag,8,27 September 2019
 Groningen,RKC Waalwijk,9,4 October 2019
 Heracles,Emmen,9,5 October 2019
 Sparta Rotterdam,Twente,9,5 October 2019
-PSV,VVV,9,5 October 2019
+PSV,VVV,9,6 October 2019
 Heerenveen,PEC Zwolle,9,5 October 2019
 ADO Den Haag,Ajax,9,6 October 2019
 Fortuna Sittard,Feyenoord,9,6 October 2019
-Vitesse,Utrecht,9,6 October 2019
+Vitesse,Utrecht,9,5 October 2019
 Willem II,AZ,9,6 October 2019
 Utrecht,PSV,10,19 October 2019
 AZ,Heerenveen,10,19 October 2019
@@ -412,14 +533,14 @@ Sparta Rotterdam,PSV,12,2 November 2019
 RKC Waalwijk,Heracles,12,2 November 2019
 Utrecht,Fortuna Sittard,12,2 November 2019
 AZ,Twente,12,2 November 2019
-PEC Zwolle,Ajax,12,2 November 2019
+PEC Zwolle,Ajax,12,1 November 2019
 Emmen,Vitesse,12,3 November 2019
 VVV,Feyenoord,12,3 November 2019
 ADO Den Haag,Heerenveen,12,3 November 2019
 Groningen,Willem II,12,3 November 2019
 Vitesse,Groningen,13,8 November 2019
 Heerenveen,Sparta Rotterdam,13,9 November 2019
-Willem II,PSV,13,9 November 2019
+Willem II,PSV,13,10 November 2019
 Fortuna Sittard,ADO Den Haag,13,9 November 2019
 Heracles,VVV,13,9 November 2019
 Twente,PEC Zwolle,13,10 November 2019
@@ -427,7 +548,7 @@ AZ,Emmen,13,10 November 2019
 Ajax,Utrecht,13,10 November 2019
 Feyenoord,RKC Waalwijk,13,10 November 2019
 Utrecht,AZ,14,23 November 2019
-PSV,Heerenveen,14,23 November 2019
+PSV,Heerenveen,14,24 November 2019
 PEC Zwolle,Fortuna Sittard,14,23 November 2019
 Ajax,Heracles,14,23 November 2019
 ADO Den Haag,Willem II,14,23 November 2019
@@ -438,7 +559,7 @@ Sparta Rotterdam,Vitesse,14,24 November 2019
 Heerenveen,Vitesse,15,29 November 2019
 Willem II,Sparta Rotterdam,15,30 November 2019
 Fortuna Sittard,Groningen,15,30 November 2019
-Emmen,PSV,15,30 November 2019
+Emmen,PSV,15,1 December 2019
 Heracles,ADO Den Haag,15,30 November 2019
 Feyenoord,PEC Zwolle,15,1 December 2019
 Twente,Ajax,15,1 December 2019
@@ -620,7 +741,6 @@ Coventry City,Blackpool,7,7 September 2019
 Doncaster Rovers,Rotherham United,7,7 September 2019
 Fleetwood Town,Oxford United,7,7 September 2019
 Milton Keynes Dons,AFC Wimbledon,7,7 September 2019
-Portsmouth,Southend United,7,7 September 2019
 Rochdale,Ipswich Town,7,5 November 2019
 Tranmere Rovers,Gillingham,7,7 September 2019
 Wycombe Wanderers,Lincoln City,7,7 September 2019
@@ -1042,7 +1162,7 @@ Queens Park Rangers,Brentford,14,28 October 2019
 Ipswich Town,Coventry City,37,7 March 2020
 Sheffield Wednesday,Leeds United,14,26 October 2019
 Lincoln City,Burton Albion,37,7 March 2020
-Swansea City,Cardiff City,14,26 October 2019
+Swansea City,Cardiff City,14,27 October 2019
 Milton Keynes Dons,Doncaster Rovers,37,7 March 2020
 West Bromwich Albion,Charlton Athletic,14,26 October 2019
 Peterborough United,Portsmouth,37,7 March 2020
@@ -2013,8 +2133,6 @@ Mansfield Town,Crawley Town,46,25 April 2020
 Morecambe,Scunthorpe United,46,25 April 2020
 Newport County,Northampton Town,46,25 April 2020
 Plymouth Argyle,Port Vale,46,25 April 2020
-Espanyol,Granada,3,1 September 2019
-Villarreal,Real Madrid,3,1 September 2019
 Deportivo Alavés,Sevilla,4,15 September 2019
 Barcelona,Valencia,4,14 September 2019
 Real Betis,Getafe,4,15 September 2019
@@ -2055,16 +2173,16 @@ Granada,Leganes,7,28 September 2019
 Levante,Osasuna,7,29 September 2019
 Sevilla,Real Sociedad,7,29 September 2019
 Villarreal,Real Betis,7,27 September 2019
-Real Betis,Eibar,8,5 October 2019
-Celta de Vigo,Athletic Club,8,4 October 2019
+Barcelona,Sevilla,8,6 October 2019
+Real Betis,Eibar,8,4 October 2019
+Celta de Vigo,Athletic Club,8,6 October 2019
 Leganes,Levante,8,5 October 2019
 Mallorca,Espanyol,8,6 October 2019
-Osasuna,Villarreal,8,6 October 2019
+Osasuna,Villarreal,8,5 October 2019
 Real Madrid,Granada,8,5 October 2019
 Real Sociedad,Getafe,8,6 October 2019
 Valencia,Deportivo Alavés,8,5 October 2019
-Reims,Lille,4,1 September 2019
-Olympique Marseille,Saint-Etienne,4,1 September 2019
+Real Valladolid,Atletico Madrid,8,6 October 2019
 Dijon,Nîmes,5,14 September 2019
 Nantes,Reims,5,15 September 2019
 Montpellier,Nice,5,14 September 2019
@@ -2075,8 +2193,46 @@ Lille,Angers SCO,5,13 September 2019
 Bordeaux,Metz,5,14 September 2019
 Amiens SC,Olympique Lyonnais,5,13 September 2019
 PSG,Strasbourg,5,14 September 2019
+Reims,Monaco,6,21 September 2019
+Metz,Amiens SC,6,21 September 2019
 Olympique Lyonnais,PSG,6,22 September 2019
+Bordeaux,Brest,6,21 September 2019
+Strasbourg,Nantes,6,20 September 2019
+Olympique Marseille,Montpellier,6,21 September 2019
+Nîmes,Toulouse,6,21 September 2019
+Angers SCO,Saint-Etienne,6,22 September 2019
+Rennes,Lille,6,22 September 2019
+Nice,Dijon,6,21 September 2019
+Monaco,Nice,7,24 September 2019
+Brest,Olympique Lyonnais,7,25 September 2019
+Nantes,Rennes,7,25 September 2019
+PSG,Reims,7,25 September 2019
+Saint-Etienne,Metz,7,25 September 2019
+Montpellier,Nîmes,7,25 September 2019
+Dijon,Olympique Marseille,7,24 September 2019
+Toulouse,Angers SCO,7,25 September 2019
+Lille,Strasbourg,7,25 September 2019
+Amiens SC,Bordeaux,7,25 September 2019
+Nice,Lille,8,28 September 2019
+Bordeaux,PSG,8,28 September 2019
+Angers SCO,Amiens SC,8,28 September 2019
+Monaco,Brest,8,28 September 2019
+Metz,Toulouse,8,28 September 2019
+Olympique Lyonnais,Nantes,8,28 September 2019
+Strasbourg,Montpellier,8,29 September 2019
+Olympique Marseille,Rennes,8,29 September 2019
+Nîmes,Saint-Etienne,8,29 September 2019
+Reims,Dijon,8,28 September 2019
+Rennes,Reims,9,6 October 2019
+Dijon,Strasbourg,9,5 October 2019
+Amiens SC,Olympique Marseille,9,4 October 2019
+Montpellier,Monaco,9,5 October 2019
+Lille,Nîmes,9,6 October 2019
+PSG,Angers SCO,9,5 October 2019
+Toulouse,Bordeaux,9,5 October 2019
+Brest,Metz,9,5 October 2019
 Saint-Etienne,Olympique Lyonnais,9,6 October 2019
+Nantes,Nice,9,5 October 2019
 PSG,Olympique Marseille,11,27 October 2019
 Olympique Marseille,Olympique Lyonnais,13,10 November 2019
 Saint-Etienne,PSG,18,15 December 2019
@@ -2113,6 +2269,69 @@ Augsburg,Bayer Leverkusen,6,28 September 2019
 Köln,Hertha BSC,6,29 September 2019
 Paderborn,Bayern München,6,28 September 2019
 Union Berlin,Eintracht Frankfurt,6,27 September 2019
+Bayern München,Hoffenheim,7,5 October 2019
+Bayer Leverkusen,RB Leipzig,7,5 October 2019
+Borussia M'gladbach,Augsburg,7,6 October 2019
+Wolfsburg,Union Berlin,7,6 October 2019
+Eintracht Frankfurt,Werder Bremen,7,6 October 2019
+Hertha BSC,Fortuna Düsseldorf,7,4 October 2019
+Freiburg,Borussia Dortmund,7,5 October 2019
+Schalke 04,Köln,7,5 October 2019
+Paderborn,Mainz 05,7,5 October 2019
+Borussia Dortmund,Borussia M'gladbach,8,19 October 2019
+RB Leipzig,Wolfsburg,8,19 October 2019
+Eintracht Frankfurt,Bayer Leverkusen,8,18 October 2019
+Werder Bremen,Hertha BSC,8,19 October 2019
+Hoffenheim,Schalke 04,8,20 October 2019
+Fortuna Düsseldorf,Mainz 05,8,19 October 2019
+Augsburg,Bayern München,8,19 October 2019
+Köln,Paderborn,8,20 October 2019
+Union Berlin,Freiburg,8,19 October 2019
+Bayern München,Union Berlin,9,26 October 2019
+Bayer Leverkusen,Werder Bremen,9,26 October 2019
+Borussia M'gladbach,Eintracht Frankfurt,9,27 October 2019
+Wolfsburg,Augsburg,9,27 October 2019
+Hertha BSC,Hoffenheim,9,26 October 2019
+Mainz 05,Köln,9,25 October 2019
+Freiburg,RB Leipzig,9,26 October 2019
+Schalke 04,Borussia Dortmund,9,26 October 2019
+Paderborn,Fortuna Düsseldorf,9,26 October 2019
+Borussia Dortmund,Wolfsburg,10,2 November 2019
+RB Leipzig,Mainz 05,10,2 November 2019
+Bayer Leverkusen,Borussia M'gladbach,10,2 November 2019
+Eintracht Frankfurt,Bayern München,10,2 November 2019
+Werder Bremen,Freiburg,10,2 November 2019
+Hoffenheim,Paderborn,10,1 November 2019
+Fortuna Düsseldorf,Köln,10,3 November 2019
+Augsburg,Schalke 04,10,3 November 2019
+Union Berlin,Hertha BSC,10,2 November 2019
+Bayern München,Borussia Dortmund,11,9 November 2019
+Borussia M'gladbach,Werder Bremen,11,10 November 2019
+Wolfsburg,Bayer Leverkusen,11,10 November 2019
+Hertha BSC,RB Leipzig,11,9 November 2019
+Mainz 05,Union Berlin,11,9 November 2019
+Freiburg,Eintracht Frankfurt,11,10 November 2019
+Schalke 04,Fortuna Düsseldorf,11,9 November 2019
+Köln,Hoffenheim,11,8 November 2019
+Paderborn,Augsburg,11,9 November 2019
+Borussia Dortmund,Paderborn,12,22 November 2019
+RB Leipzig,Köln,12,23 November 2019
+Bayer Leverkusen,Freiburg,12,23 November 2019
+Eintracht Frankfurt,Wolfsburg,12,23 November 2019
+Werder Bremen,Schalke 04,12,23 November 2019
+Hoffenheim,Mainz 05,12,24 November 2019
+Fortuna Düsseldorf,Bayern München,12,23 November 2019
+Augsburg,Hertha BSC,12,24 November 2019
+Union Berlin,Borussia M'gladbach,12,23 November 2019
+Bayern München,Bayer Leverkusen,13,30 November 2019
+Borussia M'gladbach,Freiburg,13,1 December 2019
+Wolfsburg,Werder Bremen,13,1 December 2019
+Hoffenheim,Fortuna Düsseldorf,13,30 November 2019
+Hertha BSC,Borussia Dortmund,13,30 November 2019
+Mainz 05,Eintracht Frankfurt,13,2 December 2019
+Schalke 04,Union Berlin,13,29 November 2019
+Köln,Augsburg,13,30 November 2019
+Paderborn,RB Leipzig,13,30 November 2019
 Bayern München,Freiburg,33,9 May 2020
 RB Leipzig,Borussia Dortmund,33,9 May 2020
 Hoffenheim,Union Berlin,33,9 May 2020
@@ -2132,15 +2351,14 @@ Freiburg,Schalke 04,34,16 May 2020
 Augsburg,RB Leipzig,34,16 May 2020
 Union Berlin,Fortuna Düsseldorf,34,16 May 2020
 Rio Ave,Vitoria Guimaraes,1,8 September 2019
-Sporting Braga,Benfica,4,1 September 2019
-Famalicão,Paços de Ferreira,5,15 September 2019
+Famalicão,Paços de Ferreira,5,14 September 2019
 Boavista,Sporting CP,5,15 September 2019
 Santa Clara,Moreirense,5,15 September 2019
 Rio Ave,Tondela,5,15 September 2019
-Benfica,Gil Vicente,5,15 September 2019
-Vitoria Guimaraes,Desportivo Aves,5,15 September 2019
+Benfica,Gil Vicente,5,14 September 2019
+Vitoria Guimaraes,Desportivo Aves,5,14 September 2019
 Marítimo,Belenenses,5,15 September 2019
-Vitória Setúbal,Sporting Braga,5,15 September 2019
+Vitória Setúbal,Sporting Braga,5,13 September 2019
 Portimonense,Porto,5,15 September 2019
 Gil Vicente,Boavista,6,22 September 2019
 Paços de Ferreira,Desportivo Aves,6,22 September 2019
@@ -2742,7 +2960,6 @@ Ajax II,Cambuur,38,1 May 2020
 Almere City,MVV,38,1 May 2020
 Telstar,Helmond Sport,38,1 May 2020
 AZ II,Roda JC,38,1 May 2020
-Stuttgart,Bochum,5,2 September 2019
 Hannover 96,Arminia Bielefeld,6,14 September 2019
 Heidenheim,Holstein Kiel,6,14 September 2019
 Jahn Regensburg,Stuttgart,6,14 September 2019
@@ -2770,6 +2987,69 @@ Greuther Fürth,Holstein Kiel,8,29 September 2019
 Erzgebirge Aue,Dynamo Dresden,8,29 September 2019
 Karlsruher SC,Heidenheim,8,28 September 2019
 Wehen Wiesbaden,Osnabrück,8,27 September 2019
+Stuttgart,Wehen Wiesbaden,9,4 October 2019
+Nürnberg,St. Pauli,9,6 October 2019
+Hamburger SV,Greuther Fürth,9,5 October 2019
+Heidenheim,Bochum,9,6 October 2019
+Holstein Kiel,Jahn Regensburg,9,6 October 2019
+Darmstadt 98,Karlsruher SC,9,4 October 2019
+Dynamo Dresden,Hannover 96,9,5 October 2019
+Sandhausen,Erzgebirge Aue,9,5 October 2019
+Osnabrück,Arminia Bielefeld,9,7 October 2019
+Stuttgart,Holstein Kiel,10,20 October 2019
+Hannover 96,Osnabrück,10,20 October 2019
+Arminia Bielefeld,Hamburger SV,10,21 October 2019
+Jahn Regensburg,Sandhausen,10,19 October 2019
+St. Pauli,Darmstadt 98,10,19 October 2019
+Bochum,Karlsruher SC,10,20 October 2019
+Greuther Fürth,Dynamo Dresden,10,18 October 2019
+Erzgebirge Aue,Nürnberg,10,18 October 2019
+Wehen Wiesbaden,Heidenheim,10,19 October 2019
+Nürnberg,Jahn Regensburg,11,27 October 2019
+Hamburger SV,Stuttgart,11,26 October 2019
+Heidenheim,St. Pauli,11,27 October 2019
+Holstein Kiel,Bochum,11,25 October 2019
+Darmstadt 98,Erzgebirge Aue,11,25 October 2019
+Dynamo Dresden,Arminia Bielefeld,11,26 October 2019
+Sandhausen,Wehen Wiesbaden,11,28 October 2019
+Osnabrück,Greuther Fürth,11,27 October 2019
+Karlsruher SC,Hannover 96,11,26 October 2019
+Stuttgart,Dynamo Dresden,12,3 November 2019
+Hannover 96,Sandhausen,12,1 November 2019
+Arminia Bielefeld,Holstein Kiel,12,3 November 2019
+Jahn Regensburg,Osnabrück,12,1 November 2019
+St. Pauli,Karlsruher SC,12,2 November 2019
+Bochum,Nürnberg,12,4 November 2019
+Greuther Fürth,Darmstadt 98,12,2 November 2019
+Erzgebirge Aue,Heidenheim,12,2 November 2019
+Wehen Wiesbaden,Hamburger SV,12,3 November 2019
+Nürnberg,Arminia Bielefeld,13,10 November 2019
+Heidenheim,Hannover 96,13,10 November 2019
+Holstein Kiel,Hamburger SV,13,9 November 2019
+St. Pauli,Bochum,13,8 November 2019
+Darmstadt 98,Jahn Regensburg,13,10 November 2019
+Dynamo Dresden,Wehen Wiesbaden,13,8 November 2019
+Sandhausen,Greuther Fürth,13,9 November 2019
+Osnabrück,Stuttgart,13,9 November 2019
+Karlsruher SC,Erzgebirge Aue,13,11 November 2019
+Stuttgart,Karlsruher SC,14,24 November 2019
+Hannover 96,Darmstadt 98,14,25 November 2019
+Hamburger SV,Dynamo Dresden,14,23 November 2019
+Arminia Bielefeld,Sandhausen,14,23 November 2019
+Jahn Regensburg,Heidenheim,14,24 November 2019
+Bochum,Osnabrück,14,22 November 2019
+Greuther Fürth,Nürnberg,14,24 November 2019
+Erzgebirge Aue,St. Pauli,14,22 November 2019
+Wehen Wiesbaden,Holstein Kiel,14,23 November 2019
+Nürnberg,Wehen Wiesbaden,15,30 November 2019
+Heidenheim,Greuther Fürth,15,1 December 2019
+St. Pauli,Hannover 96,15,30 November 2019
+Darmstadt 98,Arminia Bielefeld,15,1 December 2019
+Bochum,Erzgebirge Aue,15,30 November 2019
+Dynamo Dresden,Holstein Kiel,15,30 November 2019
+Sandhausen,Stuttgart,15,1 December 2019
+Osnabrück,Hamburger SV,15,29 November 2019
+Karlsruher SC,Jahn Regensburg,15,29 November 2019
 Nürnberg,Stuttgart,33,10 May 2020
 Heidenheim,Hamburger SV,33,10 May 2020
 St. Pauli,Jahn Regensburg,33,10 May 2020
@@ -2788,7 +3068,6 @@ Jahn Regensburg,Erzgebirge Aue,34,17 May 2020
 Dynamo Dresden,Osnabrück,34,17 May 2020
 Greuther Fürth,Karlsruher SC,34,17 May 2020
 Wehen Wiesbaden,St. Pauli,34,17 May 2020
-Frosinone,Ascoli,2,1 September 2019
 Ascoli,Livorno,3,14 September 2019
 Cittadella,Trapani,3,14 September 2019
 Cosenza,Pescara,3,15 September 2019
@@ -2819,7 +3098,7 @@ Pordenone,Benevento,5,24 September 2019
 Salernitana,Chievo,5,25 September 2019
 Trapani,Cremonese,5,25 September 2019
 Virtus Entella,Venezia,5,24 September 2019
-Benevento,Virtus Entella,6,28 September 2019
+Benevento,Virtus Entella,6,29 September 2019
 Chievo,Pordenone,6,29 September 2019
 Cremonese,Ascoli,6,30 September 2019
 Empoli,Perugia,6,28 September 2019
@@ -3149,8 +3428,6 @@ Chievo,Pescara,38,14 May 2020
 Frosinone,Pisa,38,14 May 2020
 Cremonese,Pordenone,38,14 May 2020
 Salernitana,Spezia,38,14 May 2020
-Paris,Chambly,6,2 September 2019
-Grenoble Foot 38,Lens,6,2 September 2019
 Niort,Grenoble Foot 38,7,13 September 2019
 Troyes,Caen,7,13 September 2019
 Chambly,Auxerre,7,13 September 2019
@@ -3158,7 +3435,7 @@ Rodez,Le Mans,7,13 September 2019
 Guingamp,Nancy,7,13 September 2019
 Ajaccio,Orléans,7,13 September 2019
 Clermont,Lorient,7,14 September 2019
-Le Havre,Paris,7,13 September 2019
+Le Havre,Paris FC,7,13 September 2019
 Lens,Châteauroux,7,16 September 2019
 Sochaux,Valenciennes,7,13 September 2019
 Sochaux,Guingamp,8,20 September 2019
@@ -3169,11 +3446,18 @@ Châteauroux,Grenoble Foot 38,8,20 September 2019
 Lorient,Rodez,8,23 September 2019
 Nancy,Chambly,8,20 September 2019
 Orléans,Le Havre,8,20 September 2019
-Paris,Clermont,8,20 September 2019
+Paris FC,Clermont,8,20 September 2019
 Valenciennes,Niort,8,20 September 2019
-Cádiz,Extremadura UD,3,1 September 2019
-Ponferradina,Tenerife,3,1 September 2019
-Rayo Vallecano,Deportivo La Coruña,3,1 September 2019
+Niort,Auxerre,9,27 September 2019
+Troyes,Orléans,9,27 September 2019
+Chambly,Lorient,9,27 September 2019
+Rodez,Sochaux,9,27 September 2019
+Guingamp,Le Mans,9,30 September 2019
+Grenoble Foot 38,Caen,9,27 September 2019
+Ajaccio,Valenciennes,9,27 September 2019
+Clermont,Nancy,9,27 September 2019
+Le Havre,Châteauroux,9,27 September 2019
+Lens,Paris FC,9,28 September 2019
 Alcorcón,Real Zaragoza,4,8 September 2019
 Deportivo La Coruña,Albacete,4,7 September 2019
 Elche,Lugo,4,8 September 2019
@@ -3196,6 +3480,28 @@ Real Oviedo,Elche,5,15 September 2019
 Rayo Vallecano,Racing Santander,5,13 September 2019
 Sporting Gijón,Deportivo La Coruña,5,15 September 2019
 Real Zaragoza,Extremadura UD,5,15 September 2019
+Alcorcón,Cádiz,6,17 September 2019
+Almería,Girona,6,17 September 2019
+Deportivo La Coruña,Numancia,6,18 September 2019
+Elche,Tenerife,6,19 September 2019
+Fuenlabrada,Real Zaragoza,6,18 September 2019
+Huesca,Albacete,6,18 September 2019
+Las Palmas,Sporting Gijón,6,19 September 2019
+Lugo,Ponferradina,6,18 September 2019
+Málaga,Rayo Vallecano,6,17 September 2019
+Real Oviedo,Extremadura UD,6,19 September 2019
+Racing Santander,Mirandés,6,17 September 2019
+Albacete,Málaga,7,21 September 2019
+Cádiz,Deportivo La Coruña,7,21 September 2019
+Extremadura UD,Huesca,7,22 September 2019
+Girona,Las Palmas,7,22 September 2019
+Mirandés,Alcorcón,7,20 September 2019
+Numancia,Elche,7,22 September 2019
+Ponferradina,Real Oviedo,7,22 September 2019
+Rayo Vallecano,Almería,7,21 September 2019
+Tenerife,Fuenlabrada,7,22 September 2019
+Sporting Gijón,Racing Santander,7,22 September 2019
+Real Zaragoza,Lugo,7,21 September 2019
 Estoril,Porto II,5,15 September 2019
 Benfica II,Academico Viseu,5,15 September 2019
 Sporting Covilhã,Leixões,5,15 September 2019
@@ -3472,7 +3778,7 @@ Hearts,Motherwell,5,14 September 2019
 Kilmarnock,Hibernian,5,14 September 2019
 Rangers,Livingston,5,14 September 2019
 Ross County,St. Mirren,5,14 September 2019
-Celtic,Kilmarnock,6,21 September 2019
+Celtic,Kilmarnock,6,22 September 2019
 Hibernian,Hearts,6,22 September 2019
 Livingston,Aberdeen,6,21 September 2019
 Motherwell,Ross County,6,21 September 2019
@@ -3488,7 +3794,7 @@ Aberdeen,Hibernian,8,5 October 2019
 Hearts,Kilmarnock,8,5 October 2019
 Livingston,Celtic,8,6 October 2019
 Motherwell,St. Mirren,8,5 October 2019
-Rangers,Hamilton Academical,8,5 October 2019
+Rangers,Hamilton Academical,8,6 October 2019
 Ross County,St. Johnstone,8,5 October 2019
 Celtic,Ross County,9,19 October 2019
 Hamilton Academical,Hibernian,9,19 October 2019
@@ -3500,7 +3806,7 @@ Aberdeen,Celtic,10,27 October 2019
 Hibernian,Ross County,10,26 October 2019
 Kilmarnock,St. Mirren,10,26 October 2019
 Livingston,Hearts,10,26 October 2019
-Rangers,Motherwell,10,26 October 2019
+Rangers,Motherwell,10,27 October 2019
 St. Johnstone,Hamilton Academical,10,26 October 2019
 Celtic,St. Mirren,11,30 October 2019
 Hamilton Academical,Aberdeen,11,30 October 2019
@@ -3514,7 +3820,7 @@ Hearts,Celtic,12,2 November 2019
 Motherwell,Livingston,12,2 November 2019
 Rangers,St. Johnstone,12,2 November 2019
 St. Mirren,Hibernian,12,2 November 2019
-Celtic,Motherwell,13,9 November 2019
+Celtic,Motherwell,13,10 November 2019
 Hearts,St. Mirren,13,9 November 2019
 Kilmarnock,Hamilton Academical,13,9 November 2019
 Livingston,Rangers,13,10 November 2019
@@ -3666,7 +3972,7 @@ Dunfermline Athletic,Ayr United,9,19 October 2019
 Inverness CT,Alloa Athletic,9,19 October 2019
 Queen of the South,Dundee United,9,19 October 2019
 Alloa Athletic,Queen of the South,10,26 October 2019
-Ayr United,Dundee,10,26 October 2019
+Ayr United,Dundee,10,25 October 2019
 Dundee United,Dunfermline Athletic,10,26 October 2019
 Greenock Morton,Inverness CT,10,26 October 2019
 Partick Thistle,Arbroath,10,26 October 2019
@@ -3943,9 +4249,6 @@ Brisbane Roar,Adelaide United,29,25 April 2020
 Western Sydney Wanderers,Wellington Phoenix,29,25 April 2020
 Melbourne City,Sydney,29,26 April 2020
 Perth Glory,Central Coast Mariners,29,26 April 2020
-Gençlerbirliği,Istanbul Basaksehir,3,1 September 2019
-Fenerbahçe,Trabzonspor,3,1 September 2019
-Yeni Malatyaspor,Alanyaspor,3,1 September 2019
 Shimizu S-Pulse,Nagoya Grampus,26,13 September 2019
 Gamba Osaka,Consadole Sapporo,28,4 October 2019
 Matsumoto Yamaga,Kashima Antlers,29,18 October 2019
@@ -3977,11 +4280,6 @@ Vissel Kobe,Júbilo Iwata,34,7 December 2019
 Sanfrecce Hiroshima,Vegalta Sendai,34,7 December 2019
 Oita Trinita,Cerezo Osaka,34,7 December 2019
 Palmeiras,Fluminense,16,11 September 2019
-Cruzeiro,Vasco da Gama,17,2 September 2019
-Fortaleza,Goiás,17,1 September 2019
-Corinthians,Atlético Mineiro,17,2 September 2019
-Flamengo,Palmeiras,17,1 September 2019
-Fluminense,Avaí,17,3 September 2019
 Internacional,São Paulo,18,8 September 2019
 Cruzeiro,Grêmio,18,8 September 2019
 Fortaleza,Fluminense,18,7 September 2019
@@ -4093,23 +4391,23 @@ Lyngby,Hobro,11,27 September 2019
 Brøndby,Copenhagen,12,6 October 2019
 Randers,AGF,12,6 October 2019
 OB,Horsens,12,6 October 2019
-Nordsjælland,Lyngby,12,6 October 2019
-Hobro,AaB,12,6 October 2019
+Nordsjælland,Lyngby,12,4 October 2019
+Hobro,AaB,12,5 October 2019
 Esbjerg,SønderjyskE,12,6 October 2019
 Silkeborg,Midtjylland,12,6 October 2019
 Copenhagen,Esbjerg,13,20 October 2019
 SønderjyskE,Nordsjælland,13,20 October 2019
-Midtjylland,Randers,13,20 October 2019
-AaB,OB,13,20 October 2019
+Midtjylland,Randers,13,21 October 2019
+AaB,OB,13,18 October 2019
 Horsens,Hobro,13,20 October 2019
 AGF,Silkeborg,13,20 October 2019
 Lyngby,Brøndby,13,20 October 2019
 SønderjyskE,AaB,14,27 October 2019
 Brøndby,Randers,14,27 October 2019
 OB,Nordsjælland,14,27 October 2019
-AGF,Copenhagen,14,27 October 2019
+AGF,Copenhagen,14,28 October 2019
 Hobro,Silkeborg,14,27 October 2019
-Esbjerg,Midtjylland,14,27 October 2019
+Esbjerg,Midtjylland,14,25 October 2019
 Lyngby,Horsens,14,27 October 2019
 Copenhagen,SønderjyskE,15,3 November 2019
 AaB,Midtjylland,15,3 November 2019
@@ -4195,8 +4493,6 @@ OB,Esbjerg,26,22 March 2020
 Horsens,Brøndby,26,22 March 2020
 Nordsjælland,Midtjylland,26,22 March 2020
 Hobro,Lyngby,26,22 March 2020
-Vålerenga,Rosenborg,20,1 September 2019
-Tromsø,Haugesund,20,1 September 2019
 Rosenborg,Lillestrøm,21,14 September 2019
 Molde,Tromsø,21,15 September 2019
 Haugesund,Mjøndalen,21,15 September 2019
@@ -4238,11 +4534,11 @@ Bodø / Glimt,Mjøndalen,25,21 October 2019
 Strømsgodset,Lillestrøm,25,20 October 2019
 Viking,Tromsø,25,20 October 2019
 Rosenborg,Molde,26,27 October 2019
-Brann,Bodø / Glimt,26,27 October 2019
+Brann,Bodø / Glimt,26,28 October 2019
 Haugesund,Strømsgodset,26,27 October 2019
 Kristiansund,Viking,26,27 October 2019
 Tromsø,Ranheim,26,27 October 2019
-Lillestrøm,Vålerenga,26,27 October 2019
+Lillestrøm,Vålerenga,26,26 October 2019
 Stabæk,Odd,26,27 October 2019
 Mjøndalen,Sarpsborg 08,26,27 October 2019
 Molde,Kristiansund,27,3 November 2019
@@ -4277,14 +4573,13 @@ Kristiansund,Strømsgodset,30,30 November 2019
 Tromsø,Stabæk,30,30 November 2019
 Lillestrøm,Sarpsborg 08,30,30 November 2019
 Mjøndalen,Vålerenga,30,30 November 2019
-Arsenal Tula,CSKA Moscow,8,1 September 2019
-Cork City,Waterford,20,2 September 2019
 Dundalk,Cork City,26,6 September 2019
-Sligo Rovers,Dundalk,28,2 September 2019
 Finn Harps,St Patrick's Athletic,30,6 September 2019
 Bohemians,Waterford,31,13 September 2019
+Derry City,Cork City,31,27 September 2019
+Dundalk,Shamrock Rovers,31,23 September 2019
 St Patrick's Athletic,UCD,31,13 September 2019
-Sligo Rovers,Finn Harps,31,14 September 2019
+Sligo Rovers,Finn Harps,31,13 September 2019
 Cork City,Finn Harps,32,20 September 2019
 Derry City,Bohemians,32,20 September 2019
 UCD,Sligo Rovers,32,20 September 2019
@@ -4310,8 +4605,6 @@ Derry City,Finn Harps,36,25 October 2019
 Dundalk,St Patrick's Athletic,36,25 October 2019
 Shamrock Rovers,Cork City,36,25 October 2019
 Waterford,UCD,36,25 October 2019
-St. Pölten,Hartberg,6,1 September 2019
-Rheindorf Altach,Sturm Graz,6,1 September 2019
 Salzburg,Hartberg,7,14 September 2019
 Wolfsberger AC,Austria Wien,7,15 September 2019
 Sturm Graz,LASK,7,14 September 2019
@@ -4331,59 +4624,59 @@ St. Pölten,LASK,9,28 September 2019
 Rapid Wien,Hartberg,9,29 September 2019
 Rheindorf Altach,Mattersburg,9,29 September 2019
 Salzburg,Rheindorf Altach,10,5 October 2019
-Wolfsberger AC,St. Pölten,10,5 October 2019
-Austria Wien,Sturm Graz,10,5 October 2019
+Wolfsberger AC,St. Pölten,10,6 October 2019
+Austria Wien,Sturm Graz,10,6 October 2019
 Mattersburg,Rapid Wien,10,5 October 2019
 Admira,Swarovski Tirol,10,5 October 2019
-Hartberg,LASK,10,5 October 2019
+Hartberg,LASK,10,6 October 2019
 LASK,Mattersburg,11,19 October 2019
 Sturm Graz,Salzburg,11,19 October 2019
-St. Pölten,Austria Wien,11,19 October 2019
-Rapid Wien,Wolfsberger AC,11,19 October 2019
+St. Pölten,Austria Wien,11,20 October 2019
+Rapid Wien,Wolfsberger AC,11,20 October 2019
 Rheindorf Altach,Admira,11,19 October 2019
-Swarovski Tirol,Hartberg,11,19 October 2019
-Salzburg,Rapid Wien,12,26 October 2019
-Wolfsberger AC,Admira,12,26 October 2019
+Swarovski Tirol,Hartberg,11,20 October 2019
+Salzburg,Rapid Wien,12,27 October 2019
+Wolfsberger AC,Admira,12,27 October 2019
 Austria Wien,Swarovski Tirol,12,26 October 2019
 St. Pölten,Sturm Graz,12,26 October 2019
-Rheindorf Altach,LASK,12,26 October 2019
+Rheindorf Altach,LASK,12,27 October 2019
 Hartberg,Mattersburg,12,26 October 2019
-LASK,Austria Wien,13,2 November 2019
+LASK,Austria Wien,13,3 November 2019
 Sturm Graz,Wolfsberger AC,13,2 November 2019
 Rapid Wien,St. Pölten,13,2 November 2019
 Mattersburg,Salzburg,13,2 November 2019
-Admira,Hartberg,13,2 November 2019
-Swarovski Tirol,Rheindorf Altach,13,2 November 2019
-LASK,Admira,14,9 November 2019
-Wolfsberger AC,Salzburg,14,9 November 2019
-Austria Wien,Mattersburg,14,9 November 2019
+Admira,Hartberg,13,3 November 2019
+Swarovski Tirol,Rheindorf Altach,13,3 November 2019
+LASK,Admira,14,10 November 2019
+Wolfsberger AC,Salzburg,14,10 November 2019
+Austria Wien,Mattersburg,14,10 November 2019
 Sturm Graz,Hartberg,14,9 November 2019
 St. Pölten,Swarovski Tirol,14,9 November 2019
 Rheindorf Altach,Rapid Wien,14,9 November 2019
 Salzburg,St. Pölten,15,23 November 2019
-Rapid Wien,Sturm Graz,15,23 November 2019
+Rapid Wien,Sturm Graz,15,24 November 2019
 Mattersburg,Wolfsberger AC,15,23 November 2019
-Admira,Austria Wien,15,23 November 2019
-Hartberg,Rheindorf Altach,15,23 November 2019
+Admira,Austria Wien,15,24 November 2019
+Hartberg,Rheindorf Altach,15,24 November 2019
 Swarovski Tirol,LASK,15,23 November 2019
-LASK,Rapid Wien,16,30 November 2019
+LASK,Rapid Wien,16,1 December 2019
 Austria Wien,Hartberg,16,30 November 2019
 St. Pölten,Mattersburg,16,30 November 2019
-Rheindorf Altach,Wolfsberger AC,16,30 November 2019
-Admira,Salzburg,16,30 November 2019
+Rheindorf Altach,Wolfsberger AC,16,1 December 2019
+Admira,Salzburg,16,1 December 2019
 Swarovski Tirol,Sturm Graz,16,30 November 2019
 Salzburg,Swarovski Tirol,17,7 December 2019
 Wolfsberger AC,LASK,17,7 December 2019
-Sturm Graz,Rheindorf Altach,17,7 December 2019
-Rapid Wien,Austria Wien,17,7 December 2019
-Mattersburg,Admira,17,7 December 2019
+Sturm Graz,Rheindorf Altach,17,8 December 2019
+Rapid Wien,Austria Wien,17,8 December 2019
+Mattersburg,Admira,17,8 December 2019
 Hartberg,St. Pölten,17,7 December 2019
-LASK,Sturm Graz,18,14 December 2019
-Austria Wien,Wolfsberger AC,18,14 December 2019
+LASK,Sturm Graz,18,15 December 2019
+Austria Wien,Wolfsberger AC,18,15 December 2019
 St. Pölten,Rheindorf Altach,18,14 December 2019
 Admira,Rapid Wien,18,14 December 2019
 Hartberg,Salzburg,18,14 December 2019
-Swarovski Tirol,Mattersburg,18,14 December 2019
+Swarovski Tirol,Mattersburg,18,15 December 2019
 Salzburg,LASK,19,15 February 2020
 Wolfsberger AC,Hartberg,19,15 February 2020
 Sturm Graz,Mattersburg,19,15 February 2020
@@ -4409,9 +4702,6 @@ Mattersburg,LASK,22,7 March 2020
 Admira,Rheindorf Altach,22,7 March 2020
 Hartberg,Swarovski Tirol,22,7 March 2020
 Antwerp,Gent,5,21 November 2019
-Anderlecht,Standard Liège,6,1 September 2019
-Zulte-Waregem,Antwerp,6,1 September 2019
-Gent,Cercle Brugge,6,1 September 2019
 Sporting Charleroi,Genk,7,13 September 2019
 KV Oostende,Standard Liège,7,14 September 2019
 AS Eupen,Zulte-Waregem,7,14 September 2019
@@ -4420,18 +4710,23 @@ Cercle Brugge,Club Brugge,7,14 September 2019
 Anderlecht,Antwerp,7,15 September 2019
 Gent,Mechelen,7,15 September 2019
 Royal Excel Mouscron,Kortrijk,7,15 September 2019
-Club Brugge,Anderlecht,8,21 September 2019
-Standard Liège,AS Eupen,8,21 September 2019
+Club Brugge,Anderlecht,8,22 September 2019
+Standard Liège,AS Eupen,8,22 September 2019
 Genk,KV Oostende,8,21 September 2019
-Kortrijk,Mechelen,8,21 September 2019
-Zulte-Waregem,Gent,8,21 September 2019
+Kortrijk,Mechelen,8,20 September 2019
+Zulte-Waregem,Gent,8,22 September 2019
 Sporting Charleroi,Sint-Truiden,8,21 September 2019
 Antwerp,Cercle Brugge,8,21 September 2019
 Waasland-Beveren,Royal Excel Mouscron,8,21 September 2019
+Anderlecht,Waasland-Beveren,9,29 September 2019
+Standard Liège,Sporting Charleroi,9,29 September 2019
+Gent,Kortrijk,9,28 September 2019
+Royal Excel Mouscron,Zulte-Waregem,9,28 September 2019
+KV Oostende,Antwerp,9,29 September 2019
+Cercle Brugge,AS Eupen,9,28 September 2019
+Mechelen,Club Brugge,9,28 September 2019
+Sint-Truiden,Genk,9,28 September 2019
 Teplice,Mladá Boleslav,4,18 September 2019
-Teplice,Karviná,8,1 September 2019
-Jablonec,Baník Ostrava,8,1 September 2019
-České Budějovice,Zlín,8,1 September 2019
 Karviná,Bohemians 1905,9,15 September 2019
 Slovan Liberec,Teplice,9,14 September 2019
 Sigma Olomouc,Opava,9,13 September 2019
@@ -4440,22 +4735,22 @@ Zlín,Sparta Praha,9,15 September 2019
 Viktoria Plzen,Jablonec,9,16 September 2019
 Baník Ostrava,České Budějovice,9,15 September 2019
 Mladá Boleslav,Příbram,9,14 September 2019
-Sparta Praha,Slavia Praha,10,21 September 2019
+Sparta Praha,Slavia Praha,10,22 September 2019
 Slovácko,Teplice,10,21 September 2019
 Opava,Slovan Liberec,10,21 September 2019
-Bohemians 1905,Zlín,10,21 September 2019
-Mladá Boleslav,Baník Ostrava,10,21 September 2019
+Bohemians 1905,Zlín,10,20 September 2019
+Mladá Boleslav,Baník Ostrava,10,22 September 2019
 Příbram,Karviná,10,21 September 2019
-Jablonec,Sigma Olomouc,10,21 September 2019
+Jablonec,Sigma Olomouc,10,23 September 2019
 České Budějovice,Viktoria Plzen,10,21 September 2019
-Teplice,Bohemians 1905,11,28 September 2019
-Karviná,Opava,11,28 September 2019
-Slovan Liberec,České Budějovice,11,28 September 2019
+Teplice,Bohemians 1905,11,27 September 2019
+Karviná,Opava,11,29 September 2019
+Slovan Liberec,České Budějovice,11,30 September 2019
 Sigma Olomouc,Slovácko,11,28 September 2019
 Slavia Praha,Mladá Boleslav,11,28 September 2019
 Zlín,Jablonec,11,28 September 2019
-Viktoria Plzen,Sparta Praha,11,28 September 2019
-Baník Ostrava,Příbram,11,28 September 2019
+Viktoria Plzen,Sparta Praha,11,29 September 2019
+Baník Ostrava,Příbram,11,30 September 2019
 Sparta Praha,Karviná,12,5 October 2019
 Slovácko,Slovan Liberec,12,5 October 2019
 Opava,Teplice,12,5 October 2019
@@ -4610,19 +4905,22 @@ Bohemians 1905,Jablonec,30,25 April 2020
 Opava,České Budějovice,30,25 April 2020
 Dinamo Zagreb,Inter Zaprešić,14,2 November 2019
 Dinamo Zagreb,Rijeka,6,18 December 2019
-Rijeka,Inter Zaprešić,7,1 September 2019
 Inter Zaprešić,Slaven Koprivnica,8,14 September 2019
 Gorica,Lokomotiva Zagreb,8,14 September 2019
-Osijek,Varaždin,8,14 September 2019
-Dinamo Zagreb,Istra 1961,8,14 September 2019
-Rijeka,Hajduk Split,8,14 September 2019
-Hajduk Split,Inter Zaprešić,9,21 September 2019
-Istra 1961,Rijeka,9,21 September 2019
+Osijek,Varaždin,8,15 September 2019
+Dinamo Zagreb,Istra 1961,8,13 September 2019
+Rijeka,Hajduk Split,8,15 September 2019
+Hajduk Split,Inter Zaprešić,9,22 September 2019
+Istra 1961,Rijeka,9,22 September 2019
 Varaždin,Dinamo Zagreb,9,21 September 2019
-Lokomotiva Zagreb,Osijek,9,21 September 2019
+Lokomotiva Zagreb,Osijek,9,20 September 2019
 Slaven Koprivnica,Gorica,9,21 September 2019
+Inter Zaprešić,Gorica,10,29 September 2019
+Slaven Koprivnica,Osijek,10,28 September 2019
+Lokomotiva Zagreb,Dinamo Zagreb,10,27 September 2019
+Varaždin,Rijeka,10,28 September 2019
+Istra 1961,Hajduk Split,10,29 September 2019
 Wisła Płock,Legia Warszawa,4,16 September 2019
-Legia Warszawa,Raków Częstochowa,7,1 September 2019
 Cracovia Kraków,Piast Gliwice,8,16 September 2019
 Górnik Zabrze,Śląsk Wrocław,8,15 September 2019
 Jagiellonia Białystok,Legia Warszawa,8,13 September 2019
@@ -4655,8 +4953,6 @@ Piast Gliwice,Legia Warszawa,11,6 October 2019
 Pogoń Szczecin,Raków Częstochowa,11,5 October 2019
 Śląsk Wrocław,Jagiellonia Białystok,11,4 October 2019
 Wisła Płock,Arka Gdynia,11,4 October 2019
-GIF Sundsvall,IFK Göteborg,22,1 September 2019
-Kalmar,Malmö FF,22,1 September 2019
 Örebro,GIF Sundsvall,23,14 September 2019
 Östersunds FK,Kalmar,23,14 September 2019
 Malmö FF,Norrköping,23,15 September 2019
@@ -4705,8 +5001,6 @@ Norrköping,Kalmar,28,20 October 2019
 Hammarby,Malmö FF,28,20 October 2019
 IFK Göteborg,Djurgården,28,21 October 2019
 AFC Eskilstuna,GIF Sundsvall,28,18 October 2019
-Basel,Lugano,6,1 September 2019
-Luzern,Young Boys,6,1 September 2019
 Neuchâtel Xamax,Sion,7,21 September 2019
 St. Gallen,Servette,7,21 September 2019
 Lugano,Luzern,7,22 September 2019
@@ -4722,9 +5016,26 @@ Young Boys,Sion,9,28 September 2019
 Basel,Luzern,9,29 September 2019
 Lugano,Neuchâtel Xamax,9,29 September 2019
 Servette,Zürich,9,29 September 2019
-Pumas UNAM,Toluca,8,1 September 2019
-Querétaro,Puebla,8,2 September 2019
-Juárez,Monterrey,8,2 September 2019
+Neuchâtel Xamax,Servette,10,5 October 2019
+Sion,Lugano,10,6 October 2019
+St. Gallen,Basel,10,6 October 2019
+Thun,Luzern,10,5 October 2019
+Zürich,Young Boys,10,6 October 2019
+Basel,Thun,11,19 October 2019
+Lugano,Zürich,11,20 October 2019
+Luzern,Sion,11,20 October 2019
+Servette,St. Gallen,11,20 October 2019
+Young Boys,Neuchâtel Xamax,11,19 October 2019
+Lugano,St. Gallen,12,27 October 2019
+Neuchâtel Xamax,Luzern,12,26 October 2019
+Sion,Servette,12,26 October 2019
+Young Boys,Thun,12,27 October 2019
+Zürich,Basel,12,27 October 2019
+Basel,Neuchâtel Xamax,13,3 November 2019
+Luzern,Lugano,13,3 November 2019
+Servette,Young Boys,13,3 November 2019
+St. Gallen,Sion,13,2 November 2019
+Thun,Zürich,13,2 November 2019
 Puebla,Atlético San Luis,9,14 September 2019
 Veracruz,Cruz Azul,9,14 September 2019
 Tijuana,Tigres UANL,9,14 September 2019
@@ -4824,17 +5135,8 @@ Pachuca,Pumas UNAM,19,24 November 2019
 Guadalajara,Veracruz,19,24 November 2019
 Toluca,Santos Laguna,19,24 November 2019
 Juárez,Tigres UANL,19,25 November 2019
-Barrow,Hartlepool United,9,3 September 2019
-Chesterfield,Halifax Town,9,3 September 2019
-Dagenham & Redbridge,Bromley,9,4 September 2019
-Dover Athletic,Ebbsfleet United,9,3 September 2019
-Eastleigh,Boreham Wood,9,3 September 2019
-Harrogate Town,Chorley,9,3 September 2019
-Notts County,Solihull Moors,9,3 September 2019
-Stockport County,Fylde,9,3 September 2019
-Woking,Torquay United,9,3 September 2019
-Wrexham,Maidenhead United,9,3 September 2019
-Yeovil Town,Sutton United,9,3 September 2019
+Barnet,Aldershot Town,9,17 September 2019
+Fylde,Barnet,10,1 October 2019
 Aldershot Town,Barrow,10,7 September 2019
 Boreham Wood,Dover Athletic,10,7 September 2019
 Bromley,Chesterfield,10,7 September 2019
@@ -5279,16 +5581,7 @@ Notts County,Yeovil Town,46,25 April 2020
 Solihull Moors,Halifax Town,46,25 April 2020
 Stockport County,Wrexham,46,25 April 2020
 Spennymoor Town,Blyth Spartans,2,10 September 2019
-Curzon Ashton,Chester,9,2 September 2019
-AFC Telford United,Gloucester City,9,3 September 2019
-Bradford (Park Avenue),Farsley Celtic,9,3 September 2019
-Gateshead,Spennymoor Town,9,3 September 2019
-Guiseley,York City,9,3 September 2019
-Kettering Town,Boston United,9,3 September 2019
-Kidderminster Harriers,Brackley Town,9,3 September 2019
-King's Lynn Town,Alfreton Town,9,3 September 2019
-Southport,Altrincham,9,3 September 2019
-Darlington,Blyth Spartans,9,4 September 2019
+Leamington,Hereford,9,1 October 2019
 Alfreton Town,Curzon Ashton,10,7 September 2019
 Altrincham,Leamington,10,7 September 2019
 Blyth Spartans,Kidderminster Harriers,10,7 September 2019
@@ -5297,6 +5590,7 @@ Brackley Town,AFC Telford United,10,7 September 2019
 Chester,Guiseley,10,7 September 2019
 Farsley Celtic,Kettering Town,10,7 September 2019
 Gloucester City,Darlington,10,7 September 2019
+Hereford,Gateshead,10,17 September 2019
 Spennymoor Town,King's Lynn Town,10,7 September 2019
 York City,Southport,10,7 September 2019
 AFC Telford United,Chester,11,14 September 2019
@@ -5649,17 +5943,6 @@ Darlington,King's Lynn Town,42,25 April 2020
 Farsley Celtic,Altrincham,42,25 April 2020
 Kettering Town,Southport,42,25 April 2020
 York City,Gloucester City,42,25 April 2020
-Chelmsford City,Billericay Town,9,2 September 2019
-Bath City,Hampton & Richmond,9,3 September 2019
-Concord Rangers,Braintree Town,9,3 September 2019
-Dorking Wanderers,Chippenham Town,9,3 September 2019
-Dulwich Hamlet,Maidstone United,9,3 September 2019
-Oxford City,Weymouth,9,3 September 2019
-Slough Town,Hemel Hempstead Town,9,3 September 2019
-St Albans City,Wealdstone,9,3 September 2019
-Tonbridge Angels,Dartford,9,3 September 2019
-Welling United,Eastbourne Borough,9,3 September 2019
-Havant & Waterlooville,Hungerford Town,9,4 September 2019
 Billericay Town,Bath City,10,7 September 2019
 Braintree Town,Dulwich Hamlet,10,7 September 2019
 Chippenham Town,Tonbridge Angels,10,7 September 2019
@@ -6022,9 +6305,6 @@ Oxford City,Welling United,42,25 April 2020
 Slough Town,Maidstone United,42,25 April 2020
 Tonbridge Angels,Bath City,42,25 April 2020
 Wealdstone,Hemel Hempstead Town,42,25 April 2020
-Larissa,Olympiakos Piraeus,2,1 September 2019
-Asteras Tripolis,AEK Athens,2,1 September 2019
-PAOK,Panionios,2,1 September 2019
 AEK Athens,Lamia,3,15 September 2019
 Xanthi,Asteras Tripolis,3,15 September 2019
 Aris,Panathinaikos,3,15 September 2019
@@ -6032,8 +6312,6 @@ Atromitos,PAOK,3,14 September 2019
 Olympiakos Piraeus,Volos NFC,3,14 September 2019
 OFI,Panaitolikos,3,14 September 2019
 Panionios,Larissa,3,15 September 2019
-Sepsi,Dinamo Bucureşti,8,2 September 2019
-FCSB,Viitorul,8,1 September 2019
 CFR Cluj,Voluntari,9,13 September 2019
 Academica Clinceni,Astra,9,13 September 2019
 Dinamo Bucureşti,Botoşani,9,14 September 2019
