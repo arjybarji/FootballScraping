@@ -105,7 +105,7 @@ def parse(url):
                             return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip()+ "," + gameID)
                 else:
                     print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek)
-                    return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "£" + url)
+                    return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + dds[0].text.strip() + "£" + url)
         except Exception as e:
             exc_type, exc_obj, exc_tb = sys.exc_info()
             fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]

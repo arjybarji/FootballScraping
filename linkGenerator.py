@@ -83,3 +83,23 @@ getLinks(3054487,3055410)
 getLinks(3051869,3052050)
 #Romania
 getLinks(3048255,3048436)
+#Bulgaria
+getLinks(,)
+#Sweden Superettan
+getLinks(,)
+#Norway Div 1
+getLinks(,)
+#Norway Div 2
+getLinks(,)
+#Norway Div 3
+getLinks(,)
+#Scotland L1
+getLinks(,)
+#Scotland L2
+getLinks(,)
+#Brasil Serie B
+getLinks(,)
+#Chilie - Have a team called Everton
+getLinks(,)
+#Argentina - Have a team called Arsenal
+getLinks(,)
