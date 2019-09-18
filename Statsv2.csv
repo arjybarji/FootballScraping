@@ -2764,3 +2764,637 @@ Ural,Krasnodar,8,2,4,6,y,1,2,2,1,3,1,2,2,1,3,1,2,3,4,5,5,4,9,Premier League,3027
 Rijeka,Inter Zaprešić,7,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,8,11,0,3,3,0,3,1. HNL,3029842
 Woking,Torquay United,9,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,3,1,1,3,4,National League,3053984
 Chelmsford City,Billericay Town,9,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,,,,,,National League N / S,3055037
+Bristol Rovers,Accrington Stanley,7,3,3,6,y,2,2,2,2,4,1,1,1,1,2,2,2,4,,,,,,League One,3035202
+Coventry City,Blackpool,7,3,2,5,y,2,2,2,2,4,1,0,0,1,1,1,1,2,9,3,3,9,12,League One,3035203
+Doncaster Rovers,Rotherham United,7,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,2,3,,,,,,League One,3035204
+Fleetwood Town,Oxford United,7,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,2,3,,,,,,League One,3035205
+Milton Keynes Dons,AFC Wimbledon,7,2,1,3,y,2,0,0,2,2,0,1,1,0,1,0,0,0,7,6,6,7,13,League One,3035206
+Tranmere Rovers,Gillingham,7,2,2,4,y,0,2,2,0,2,2,0,0,2,2,1,1,2,,,,,,League One,3035211
+Wycombe Wanderers,Lincoln City,7,3,1,4,y,2,0,0,2,2,1,1,1,1,2,1,1,2,,,,,,League One,3035212
+Bradford City,Northampton Town,7,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,4,7,,,,,,League Two,3035903
+Cambridge United,Forest Green Rovers,7,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,3,5,,,,,,League Two,3035906
+Carlisle United,Exeter City,7,1,3,4,y,0,1,1,0,1,1,2,2,1,3,2,0,2,,,,,,League Two,3035908
+Cheltenham Town,Stevenage,7,4,2,6,y,1,0,0,1,1,3,2,2,3,5,0,0,0,,,,,,League Two,3035910
+Colchester United,Walsall,7,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,League Two,3035911
+Grimsby Town,Crewe Alexandra,7,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,2,3,,,,,,League Two,3035914
+Leyton Orient,Swindon Town,7,1,3,4,y,0,3,3,0,3,1,0,0,1,1,3,1,4,,,,,,League Two,3035917
+Macclesfield Town,Crawley Town,7,1,1,2,y,1,0,0,1,1,0,1,1,0,1,4,3,7,,,,,,League Two,3035919
+Mansfield Town,Scunthorpe United,7,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,4,5,,,,,,League Two,3035921
+Morecambe,Salford City,7,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,0,1,,,,,,League Two,3035924
+Newport County,Port Vale,7,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,,,,,,League Two,3035925
+Plymouth Argyle,Oldham Athletic,7,2,2,4,y,1,1,1,1,2,1,1,1,1,2,4,5,9,,,,,,League Two,3035928
+Rio Ave,Vitoria Guimaraes,1,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,2,5,5,8,8,5,13,Primeira Liga,3064652
+Dordrecht,MVV,5,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,3,4,2,5,5,2,7,Eerste Divisie,3031713
+Go Ahead Eagles,Excelsior,5,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,1,2,5,6,6,5,11,Eerste Divisie,3031714
+Telstar,Cambuur,5,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,1,3,5,4,4,5,9,Eerste Divisie,3031715
+Helmond Sport,Eindhoven,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,1,4,8,4,4,8,12,Eerste Divisie,3031716
+Roda JC,TOP Oss,5,2,1,3,y,2,0,0,2,2,0,1,1,0,1,0,2,2,7,2,2,7,9,Eerste Divisie,3031717
+Almere City,Volendam,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,1,3,3,8,8,3,11,Eerste Divisie,3031718
+Alcorcón,Real Zaragoza,4,0,3,3,n,0,2,2,0,2,0,1,1,0,1,1,2,3,8,9,9,8,17,Segunda División,3059946
+Deportivo La Coruña,Albacete,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,5,6,3,1,1,3,4,Segunda División,3059947
+Elche,Lugo,4,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,3,6,1,3,3,1,4,Segunda División,3059948
+Extremadura UD,Numancia,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,4,5,12,5,5,12,17,Segunda División,3059949
+Fuenlabrada,Ponferradina,4,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,2,4,7,2,2,7,9,Segunda División,3059950
+Girona,Rayo Vallecano,4,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,4,5,4,4,4,4,8,Segunda División,3059951
+Huesca,Sporting Gijón,4,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,2,1,1,2,3,Segunda División,3059952
+Mirandés,Real Oviedo,4,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,2,3,9,4,4,9,13,Segunda División,3059953
+Málaga,Almería,4,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,4,8,4,3,3,4,7,Segunda División,3059954
+Racing Santander,Cádiz,4,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,4,7,3,1,1,3,4,Segunda División,3059955
+Tenerife,Las Palmas,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,5,8,6,4,4,6,10,Segunda División,3059956
+Shimizu S-Pulse,Nagoya Grampus,26,3,2,5,y,1,1,1,1,2,2,1,1,2,3,0,0,0,5,8,8,5,13,J1 League,2973112
+Palmeiras,Fluminense,16,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,2,2,3,7,7,3,10,Serie A,2989069
+Internacional,São Paulo,18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,5,6,9,2,2,9,11,Serie A,2989086
+Cruzeiro,Grêmio,18,1,4,5,y,1,2,2,1,3,0,2,2,0,2,2,1,3,7,2,2,7,9,Serie A,2989087
+Fortaleza,Fluminense,18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,5,4,4,5,9,Serie A,2989088
+Corinthians,Ceará,18,2,2,4,y,2,0,0,2,2,0,2,2,0,2,1,1,2,5,8,8,5,13,Serie A,2989089
+Santos,Athletico Paranaense,18,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,6,9,11,3,3,11,14,Serie A,2989090
+Vasco da Gama,Bahia,18,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,1,4,4,3,3,4,7,Serie A,2989091
+Botafogo,Atlético Mineiro,18,2,1,3,y,1,0,0,1,1,1,1,1,1,2,4,4,8,2,8,8,2,10,Serie A,2989092
+Avaí,Flamengo,18,0,3,3,n,0,2,2,0,2,0,1,1,0,1,2,2,4,,,,,,Serie A,2989093
+Goiás,Palmeiras,18,1,2,3,y,1,0,0,1,1,0,2,2,0,2,5,2,7,3,7,7,3,10,Serie A,2989094
+CSA,Chapecoense,18,2,0,2,n,2,0,0,2,2,0,0,0,0,0,3,4,7,3,7,7,3,10,Serie A,2989095
+Shenzhen,Beijing Guoan,24,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,1,4,,,,,,CSL,2980055
+Jiangsu Suning,Guangzhou Evergrande,24,3,1,4,y,1,0,0,1,1,2,1,1,2,3,3,3,6,,,,,,CSL,2980056
+Shandong Luneng,Shanghai SIPG,24,3,1,4,y,3,1,1,3,4,0,0,0,0,0,2,0,2,5,9,9,5,14,CSL,2980057
+Dundalk,Cork City,26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,8,3,3,8,11,Premier Division,2950295
+Finn Harps,St Patrick's Athletic,30,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,1,3,4,4,4,4,8,Premier Division,2950316
+Aldershot Town,Barrow,10,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,3,4,5,2,2,5,7,National League,3053988
+Boreham Wood,Dover Athletic,10,3,1,4,y,2,1,1,2,3,1,0,0,1,1,3,4,7,6,1,1,6,7,National League,3053989
+Bromley,Chesterfield,10,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,1,2,4,1,1,4,5,National League,3053990
+Chorley,Stockport County,10,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,0,1,4,5,5,4,9,National League,3053991
+Ebbsfleet United,Eastleigh,10,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,1,3,6,6,6,6,12,National League,3053992
+Halifax Town,Yeovil Town,10,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,3,4,5,8,8,5,13,National League,3053993
+Hartlepool United,Woking,10,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,4,6,5,7,7,5,12,National League,3053994
+Maidenhead United,Dagenham & Redbridge,10,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,0,1,7,11,11,7,18,National League,3053995
+Sutton United,Notts County,10,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,1,3,4,8,8,4,12,National League,3053997
+Torquay United,Harrogate Town,10,4,2,6,y,0,1,1,0,1,4,1,1,4,5,2,2,4,7,1,1,7,8,National League,3053998
+Spennymoor Town,Blyth Spartans,2,5,0,5,n,2,0,0,2,2,3,0,0,3,3,0,0,0,,,,,,National League N / S,3054506
+Alfreton Town,Curzon Ashton,10,3,2,5,y,2,0,0,2,2,1,2,2,1,3,0,0,0,,,,,,National League N / S,3054586
+Altrincham,Leamington,10,5,0,5,n,2,0,0,2,2,3,0,0,3,3,0,0,0,,,,,,National League N / S,3054587
+Blyth Spartans,Kidderminster Harriers,10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,,,,,,National League N / S,3054588
+Boston United,Bradford (Park Avenue),10,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,0,0,,,,,,National League N / S,3054589
+Brackley Town,AFC Telford United,10,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,,,,,,National League N / S,3054590
+Chester,Guiseley,10,3,1,4,y,2,0,0,2,2,1,1,1,1,2,0,0,0,,,,,,National League N / S,3054591
+Farsley Celtic,Kettering Town,10,3,2,5,y,1,0,0,1,1,2,2,2,2,4,0,0,0,,,,,,National League N / S,3054592
+Gloucester City,Darlington,10,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,0,0,,,,,,National League N / S,3054593
+Spennymoor Town,King's Lynn Town,10,2,2,4,y,1,0,0,1,1,1,2,2,1,3,0,0,0,,,,,,National League N / S,3054595
+York City,Southport,10,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,,,,,,National League N / S,3054596
+Billericay Town,Bath City,10,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,,,,,,National League N / S,3055048
+Braintree Town,Dulwich Hamlet,10,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,0,0,,,,,,National League N / S,3055049
+Chippenham Town,Tonbridge Angels,10,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,0,0,,,,,,National League N / S,3055050
+Dartford,Dorking Wanderers,10,3,4,7,y,2,2,2,2,4,1,2,2,1,3,0,0,0,,,,,,National League N / S,3055051
+Eastbourne Borough,Slough Town,10,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,,,,,,National League N / S,3055052
+Hampton & Richmond,Concord Rangers,10,2,3,5,y,1,1,1,1,2,1,2,2,1,3,0,0,0,,,,,,National League N / S,3055053
+Hemel Hempstead Town,Chelmsford City,10,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,,,,,,National League N / S,3055054
+Hungerford Town,St Albans City,10,1,2,3,y,1,0,0,1,1,0,2,2,0,2,0,0,0,,,,,,National League N / S,3055055
+Maidstone United,Havant & Waterlooville,10,2,2,4,y,1,0,0,1,1,1,2,2,1,3,0,0,0,,,,,,National League N / S,3055056
+Wealdstone,Oxford City,10,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,National League N / S,3055057
+Weymouth,Welling United,10,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,National League N / S,3055058
+Guarani,Figueirense,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,5,4,4,5,9,Serie B,2987874
+Botafogo SP,Vitória,1,3,1,4,y,0,0,0,0,0,3,1,1,3,4,1,3,4,2,7,7,2,9,Serie B,2987875
+São Bento,Atlético GO,1,1,3,4,y,0,1,1,0,1,1,2,2,1,3,4,4,8,1,3,3,1,4,Serie B,2987876
+Vila Nova,Paraná,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,3,5,8,5,5,8,13,Serie B,2987877
+Coritiba,Ponte Preta,1,2,0,2,n,2,0,0,2,2,0,0,0,0,0,2,4,6,8,4,4,8,12,Serie B,2987878
+Operário PR,América Mineiro,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,4,3,3,4,7,Serie B,2987879
+Criciúma,Cuiabá,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,7,3,3,7,10,Serie B,2987880
+Brasil de Pelotas,RB Bragantino,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,8,6,6,8,14,Serie B,2987881
+Sport Recife,Oeste,1,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,2,5,7,6,6,7,13,Serie B,2987882
+CRB,Londrina,1,1,2,3,y,1,2,2,1,3,0,0,0,0,0,0,3,3,8,4,4,8,12,Serie B,2987883
+Ponte Preta,Criciúma,2,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,2,3,3,4,4,3,7,Serie B,2987884
+RB Bragantino,Sport Recife,2,1,1,2,y,1,1,1,1,2,0,0,0,0,0,5,3,8,6,4,4,6,10,Serie B,2987885
+Oeste,Guarani,2,2,0,2,n,1,0,0,1,1,1,0,0,1,1,4,3,7,5,6,6,5,11,Serie B,2987886
+Atlético GO,Coritiba,2,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,6,4,4,6,10,Serie B,2987887
+Paraná,CRB,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,2,5,8,4,4,8,12,Serie B,2987888
+Londrina,Brasil de Pelotas,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,2,6,4,3,3,4,7,Serie B,2987889
+Figueirense,São Bento,2,2,2,4,y,0,1,1,0,1,2,1,1,2,3,2,3,5,12,3,3,12,15,Serie B,2987890
+América Mineiro,Botafogo SP,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,8,2,2,8,10,Serie B,2987891
+Vitória,Vila Nova,2,2,1,3,y,1,1,1,1,2,1,0,0,1,1,6,2,8,4,7,7,4,11,Serie B,2987892
+Cuiabá,Operário PR,2,2,1,3,y,2,1,1,2,3,0,0,0,0,0,2,2,4,4,5,5,4,9,Serie B,2987893
+Guarani,Vitória,3,3,2,5,y,1,1,1,1,2,2,1,1,2,3,4,2,6,6,6,6,6,12,Serie B,2987894
+RB Bragantino,Atlético GO,3,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,2,2,4,11,11,4,15,Serie B,2987895
+São Bento,Botafogo SP,3,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,2,2,6,10,10,6,16,Serie B,2987896
+Vila Nova,Ponte Preta,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,5,5,10,5,4,4,5,9,Serie B,2987897
+Coritiba,Londrina,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,5,3,3,5,8,Serie B,2987898
+Operário PR,Oeste,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,3,3,5,5,5,5,10,Serie B,2987899
+Criciúma,América Mineiro,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,5,13,13,5,18,Serie B,2987900
+Brasil de Pelotas,CRB,3,0,2,2,n,0,2,2,0,2,0,0,0,0,0,2,1,3,,,,,,Serie B,2987901
+Sport Recife,Figueirense,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,,,,,,Serie B,2987902
+Cuiabá,Paraná,3,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,4,6,10,2,2,10,12,Serie B,2987903
+Ponte Preta,Operário PR,4,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,2,6,6,2,8,Serie B,2987904
+Botafogo SP,Vila Nova,4,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,2,5,3,3,3,3,6,Serie B,2987905
+Oeste,Cuiabá,4,1,1,2,y,0,1,1,0,1,1,0,0,1,1,4,2,6,4,2,2,4,6,Serie B,2987906
+Atlético GO,Criciúma,4,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,1,2,6,5,5,6,11,Serie B,2987907
+Paraná,Guarani,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,8,1,1,8,9,Serie B,2987908
+Londrina,RB Bragantino,4,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,3,4,4,3,7,Serie B,2987909
+Figueirense,Brasil de Pelotas,4,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,3,4,4,3,7,Serie B,2987910
+América Mineiro,Sport Recife,4,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,2,4,5,5,5,5,10,Serie B,2987911
+Vitória,São Bento,4,1,3,4,y,1,0,0,1,1,0,3,3,0,3,2,4,6,8,7,7,8,15,Serie B,2987912
+CRB,Coritiba,4,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,2,6,5,4,4,5,9,Serie B,2987913
+Ponte Preta,Paraná,5,4,2,6,y,1,2,2,1,3,3,0,0,3,3,5,2,7,9,5,5,9,14,Serie B,2987914
+RB Bragantino,Figueirense,5,2,0,2,n,0,0,0,0,0,2,0,0,2,2,5,4,9,7,3,3,7,10,Serie B,2987915
+São Bento,Oeste,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,7,10,10,7,17,Serie B,2987916
+Atlético GO,Vitória,5,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,5,8,11,9,9,11,20,Serie B,2987917
+Coritiba,Cuiabá,5,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,3,4,6,2,2,6,8,Serie B,2987918
+Operário PR,Botafogo SP,5,0,2,2,n,0,2,2,0,2,0,0,0,0,0,2,2,4,5,5,5,5,10,Serie B,2987919
+Criciúma,Guarani,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,5,3,8,6,5,5,6,11,Serie B,2987920
+Brasil de Pelotas,América Mineiro,5,2,1,3,y,2,1,1,2,3,0,0,0,0,0,3,2,5,3,3,3,3,6,Serie B,2987921
+Sport Recife,Londrina,5,3,2,5,y,1,0,0,1,1,2,2,2,2,4,0,0,0,5,6,6,5,11,Serie B,2987922
+CRB,Vila Nova,5,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,8,4,4,8,12,Serie B,2987923
+Guarani,Brasil de Pelotas,6,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,5,8,4,9,9,4,13,Serie B,2987924
+Botafogo SP,Criciúma,6,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,3,5,5,3,8,Serie B,2987925
+São Bento,CRB,6,1,2,3,y,0,2,2,0,2,1,0,0,1,1,5,4,9,11,3,3,11,14,Serie B,2987926
+Vila Nova,Londrina,6,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,1,4,11,3,3,11,14,Serie B,2987927
+Paraná,Oeste,6,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,7,10,8,4,4,8,12,Serie B,2987928
+Operário PR,Sport Recife,6,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,1,4,4,7,7,4,11,Serie B,2987929
+Figueirense,Atlético GO,6,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,6,3,3,6,9,Serie B,2987930
+América Mineiro,Coritiba,6,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,4,6,4,7,7,4,11,Serie B,2987931
+Vitória,RB Bragantino,6,0,2,2,n,0,2,2,0,2,0,0,0,0,0,1,4,5,2,10,10,2,12,Serie B,2987932
+Cuiabá,Ponte Preta,6,1,3,4,y,1,3,3,1,4,0,0,0,0,0,4,2,6,5,3,3,5,8,Serie B,2987933
+Ponte Preta,Botafogo SP,7,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,6,5,5,6,11,Serie B,2987934
+RB Bragantino,São Bento,7,2,0,2,n,2,0,0,2,2,0,0,0,0,0,3,6,9,13,5,5,13,18,Serie B,2987935
+Oeste,Figueirense,7,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,1,4,2,4,4,2,6,Serie B,2987936
+Atlético GO,Guarani,7,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,5,4,4,5,9,Serie B,2987937
+Coritiba,Paraná,7,2,3,5,y,1,1,1,1,2,1,2,2,1,3,4,4,8,7,7,7,7,14,Serie B,2987938
+Londrina,Cuiabá,7,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,4,3,3,4,7,Serie B,2987939
+Criciúma,Vila Nova,7,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,1,4,4,12,12,4,16,Serie B,2987940
+Brasil de Pelotas,Operário PR,7,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,7,0,0,7,7,Serie B,2987941
+Sport Recife,Vitória,7,3,1,4,y,2,1,1,2,3,1,0,0,1,1,3,1,4,4,5,5,4,9,Serie B,2987942
+CRB,América Mineiro,7,1,3,4,y,0,0,0,0,0,1,3,3,1,4,5,2,7,4,2,2,4,6,Serie B,2987943
+Guarani,Coritiba,8,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,4,7,2,7,7,2,9,Serie B,2987944
+RB Bragantino,América Mineiro,8,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,2,2,8,4,4,8,12,Serie B,2987945
+Oeste,Vitória,8,3,0,3,n,1,0,0,1,1,2,0,0,2,2,6,2,8,6,4,4,6,10,Serie B,2987946
+Vila Nova,São Bento,8,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,2,6,5,6,6,5,11,Serie B,2987947
+Paraná,Operário PR,8,1,0,1,n,0,0,0,0,0,1,0,0,1,1,5,2,7,8,12,12,8,20,Serie B,2987948
+Londrina,Ponte Preta,8,1,3,4,y,1,2,2,1,3,0,1,1,0,1,2,2,4,5,3,3,5,8,Serie B,2987949
+Figueirense,Botafogo SP,8,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,4,4,5,4,4,5,9,Serie B,2987950
+Brasil de Pelotas,Criciúma,8,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,6,7,4,3,3,4,7,Serie B,2987951
+Sport Recife,CRB,8,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,2,5,7,4,4,7,11,Serie B,2987952
+Cuiabá,Atlético GO,8,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,3,5,5,6,6,5,11,Serie B,2987953
+Ponte Preta,Oeste,9,3,2,5,y,3,1,1,3,4,0,1,1,0,1,1,4,5,4,6,6,4,10,Serie B,2987954
+Botafogo SP,Brasil de Pelotas,9,2,3,5,y,1,3,3,1,4,1,0,0,1,1,1,4,5,6,1,1,6,7,Serie B,2987955
+São Bento,Sport Recife,9,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,1,4,2,5,5,2,7,Serie B,2987956
+Atlético GO,Vila Nova,9,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,4,6,4,7,7,4,11,Serie B,2987957
+Paraná,RB Bragantino,9,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,3,4,3,7,7,3,10,Serie B,2987958
+Operário PR,Londrina,9,2,0,2,n,2,0,0,2,2,0,0,0,0,0,3,2,5,8,4,4,8,12,Serie B,2987959
+Criciúma,Coritiba,9,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,4,6,9,2,2,9,11,Serie B,2987960
+América Mineiro,Figueirense,9,0,4,4,n,0,1,1,0,1,0,3,3,0,3,1,2,3,11,2,2,11,13,Serie B,2987961
+Vitória,Cuiabá,9,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,4,6,8,3,3,8,11,Serie B,2987962
+CRB,Guarani,9,2,1,3,y,2,1,1,2,3,0,0,0,0,0,2,4,6,5,7,7,5,12,Serie B,2987963
+Ponte Preta,Atlético GO,10,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,2,6,1,3,3,1,4,Serie B,2987964
+Botafogo SP,Guarani,10,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,3,6,9,5,5,9,14,Serie B,2987965
+Oeste,RB Bragantino,10,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,1,3,3,1,4,Serie B,2987966
+Vila Nova,América Mineiro,10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,6,2,2,6,8,Serie B,2987967
+Coritiba,São Bento,10,2,1,3,y,0,1,1,0,1,2,0,0,2,2,4,5,9,5,6,6,5,11,Serie B,2987968
+Operário PR,CRB,10,2,1,3,y,2,1,1,2,3,0,0,0,0,0,2,2,4,6,1,1,6,7,Serie B,2987969
+Figueirense,Londrina,10,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,4,6,7,1,1,7,8,Serie B,2987970
+Brasil de Pelotas,Paraná,10,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,3,4,4,3,7,Serie B,2987971
+Vitória,Criciúma,10,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,5,7,4,7,7,4,11,Serie B,2987972
+Cuiabá,Sport Recife,10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,4,7,14,1,1,14,15,Serie B,2987973
+Guarani,Cuiabá,11,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,2,2,4,4,4,4,8,Serie B,2987974
+RB Bragantino,Ponte Preta,11,2,1,3,y,0,1,1,0,1,2,0,0,2,2,4,3,7,3,7,7,3,10,Serie B,2987975
+São Bento,Operário PR,11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,4,5,8,2,2,8,10,Serie B,2987976
+Atlético GO,Botafogo SP,11,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,3,5,3,3,3,3,6,Serie B,2987977
+Coritiba,Vila Nova,11,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,3,4,6,10,10,6,16,Serie B,2987978
+Londrina,Vitória,11,3,1,4,y,1,1,1,1,2,2,0,0,2,2,4,1,5,3,5,5,3,8,Serie B,2987979
+Figueirense,Paraná,11,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,3,2,2,3,5,Serie B,2987980
+América Mineiro,Oeste,11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,9,2,2,9,11,Serie B,2987981
+Sport Recife,Brasil de Pelotas,11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,11,1,1,11,12,Serie B,2987982
+CRB,Criciúma,11,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,4,8,4,8,8,4,12,Serie B,2987983
+Guarani,São Bento,12,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,3,5,4,5,5,4,9,Serie B,2987984
+Botafogo SP,CRB,12,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,4,6,6,3,3,6,9,Serie B,2987985
+Oeste,Londrina,12,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,13,8,8,13,21,Serie B,2987986
+Vila Nova,RB Bragantino,12,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,1,5,5,2,2,5,7,Serie B,2987987
+Paraná,Sport Recife,12,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,5,9,9,2,2,9,11,Serie B,2987988
+Operário PR,Coritiba,12,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,2,7,,,,,,Serie B,2987989
+Criciúma,Figueirense,12,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,1,2,8,0,0,8,8,Serie B,2987990
+América Mineiro,Atlético GO,12,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,7,4,4,7,11,Serie B,2987991
+Vitória,Ponte Preta,12,2,1,3,y,2,1,1,2,3,0,0,0,0,0,4,4,8,6,6,6,6,12,Serie B,2987992
+Cuiabá,Brasil de Pelotas,12,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,1,2,9,3,3,9,12,Serie B,2987993
+Ponte Preta,América Mineiro,13,0,1,1,n,0,0,0,0,0,0,1,1,0,1,5,1,6,5,4,4,5,9,Serie B,2987994
+RB Bragantino,Cuiabá,13,2,2,4,y,2,1,1,2,3,0,1,1,0,1,3,3,6,9,1,1,9,10,Serie B,2987995
+São Bento,Criciúma,13,1,0,1,n,1,0,0,1,1,0,0,0,0,0,5,6,11,3,7,7,3,10,Serie B,2987996
+Atlético GO,Operário PR,13,4,2,6,y,0,2,2,0,2,4,0,0,4,4,5,3,8,9,3,3,9,12,Serie B,2987997
+Coritiba,Botafogo SP,13,3,2,5,y,2,2,2,2,4,1,0,0,1,1,5,4,9,9,3,3,9,12,Serie B,2987998
+Londrina,Paraná,13,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,1,2,4,2,2,4,6,Serie B,2987999
+Figueirense,Vitória,13,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,3,6,4,4,4,4,8,Serie B,2988000
+Brasil de Pelotas,Vila Nova,13,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,2,4,5,5,5,5,10,Serie B,2988001
+Sport Recife,Guarani,13,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,8,1,1,8,9,Serie B,2988002
+CRB,Oeste,13,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,4,7,7,7,7,7,14,Serie B,2988003
+Guarani,RB Bragantino,14,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,2,5,5,2,7,Serie B,2988004
+Botafogo SP,Oeste,14,3,2,5,y,1,2,2,1,3,2,0,0,2,2,2,1,3,7,2,2,7,9,Serie B,2988005
+São Bento,Ponte Preta,14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,9,2,2,9,11,Serie B,2988006
+Vila Nova,Figueirense,14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,3,3,7,4,4,7,11,Serie B,2988007
+Paraná,América Mineiro,14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,3,6,4,5,5,4,9,Serie B,2988008
+Londrina,Atlético GO,14,1,1,2,y,1,1,1,1,2,0,0,0,0,0,6,2,8,2,6,6,2,8,Serie B,2988009
+Criciúma,Operário PR,14,1,2,3,y,1,0,0,1,1,0,2,2,0,2,4,2,6,10,4,4,10,14,Serie B,2988010
+Brasil de Pelotas,Vitória,14,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,8,7,7,8,15,Serie B,2988011
+Sport Recife,Coritiba,14,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,3,4,7,4,4,7,11,Serie B,2988012
+CRB,Cuiabá,14,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,1,4,11,6,6,11,17,Serie B,2988013
+Ponte Preta,Guarani,15,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,3,10,10,3,13,Serie B,2988014
+RB Bragantino,Botafogo SP,15,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,4,7,3,8,8,3,11,Serie B,2988015
+Oeste,Brasil de Pelotas,15,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,1,4,8,5,5,8,13,Serie B,2988016
+Atlético GO,CRB,15,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,1,4,9,3,3,9,12,Serie B,2988017
+Coritiba,Figueirense,15,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,14,3,3,14,17,Serie B,2988018
+Operário PR,Vila Nova,15,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,8,1,1,8,9,Serie B,2988019
+Criciúma,Sport Recife,15,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,2,2,9,7,7,9,16,Serie B,2988020
+América Mineiro,Londrina,15,4,3,7,y,1,2,2,1,3,3,1,1,3,4,3,6,9,5,2,2,5,7,Serie B,2988021
+Vitória,Paraná,15,2,0,2,n,2,0,0,2,2,0,0,0,0,0,2,1,3,2,8,8,2,10,Serie B,2988022
+Cuiabá,São Bento,15,3,2,5,y,3,2,2,3,5,0,0,0,0,0,4,3,7,5,12,12,5,17,Serie B,2988023
+Guarani,Vila Nova,16,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,4,6,9,4,4,9,13,Serie B,2988024
+RB Bragantino,Operário PR,16,4,0,4,n,2,0,0,2,2,2,0,0,2,2,0,0,0,12,3,3,12,15,Serie B,2988025
+São Bento,Paraná,16,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,2,4,10,2,2,10,12,Serie B,2988026
+Atlético GO,Oeste,16,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,2,3,5,1,1,5,6,Serie B,2988027
+Coritiba,Brasil de Pelotas,16,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,7,6,6,7,13,Serie B,2988028
+Londrina,Criciúma,16,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,4,6,4,9,9,4,13,Serie B,2988029
+Figueirense,Ponte Preta,16,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,4,7,3,1,1,3,4,Serie B,2988030
+América Mineiro,Cuiabá,16,2,1,3,y,2,1,1,2,3,0,0,0,0,0,2,2,4,0,5,5,0,5,Serie B,2988031
+Sport Recife,Botafogo SP,16,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,2,4,,,,,,Serie B,2988032
+CRB,Vitória,16,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,5,6,12,6,6,12,18,Serie B,2988033
+Ponte Preta,CRB,17,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,1,2,12,3,3,12,15,Serie B,2988034
+Botafogo SP,Londrina,17,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,3,5,2,3,3,2,5,Serie B,2988035
+Oeste,Coritiba,17,0,2,2,n,0,0,0,0,0,0,2,2,0,2,4,2,6,3,5,5,3,8,Serie B,2988036
+Vila Nova,Sport Recife,17,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,1,3,5,6,6,5,11,Serie B,2988037
+Paraná,Atlético GO,17,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,4,4,4,4,8,Serie B,2988038
+Operário PR,Guarani,17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,4,8,4,4,4,4,8,Serie B,2988039
+Criciúma,RB Bragantino,17,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,1,2,7,5,5,7,12,Serie B,2988040
+Brasil de Pelotas,São Bento,17,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,3,4,4,1,1,4,5,Serie B,2988041
+Vitória,América Mineiro,17,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,3,3,3,3,6,Serie B,2988042
+Ponte Preta,Sport Recife,18,2,2,4,y,2,2,2,2,4,0,0,0,0,0,5,1,6,4,1,1,4,5,Serie B,2988044
+RB Bragantino,Coritiba,18,1,1,2,y,1,0,0,1,1,0,1,1,0,1,4,2,6,3,2,2,3,5,Serie B,2988045
+Oeste,Vila Nova,18,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,5,8,9,5,5,9,14,Serie B,2988046
+Atlético GO,Brasil de Pelotas,18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,4,7,14,0,0,14,14,Serie B,2988047
+Paraná,Criciúma,18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,6,9,8,3,3,8,11,Serie B,2988048
+Londrina,São Bento,18,2,4,6,y,1,3,3,1,4,1,1,1,1,2,3,0,3,15,4,4,15,19,Serie B,2988049
+Figueirense,CRB,18,2,2,4,y,2,2,2,2,4,0,0,0,0,0,1,3,4,6,5,5,6,11,Serie B,2988050
+América Mineiro,Guarani,18,3,2,5,y,1,1,1,1,2,2,1,1,2,3,3,5,8,7,2,2,7,9,Serie B,2988051
+Vitória,Operário PR,18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,8,2,2,8,10,Serie B,2988052
+Cuiabá,Botafogo SP,18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,1,4,8,3,3,8,11,Serie B,2988053
+Guarani,Londrina,19,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,2,5,5,5,5,5,10,Serie B,2988054
+Botafogo SP,Paraná,19,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,1,4,6,3,3,6,9,Serie B,2988055
+São Bento,América Mineiro,19,0,2,2,n,0,2,2,0,2,0,0,0,0,0,4,2,6,10,2,2,10,12,Serie B,2988056
+Vila Nova,Cuiabá,19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,6,4,4,6,10,Serie B,2988057
+Coritiba,Vitória,19,1,1,2,y,1,0,0,1,1,0,1,1,0,1,6,3,9,8,3,3,8,11,Serie B,2988058
+Operário PR,Figueirense,19,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,7,9,6,4,4,6,10,Serie B,2988059
+Criciúma,Oeste,19,3,1,4,y,1,1,1,1,2,2,0,0,2,2,3,4,7,9,3,3,9,12,Serie B,2988060
+Brasil de Pelotas,Ponte Preta,19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,2,6,5,6,6,5,11,Serie B,2988061
+Sport Recife,Atlético GO,19,1,1,2,y,0,1,1,0,1,1,0,0,1,1,4,1,5,11,7,7,11,18,Serie B,2988062
+CRB,RB Bragantino,19,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,1,4,3,6,6,3,9,Serie B,2988063
+Ponte Preta,Coritiba,20,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,2,6,4,4,4,4,8,Serie B,2988064
+RB Bragantino,Brasil de Pelotas,20,2,1,3,y,2,1,1,2,3,0,0,0,0,0,2,6,8,7,4,4,7,11,Serie B,2988065
+Oeste,Sport Recife,20,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,9,7,7,9,16,Serie B,2988066
+Atlético GO,São Bento,20,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,4,7,5,7,7,5,12,Serie B,2988067
+Paraná,Vila Nova,20,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,1,2,6,5,5,6,11,Serie B,2988068
+Londrina,CRB,20,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,1,4,11,3,3,11,14,Serie B,2988069
+Figueirense,Guarani,20,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,4,7,7,0,0,7,7,Serie B,2988070
+América Mineiro,Operário PR,20,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,3,7,4,6,6,4,10,Serie B,2988071
+Vitória,Botafogo SP,20,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,4,8,8,4,12,Serie B,2988072
+Cuiabá,Criciúma,20,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,Serie B,2988073
+Guarani,Oeste,21,2,3,5,y,1,2,2,1,3,1,1,1,1,2,2,3,5,9,1,1,9,10,Serie B,2988074
+Botafogo SP,América Mineiro,21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,6,4,4,6,10,Serie B,2988075
+São Bento,Figueirense,21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,9,4,4,9,13,Serie B,2988076
+Vila Nova,Vitória,21,0,2,2,n,0,2,2,0,2,0,0,0,0,0,1,3,4,6,3,3,6,9,Serie B,2988077
+Coritiba,Atlético GO,21,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,3,6,5,8,8,5,13,Serie B,2988078
+Operário PR,Cuiabá,21,2,1,3,y,1,0,0,1,1,1,1,1,1,2,5,4,9,1,7,7,1,8,Serie B,2988079
+Criciúma,Ponte Preta,21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,13,7,7,13,20,Serie B,2988080
+Brasil de Pelotas,Londrina,21,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,6,5,5,6,11,Serie B,2988081
+Sport Recife,RB Bragantino,21,2,1,3,y,2,1,1,2,3,0,0,0,0,0,0,2,2,9,9,9,9,18,Serie B,2988082
+CRB,Paraná,21,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,3,6,2,4,4,2,6,Serie B,2988083
+Ponte Preta,Vila Nova,22,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,6,7,7,2,2,7,9,Serie B,2988084
+América Mineiro,Criciúma,22,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,6,8,5,2,2,5,7,Serie B,2988091
+CRB,Brasil de Pelotas,22,3,1,4,y,2,0,0,2,2,1,1,1,1,2,2,4,6,3,5,5,3,8,Serie B,2988093
+AFC Bournemouth,Everton,5,3,1,4,y,1,1,1,1,2,2,0,0,2,2,0,4,4,7,7,7,7,14,Premier League,3029113
+Aston Villa,West Ham United,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,2,4,4,2,6,Premier League,3029114
+Brighton & Hove Albion,Burnley,5,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,2,2,3,6,6,3,9,Premier League,3029115
+Liverpool,Newcastle United,5,3,1,4,y,2,1,1,2,3,1,0,0,1,1,0,0,0,10,1,1,10,11,Premier League,3029116
+Manchester United,Leicester City,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,3,9,9,3,12,Premier League,3029117
+Norwich City,Manchester City,5,3,2,5,y,2,1,1,2,3,1,1,1,1,2,3,1,4,3,16,16,3,19,Premier League,3029118
+Sheffield United,Southampton,5,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,12,6,6,12,18,Premier League,3029119
+Tottenham Hotspur,Crystal Palace,5,4,0,4,n,4,0,0,4,4,0,0,0,0,0,4,3,7,4,3,3,4,7,Premier League,3029120
+Watford,Arsenal,5,2,2,4,y,0,2,2,0,2,2,0,0,2,2,3,3,6,7,1,1,7,8,Premier League,3029121
+Wolverhampton Wanderers,Chelsea,5,2,5,7,y,0,3,3,0,3,2,2,2,2,4,1,2,3,7,5,5,7,12,Premier League,3029122
+Brescia,Bologna,3,3,4,7,y,3,1,1,3,4,0,3,3,0,3,2,6,8,2,10,10,2,12,Serie A,3111720
+Fiorentina,Juventus,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,3,6,10,0,0,10,10,Serie A,3111721
+Genoa,Atalanta,3,1,2,3,y,0,0,0,0,0,1,2,2,1,3,3,3,6,8,7,7,8,15,Serie A,3111722
+Hellas Verona,Milan,3,0,1,1,n,0,0,0,0,0,0,1,1,0,1,5,4,9,2,7,7,2,9,Serie A,3111723
+Internazionale,Udinese,3,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,8,3,3,8,11,Serie A,3111724
+Napoli,Sampdoria,3,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,8,7,7,8,15,Serie A,3111725
+Parma,Cagliari,3,1,3,4,y,0,2,2,0,2,1,1,1,1,2,0,5,5,12,3,3,12,15,Serie A,3111726
+Roma,Sassuolo,3,4,2,6,y,4,0,0,4,4,0,2,2,0,2,1,2,3,8,2,2,8,10,Serie A,3111727
+SPAL,Lazio,3,2,1,3,y,0,1,1,0,1,2,0,0,2,2,5,3,8,8,5,5,8,13,Serie A,3111728
+Torino,Lecce,3,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,6,7,7,3,3,7,10,Serie A,3111729
+AZ,Sparta Rotterdam,6,5,1,6,y,4,1,1,4,5,1,0,0,1,1,0,1,1,9,3,3,9,12,Eredivisie,3032098
+PSV,Vitesse,6,5,0,5,n,2,0,0,2,2,3,0,0,3,3,0,1,1,8,3,3,8,11,Eredivisie,3032099
+VVV,Groningen,6,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,0,1,5,13,13,5,18,Eredivisie,3032100
+Utrecht,Emmen,6,3,1,4,y,1,0,0,1,1,2,1,1,2,3,3,4,7,10,4,4,10,14,Eredivisie,3032101
+Ajax,Heerenveen,6,4,1,5,y,2,1,1,2,3,2,0,0,2,2,1,1,2,11,2,2,11,13,Eredivisie,3032102
+PEC Zwolle,RKC Waalwijk,6,6,2,8,y,1,2,2,1,3,5,0,0,5,5,1,2,3,4,5,5,4,9,Eredivisie,3032103
+Feyenoord,ADO Den Haag,6,3,2,5,y,3,0,0,3,3,0,2,2,0,2,1,3,4,1,4,4,1,5,Eredivisie,3032104
+Heracles,Willem II,6,4,1,5,y,2,1,1,2,3,2,0,0,2,2,0,3,3,2,4,4,2,6,Eredivisie,3032105
+Fortuna Sittard,Twente,6,2,3,5,y,0,2,2,0,2,2,1,1,2,3,2,2,4,12,2,2,12,14,Eredivisie,3032106
+AFC Wimbledon,Shrewsbury Town,8,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,0,1,,,,,,League One,3035213
+Accrington Stanley,Sunderland,8,1,3,4,y,1,3,3,1,4,0,0,0,0,0,1,1,2,,,,,,League One,3035214
+Blackpool,Milton Keynes Dons,8,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,1,1,,,,,,League One,3035215
+Burton Albion,Coventry City,8,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,,,,,,League One,3035216
+Gillingham,Wycombe Wanderers,8,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,,,,,,League One,3035218
+Ipswich Town,Doncaster Rovers,8,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,5,6,,,,,,League One,3035219
+Lincoln City,Bristol Rovers,8,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,1,4,,,,,,League One,3035220
+Oxford United,Tranmere Rovers,8,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,2,4,,,,,,League One,3035221
+Peterborough United,Rochdale,8,6,0,6,n,3,0,0,3,3,3,0,0,3,3,0,4,4,,,,,,League One,3035222
+Rotherham United,Bolton Wanderers,8,6,1,7,y,3,1,1,3,4,3,0,0,3,3,2,0,2,,,,,,League One,3035223
+Southend United,Fleetwood Town,8,3,3,6,y,1,2,2,1,3,2,1,1,2,3,1,3,4,,,,,,League One,3035224
+Barnsley,Leeds United,7,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,0,1,,,,,,Championship,3035545
+Blackburn Rovers,Millwall,7,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,1,1,,,,,,Championship,3035547
+Charlton Athletic,Birmingham City,7,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,,,,,,Championship,3035549
+Derby County,Cardiff City,7,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,6,4,4,6,10,Championship,3035551
+Fulham,West Bromwich Albion,7,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,13,3,3,13,16,Championship,3035553
+Huddersfield Town,Sheffield Wednesday,7,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,3,5,3,3,3,3,6,Championship,3035555
+Hull City,Wigan Athletic,7,2,2,4,y,2,1,1,2,3,0,1,1,0,1,2,6,8,,,,,,Championship,3035557
+Middlesbrough,Reading,7,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,3,3,,,,,,Championship,3035559
+Preston North End,Brentford,7,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,1,3,,,,,,Championship,3035561
+Queens Park Rangers,Luton Town,7,3,2,5,y,3,1,1,3,4,0,1,1,0,1,2,1,3,,,,,,Championship,3035563
+Stoke City,Bristol City,7,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,3,6,,,,,,Championship,3035565
+Swansea City,Nottingham Forest,7,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,,,,,,Championship,3035567
+Crawley Town,Mansfield Town,8,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,,,,,,League Two,3035931
+Crewe Alexandra,Cambridge United,8,2,3,5,y,0,1,1,0,1,2,2,2,2,4,1,3,4,,,,,,League Two,3035933
+Exeter City,Leyton Orient,8,2,2,4,y,1,1,1,1,2,1,1,1,1,2,0,6,6,,,,,,League Two,3035936
+Forest Green Rovers,Colchester United,8,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,3,6,,,,,,League Two,3035941
+Northampton Town,Newport County,8,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,2,3,,,,,,League Two,3035944
+Oldham Athletic,Grimsby Town,8,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,4,5,,,,,,League Two,3035948
+Port Vale,Plymouth Argyle,8,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,,,,,,League Two,3035951
+Salford City,Cheltenham Town,8,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,1,2,,,,,,League Two,3035954
+Scunthorpe United,Morecambe,8,3,0,3,n,3,0,0,3,3,0,0,0,0,0,1,0,1,,,,,,League Two,3035956
+Stevenage,Carlisle United,8,2,3,5,y,1,1,1,1,2,1,2,2,1,3,1,3,4,,,,,,League Two,3035958
+Swindon Town,Macclesfield Town,8,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,2,2,,,,,,League Two,3035961
+Walsall,Bradford City,8,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,,,,,,League Two,3035963
+Deportivo Alavés,Sevilla,4,0,1,1,n,0,1,1,0,1,0,0,0,0,0,5,5,10,2,6,6,2,8,La Liga,3058840
+Barcelona,Valencia,4,5,2,7,y,2,1,1,2,3,3,1,1,3,4,1,4,5,2,5,5,2,7,La Liga,3058841
+Real Betis,Getafe,4,1,1,2,y,0,1,1,0,1,1,0,0,1,1,5,6,11,5,6,6,5,11,La Liga,3058842
+Celta de Vigo,Granada,4,0,2,2,n,0,1,1,0,1,0,1,1,0,1,6,2,8,3,5,5,3,8,La Liga,3058843
+Eibar,Espanyol,4,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,4,6,7,2,2,7,9,La Liga,3058844
+Leganes,Villarreal,4,0,3,3,n,0,2,2,0,2,0,1,1,0,1,2,0,2,8,6,6,8,14,La Liga,3058845
+Mallorca,Athletic Club,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,3,7,4,6,6,4,10,La Liga,3058846
+Real Madrid,Levante,4,3,2,5,y,3,0,0,3,3,0,2,2,0,2,2,2,4,9,6,6,9,15,La Liga,3058847
+Real Sociedad,Atletico Madrid,4,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,5,5,5,5,10,La Liga,3058848
+Real Valladolid,Osasuna,4,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,10,6,6,10,16,La Liga,3058849
+Dijon,Nîmes,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,1,4,6,0,0,6,6,Ligue 1,3030587
+Nantes,Reims,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,7,5,5,7,12,Ligue 1,3030588
+Montpellier,Nice,5,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,2,4,8,1,1,8,9,Ligue 1,3030589
+Brest,Rennes,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,2,4,4,2,6,Ligue 1,3030590
+Monaco,Olympique Marseille,5,3,4,7,y,2,2,2,2,4,1,2,2,1,3,3,3,6,6,4,4,6,10,Ligue 1,3030591
+Saint-Etienne,Toulouse,5,2,2,4,y,1,2,2,1,3,1,0,0,1,1,3,0,3,9,7,7,9,16,Ligue 1,3030592
+Lille,Angers SCO,5,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,2,3,4,4,4,4,8,Ligue 1,3030593
+Bordeaux,Metz,5,2,0,2,n,2,0,0,2,2,0,0,0,0,0,2,2,4,4,6,6,4,10,Ligue 1,3030594
+Amiens SC,Olympique Lyonnais,5,2,2,4,y,1,2,2,1,3,1,0,0,1,1,3,2,5,4,1,1,4,5,Ligue 1,3030595
+PSG,Strasbourg,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,5,2,2,5,7,Ligue 1,3030596
+Borussia Dortmund,Bayer Leverkusen,4,4,0,4,n,1,0,0,1,1,3,0,0,3,3,0,3,3,3,3,3,3,6,Bundesliga,3047047
+RB Leipzig,Bayern München,4,1,1,2,y,1,1,1,1,2,0,0,0,0,0,4,2,6,3,6,6,3,9,Bundesliga,3047048
+Hoffenheim,Freiburg,4,0,3,3,n,0,2,2,0,2,0,1,1,0,1,0,2,2,12,4,4,12,16,Bundesliga,3047049
+Fortuna Düsseldorf,Wolfsburg,4,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,2,2,3,8,8,3,11,Bundesliga,3047050
+Mainz 05,Hertha BSC,4,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,2,4,6,3,3,6,9,Bundesliga,3047051
+Augsburg,Eintracht Frankfurt,4,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,1,3,2,11,11,2,13,Bundesliga,3047052
+Köln,Borussia M'gladbach,4,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,2,4,4,7,7,4,11,Bundesliga,3047053
+Paderborn,Schalke 04,4,1,5,6,y,1,1,1,1,2,0,4,4,0,4,2,1,3,3,5,5,3,8,Bundesliga,3047054
+Union Berlin,Werder Bremen,4,1,2,3,y,1,1,1,1,2,0,1,1,0,1,3,4,7,7,4,4,7,11,Bundesliga,3047055
+Famalicão,Paços de Ferreira,5,4,2,6,y,1,0,0,1,1,3,2,2,3,5,3,2,5,1,9,9,1,10,Primeira Liga,3064680
+Boavista,Sporting CP,5,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,6,8,5,8,8,5,13,Primeira Liga,3064681
+Santa Clara,Moreirense,5,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,2,5,6,3,3,6,9,Primeira Liga,3064682
+Rio Ave,Tondela,5,2,4,6,y,1,2,2,1,3,1,2,2,1,3,2,3,5,9,0,0,9,9,Primeira Liga,3064683
+Benfica,Gil Vicente,5,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,4,5,9,7,7,9,16,Primeira Liga,3064684
+Vitoria Guimaraes,Desportivo Aves,5,5,1,6,y,2,1,1,2,3,3,0,0,3,3,3,2,5,9,6,6,9,15,Primeira Liga,3064685
+Marítimo,Belenenses,5,1,3,4,y,0,2,2,0,2,1,1,1,1,2,2,3,5,8,9,9,8,17,Primeira Liga,3064686
+Vitória Setúbal,Sporting Braga,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,4,5,1,7,7,1,8,Primeira Liga,3064687
+Portimonense,Porto,5,2,3,5,y,0,2,2,0,2,2,1,1,2,3,1,2,3,1,10,10,1,11,Primeira Liga,3064688
+NAC Breda,Utrecht II,6,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,5,9,15,3,3,15,18,Eerste Divisie,3031719
+PSV II,AZ II,6,3,2,5,y,0,2,2,0,2,3,0,0,3,3,1,0,1,4,5,5,4,9,Eerste Divisie,3031720
+Den Bosch,NEC,6,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,2,4,7,6,6,7,13,Eerste Divisie,3031721
+De Graafschap,Ajax II,6,3,2,5,y,0,2,2,0,2,3,0,0,3,3,0,4,4,4,3,3,4,7,Eerste Divisie,3031722
+Cambuur,Helmond Sport,6,5,1,6,y,3,0,0,3,3,2,1,1,2,3,0,1,1,6,2,2,6,8,Eerste Divisie,3031723
+Volendam,Dordrecht,6,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,5,5,7,4,4,7,11,Eerste Divisie,3031724
+MVV,Telstar,6,1,2,3,y,0,0,0,0,0,1,2,2,1,3,4,2,6,6,4,4,6,10,Eerste Divisie,3031725
+Eindhoven,Roda JC,6,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,3,3,3,5,5,3,8,Eerste Divisie,3031726
+Excelsior,Almere City,6,4,2,6,y,0,0,0,0,0,4,2,2,4,6,2,0,2,3,13,13,3,16,Eerste Divisie,3031727
+TOP Oss,Go Ahead Eagles,6,1,2,3,y,1,0,0,1,1,0,2,2,0,2,1,0,1,2,5,5,2,7,Eerste Divisie,3031728
+Utrecht II,Den Bosch,5,5,1,6,y,3,0,0,3,3,2,1,1,2,3,1,1,2,3,5,5,3,8,Eerste Divisie,3031729
+NEC,De Graafschap,5,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,2,3,3,6,6,3,9,Eerste Divisie,3031730
+Ajax II,PSV II,5,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,1,4,1,3,3,1,4,Eerste Divisie,3031731
+AZ II,NAC Breda,5,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,2,5,3,9,9,3,12,Eerste Divisie,3031732
+Hannover 96,Arminia Bielefeld,6,0,2,2,n,0,1,1,0,1,0,1,1,0,1,5,1,6,6,2,2,6,8,2. Bundesliga,3047372
+Heidenheim,Holstein Kiel,6,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,1,2,5,8,8,5,13,2. Bundesliga,3047373
+Jahn Regensburg,Stuttgart,6,2,3,5,y,0,1,1,0,1,2,2,2,2,4,4,0,4,7,12,12,7,19,2. Bundesliga,3047374
+St. Pauli,Hamburger SV,6,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,4,8,8,4,12,2. Bundesliga,3047375
+Darmstadt 98,Nürnberg,6,3,3,6,y,1,2,2,1,3,2,1,1,2,3,1,1,2,5,8,8,5,13,2. Bundesliga,3047376
+Bochum,Dynamo Dresden,6,2,2,4,y,0,0,0,0,0,2,2,2,2,4,2,3,5,7,1,1,7,8,2. Bundesliga,3047377
+Greuther Fürth,Wehen Wiesbaden,6,2,1,3,y,0,0,0,0,0,2,1,1,2,3,4,1,5,8,6,6,8,14,2. Bundesliga,3047378
+Erzgebirge Aue,Osnabrück,6,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,5,7,5,4,4,5,9,2. Bundesliga,3047379
+Karlsruher SC,Sandhausen,6,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,7,6,6,7,13,2. Bundesliga,3047380
+Ascoli,Livorno,3,2,0,2,n,1,0,0,1,1,1,0,0,1,1,4,3,7,4,3,3,4,7,Serie B,3122563
+Cittadella,Trapani,3,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,3,6,7,4,4,7,11,Serie B,3122564
+Cosenza,Pescara,3,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,2,3,7,1,1,7,8,Serie B,3122565
+Crotone,Empoli,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,14,2,2,14,16,Serie B,3122566
+Perugia,Juve Stabia,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,4,4,6,7,7,6,13,Serie B,3122567
+Pisa,Cremonese,3,4,1,5,y,1,0,0,1,1,3,1,1,3,4,2,3,5,4,6,6,4,10,Serie B,3122568
+Pordenone,Spezia,3,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,5,4,4,5,9,Serie B,3122569
+Salernitana,Benevento,3,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,0,3,4,7,7,4,11,Serie B,3122570
+Venezia,Chievo,3,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,3,6,2,3,3,2,5,Serie B,3122571
+Virtus Entella,Frosinone,3,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,4,5,5,4,9,Serie B,3122572
+Niort,Grenoble Foot 38,7,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,1,5,2,10,10,2,12,Ligue 2,3031076
+Troyes,Caen,7,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,1,3,5,3,3,5,8,Ligue 2,3031077
+Chambly,Auxerre,7,1,4,5,y,0,0,0,0,0,1,4,4,1,5,1,1,2,6,1,1,6,7,Ligue 2,3031078
+Rodez,Le Mans,7,4,1,5,y,2,0,0,2,2,2,1,1,2,3,1,3,4,5,2,2,5,7,Ligue 2,3031079
+Guingamp,Nancy,7,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,2,5,4,4,4,4,8,Ligue 2,3031080
+Ajaccio,Orléans,7,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,2,4,4,2,6,Ligue 2,3031081
+Clermont,Lorient,7,0,2,2,n,0,2,2,0,2,0,0,0,0,0,2,3,5,6,3,3,6,9,Ligue 2,3031082
+Le Havre,Paris FC,7,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,4,6,7,4,4,7,11,Ligue 2,3031083
+Lens,Châteauroux,7,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,6,7,2,6,6,2,8,Ligue 2,3031084
+Sochaux,Valenciennes,7,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,6,4,4,6,10,Ligue 2,3031085
+Albacete,Tenerife,5,0,4,4,n,0,2,2,0,2,0,2,2,0,2,6,3,9,3,3,3,3,6,Segunda División,3059957
+Cádiz,Girona,5,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,2,5,3,3,3,3,6,Segunda División,3059958
+Las Palmas,Almería,5,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,4,7,4,5,5,4,9,Segunda División,3059959
+Lugo,Fuenlabrada,5,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,4,5,6,6,6,6,12,Segunda División,3059960
+Mirandés,Málaga,5,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,3,5,6,4,4,6,10,Segunda División,3059961
+Numancia,Huesca,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,2,10,10,2,12,Segunda División,3059962
+Ponferradina,Alcorcón,5,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,5,6,5,5,5,5,10,Segunda División,3059963
+Real Oviedo,Elche,5,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,2,5,6,4,4,6,10,Segunda División,3059964
+Rayo Vallecano,Racing Santander,5,2,0,2,n,1,0,0,1,1,1,0,0,1,1,4,2,6,12,3,3,12,15,Segunda División,3059965
+Sporting Gijón,Deportivo La Coruña,5,1,1,2,y,1,0,0,1,1,0,1,1,0,1,4,4,8,1,3,3,1,4,Segunda División,3059966
+Real Zaragoza,Extremadura UD,5,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,1,2,6,5,5,6,11,Segunda División,3059967
+Estoril,Porto II,5,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,1,2,2,3,3,2,5,Segunda Liga,3065117
+Benfica II,Academico Viseu,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,4,5,5,4,4,5,9,Segunda Liga,3065118
+Penafiel,Mafra,5,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,2,4,2,3,3,2,5,Segunda Liga,3065120
+Feirense,Chaves,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,5,13,13,5,18,Segunda Liga,3065121
+Farense,Vilafranquense,5,3,0,3,n,3,0,0,3,3,0,0,0,0,0,1,1,2,5,4,4,5,9,Segunda Liga,3065122
+Académica,Nacional,5,1,2,3,y,0,1,1,0,1,1,1,1,1,2,6,4,10,7,2,2,7,9,Segunda Liga,3065123
+Casa Pia,UD Oliveirense,5,1,3,4,y,0,1,1,0,1,1,2,2,1,3,4,3,7,2,1,1,2,3,Segunda Liga,3065124
+Varzim,Cova Piedade,5,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,2,4,16,2,2,16,18,Segunda Liga,3065125
+Aberdeen,St. Johnstone,5,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,2,2,,,,,,Premiership,3038385
+Hamilton Academical,Celtic,5,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,0,2,1,4,4,1,5,Premiership,3038386
+Hearts,Motherwell,5,2,3,5,y,0,1,1,0,1,2,2,2,2,4,3,3,6,,,,,,Premiership,3038387
+Kilmarnock,Hibernian,5,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,1,1,,,,,,Premiership,3038388
+Rangers,Livingston,5,3,1,4,y,0,0,0,0,0,3,1,1,3,4,0,3,3,,,,,,Premiership,3038389
+Ross County,St. Mirren,5,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,1,3,,,,,,Premiership,3038390
+Arbroath,Partick Thistle,5,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,2,3,9,6,6,9,15,Championship,3038579
+Ayr United,Dundee United,5,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,0,2,,,,,,Championship,3038580
+Dundee,Alloa Athletic,5,2,1,3,y,2,1,1,2,3,0,0,0,0,0,0,3,3,,,,,,Championship,3038581
+Dunfermline Athletic,Inverness CT,5,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,,,,,,Championship,3038582
+Queen of the South,Greenock Morton,5,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,3,4,,,,,,Championship,3038583
+Alanyaspor,Fenerbahçe,4,3,1,4,y,1,1,1,1,2,2,0,0,2,2,1,1,2,3,3,3,3,6,Süper Lig,3081804
+Istanbul Basaksehir,Sivasspor,4,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,2,4,7,4,4,7,11,Süper Lig,3081805
+Denizlispor,Konyaspor,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,2,6,3,5,5,3,8,Süper Lig,3081806
+Ankaragücü,Yeni Malatyaspor,4,0,4,4,n,0,3,3,0,3,0,1,1,0,1,4,3,7,4,2,2,4,6,Süper Lig,3081807
+Trabzonspor,Gençlerbirliği,4,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,2,4,2,4,4,2,6,Süper Lig,3081808
+Gazişehir Gaziantep,Beşiktaş,4,3,2,5,y,1,0,0,1,1,2,2,2,2,4,5,6,11,4,14,14,4,18,Süper Lig,3081809
+Rizespor,Göztepe,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,4,7,3,3,3,3,6,Süper Lig,3081810
+Galatasaray,Kasımpaşa,4,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,3,5,5,3,8,Süper Lig,3081811
+Antalyaspor,Kayserispor,4,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,1,4,11,3,3,11,14,Süper Lig,3081812
+Grêmio,Goiás,19,3,0,3,n,3,0,0,3,3,0,0,0,0,0,0,1,1,15,4,4,15,19,Serie A,2989096
+Atlético Mineiro,Internacional,19,1,3,4,y,0,1,1,0,1,1,2,2,1,3,0,1,1,10,0,0,10,10,Serie A,2989097
+Ceará,Botafogo,19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,18,0,0,18,18,Serie A,2989098
+Palmeiras,Cruzeiro,19,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,4,4,4,4,8,Serie A,2989099
+São Paulo,CSA,19,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,3,4,11,3,3,11,14,Serie A,2989100
+Flamengo,Santos,19,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,5,7,3,1,1,3,4,Serie A,2989101
+Fluminense,Corinthians,19,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,1,5,3,6,6,3,9,Serie A,2989102
+Chapecoense,Vasco da Gama,19,1,2,3,y,1,2,2,1,3,0,0,0,0,0,2,5,7,7,5,5,7,12,Serie A,2989103
+Bahia,Fortaleza,19,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,1,2,5,7,7,5,12,Serie A,2989104
+Athletico Paranaense,Avaí,19,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,0,1,12,5,5,12,17,Serie A,2989105
+Guangzhou R&F,Tianjin Tianhai,24,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,1,4,3,5,5,3,8,CSL,2980058
+Henan Jianye,Hebei CFFC,24,4,1,5,y,2,0,0,2,2,2,1,1,2,3,2,2,4,6,1,1,6,7,CSL,2980059
+Shanghai Shenhua,Tianjin Teda,24,0,3,3,n,0,2,2,0,2,0,1,1,0,1,2,3,5,6,2,2,6,8,CSL,2980060
+Wuhan Zall,Dalian Yifang,24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,6,1,1,6,7,CSL,2980061
+SønderjyskE,Horsens,9,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,4,8,12,Superliga,3026936
+Brøndby,Nordsjælland,9,4,2,6,y,2,0,0,2,2,2,2,2,2,4,2,2,4,5,10,10,5,15,Superliga,3026937
+AGF,AaB,9,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,1,3,6,6,6,6,12,Superliga,3026938
+Hobro,Copenhagen,9,2,1,3,y,2,1,1,2,3,0,0,0,0,0,3,0,3,3,11,11,3,14,Superliga,3026939
+Esbjerg,Randers,9,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,0,3,0,8,8,0,8,Superliga,3026940
+Lyngby,Midtjylland,9,0,3,3,n,0,1,1,0,1,0,2,2,0,2,1,1,2,5,3,3,5,8,Superliga,3026941
+Silkeborg,OB,9,0,3,3,n,0,2,2,0,2,0,1,1,0,1,3,1,4,4,4,4,4,8,Superliga,3026942
+Rosenborg,Lillestrøm,21,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,3,4,7,2,2,7,9,Eliteserien,2951536
+Molde,Tromsø,21,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,1,2,3,9,9,3,12,Eliteserien,2951537
+Haugesund,Mjøndalen,21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,,,,,,Eliteserien,2951538
+Kristiansund,Brann,21,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,10,1,1,10,11,Eliteserien,2951539
+Sarpsborg 08,Vålerenga,21,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,1,3,5,5,5,5,10,Eliteserien,2951540
+Bodø / Glimt,Stabæk,21,3,3,6,y,1,2,2,1,3,2,1,1,2,3,1,2,3,7,3,3,7,10,Eliteserien,2951541
+Strømsgodset,Ranheim,21,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,5,6,6,5,11,Eliteserien,2951542
+Viking,Odd,21,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,5,7,4,3,3,4,7,Eliteserien,2951543
+Zenit,Arsenal Tula,9,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,3,4,2,2,2,2,4,Premier League,3027137
+Spartak Moscow,Ural,9,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,3,6,6,1,1,6,7,Premier League,3027138
+Rostov,Akhmat Grozny,9,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,1,2,8,0,0,8,8,Premier League,3027139
+Krasnodar,Krylya Sovetov,9,4,2,6,y,1,1,1,1,2,3,1,1,3,4,4,2,6,3,4,4,3,7,Premier League,3027140
+Tambov,CSKA Moscow,9,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,3,5,5,8,8,5,13,Premier League,3027141
+Dinamo Moscow,Ufa,9,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,8,0,0,8,8,Premier League,3027142
+Orenburg,Rubin Kazan,9,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,4,6,3,5,5,3,8,Premier League,3027144
+Bohemians,Waterford,31,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,3,3,8,2,2,8,10,Premier Division,2950318
+St Patrick's Athletic,UCD,31,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,2,3,5,Premier Division,2950321
+Sligo Rovers,Finn Harps,31,3,1,4,y,3,0,0,3,3,0,1,1,0,1,1,3,4,5,6,6,5,11,Premier Division,2950322
+Salzburg,Hartberg,7,7,2,9,y,2,1,1,2,3,5,1,1,5,6,0,3,3,6,6,6,6,12,Bundesliga,3034873
+Wolfsberger AC,Austria Wien,7,3,0,3,n,0,0,0,0,0,3,0,0,3,3,1,3,4,8,6,6,8,14,Bundesliga,3034874
+Sturm Graz,LASK,7,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,0,2,5,8,8,5,13,Bundesliga,3034875
+Rapid Wien,Admira,7,5,0,5,n,1,0,0,1,1,4,0,0,4,4,2,2,4,7,1,1,7,8,Bundesliga,3034876
+Mattersburg,Swarovski Tirol,7,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,3,4,5,8,8,5,13,Bundesliga,3034877
+Rheindorf Altach,St. Pölten,7,6,0,6,n,3,0,0,3,3,3,0,0,3,3,0,3,3,5,1,1,5,6,Bundesliga,3034878
+Sporting Charleroi,Genk,7,2,1,3,y,2,0,0,2,2,0,1,1,0,1,6,1,7,1,3,3,1,4,First Division A,3050187
+KV Oostende,Standard Liège,7,1,4,5,y,1,1,1,1,2,0,3,3,0,3,0,2,2,2,9,9,2,11,First Division A,3050188
+AS Eupen,Zulte-Waregem,7,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,3,6,5,2,2,5,7,First Division A,3050189
+Sint-Truiden,Waasland-Beveren,7,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,6,9,9,6,15,First Division A,3050190
+Cercle Brugge,Club Brugge,7,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,3,10,10,3,13,First Division A,3050191
+Anderlecht,Antwerp,7,1,2,3,y,0,0,0,0,0,1,2,2,1,3,4,4,8,11,4,4,11,15,First Division A,3050192
+Gent,Mechelen,7,3,0,3,n,3,0,0,3,3,0,0,0,0,0,1,3,4,7,4,4,7,11,First Division A,3050193
+Royal Excel Mouscron,Kortrijk,7,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,3,6,6,5,5,6,11,First Division A,3050194
+Karviná,Bohemians 1905,9,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,2,6,5,2,2,5,7,Czech Liga,3036850
+Slovan Liberec,Teplice,9,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,1,2,2,11,11,2,13,Czech Liga,3036851
+Sigma Olomouc,Opava,9,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,4,5,5,4,9,Czech Liga,3036852
+Slavia Praha,Slovácko,9,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,3,4,7,3,3,7,10,Czech Liga,3036853
+Zlín,Sparta Praha,9,0,2,2,n,0,2,2,0,2,0,0,0,0,0,3,0,3,2,6,6,2,8,Czech Liga,3036854
+Viktoria Plzen,Jablonec,9,3,2,5,y,1,1,1,1,2,2,1,1,2,3,2,5,7,8,4,4,8,12,Czech Liga,3036855
+Baník Ostrava,České Budějovice,9,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,6,7,9,2,2,9,11,Czech Liga,3036856
+Mladá Boleslav,Příbram,9,6,0,6,n,3,0,0,3,3,3,0,0,3,3,3,3,6,3,5,5,3,8,Czech Liga,3036857
+Inter Zaprešić,Slaven Koprivnica,8,3,1,4,y,0,0,0,0,0,3,1,1,3,4,4,2,6,7,5,5,7,12,1. HNL,3029847
+Gorica,Lokomotiva Zagreb,8,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,8,2,2,8,10,1. HNL,3029848
+Osijek,Varaždin,8,2,2,4,y,2,0,0,2,2,0,2,2,0,2,2,1,3,3,4,4,3,7,1. HNL,3029849
+Dinamo Zagreb,Istra 1961,8,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,10,3,3,10,13,1. HNL,3029850
+Rijeka,Hajduk Split,8,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,4,5,5,4,4,5,9,1. HNL,3029851
+Cracovia Kraków,Piast Gliwice,8,2,0,2,n,1,0,0,1,1,1,0,0,1,1,4,3,7,9,0,0,9,9,Ekstraklasa,3025756
+Górnik Zabrze,Śląsk Wrocław,8,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,2,11,11,2,13,Ekstraklasa,3025757
+Jagiellonia Białystok,Legia Warszawa,8,0,0,0,n,0,0,0,0,0,0,0,0,0,0,5,5,10,6,2,2,6,8,Ekstraklasa,3025758
+Korona Kielce,Wisła Kraków,8,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,3,6,10,2,2,10,12,Ekstraklasa,3025759
+Lechia Gdańsk,Lech Poznań,8,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,2,3,3,5,5,3,8,Ekstraklasa,3025760
+Pogoń Szczecin,ŁKS Łódź,8,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,4,5,11,4,4,11,15,Ekstraklasa,3025761
+Raków Częstochowa,Arka Gdynia,8,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,1,4,3,0,0,3,3,Ekstraklasa,3025762
+Zagłębie Lubin,Wisła Płock,8,5,0,5,n,3,0,0,3,3,2,0,0,2,2,3,4,7,8,3,3,8,11,Ekstraklasa,3025763
+Örebro,GIF Sundsvall,23,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,4,4,4,4,8,Allsvenskan,2947306
+Östersunds FK,Kalmar,23,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,0,3,2,4,4,2,6,Allsvenskan,2947307
+Malmö FF,Norrköping,23,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,2,2,5,2,2,5,7,Allsvenskan,2947308
+Hammarby,IFK Göteborg,23,6,2,8,y,3,1,1,3,4,3,1,1,3,4,2,2,4,10,2,2,10,12,Allsvenskan,2947309
+Djurgården,Helsingborg,23,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,6,0,0,6,6,Allsvenskan,2947310
+Häcken,AIK,23,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,3,6,8,4,4,8,12,Allsvenskan,2947311
+Sirius,Falkenberg,23,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,4,11,11,4,15,Allsvenskan,2947312
+AFC Eskilstuna,Elfsborg,23,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,2,4,1,14,14,1,15,Allsvenskan,2947313
+Puebla,Atlético San Luis,9,1,3,4,y,1,2,2,1,3,0,1,1,0,1,4,4,8,2,5,5,2,7,Liga MX,3041029
+Veracruz,Cruz Azul,9,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,5,4,4,5,9,Liga MX,3041030
+Tijuana,Tigres UANL,9,1,1,2,y,0,1,1,0,1,1,0,0,1,1,4,4,8,6,4,4,6,10,Liga MX,3041031
+Monterrey,Necaxa,9,0,2,2,n,0,2,2,0,2,0,0,0,0,0,1,2,3,6,2,2,6,8,Liga MX,3041032
+León,Juárez,9,3,1,4,y,0,1,1,0,1,3,0,0,3,3,3,5,8,8,1,1,8,9,Liga MX,3041033
+Guadalajara,Atlas,9,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,4,8,4,3,3,4,7,Liga MX,3041034
+Toluca,Morelia,9,0,2,2,n,0,0,0,0,0,0,2,2,0,2,0,0,0,3,0,0,3,3,Liga MX,3041035
+Santos Laguna,Pachuca,9,2,2,4,y,1,2,2,1,3,1,0,0,1,1,1,2,3,8,5,5,8,13,Liga MX,3041036
+América,Pumas UNAM,9,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,3,6,4,3,3,4,7,Liga MX,3041037
+Barnet,Maidenhead United,11,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,8,9,9,8,17,National League,3053999
+Barrow,Solihull Moors,11,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,3,4,1,0,0,1,1,National League,3054000
+Chesterfield,Torquay United,11,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,8,9,9,8,17,National League,3054001
+Dagenham & Redbridge,Hartlepool United,11,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,3,4,6,7,7,6,13,National League,3054002
+Dover Athletic,Chorley,11,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,4,5,,,,,,National League,3054003
+Eastleigh,Bromley,11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,11,3,3,11,14,National League,3054004
+Harrogate Town,Boreham Wood,11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,8,4,4,8,12,National League,3054005
+Notts County,Halifax Town,11,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,3,7,4,3,3,4,7,National League,3054006
+Stockport County,Aldershot Town,11,1,2,3,y,0,2,2,0,2,1,0,0,1,1,2,4,6,7,3,3,7,10,National League,3054007
+Woking,Ebbsfleet United,11,2,2,4,y,1,0,0,1,1,1,2,2,1,3,3,3,6,7,3,3,7,10,National League,3054008
+Wrexham,Sutton United,11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,4,5,6,3,3,6,9,National League,3054009
+Yeovil Town,Fylde,11,3,2,5,y,2,0,0,2,2,1,2,2,1,3,2,1,3,6,7,7,6,13,National League,3054010
+AFC Telford United,Chester,11,1,3,4,y,0,2,2,0,2,1,1,1,1,2,0,0,0,,,,,,National League N / S,3054597
+Bradford (Park Avenue),Spennymoor Town,11,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,,,,,,National League N / S,3054598
+Curzon Ashton,Brackley Town,11,0,4,4,n,0,1,1,0,1,0,3,3,0,3,0,0,0,,,,,,National League N / S,3054599
+Darlington,York City,11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,0,0,0,,,,,,National League N / S,3054600
+Gateshead,Boston United,11,3,0,3,n,0,0,0,0,0,3,0,0,3,3,0,0,0,,,,,,National League N / S,3054601
+Guiseley,Hereford,11,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,0,0,,,,,,National League N / S,3054602
+Kettering Town,Alfreton Town,11,2,1,3,y,2,1,1,2,3,0,0,0,0,0,0,0,0,,,,,,National League N / S,3054603
+Kidderminster Harriers,Altrincham,11,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,,,,,,National League N / S,3054604
+King's Lynn Town,Gloucester City,11,2,2,4,y,1,1,1,1,2,1,1,1,1,2,0,0,0,,,,,,National League N / S,3054605
+Leamington,Farsley Celtic,11,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,0,0,,,,,,National League N / S,3054606
+Southport,Blyth Spartans,11,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,,,,,,National League N / S,3054607
+Bath City,Eastbourne Borough,11,2,2,4,y,1,0,0,1,1,1,2,2,1,3,0,0,0,,,,,,National League N / S,3055059
+Chelmsford City,Chippenham Town,11,3,3,6,y,0,2,2,0,2,3,1,1,3,4,0,0,0,,,,,,National League N / S,3055060
+Concord Rangers,Dartford,11,0,2,2,n,0,2,2,0,2,0,0,0,0,0,0,0,0,,,,,,National League N / S,3055061
+Dorking Wanderers,Maidstone United,11,3,1,4,y,2,1,1,2,3,1,0,0,1,1,0,0,0,,,,,,National League N / S,3055062
+Dulwich Hamlet,Hungerford Town,11,2,3,5,y,2,0,0,2,2,0,3,3,0,3,0,0,0,,,,,,National League N / S,3055063
+Havant & Waterlooville,Braintree Town,11,1,3,4,y,1,2,2,1,3,0,1,1,0,1,0,0,0,,,,,,National League N / S,3055064
+Oxford City,Billericay Town,11,2,2,4,y,1,2,2,1,3,1,0,0,1,1,0,0,0,,,,,,National League N / S,3055065
+Slough Town,Hampton & Richmond,11,3,1,4,y,2,1,1,2,3,1,0,0,1,1,0,0,0,,,,,,National League N / S,3055066
+St Albans City,Weymouth,11,1,4,5,y,1,2,2,1,3,0,2,2,0,2,0,0,0,,,,,,National League N / S,3055067
+Tonbridge Angels,Hemel Hempstead Town,11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,0,0,0,,,,,,National League N / S,3055068
+Welling United,Wealdstone,11,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,0,0,,,,,,National League N / S,3055069
+AEK Athens,Lamia,3,2,0,2,n,2,0,0,2,2,0,0,0,0,0,2,1,3,10,1,1,10,11,Super League 1,3051883
+Xanthi,Asteras Tripolis,3,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,3,3,3,5,5,3,8,Super League 1,3051884
+Aris,Panathinaikos,3,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,4,5,3,3,3,3,6,Super League 1,3051885
+Atromitos,PAOK,3,2,3,5,y,1,2,2,1,3,1,1,1,1,2,3,1,4,2,5,5,2,7,Super League 1,3051886
+Olympiakos Piraeus,Volos NFC,3,5,0,5,n,1,0,0,1,1,4,0,0,4,4,2,5,7,5,3,3,5,8,Super League 1,3051887
+OFI,Panaitolikos,3,3,1,4,y,0,0,0,0,0,3,1,1,3,4,2,1,3,2,4,4,2,6,Super League 1,3051888
+Panionios,Larissa,3,1,0,1,n,0,0,0,0,0,1,0,0,1,1,5,6,11,3,6,6,3,9,Super League 1,3051889
+CFR Cluj,Voluntari,9,5,0,5,n,3,0,0,3,3,2,0,0,2,2,0,2,2,9,0,0,9,9,Liga I,3048311
+Academica Clinceni,Astra,9,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,4,7,6,6,6,6,12,Liga I,3048312
+Dinamo Bucureşti,Botoşani,9,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,3,7,5,5,5,5,10,Liga I,3048313
+Universitatea Craiova,FCSB,9,0,1,1,n,0,0,0,0,0,0,1,1,0,1,5,4,9,2,4,4,2,6,Liga I,3048314
+Chindia Târgovişte,Sepsi,9,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,5,6,6,5,11,Liga I,3048315
+Viitorul,Gaz Metan Mediaş,9,4,1,5,y,1,0,0,1,1,3,1,1,3,4,3,3,6,7,3,3,7,10,Liga I,3048316
+Politehnica Iași,Hermannstadt,9,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,6,10,10,6,16,Liga I,3048317
+Oeste,Operário PR,22,3,0,3,n,1,0,0,1,1,2,0,0,2,2,7,0,7,2,8,8,2,10,Serie B,2988086
+Atlético GO,RB Bragantino,22,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,4,6,7,7,7,7,14,Serie B,2988087
+Paraná,Cuiabá,22,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,6,4,4,6,10,Serie B,2988088
+Londrina,Coritiba,22,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,4,7,5,1,1,5,6,Serie B,2988089
+Figueirense,Sport Recife,22,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,2,4,6,3,3,6,9,Serie B,2988090
+Vitória,Guarani,22,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,4,6,7,5,5,7,12,Serie B,2988092
+Operário PR,Ponte Preta,23,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,4,7,6,7,7,6,13,Serie B,2988099
+Sporting Covilhã,Leixões,5,2,3,5,y,0,0,0,0,0,2,3,3,2,5,5,3,8,4,5,5,4,9,Segunda Liga,3065119
+Sochi,Lokomotiv Moscow,9,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,2,5,0,4,4,0,4,Premier League,3027143
+Botafogo SP,São Bento,22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,7,3,3,7,10,Serie B,2988085
+Almería,Girona,6,3,1,4,y,1,0,0,1,1,2,1,1,2,3,3,4,7,1,4,4,1,5,Segunda División,3059969
+Málaga,Rayo Vallecano,6,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,4,6,6,4,10,Segunda División,3059976
+Racing Santander,Mirandés,6,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,4,5,5,4,4,5,9,Segunda División,3059978

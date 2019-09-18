@@ -1,0 +1,22 @@
+Avg Match Goals
+    If both Totals or H/A are Over 3, Under 2
+FH Match Goals
+    If both Totals or H/A are over 1.3, Under 0.7
+SH Match Goals
+    If both Totals or H/A are Over 1.3, Under 0.7
+    -------------
+>/< 2.5 Match Goals
+    If both % are over 70% or under 30%
+<3.5
+    IF >3.5 is less than 25% Total or H/A
+If % Over 0.5FH goals
+    Total or H/A is Over 75% 
+If % Over 1.5 FH Goals
+    Total or H/A is less than 25%
+
+
+
+
+
+
+
