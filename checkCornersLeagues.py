@@ -8,9 +8,12 @@ for c in content:
     league = statsSplit[-2]
     corners = statsSplit[-3]
     if(len(corners) == 0):
+        #print(statsSplit[0])
         if(league in leagues):
             leagues.update({league : leagues[league]+1})
         else:
             leagues.update({league : 1})
 
-print(leagues)
+for c in leagues:
+    if(leagues[c]>5):
+        print(c)

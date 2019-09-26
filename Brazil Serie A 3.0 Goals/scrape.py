@@ -25,7 +25,7 @@ def parse(url):
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36',
             }
-            r = requests.get(url, timeout = 10,headers=headers)
+            r = requests.get(url, timeout = 20,headers=headers)
             if(r.status_code !=200):
                 print(r.status_code)
             soup = BeautifulSoup(r.content, "html.parser")

@@ -85,3 +85,16 @@ getLinks(3051869,3052050)
 getLinks(3048255,3048436)
 #Brasil Serie B
 getLinks(2987874,2988253)
+#3. Bundesliga
+getLinks(3053138,3053517)
+#National 1 
+getLinks(3073147,3073452)
+#Isreal League 
+getLinks(3033612,3033793)
+#Egypt
+getLinks(3172275,3172580)
+#J2 League
+getLinks(2972277,2972739)
+#Slovakia
+getLinks(3032576,3032707)
+#getLinks(,)
