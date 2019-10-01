@@ -22,12 +22,11 @@ def get_proxies():
     response = requests.get(url)
     parser = fromstring(response.text)
     proxies = set()
-    for i in parser.xpath('//tbody/tr')[:10]:
+    for i in parser.xpath('//tbody/tr')[:10000]:
         if i.xpath('.//td[7][contains(text(),"yes")]'):
             proxy = ":".join([i.xpath('.//td[1]/text()')[0], i.xpath('.//td[2]/text()')[0]])
             proxies.add(proxy)
     return proxies
-
 proxies = get_proxies()
 
 def parse(url):
@@ -35,7 +34,7 @@ def parse(url):
     if gameID not in doneIDs:
         try:
             #print(url)
-            delays = [1,2,3]
+            delays = [1,2,3,4,5,6]
             delay = np.random.choice(delays)
             time.sleep(delay)
             #r = requests.get(url)
@@ -67,7 +66,7 @@ def parse(url):
                 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)'
             ]
             user_agent = random.choice(user_agent_list)
-            proxy = random_element = random.choice(list(proxies))
+            proxy = random.choice(list(proxies))
             headers = {'User-Agent': user_agent}
             r = requests.get(url, timeout = 40,headers=headers,proxies={"http": proxy})
             if(r.status_code !=200):
@@ -162,9 +161,10 @@ def parse(url):
         except Exception as e:
             exc_type, exc_obj, exc_tb = sys.exc_info()
             fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
-            print(exc_type, fname, exc_tb.tb_lineno)
+            #print(exc_type, fname, exc_tb.tb_lineno)
             #print(teams)
-            print(url)
+            #print(url)
+            print(e)
             return("L$" + url + "\n")
 
 
@@ -180,36 +180,44 @@ errors = open('errors.txt','w')
 done = open('done.txt','a')
 
 if __name__ == '__main__':
+    todo = []
+    for c in content:
+        gameID = c.split("/")[-2]
+        if gameID not in doneIDs:
+            todo.append(c)
     start_time = time.time()
-    p = Pool(50)  # Pool tells how many at a time
-    records = p.map(parse, content)
-    p.terminate()
-    p.join()
-    errorNum = 0
-    fixturesNum = 0
-    statsNum = 0
-    for r in records:
-        #print(r)
-        if r is not None:
-            if r[0] == "S":
-                splitted = r.split("$")
-                stats.write(splitted[1] + "\n")
-                gameIDW = splitted[1].split(",")[-1]
-                done.write(gameIDW + "\n")
-                statsNum = statsNum+1
-            if r[0] == "F":
-                splitted = r.split("$")
-                splitted2 = splitted[1].split("£")
-                fixtures.write(splitted2[0] + "\n")
-                #links.write(splitted2[1] + "\n")
-                fixturesNum = fixturesNum+1
-            if r[0] == "L":
-                splitted = r.split("$")
-                #links.write(splitted[1])
-                errors.write(splitted[1])
-                errorNum = errorNum+1
-    print("Length of Records:" + str(len(records)))
-    print("Stats: " + str(statsNum))
-    print("Fixtures: " + str(fixturesNum))
-    print("Errors:" + str(errorNum))
+    proxies = get_proxies()
+    print(len(proxies))
+    if(len(proxies)>0):
+        p = Pool(50)  # Pool tells how many at a time
+        records = p.map(parse, todo)
+        p.terminate()
+        p.join()
+        errorNum = 0
+        fixturesNum = 0
+        statsNum = 0
+        for r in records:
+            #print(r)
+            if r is not None:
+                if r[0] == "S":
+                    splitted = r.split("$")
+                    stats.write(splitted[1] + "\n")
+                    gameIDW = splitted[1].split(",")[-1]
+                    done.write(gameIDW + "\n")
+                    statsNum = statsNum+1
+                if r[0] == "F":
+                    splitted = r.split("$")
+                    splitted2 = splitted[1].split("£")
+                    fixtures.write(splitted2[0] + "\n")
+                    #links.write(splitted2[1] + "\n")
+                    fixturesNum = fixturesNum+1
+                if r[0] == "L":
+                    splitted = r.split("$")
+                    #links.write(splitted[1])
+                    errors.write(splitted[1])
+                    errorNum = errorNum+1
+        print("Length of Records:" + str(len(todo)))
+        print("Stats: " + str(statsNum))
+        print("Fixtures: " + str(fixturesNum))
+        print("Errors:" + str(errorNum))
     print("--- %s seconds ---" % (time.time() - start_time))
