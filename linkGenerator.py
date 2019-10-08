@@ -91,8 +91,6 @@ getLinks(3053138,3053517)
 getLinks(3073147,3073452)
 #Isreal League 
 getLinks(3033612,3033793)
-#Egypt
-getLinks(3172275,3172580)
 #J2 League
 getLinks(2972277,2972739)
 #Slovakia

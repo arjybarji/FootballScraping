@@ -34,8 +34,8 @@ firstHalfTotalGoals averages,Sunderland,Fleetwood Town,Over 1.0,12 October 2019,
 matchGoals averages,Tranmere Rovers,Southend United,Over 2.5,18 October 2019,League One
 firstHalfTotalGoals averages,Portsmouth,Lincoln City,Over 1.0,22 October 2019,League One
 firstHalfTotalGoals averages,Accrington Stanley,Gillingham,Over 1.0,26 October 2019,League One
-matchGoals averages,Luton Town,Bristol City,Over 2.5,19 October 2019,Championship
-firstHalfTotalGoals averages,Preston North End,Blackburn Rovers,Over 1.0,26 October 2019,Championship
+matchGoals percent,Brentford,Millwall,Under 2.5,19 October 2019,Championship
+firstHalfTotalGoals  percent,Leeds United,Birmingham City,Under 1,19 October 2019,Championship
 firstHalfTotalGoals  percent,Sheffield Wednesday,Leeds United,Under 1,26 October 2019,Championship
 matchGoals averages,Colchester United,Stevenage,Under 2.5,5 October 2019,League Two
 matchGoals averages,Colchester United,Newport County,Under 2.5,26 October 2019,League Two
@@ -84,7 +84,7 @@ matchGoals averages,Dynamo Dresden,Arminia Bielefeld,Over 2.5,26 October 2019,2.
 firstHalfTotalGoals averages,Cittadella,Cosenza,Under 1.0,18 October 2019,Serie B
 firstHalfTotalGoals  percent,Cittadella,Cosenza,Under 1,18 October 2019,Serie B
 firstHalfTotalGoals  percent,Frosinone,Livorno,Under 1,21 October 2019,Serie B
-firstHalfTotalGoals  percent,Benevento,Cremonese,Under 1,29 October 2019,Serie B
+firstHalfTotalGoals  percent,Benevento,Cremonese,Under 1,30 October 2019,Serie B
 firstHalfTotalGoals  percent,Cittadella,Livorno,Under 1,29 October 2019,Serie B
 firstHalfTotalGoals  percent,Juve Stabia,Pescara,Under 1,29 October 2019,Serie B
 matchGoals averages,Virtus Entella,Cosenza,Under 2.5,29 October 2019,Serie B
@@ -93,13 +93,10 @@ firstHalfTotalGoals  percent,Virtus Entella,Cosenza,Under 1,29 October 2019,Seri
 matchGoals averages,Chambly,Sochaux,Under 2.5,18 October 2019,Ligue 2
 firstHalfTotalGoals  percent,Chambly,Sochaux,Under 1,18 October 2019,Ligue 2
 matchGoals averages,Orléans,Châteauroux,Under 2.5,25 October 2019,Ligue 2
-firstHalfTotalGoals  percent,Cádiz,Huesca,Under 1,2 October 2019,Segunda División
-firstHalfTotalGoals  percent,Ponferradina,Las Palmas,Under 1,2 October 2019,Segunda División
-firstHalfTotalGoals averages,Rayo Vallecano,Alcorcón,Over 1.0,1 October 2019,Segunda División
-firstHalfTotalGoals  percent,Sporting Gijón,Almería,Under 1,3 October 2019,Segunda División
 matchGoals averages,Huesca,Málaga,Under 2.5,6 October 2019,Segunda División
 firstHalfTotalGoals averages,Málaga,Cádiz,Under 1.0,12 October 2019,Segunda División
 firstHalfTotalGoals  percent,Málaga,Cádiz,Under 1,12 October 2019,Segunda División
+firstHalfTotalGoals averages,Cádiz,Las Palmas,Under 1.0,18 October 2019,Segunda División
 firstHalfTotalGoals  percent,Cádiz,Las Palmas,Under 1,18 October 2019,Segunda División
 matchGoals averages,Elche,Sporting Gijón,Under 2.5,19 October 2019,Segunda División
 matchGoals percent,Elche,Sporting Gijón,Under 2.5,19 October 2019,Segunda División
@@ -110,77 +107,3 @@ matchGoals averages,Dundee United,Partick Thistle,Over 2.5,29 October 2019,Champ
 firstHalfTotalGoals averages,Dundee United,Partick Thistle,Over 1.0,29 October 2019,Championship
 matchGoals averages,Greenock Morton,Ayr United,Over 2.5,29 October 2019,Championship
 firstHalfTotalGoals averages,Greenock Morton,Ayr United,Over 1.0,29 October 2019,Championship
-matchGoals averages,Trabzonspor,Gazişehir Gaziantep,Over 2.5,19 October 2019,Süper Lig
-firstHalfTotalGoals averages,Trabzonspor,Gazişehir Gaziantep,Over 1.0,19 October 2019,Süper Lig
-firstHalfTotalGoals  percent,Galatasaray,Sivasspor,Under 1,18 October 2019,Süper Lig
-firstHalfTotalGoals  percent,Beşiktaş,Galatasaray,Under 1,27 October 2019,Süper Lig
-firstHalfTotalGoals  percent,CSA,Avaí,Under 1,7 October 2019,Serie A
-firstHalfTotalGoals  percent,CSA,Internacional,Under 1,10 October 2019,Serie A
-matchGoals averages,São Paulo,Corinthians,Under 2.5,13 October 2019,Serie A
-matchGoals percent,São Paulo,Corinthians,Under 2.5,13 October 2019,Serie A
-firstHalfTotalGoals  percent,Avaí,Internacional,Under 1,18 October 2019,Serie A
-firstHalfTotalGoals  percent,São Paulo,Avaí,Under 1,20 October 2019,Serie A
-matchGoals averages,Shanghai Shenhua,Dalian Yifang,Over 2.5,20 October 2019,CSL
-firstHalfTotalGoals averages,Bodø / Glimt,Mjøndalen,Over 1.0,21 October 2019,Eliteserien
-matchGoals averages,Viking,Tromsø,Over 2.5,20 October 2019,Eliteserien
-firstHalfTotalGoals averages,Rosenborg,Molde,Over 1.0,27 October 2019,Eliteserien
-firstHalfTotalGoals  percent,Spartak Moscow,Rubin Kazan,Under 1,19 October 2019,Premier League
-firstHalfTotalGoals  percent,Tambov,Ufa,Under 1,26 October 2019,Premier League
-firstHalfTotalGoals  percent,Bohemians,Cork City,Under 1,4 October 2019,Premier Division
-matchGoals averages,Salzburg,Rheindorf Altach,Over 2.5,5 October 2019,Bundesliga
-firstHalfTotalGoals averages,Salzburg,Rheindorf Altach,Over 1.0,5 October 2019,Bundesliga
-matchGoals averages,St. Pölten,Austria Wien,Over 2.5,20 October 2019,Bundesliga
-matchGoals averages,Rapid Wien,Wolfsberger AC,Over 2.5,20 October 2019,Bundesliga
-matchGoals averages,Rheindorf Altach,Admira,Over 2.5,19 October 2019,Bundesliga
-firstHalfTotalGoals averages,Rheindorf Altach,Admira,Over 1.0,19 October 2019,Bundesliga
-matchGoals averages,Swarovski Tirol,Hartberg,Over 2.5,20 October 2019,Bundesliga
-matchGoals averages,Wolfsberger AC,Admira,Over 2.5,27 October 2019,Bundesliga
-firstHalfTotalGoals averages,Club Brugge,Gent,Over 1.0,6 October 2019,First Division A
-firstHalfTotalGoals averages,Standard Liège,Genk,Over 1.0,19 October 2019,First Division A
-matchGoals averages,Lech Poznań,Zagłębie Lubin,Over 2.5,25 October 2019,Ekstraklasa
-firstHalfTotalGoals averages,Lech Poznań,Zagłębie Lubin,Over 1.0,25 October 2019,Ekstraklasa
-matchGoals averages,Piast Gliwice,Korona Kielce,Under 2.5,26 October 2019,Ekstraklasa
-matchGoals averages,St. Gallen,Basel,Over 2.5,6 October 2019,Super League
-firstHalfTotalGoals averages,Zürich,Young Boys,Over 1.0,6 October 2019,Super League
-matchGoals averages,León,Veracruz,Over 2.5,6 October 2019,Liga MX
-matchGoals averages,Santos Laguna,Tijuana,Over 2.5,19 October 2019,Liga MX
-firstHalfTotalGoals averages,Santos Laguna,Tijuana,Over 1.0,19 October 2019,Liga MX
-firstHalfTotalGoals  percent,Querétaro,Pumas UNAM,Under 1,27 October 2019,Liga MX
-matchGoals averages,León,Atlético San Luis,Over 2.5,27 October 2019,Liga MX
-firstHalfTotalGoals averages,Boreham Wood,Fylde,Over 1.0,26 October 2019,National League
-firstHalfTotalGoals averages,AFC Telford United,York City,Over 1.0,12 October 2019,National League N / S
-matchGoals averages,AFC Telford United,Guiseley,Over 2.5,19 October 2019,National League N / S
-firstHalfTotalGoals averages,AFC Telford United,Guiseley,Over 1.0,19 October 2019,National League N / S
-matchGoals averages,Gloucester City,Bradford (Park Avenue),Over 2.5,19 October 2019,National League N / S
-firstHalfTotalGoals averages,Gloucester City,Bradford (Park Avenue),Over 1.0,19 October 2019,National League N / S
-matchGoals averages,King's Lynn Town,Leamington,Over 2.5,19 October 2019,National League N / S
-firstHalfTotalGoals averages,Chester,York City,Over 1.0,26 October 2019,National League N / S
-matchGoals averages,Spennymoor Town,Gloucester City,Over 2.5,26 October 2019,National League N / S
-matchGoals averages,Chelmsford City,Wealdstone,Over 2.5,12 October 2019,National League N / S
-matchGoals averages,Hampton & Richmond,Dartford,Over 2.5,19 October 2019,National League N / S
-firstHalfTotalGoals averages,Hampton & Richmond,Dartford,Over 1.0,19 October 2019,National League N / S
-firstHalfTotalGoals averages,Hungerford Town,Hampton & Richmond,Over 1.0,26 October 2019,National League N / S
-firstHalfTotalGoals averages,Wealdstone,Tonbridge Angels,Over 1.0,26 October 2019,National League N / S
-matchGoals averages,Viitorul,CFR Cluj,Over 2.5,6 October 2019,Liga I
-matchGoals averages,Gaz Metan Mediaş,Academica Clinceni,Over 2.5,5 October 2019,Liga I
-matchGoals averages,Vila Nova,Criciúma,Under 2.5,2 October 2019,Serie B
-matchGoals percent,Vila Nova,Criciúma,Under 2.5,2 October 2019,Serie B
-firstHalfTotalGoals  percent,Vila Nova,Criciúma,Under 1,2 October 2019,Serie B
-matchGoals averages,Vila Nova,Atlético GO,Under 2.5,12 October 2019,Serie B
-matchGoals percent,Vila Nova,Atlético GO,Under 2.5,12 October 2019,Serie B
-matchGoals averages,Brasil de Pelotas,Botafogo SP,Under 2.5,12 October 2019,Serie B
-matchGoals averages,Paraná,Figueirense,Under 2.5,20 October 2019,Serie B
-firstHalfTotalGoals averages,Würzburger Kickers,1860 München,Over 1.0,7 October 2019,3. Liga
-firstHalfTotalGoals averages,Eintracht Braunschweig,Unterhaching,Over 1.0,19 October 2019,3. Liga
-matchGoals averages,MSV Duisburg,Kaiserslautern,Over 2.5,18 October 2019,3. Liga
-matchGoals averages,Meppen,Viktoria Köln,Over 2.5,21 October 2019,3. Liga
-matchGoals averages,Würzburger Kickers,MSV Duisburg,Over 2.5,26 October 2019,3. Liga
-matchGoals percent,Würzburger Kickers,MSV Duisburg,Over 2.5,26 October 2019,3. Liga
-firstHalfTotalGoals averages,Bayern München II,Waldhof Mannheim,Over 1.0,28 October 2019,3. Liga
-matchGoals averages,Lyon Duchère,Boulogne,Under 2.5,4 October 2019,National 1
-firstHalfTotalGoals averages,Hapoel Haifa,Hapoel Tel Aviv,Under 1.0,26 October 2019,Ligat ha'Al
-firstHalfTotalGoals  percent,Hapoel Haifa,Hapoel Tel Aviv,Under 1,26 October 2019,Ligat ha'Al
-firstHalfTotalGoals averages,Bnei Yehuda,Beitar Jerusalem,Under 1.0,27 October 2019,Ligat ha'Al
-firstHalfTotalGoals  percent,Bnei Yehuda,Beitar Jerusalem,Under 1,27 October 2019,Ligat ha'Al
-firstHalfTotalGoals  percent,Tokushima Vortis,Fagiano Okayama,Under 1,13 October 2019,J2 League
-firstHalfTotalGoals averages,Zemplín Michalovce,Slovan Bratislava,Over 1.0,27 October 2019,Super Liga

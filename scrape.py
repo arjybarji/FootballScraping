@@ -11,6 +11,7 @@ import requests
 from lxml.html import fromstring
 import random
 from itertools import cycle
+import winsound
 
 
 with open('done.txt') as f:
@@ -34,10 +35,10 @@ def parse(url):
     if gameID not in doneIDs:
         try:
             #print(url)
-            delays = [1,2,3,4,5,6]
+            delays = [1,2,3,4,5]
             delay = np.random.choice(delays)
             time.sleep(delay)
-            #r = requests.get(url)
+            r = requests.get(url)
             user_agent_list = [
                #Chrome
                 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
@@ -120,6 +121,7 @@ def parse(url):
                         secondHalfHomeConc = int(awayGoals) - int(firstHalfAwayGoals)
                         secondHalfTotalGoals = matchGoals - firstHalfTotalGoals
                         
+
                         homeTeamContainers = soup.findAll('div', attrs = {'class' : 'container left'})
                         homeTeamStarting = homeTeamContainers[2]
                         homeTeamBench = homeTeamContainers[3]
@@ -151,19 +153,26 @@ def parse(url):
                             matchCorners = int(homeCorners) + int(awayCorners)
 
                             print("Got Score . " + homeTeam + " vs " + awayTeam+" . " + gameWeek )
+                            if("3029148" in gameID):
+                                print("3029148 Score")
                             return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + homeCorners + "," + awayCorners + "," + homeCornersConc + "," + awayCornersConc + "," + str(matchCorners)+","+dds[0].text.strip() + "," + gameID)
                         except Exception as e:
                             print("Got Score no corners. " + homeTeam + " vs " + awayTeam+" . " + gameWeek + " NO FRAME")
                             return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip()+ "," + gameID)
                 else:
-                    #print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek)
+                    #print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
+                    if("3029148" in gameID):
+                        print("3029148 Fixture")
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + dds[0].text.strip() + "," + gameID +  "£" + url)
+        
         except Exception as e:
             exc_type, exc_obj, exc_tb = sys.exc_info()
             fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
             #print(exc_type, fname, exc_tb.tb_lineno)
             #print(teams)
             #print(url)
+            if("3029148" in gameID):
+                print("3029148 Fixture")
             print(e)
             return("L$" + url + "\n")
 
@@ -180,17 +189,12 @@ errors = open('errors.txt','w')
 done = open('done.txt','a')
 
 if __name__ == '__main__':
-    todo = []
-    for c in content:
-        gameID = c.split("/")[-2]
-        if gameID not in doneIDs:
-            todo.append(c)
     start_time = time.time()
     proxies = get_proxies()
     print(len(proxies))
     if(len(proxies)>0):
         p = Pool(50)  # Pool tells how many at a time
-        records = p.map(parse, todo)
+        records = p.map(parse, content)
         p.terminate()
         p.join()
         errorNum = 0
@@ -220,4 +224,8 @@ if __name__ == '__main__':
         print("Stats: " + str(statsNum))
         print("Fixtures: " + str(fixturesNum))
         print("Errors:" + str(errorNum))
+    
+    duration = 1000  # milliseconds
+    freq = 440  # Hz
+    winsound.Beep(freq, duration)    
     print("--- %s seconds ---" % (time.time() - start_time))
