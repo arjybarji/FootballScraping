@@ -1,379 +1,200 @@
-Palmeiras,Fluminense,16,11 September 2019
-Internacional,São Paulo,18,8 September 2019
-Cruzeiro,Grêmio,18,8 September 2019
-Fortaleza,Fluminense,18,7 September 2019
-Santos,Athletico Paranaense,18,8 September 2019
-Vasco da Gama,Bahia,18,7 September 2019
-Botafogo,Atlético Mineiro,18,8 September 2019
-Avaí,Flamengo,18,7 September 2019
-CSA,Chapecoense,18,9 September 2019
-Grêmio,Goiás,19,15 September 2019
-Atlético Mineiro,Internacional,19,15 September 2019
-Ceará,Botafogo,19,15 September 2019
-Palmeiras,Cruzeiro,19,15 September 2019
-São Paulo,CSA,19,16 September 2019
-Flamengo,Santos,19,14 September 2019
-Fluminense,Corinthians,19,15 September 2019
-Chapecoense,Vasco da Gama,19,14 September 2019
-Bahia,Fortaleza,19,15 September 2019
-Athletico Paranaense,Avaí,19,15 September 2019
-Internacional,Chapecoense,20,22 September 2019
-Cruzeiro,Flamengo,20,22 September 2019
-Fortaleza,Palmeiras,20,22 September 2019
-Corinthians,Bahia,20,21 September 2019
-Santos,Grêmio,20,22 September 2019
-Vasco da Gama,Athletico Paranaense,20,22 September 2019
-Botafogo,São Paulo,20,21 September 2019
-Avaí,Atlético Mineiro,20,23 September 2019
-Goiás,Fluminense,20,24 September 2019
-CSA,Ceará,20,22 September 2019
-Grêmio,Avaí,21,25 September 2019
-Atlético Mineiro,Vasco da Gama,21,25 September 2019
-Ceará,Cruzeiro,21,25 September 2019
-Palmeiras,CSA,21,25 September 2019
-São Paulo,Goiás,21,25 September 2019
-Flamengo,Internacional,21,25 September 2019
-Fluminense,Santos,21,25 September 2019
-Chapecoense,Corinthians,21,25 September 2019
-Bahia,Botafogo,21,25 September 2019
-Athletico Paranaense,Fortaleza,21,25 September 2019
-Internacional,Palmeiras,22,29 September 2019
-Atlético Mineiro,Ceará,22,29 September 2019
-Fortaleza,Botafogo,22,29 September 2019
-Corinthians,Vasco da Gama,22,29 September 2019
-Santos,CSA,22,29 September 2019
-Flamengo,São Paulo,22,29 September 2019
-Fluminense,Grêmio,22,29 September 2019
-Avaí,Bahia,22,29 September 2019
-Goiás,Cruzeiro,22,29 September 2019
-Athletico Paranaense,Chapecoense,22,29 September 2019
-Grêmio,Corinthians,23,6 October 2019
-Cruzeiro,Internacional,23,6 October 2019
-Ceará,Goiás,23,6 October 2019
-Palmeiras,Atlético Mineiro,23,6 October 2019
-São Paulo,Fortaleza,23,6 October 2019
-Vasco da Gama,Santos,23,6 October 2019
-Botafogo,Fluminense,23,6 October 2019
-Chapecoense,Flamengo,23,6 October 2019
-Bahia,Athletico Paranaense,23,6 October 2019
-CSA,Avaí,23,6 October 2019
-Grêmio,Ceará,24,9 October 2019
-Cruzeiro,Fluminense,24,9 October 2019
-Fortaleza,Chapecoense,24,9 October 2019
-Corinthians,Athletico Paranaense,24,9 October 2019
-Santos,Palmeiras,24,9 October 2019
-Flamengo,Atlético Mineiro,24,9 October 2019
-Botafogo,Goiás,24,9 October 2019
-Avaí,Vasco da Gama,24,9 October 2019
-Bahia,São Paulo,24,9 October 2019
-CSA,Internacional,24,9 October 2019
-Internacional,Santos,25,13 October 2019
-Atlético Mineiro,Grêmio,25,13 October 2019
-Ceará,Avaí,25,13 October 2019
-Palmeiras,Botafogo,25,13 October 2019
-São Paulo,Corinthians,25,13 October 2019
-Vasco da Gama,Fortaleza,25,13 October 2019
-Fluminense,Bahia,25,13 October 2019
-Chapecoense,Cruzeiro,25,13 October 2019
-Goiás,CSA,25,13 October 2019
-Athletico Paranaense,Flamengo,25,13 October 2019
-Grêmio,Bahia,26,16 October 2019
-Cruzeiro,São Paulo,26,16 October 2019
-Fortaleza,Flamengo,26,16 October 2019
-Palmeiras,Chapecoense,26,16 October 2019
-Santos,Ceará,26,16 October 2019
-Vasco da Gama,Botafogo,26,16 October 2019
-Fluminense,Athletico Paranaense,26,16 October 2019
-Avaí,Internacional,26,16 October 2019
-Goiás,Corinthians,26,16 October 2019
-CSA,Atlético Mineiro,26,16 October 2019
+Grêmio,Bahia,26,17 October 2019
+Cruzeiro,São Paulo,26,17 October 2019
+Fortaleza,Flamengo,26,17 October 2019
+Palmeiras,Chapecoense,26,17 October 2019
+Santos,Ceará,26,18 October 2019
+Vasco da Gama,Botafogo,26,17 October 2019
+Fluminense,Athletico Paranaense,26,18 October 2019
+Avaí,Internacional,26,18 October 2019
+Goiás,Corinthians,26,17 October 2019
+CSA,Atlético Mineiro,26,17 October 2019
 Internacional,Vasco da Gama,27,20 October 2019
 Atlético Mineiro,Santos,27,20 October 2019
-Fortaleza,Grêmio,27,20 October 2019
+Fortaleza,Grêmio,27,19 October 2019
 Corinthians,Cruzeiro,27,20 October 2019
 São Paulo,Avaí,27,20 October 2019
 Flamengo,Fluminense,27,20 October 2019
-Botafogo,CSA,27,20 October 2019
-Chapecoense,Goiás,27,20 October 2019
-Bahia,Ceará,27,20 October 2019
-Athletico Paranaense,Palmeiras,27,20 October 2019
+Botafogo,CSA,27,22 October 2019
+Chapecoense,Goiás,27,21 October 2019
+Bahia,Ceará,27,22 October 2019
+Athletico Paranaense,Palmeiras,27,21 October 2019
 Grêmio,Botafogo,28,27 October 2019
 Cruzeiro,Fortaleza,28,27 October 2019
-Ceará,Vasco da Gama,28,27 October 2019
-Corinthians,Santos,28,27 October 2019
+Ceará,Vasco da Gama,28,26 October 2019
+Corinthians,Santos,28,26 October 2019
 São Paulo,Atlético Mineiro,28,27 October 2019
 Flamengo,CSA,28,27 October 2019
 Fluminense,Chapecoense,28,27 October 2019
 Avaí,Palmeiras,28,27 October 2019
 Bahia,Internacional,28,27 October 2019
 Athletico Paranaense,Goiás,28,27 October 2019
-Internacional,Athletico Paranaense,29,30 October 2019
+Internacional,Athletico Paranaense,29,1 November 2019
 Atlético Mineiro,Chapecoense,29,30 October 2019
-Ceará,Fluminense,29,30 October 2019
+Ceará,Fluminense,29,31 October 2019
 Palmeiras,São Paulo,29,30 October 2019
-Santos,Bahia,29,30 October 2019
-Vasco da Gama,Grêmio,29,30 October 2019
-Botafogo,Cruzeiro,29,30 October 2019
+Santos,Bahia,29,31 October 2019
+Vasco da Gama,Grêmio,29,31 October 2019
+Botafogo,Cruzeiro,29,1 November 2019
 Avaí,Fortaleza,29,30 October 2019
-Goiás,Flamengo,29,30 October 2019
-CSA,Corinthians,29,30 October 2019
+Goiás,Flamengo,29,1 November 2019
+CSA,Corinthians,29,31 October 2019
 Grêmio,Internacional,30,3 November 2019
 Cruzeiro,Bahia,30,3 November 2019
-Fortaleza,Atlético Mineiro,30,3 November 2019
-Palmeiras,Ceará,30,3 November 2019
+Fortaleza,Atlético Mineiro,30,2 November 2019
+Palmeiras,Ceará,30,2 November 2019
 Santos,Botafogo,30,3 November 2019
 Flamengo,Corinthians,30,3 November 2019
-Fluminense,Vasco da Gama,30,3 November 2019
+Fluminense,Vasco da Gama,30,2 November 2019
 Chapecoense,São Paulo,30,3 November 2019
 Goiás,Avaí,30,3 November 2019
 Athletico Paranaense,CSA,30,3 November 2019
-Grêmio,CSA,31,6 November 2019
+Grêmio,CSA,31,8 November 2019
 Atlético Mineiro,Goiás,31,6 November 2019
-Ceará,Internacional,31,6 November 2019
+Ceará,Internacional,31,7 November 2019
 Corinthians,Fortaleza,31,6 November 2019
-São Paulo,Fluminense,31,6 November 2019
-Vasco da Gama,Palmeiras,31,6 November 2019
-Botafogo,Flamengo,31,6 November 2019
-Avaí,Santos,31,6 November 2019
-Bahia,Chapecoense,31,6 November 2019
-Athletico Paranaense,Cruzeiro,31,6 November 2019
+São Paulo,Fluminense,31,7 November 2019
+Vasco da Gama,Palmeiras,31,7 November 2019
+Botafogo,Flamengo,31,8 November 2019
+Avaí,Santos,31,7 November 2019
+Bahia,Chapecoense,31,7 November 2019
+Athletico Paranaense,Cruzeiro,31,7 November 2019
 Internacional,Fluminense,32,10 November 2019
 Cruzeiro,Atlético Mineiro,32,10 November 2019
 Fortaleza,Ceará,32,10 November 2019
-Palmeiras,Corinthians,32,10 November 2019
+Palmeiras,Corinthians,32,9 November 2019
 São Paulo,Athletico Paranaense,32,10 November 2019
 Flamengo,Bahia,32,10 November 2019
-Botafogo,Avaí,32,10 November 2019
+Botafogo,Avaí,32,12 November 2019
 Chapecoense,Grêmio,32,10 November 2019
-Goiás,Santos,32,10 November 2019
+Goiás,Santos,32,9 November 2019
 CSA,Vasco da Gama,32,10 November 2019
-Grêmio,Flamengo,33,17 November 2019
-Cruzeiro,Avaí,33,17 November 2019
-Fortaleza,CSA,33,17 November 2019
-Corinthians,Internacional,33,17 November 2019
-Santos,São Paulo,33,17 November 2019
-Vasco da Gama,Goiás,33,17 November 2019
-Fluminense,Atlético Mineiro,33,17 November 2019
-Chapecoense,Ceará,33,17 November 2019
-Bahia,Palmeiras,33,17 November 2019
-Athletico Paranaense,Botafogo,33,17 November 2019
-Internacional,Fortaleza,34,24 November 2019
-Atlético Mineiro,Athletico Paranaense,34,24 November 2019
-Ceará,São Paulo,34,24 November 2019
-Palmeiras,Grêmio,34,24 November 2019
-Santos,Cruzeiro,34,24 November 2019
-Flamengo,Vasco da Gama,34,24 November 2019
-Botafogo,Corinthians,34,24 November 2019
-Avaí,Chapecoense,34,24 November 2019
-Goiás,Bahia,34,24 November 2019
-CSA,Fluminense,34,24 November 2019
-Internacional,Goiás,35,27 November 2019
-Cruzeiro,CSA,35,27 November 2019
-Fortaleza,Santos,35,27 November 2019
-Corinthians,Avaí,35,27 November 2019
-São Paulo,Vasco da Gama,35,27 November 2019
-Flamengo,Ceará,35,27 November 2019
-Fluminense,Palmeiras,35,27 November 2019
-Chapecoense,Botafogo,35,27 November 2019
-Bahia,Atlético Mineiro,35,27 November 2019
-Athletico Paranaense,Grêmio,35,27 November 2019
-Grêmio,São Paulo,36,1 December 2019
-Atlético Mineiro,Corinthians,36,1 December 2019
-Ceará,Athletico Paranaense,36,1 December 2019
-Palmeiras,Flamengo,36,1 December 2019
-Santos,Chapecoense,36,1 December 2019
-Vasco da Gama,Cruzeiro,36,1 December 2019
-Botafogo,Internacional,36,1 December 2019
-Avaí,Fluminense,36,1 December 2019
-Goiás,Fortaleza,36,1 December 2019
-CSA,Bahia,36,1 December 2019
-Grêmio,Cruzeiro,37,4 December 2019
-Atlético Mineiro,Botafogo,37,4 December 2019
-Ceará,Corinthians,37,4 December 2019
-Palmeiras,Goiás,37,4 December 2019
-São Paulo,Internacional,37,4 December 2019
-Flamengo,Avaí,37,4 December 2019
-Fluminense,Fortaleza,37,4 December 2019
-Chapecoense,CSA,37,4 December 2019
-Bahia,Vasco da Gama,37,4 December 2019
-Athletico Paranaense,Santos,37,4 December 2019
-Internacional,Atlético Mineiro,38,8 December 2019
-Cruzeiro,Palmeiras,38,8 December 2019
-Fortaleza,Bahia,38,8 December 2019
-Corinthians,Fluminense,38,8 December 2019
-Santos,Flamengo,38,8 December 2019
-Vasco da Gama,Chapecoense,38,8 December 2019
-Botafogo,Ceará,38,8 December 2019
-Avaí,Athletico Paranaense,38,8 December 2019
-Goiás,Grêmio,38,8 December 2019
-CSA,São Paulo,38,8 December 2019
-Ponte Preta,Vila Nova,22,13 September 2019
-Botafogo SP,São Bento,22,14 September 2019
-Oeste,Operário PR,22,14 September 2019
-Atlético GO,RB Bragantino,22,14 September 2019
-Paraná,Cuiabá,22,15 September 2019
-Londrina,Coritiba,22,14 September 2019
-Figueirense,Sport Recife,22,15 September 2019
-América Mineiro,Criciúma,22,11 September 2019
-Vitória,Guarani,22,14 September 2019
-CRB,Brasil de Pelotas,22,10 September 2019
-Guarani,Paraná,23,21 September 2019
-RB Bragantino,Londrina,23,21 September 2019
-São Bento,Vitória,23,18 September 2019
-Vila Nova,Botafogo SP,23,18 September 2019
-Coritiba,CRB,23,22 September 2019
-Operário PR,Ponte Preta,23,17 September 2019
-Criciúma,Atlético GO,23,21 September 2019
-Brasil de Pelotas,Figueirense,23,20 September 2019
-Sport Recife,América Mineiro,23,21 September 2019
-Cuiabá,Oeste,23,22 September 2019
-Guarani,Criciúma,24,25 September 2019
-Botafogo SP,Operário PR,24,25 September 2019
-Oeste,São Bento,24,25 September 2019
-Vila Nova,CRB,24,25 September 2019
-Paraná,Ponte Preta,24,25 September 2019
-Londrina,Sport Recife,24,25 September 2019
-Figueirense,RB Bragantino,24,25 September 2019
-América Mineiro,Brasil de Pelotas,24,25 September 2019
-Vitória,Atlético GO,24,25 September 2019
-Cuiabá,Coritiba,24,25 September 2019
-Ponte Preta,Cuiabá,25,27 September 2019
-RB Bragantino,Vitória,25,27 September 2019
-Oeste,Paraná,25,27 September 2019
-Atlético GO,Figueirense,25,27 September 2019
-Coritiba,América Mineiro,25,27 September 2019
-Londrina,Vila Nova,25,27 September 2019
-Criciúma,Botafogo SP,25,27 September 2019
-Brasil de Pelotas,Guarani,25,27 September 2019
-Sport Recife,Operário PR,25,27 September 2019
-CRB,São Bento,25,27 September 2019
-Guarani,Atlético GO,26,5 October 2019
-Botafogo SP,Ponte Preta,26,5 October 2019
-São Bento,RB Bragantino,26,5 October 2019
-Vila Nova,Criciúma,26,5 October 2019
-Paraná,Coritiba,26,5 October 2019
-Operário PR,Brasil de Pelotas,26,5 October 2019
-Figueirense,Oeste,26,5 October 2019
-América Mineiro,CRB,26,5 October 2019
-Vitória,Sport Recife,26,5 October 2019
-Cuiabá,Londrina,26,5 October 2019
-Ponte Preta,Londrina,27,8 October 2019
-Botafogo SP,Figueirense,27,8 October 2019
-São Bento,Vila Nova,27,8 October 2019
-Atlético GO,Cuiabá,27,8 October 2019
-Coritiba,Guarani,27,8 October 2019
-Operário PR,Paraná,27,8 October 2019
-Criciúma,Brasil de Pelotas,27,8 October 2019
-América Mineiro,RB Bragantino,27,8 October 2019
-Vitória,Oeste,27,8 October 2019
-CRB,Sport Recife,27,8 October 2019
-Guarani,CRB,28,11 October 2019
-RB Bragantino,Paraná,28,11 October 2019
-Oeste,Ponte Preta,28,11 October 2019
-Vila Nova,Atlético GO,28,11 October 2019
-Coritiba,Criciúma,28,11 October 2019
-Londrina,Operário PR,28,11 October 2019
-Figueirense,América Mineiro,28,11 October 2019
-Brasil de Pelotas,Botafogo SP,28,11 October 2019
-Sport Recife,São Bento,28,11 October 2019
-Cuiabá,Vitória,28,11 October 2019
-Guarani,Botafogo SP,29,15 October 2019
-RB Bragantino,Oeste,29,15 October 2019
-São Bento,Coritiba,29,15 October 2019
-Atlético GO,Ponte Preta,29,15 October 2019
-Paraná,Brasil de Pelotas,29,15 October 2019
-Londrina,Figueirense,29,15 October 2019
-Criciúma,Vitória,29,15 October 2019
-América Mineiro,Vila Nova,29,15 October 2019
-Sport Recife,Cuiabá,29,15 October 2019
-CRB,Operário PR,29,15 October 2019
-Ponte Preta,RB Bragantino,30,18 October 2019
+Grêmio,Flamengo,33,16 November 2019
+Cruzeiro,Avaí,33,16 November 2019
+Fortaleza,CSA,33,16 November 2019
+Corinthians,Internacional,33,16 November 2019
+Santos,São Paulo,33,16 November 2019
+Vasco da Gama,Goiás,33,16 November 2019
+Fluminense,Atlético Mineiro,33,16 November 2019
+Chapecoense,Ceará,33,16 November 2019
+Bahia,Palmeiras,33,16 November 2019
+Athletico Paranaense,Botafogo,33,16 November 2019
+Internacional,Fortaleza,34,23 November 2019
+Atlético Mineiro,Athletico Paranaense,34,23 November 2019
+Ceará,São Paulo,34,23 November 2019
+Palmeiras,Grêmio,34,23 November 2019
+Santos,Cruzeiro,34,23 November 2019
+Flamengo,Vasco da Gama,34,23 November 2019
+Botafogo,Corinthians,34,23 November 2019
+Avaí,Chapecoense,34,23 November 2019
+Goiás,Bahia,34,23 November 2019
+CSA,Fluminense,34,23 November 2019
+Internacional,Goiás,35,26 November 2019
+Cruzeiro,CSA,35,26 November 2019
+Fortaleza,Santos,35,26 November 2019
+Corinthians,Avaí,35,26 November 2019
+São Paulo,Vasco da Gama,35,26 November 2019
+Flamengo,Ceará,35,26 November 2019
+Fluminense,Palmeiras,35,26 November 2019
+Chapecoense,Botafogo,35,26 November 2019
+Bahia,Atlético Mineiro,35,26 November 2019
+Athletico Paranaense,Grêmio,35,26 November 2019
+Grêmio,São Paulo,36,30 November 2019
+Atlético Mineiro,Corinthians,36,30 November 2019
+Ceará,Athletico Paranaense,36,30 November 2019
+Palmeiras,Flamengo,36,30 November 2019
+Santos,Chapecoense,36,30 November 2019
+Vasco da Gama,Cruzeiro,36,30 November 2019
+Botafogo,Internacional,36,30 November 2019
+Avaí,Fluminense,36,30 November 2019
+Goiás,Fortaleza,36,30 November 2019
+CSA,Bahia,36,30 November 2019
+Grêmio,Cruzeiro,37,3 December 2019
+Atlético Mineiro,Botafogo,37,3 December 2019
+Ceará,Corinthians,37,3 December 2019
+Palmeiras,Goiás,37,3 December 2019
+São Paulo,Internacional,37,3 December 2019
+Flamengo,Avaí,37,3 December 2019
+Fluminense,Fortaleza,37,3 December 2019
+Chapecoense,CSA,37,3 December 2019
+Bahia,Vasco da Gama,37,3 December 2019
+Athletico Paranaense,Santos,37,3 December 2019
+Internacional,Atlético Mineiro,38,7 December 2019
+Cruzeiro,Palmeiras,38,7 December 2019
+Fortaleza,Bahia,38,7 December 2019
+Corinthians,Fluminense,38,7 December 2019
+Santos,Flamengo,38,7 December 2019
+Vasco da Gama,Chapecoense,38,7 December 2019
+Botafogo,Ceará,38,7 December 2019
+Avaí,Athletico Paranaense,38,7 December 2019
+Goiás,Grêmio,38,7 December 2019
+CSA,São Paulo,38,7 December 2019
+Cuiabá,Coritiba,24,30 October 2019
+RB Bragantino,Oeste,29,16 October 2019
+São Bento,Coritiba,29,16 October 2019
+Paraná,Brasil de Pelotas,29,16 October 2019
+Londrina,Figueirense,29,16 October 2019
+Criciúma,Vitória,29,16 October 2019
+América Mineiro,Vila Nova,29,16 October 2019
+CRB,Operário PR,29,16 October 2019
+Ponte Preta,RB Bragantino,30,19 October 2019
 Botafogo SP,Atlético GO,30,18 October 2019
-Oeste,América Mineiro,30,18 October 2019
-Vila Nova,Coritiba,30,18 October 2019
-Paraná,Figueirense,30,18 October 2019
-Operário PR,São Bento,30,18 October 2019
-Criciúma,CRB,30,18 October 2019
-Brasil de Pelotas,Sport Recife,30,18 October 2019
-Vitória,Londrina,30,18 October 2019
+Oeste,América Mineiro,30,19 October 2019
+Vila Nova,Coritiba,30,19 October 2019
+Paraná,Figueirense,30,20 October 2019
+Operário PR,São Bento,30,20 October 2019
+Criciúma,CRB,30,19 October 2019
+Brasil de Pelotas,Sport Recife,30,20 October 2019
+Vitória,Londrina,30,19 October 2019
 Cuiabá,Guarani,30,18 October 2019
-Ponte Preta,Vitória,31,26 October 2019
+Ponte Preta,Vitória,31,27 October 2019
 RB Bragantino,Vila Nova,31,26 October 2019
 São Bento,Guarani,31,26 October 2019
 Atlético GO,América Mineiro,31,26 October 2019
-Coritiba,Operário PR,31,26 October 2019
+Coritiba,Operário PR,31,25 October 2019
 Londrina,Oeste,31,26 October 2019
-Figueirense,Criciúma,31,26 October 2019
+Figueirense,Criciúma,31,27 October 2019
 Brasil de Pelotas,Cuiabá,31,26 October 2019
-Sport Recife,Paraná,31,26 October 2019
-CRB,Botafogo SP,31,26 October 2019
-Guarani,Sport Recife,32,2 November 2019
+Sport Recife,Paraná,31,24 October 2019
+CRB,Botafogo SP,31,25 October 2019
+Guarani,Sport Recife,32,31 October 2019
 Botafogo SP,Coritiba,32,1 November 2019
-Oeste,CRB,32,1 November 2019
-Vila Nova,Brasil de Pelotas,32,1 November 2019
-Paraná,Londrina,32,1 November 2019
-Operário PR,Atlético GO,32,1 November 2019
-Criciúma,São Bento,32,1 November 2019
-América Mineiro,Ponte Preta,32,1 November 2019
-Vitória,Figueirense,32,1 November 2019
-Cuiabá,RB Bragantino,32,1 November 2019
-Ponte Preta,São Bento,33,5 November 2019
-RB Bragantino,Guarani,33,5 November 2019
+Oeste,CRB,32,2 November 2019
+Vila Nova,Brasil de Pelotas,32,29 October 2019
+Paraná,Londrina,32,29 October 2019
+Operário PR,Atlético GO,32,2 November 2019
+Criciúma,São Bento,32,2 November 2019
+América Mineiro,Ponte Preta,32,2 November 2019
+Vitória,Figueirense,32,2 November 2019
+Cuiabá,RB Bragantino,32,2 November 2019
+Ponte Preta,São Bento,33,6 November 2019
+RB Bragantino,Guarani,33,6 November 2019
 Oeste,Botafogo SP,33,5 November 2019
 Atlético GO,Londrina,33,5 November 2019
 Coritiba,Sport Recife,33,5 November 2019
-Operário PR,Criciúma,33,5 November 2019
-Figueirense,Vila Nova,33,5 November 2019
-América Mineiro,Paraná,33,5 November 2019
+Operário PR,Criciúma,33,6 November 2019
+Figueirense,Vila Nova,33,6 November 2019
+América Mineiro,Paraná,33,6 November 2019
 Vitória,Brasil de Pelotas,33,5 November 2019
-Cuiabá,CRB,33,5 November 2019
-Guarani,Ponte Preta,34,8 November 2019
+Cuiabá,CRB,33,6 November 2019
+Guarani,Ponte Preta,34,9 November 2019
 Botafogo SP,RB Bragantino,34,8 November 2019
-São Bento,Cuiabá,34,8 November 2019
-Vila Nova,Operário PR,34,8 November 2019
+São Bento,Cuiabá,34,9 November 2019
+Vila Nova,Operário PR,34,9 November 2019
 Paraná,Vitória,34,8 November 2019
-Londrina,América Mineiro,34,8 November 2019
-Figueirense,Coritiba,34,8 November 2019
-Brasil de Pelotas,Oeste,34,8 November 2019
-Sport Recife,Criciúma,34,8 November 2019
-CRB,Atlético GO,34,8 November 2019
-Ponte Preta,Figueirense,35,12 November 2019
-Botafogo SP,Sport Recife,35,12 November 2019
-Oeste,Atlético GO,35,12 November 2019
+Londrina,América Mineiro,34,9 November 2019
+Figueirense,Coritiba,34,9 November 2019
+Brasil de Pelotas,Oeste,34,9 November 2019
+Sport Recife,Criciúma,34,9 November 2019
+CRB,Atlético GO,34,9 November 2019
+Ponte Preta,Figueirense,35,13 November 2019
+Botafogo SP,Sport Recife,35,13 November 2019
+Oeste,Atlético GO,35,13 November 2019
 Vila Nova,Guarani,35,12 November 2019
-Paraná,São Bento,35,12 November 2019
-Operário PR,RB Bragantino,35,12 November 2019
-Criciúma,Londrina,35,12 November 2019
+Paraná,São Bento,35,13 November 2019
+Operário PR,RB Bragantino,35,14 November 2019
+Criciúma,Londrina,35,13 November 2019
 Brasil de Pelotas,Coritiba,35,12 November 2019
 Vitória,CRB,35,12 November 2019
-Cuiabá,América Mineiro,35,12 November 2019
+Cuiabá,América Mineiro,35,13 November 2019
 Guarani,Operário PR,36,15 November 2019
 RB Bragantino,Criciúma,36,15 November 2019
-São Bento,Brasil de Pelotas,36,15 November 2019
-Atlético GO,Paraná,36,15 November 2019
-Coritiba,Oeste,36,15 November 2019
-Londrina,Botafogo SP,36,15 November 2019
-Figueirense,Cuiabá,36,15 November 2019
-América Mineiro,Vitória,36,15 November 2019
-Sport Recife,Vila Nova,36,15 November 2019
-CRB,Ponte Preta,36,15 November 2019
-Guarani,América Mineiro,37,23 November 2019
-Botafogo SP,Cuiabá,37,22 November 2019
-São Bento,Londrina,37,22 November 2019
-Vila Nova,Oeste,37,22 November 2019
-Coritiba,RB Bragantino,37,22 November 2019
-Operário PR,Vitória,37,22 November 2019
-Criciúma,Paraná,37,22 November 2019
-Brasil de Pelotas,Atlético GO,37,22 November 2019
-Sport Recife,Ponte Preta,37,22 November 2019
-CRB,Figueirense,37,22 November 2019
-Ponte Preta,Brasil de Pelotas,38,30 November 2019
-RB Bragantino,CRB,38,30 November 2019
-Oeste,Criciúma,38,30 November 2019
-Atlético GO,Sport Recife,38,30 November 2019
-Paraná,Botafogo SP,38,30 November 2019
-Londrina,Guarani,38,30 November 2019
-Figueirense,Operário PR,38,30 November 2019
-América Mineiro,São Bento,38,30 November 2019
-Vitória,Coritiba,38,30 November 2019
-Cuiabá,Vila Nova,38,30 November 2019

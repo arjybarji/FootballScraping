@@ -45,6 +45,8 @@ getLinks(3129271,3129413)
 getLinks(3081777,3082082)
 #J1 League
 getLinks(2972889,2973141)
+getLinks(3002549,3002564)
+getLinks(3131532,3131556)
 #Brasil Serie A
 getLinks(2988916,2989295)
 #China

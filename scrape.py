@@ -23,7 +23,7 @@ def get_proxies():
     response = requests.get(url)
     parser = fromstring(response.text)
     proxies = set()
-    for i in parser.xpath('//tbody/tr')[:10000]:
+    for i in parser.xpath('//tbody/tr')[:100000]:
         if i.xpath('.//td[7][contains(text(),"yes")]'):
             proxy = ":".join([i.xpath('.//td[1]/text()')[0], i.xpath('.//td[2]/text()')[0]])
             proxies.add(proxy)
@@ -35,10 +35,9 @@ def parse(url):
     if gameID not in doneIDs:
         try:
             #print(url)
-            delays = [1,2,3,4,5]
+            delays = [1,2,3,4,5,6,7,8,9,10]
             delay = np.random.choice(delays)
             time.sleep(delay)
-            r = requests.get(url)
             user_agent_list = [
                #Chrome
                 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
@@ -161,8 +160,6 @@ def parse(url):
                             return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip()+ "," + gameID)
                 else:
                     #print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
-                    if("3029148" in gameID):
-                        print("3029148 Fixture")
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + dds[0].text.strip() + "," + gameID +  "£" + url)
         
         except Exception as e:
@@ -171,14 +168,12 @@ def parse(url):
             #print(exc_type, fname, exc_tb.tb_lineno)
             #print(teams)
             #print(url)
-            if("3029148" in gameID):
-                print("3029148 Fixture")
             print(e)
             return("L$" + url + "\n")
 
 
 stats = open('Statsv2.csv','a',encoding='utf-8')
-fixtures = open('fixturesv2.csv','w',encoding='utf-8')
+
 
 with open('links.txt') as f:
     content = f.readlines()
@@ -191,15 +186,21 @@ done = open('done.txt','a')
 if __name__ == '__main__':
     start_time = time.time()
     proxies = get_proxies()
+    todo = []
+    for c in content:
+        gameID = c.split("/")[-2]
+        if gameID not in doneIDs:
+            todo.append(c)
     print(len(proxies))
     if(len(proxies)>0):
-        p = Pool(50)  # Pool tells how many at a time
-        records = p.map(parse, content)
+        p = Pool(40)  # Pool tells how many at a time
+        records = p.map(parse, todo)
         p.terminate()
         p.join()
         errorNum = 0
         fixturesNum = 0
         statsNum = 0
+        fixtures = open('fixturesv2.csv','w',encoding='utf-8')
         for r in records:
             #print(r)
             if r is not None:

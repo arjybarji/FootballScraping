@@ -17,3 +17,4 @@ for c in content:
 for c in leagues:
     if(leagues[c]>5):
         print(c)
+input()

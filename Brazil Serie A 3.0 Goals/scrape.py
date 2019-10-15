@@ -117,3 +117,4 @@ if __name__ == '__main__':
     print("Fixtures: " + str(fixturesNum))
     print("Errors:" + str(errorNum))
     print("--- %s seconds ---" % (time.time() - start_time))
+    input()

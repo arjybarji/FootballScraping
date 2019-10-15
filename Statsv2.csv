@@ -480,11 +480,11 @@ Port Vale,Mansfield Town,10,2,2,4,y,1,1,1,1,2,1,1,1,1,2,4,3,7,,,,,,League Two,30
 Walsall,Scunthorpe United,10,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,,,,,,League Two,3036018
 Deportivo Alavés,Levante,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,2,9,9,2,11,La Liga,3058810
 Athletic Club,Barcelona,1,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,3,8,8,3,11,La Liga,3058811
-Atletico Madrid,Getafe,1,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,5,8,3,4,4,3,7,La Liga,3058812
+Atlético Madrid,Getafe,1,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,5,8,3,4,4,3,7,La Liga,3058812
 Real Betis,Real Valladolid,1,1,2,3,y,0,0,0,0,0,1,2,2,1,3,3,6,9,6,1,1,6,7,La Liga,3058813
 Celta de Vigo,Real Madrid,1,1,3,4,y,0,1,1,0,1,1,2,2,1,3,6,3,9,6,4,4,6,10,La Liga,3058814
 Espanyol,Sevilla,1,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,2,4,8,4,4,8,12,La Liga,3058815
-Leganes,Osasuna,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,8,0,0,8,8,La Liga,3058816
+Leganés,Osasuna,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,8,0,0,8,8,La Liga,3058816
 Mallorca,Eibar,1,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,3,5,9,3,3,9,12,La Liga,3058817
 Valencia,Real Sociedad,1,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,4,8,3,3,3,3,6,La Liga,3058818
 Villarreal,Granada,1,4,4,8,y,1,1,1,1,2,3,3,3,3,6,3,1,4,2,7,7,2,9,La Liga,3058819
@@ -493,14 +493,14 @@ Barcelona,Real Betis,2,5,2,7,y,1,1,1,1,2,4,1,1,4,5,1,1,2,11,0,0,11,11,La Liga,30
 Celta de Vigo,Valencia,2,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,6,4,4,6,10,La Liga,3058822
 Getafe,Athletic Club,2,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,1,3,4,6,6,4,10,La Liga,3058823
 Granada,Sevilla,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,6,6,6,6,12,La Liga,3058824
-Leganes,Atletico Madrid,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,5,9,9,4,4,9,13,La Liga,3058825
+Leganés,Atlético Madrid,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,5,9,9,4,4,9,13,La Liga,3058825
 Levante,Villarreal,2,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,2,3,7,3,3,7,10,La Liga,3058826
 Mallorca,Real Sociedad,2,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,5,5,5,5,10,La Liga,3058827
 Osasuna,Eibar,2,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,4,8,6,6,6,6,12,La Liga,3058828
 Real Madrid,Real Valladolid,2,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,4,3,3,4,7,La Liga,3058829
 Athletic Club,Real Sociedad,3,2,0,2,n,2,0,0,2,2,0,0,0,0,0,2,3,5,3,0,0,3,3,La Liga,3058830
-Atletico Madrid,Eibar,3,3,2,5,y,1,2,2,1,3,2,0,0,2,2,0,3,3,1,1,1,1,2,La Liga,3058831
-Real Betis,Leganes,3,2,1,3,y,0,0,0,0,0,2,1,1,2,3,4,2,6,11,8,8,11,19,La Liga,3058832
+Atlético Madrid,Eibar,3,3,2,5,y,1,2,2,1,3,2,0,0,2,2,0,3,3,1,1,1,1,2,La Liga,3058831
+Real Betis,Leganés,3,2,1,3,y,0,0,0,0,0,2,1,1,2,3,4,2,6,11,8,8,11,19,La Liga,3058832
 Espanyol,Granada,3,0,3,3,n,0,1,1,0,1,0,2,2,0,2,2,3,5,8,6,6,8,14,La Liga,3058833
 Getafe,Deportivo Alavés,3,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,1,4,4,2,2,4,6,La Liga,3058834
 Levante,Real Valladolid,3,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,2,4,6,6,6,6,12,La Liga,3058835
@@ -513,20 +513,20 @@ Barcelona,Valencia,4,5,2,7,y,2,1,1,2,3,3,1,1,3,4,1,4,5,2,5,5,2,7,La Liga,3058841
 Real Betis,Getafe,4,1,1,2,y,0,1,1,0,1,1,0,0,1,1,5,6,11,5,6,6,5,11,La Liga,3058842
 Celta de Vigo,Granada,4,0,2,2,n,0,1,1,0,1,0,1,1,0,1,6,2,8,3,5,5,3,8,La Liga,3058843
 Eibar,Espanyol,4,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,4,6,7,2,2,7,9,La Liga,3058844
-Leganes,Villarreal,4,0,3,3,n,0,2,2,0,2,0,1,1,0,1,2,0,2,8,6,6,8,14,La Liga,3058845
+Leganés,Villarreal,4,0,3,3,n,0,2,2,0,2,0,1,1,0,1,2,0,2,8,6,6,8,14,La Liga,3058845
 Mallorca,Athletic Club,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,3,7,4,6,6,4,10,La Liga,3058846
 Real Madrid,Levante,4,3,2,5,y,3,0,0,3,3,0,2,2,0,2,2,2,4,9,6,6,9,15,La Liga,3058847
-Real Sociedad,Atletico Madrid,4,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,5,5,5,5,10,La Liga,3058848
+Real Sociedad,Atlético Madrid,4,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,5,5,5,5,10,La Liga,3058848
 Real Valladolid,Osasuna,4,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,10,6,6,10,16,La Liga,3058849
 Athletic Club,Deportivo Alavés,5,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,4,5,3,2,2,3,5,La Liga,3058850
-Atletico Madrid,Celta de Vigo,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,5,8,13,3,3,13,16,La Liga,3058851
+Atlético Madrid,Celta de Vigo,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,5,8,13,3,3,13,16,La Liga,3058851
 Espanyol,Real Sociedad,5,1,3,4,y,0,2,2,0,2,1,1,1,1,2,1,0,1,5,7,7,5,12,La Liga,3058852
 Getafe,Mallorca,5,4,2,6,y,2,0,0,2,2,2,2,2,2,4,4,5,9,7,2,2,7,9,La Liga,3058853
 Granada,Barcelona,5,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,2,5,4,5,5,4,9,La Liga,3058854
 Levante,Eibar,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,6,7,7,6,13,La Liga,3058855
 Osasuna,Real Betis,5,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,9,4,4,9,13,La Liga,3058856
 Sevilla,Real Madrid,5,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,9,6,6,9,15,La Liga,3058857
-Valencia,Leganes,5,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,4,7,6,6,6,6,12,La Liga,3058858
+Valencia,Leganés,5,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,4,7,6,6,6,6,12,La Liga,3058858
 Villarreal,Real Valladolid,5,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,1,3,4,8,8,4,12,La Liga,3058859
 Dijon,Saint-Etienne,1,1,2,3,y,1,2,2,1,3,0,0,0,0,0,0,2,2,12,5,5,12,17,Ligue 1,3030547
 Olympique Marseille,Reims,1,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,0,1,5,3,3,5,8,Ligue 1,3030548
@@ -1137,7 +1137,7 @@ Inverness CT,Queen of the South,6,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,2,2,,,,,,Champio
 Greenock Morton,Dundee,6,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,3,3,,,,,,Championship,3038587
 Partick Thistle,Dunfermline Athletic,6,0,3,3,n,0,2,2,0,2,0,1,1,0,1,0,0,0,,,,,,Championship,3038588
 Sivasspor,Beşiktaş,1,3,0,3,n,1,0,0,1,1,2,0,0,2,2,4,3,7,7,0,0,7,7,Süper Lig,3081777
-Fenerbahçe,Gazişehir Gaziantep,1,5,0,5,n,3,0,0,3,3,2,0,0,2,2,1,4,5,4,2,2,4,6,Süper Lig,3081778
+Fenerbahçe,Gaziantep FK,1,5,0,5,n,3,0,0,3,3,2,0,0,2,2,1,4,5,4,2,2,4,6,Süper Lig,3081778
 Yeni Malatyaspor,Istanbul Basaksehir,1,3,0,3,n,0,0,0,0,0,3,0,0,3,3,3,2,5,2,11,11,2,13,Süper Lig,3081779
 Gençlerbirliği,Rizespor,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,2,6,4,2,2,4,6,Süper Lig,3081780
 Kasımpaşa,Trabzonspor,1,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,0,2,5,9,9,5,14,Süper Lig,3081781
@@ -1145,7 +1145,7 @@ Kayserispor,Alanyaspor,1,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,1,5,6,9,9,6,15,Süper Lig
 Konyaspor,Ankaragücü,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,4,1,1,4,5,Süper Lig,3081783
 Denizlispor,Galatasaray,1,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,5,9,6,2,2,6,8,Süper Lig,3081784
 Göztepe,Antalyaspor,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,3,6,5,5,5,5,10,Süper Lig,3081785
-Gazişehir Gaziantep,Gençlerbirliği,2,4,1,5,y,2,0,0,2,2,2,1,1,2,3,1,3,4,4,6,6,4,10,Süper Lig,3081786
+Gaziantep FK,Gençlerbirliği,2,4,1,5,y,2,0,0,2,2,2,1,1,2,3,1,3,4,4,6,6,4,10,Süper Lig,3081786
 Galatasaray,Konyaspor,2,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,3,5,2,5,5,2,7,Süper Lig,3081787
 Ankaragücü,Kayserispor,2,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,1,4,1,7,7,1,8,Süper Lig,3081788
 Alanyaspor,Kasımpaşa,2,4,1,5,y,1,1,1,1,2,3,0,0,3,3,4,4,8,1,4,4,1,5,Süper Lig,3081789
@@ -1157,7 +1157,7 @@ Antalyaspor,Denizlispor,2,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,3,4,5,3,3,5,8,Süper Lig
 Göztepe,Denizlispor,3,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,4,7,5,1,1,5,6,Süper Lig,3081795
 Gençlerbirliği,Istanbul Basaksehir,3,1,2,3,y,1,0,0,1,1,0,2,2,0,2,5,2,7,4,5,5,4,9,Süper Lig,3081796
 Kasımpaşa,Ankaragücü,3,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,5,6,10,1,1,10,11,Süper Lig,3081797
-Sivasspor,Gazişehir Gaziantep,3,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,4,7,7,5,5,7,12,Süper Lig,3081798
+Sivasspor,Gaziantep FK,3,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,4,7,7,5,5,7,12,Süper Lig,3081798
 Fenerbahçe,Trabzonspor,3,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,3,4,6,3,3,6,9,Süper Lig,3081799
 Yeni Malatyaspor,Alanyaspor,3,2,3,5,y,0,3,3,0,3,2,0,0,2,2,4,2,6,5,3,3,5,8,Süper Lig,3081800
 Konyaspor,Antalyaspor,3,2,2,4,y,0,1,1,0,1,2,1,1,2,3,2,2,4,5,7,7,5,12,Süper Lig,3081801
@@ -1168,12 +1168,12 @@ Istanbul Basaksehir,Sivasspor,4,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,2,4,7,4,4,7,11,Sü
 Denizlispor,Konyaspor,4,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,2,6,3,5,5,3,8,Süper Lig,3081806
 Ankaragücü,Yeni Malatyaspor,4,0,4,4,n,0,3,3,0,3,0,1,1,0,1,4,3,7,4,2,2,4,6,Süper Lig,3081807
 Trabzonspor,Gençlerbirliği,4,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,2,4,2,4,4,2,6,Süper Lig,3081808
-Gazişehir Gaziantep,Beşiktaş,4,3,2,5,y,1,0,0,1,1,2,2,2,2,4,5,6,11,4,14,14,4,18,Süper Lig,3081809
+Gaziantep FK,Beşiktaş,4,3,2,5,y,1,0,0,1,1,2,2,2,2,4,5,6,11,4,14,14,4,18,Süper Lig,3081809
 Rizespor,Göztepe,4,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,4,7,3,3,3,3,6,Süper Lig,3081810
 Galatasaray,Kasımpaşa,4,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,3,5,5,3,8,Süper Lig,3081811
 Antalyaspor,Kayserispor,4,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,1,4,11,3,3,11,14,Süper Lig,3081812
 Sivasspor,Trabzonspor,5,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,3,6,4,5,5,4,9,Süper Lig,3081813
-Rizespor,Gazişehir Gaziantep,5,1,2,3,y,0,2,2,0,2,1,0,0,1,1,2,2,4,8,4,4,8,12,Süper Lig,3081814
+Rizespor,Gaziantep FK,5,1,2,3,y,0,2,2,0,2,1,0,0,1,1,2,2,4,8,4,4,8,12,Süper Lig,3081814
 Beşiktaş,Istanbul Basaksehir,5,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,5,9,0,4,4,0,4,Süper Lig,3081815
 Göztepe,Konyaspor,5,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,9,1,1,9,10,Süper Lig,3081816
 Gençlerbirliği,Alanyaspor,5,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,3,6,1,5,5,1,6,Süper Lig,3081817
@@ -4379,8 +4379,8 @@ Ajax,Fortuna Sittard,4,5,0,5,n,0,0,0,0,0,5,0,0,5,5,1,1,2,5,2,2,5,7,Eredivisie,30
 PSV,Groningen,4,3,1,4,y,2,0,0,2,2,1,1,1,1,2,0,2,2,4,3,3,4,7,Eredivisie,3032084
 Barcelona,Villarreal,6,2,1,3,y,2,1,1,2,3,0,0,0,0,0,4,2,6,6,5,5,6,11,La Liga,3058860
 Real Betis,Levante,6,3,1,4,y,1,1,1,1,2,2,0,0,2,2,2,2,4,5,2,2,5,7,La Liga,3058861
-Leganes,Athletic Club,6,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,4,5,5,4,9,La Liga,3058864
-Mallorca,Atletico Madrid,6,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,5,8,8,5,5,8,13,La Liga,3058865
+Leganés,Athletic Club,6,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,4,5,5,4,9,La Liga,3058864
+Mallorca,Atlético Madrid,6,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,5,8,8,5,5,8,13,La Liga,3058865
 Valencia,Getafe,6,3,3,6,y,3,1,1,3,4,0,2,2,0,2,1,4,5,4,5,5,4,9,La Liga,3058868
 Real Valladolid,Granada,6,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,2,5,6,3,3,6,9,La Liga,3058869
 Monaco,Nice,7,3,1,4,y,1,0,0,1,1,2,1,1,2,3,2,3,5,5,7,7,5,12,Ligue 1,3030607
@@ -4521,11 +4521,11 @@ Stevenage,Cambridge United,11,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,,,,,,League Two,
 Swindon Town,Newport County,11,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,1,1,,,,,,League Two,3036046
 Deportivo Alavés,Mallorca,7,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,3,5,4,1,1,4,5,La Liga,3058870
 Athletic Club,Valencia,7,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,5,7,7,7,7,7,14,La Liga,3058871
-Atletico Madrid,Real Madrid,7,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,7,5,12,La Liga,3058872
+Atlético Madrid,Real Madrid,7,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,7,5,12,La Liga,3058872
 Eibar,Celta de Vigo,7,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,1,4,6,5,5,6,11,La Liga,3058873
 Espanyol,Real Valladolid,7,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,0,3,4,3,3,4,7,La Liga,3058874
 Getafe,Barcelona,7,0,2,2,n,0,1,1,0,1,0,1,1,0,1,4,4,8,4,1,1,4,5,La Liga,3058875
-Granada,Leganes,7,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,4,7,8,3,3,8,11,La Liga,3058876
+Granada,Leganés,7,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,4,7,8,3,3,8,11,La Liga,3058876
 Levante,Osasuna,7,1,1,2,y,1,0,0,1,1,0,1,1,0,1,6,0,6,7,11,11,7,18,La Liga,3058877
 Sevilla,Real Sociedad,7,3,2,5,y,1,1,1,1,2,2,1,1,2,3,1,1,2,7,0,0,7,7,La Liga,3058878
 Villarreal,Real Betis,7,5,1,6,y,1,0,0,1,1,4,1,1,4,5,2,2,4,3,7,7,3,10,La Liga,3058879
@@ -4814,7 +4814,7 @@ AZ II,Den Bosch,8,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,1,3,1,0,0,1,1,Eerste Divisie,303
 Hannover 96,Nürnberg,8,0,4,4,n,0,3,3,0,3,0,1,1,0,1,3,1,4,6,1,1,6,7,2. Bundesliga,3047390
 Cremonese,Ascoli,6,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,3,4,4,3,7,Serie B,3122595
 Guingamp,Le Mans,9,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,2,4,3,1,1,3,4,Ligue 2,3031100
-Gazişehir Gaziantep,Göztepe,6,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,5,7,5,5,5,5,10,Süper Lig,3081823
+Gaziantep FK,Göztepe,6,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,5,7,5,5,5,5,10,Süper Lig,3081823
 Fortaleza,Botafogo,22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,5,1,1,5,6,Serie A,2989128
 Avaí,Bahia,22,0,2,2,n,0,2,2,0,2,0,0,0,0,0,1,2,3,7,5,5,7,12,Serie A,2989133
 Goiás,Cruzeiro,22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,3,3,0,9,9,0,9,Serie A,2989134
@@ -4862,7 +4862,8 @@ Stoke City,Huddersfield Town,10,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,,,,,,Champions
 Luton Town,Millwall,10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,2,2,5,4,4,5,9,Championship,3035638
 Tenerife,Real Oviedo,9,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,4,8,6,1,1,6,7,Segunda División,3060009
 Chapecoense,Corinthians,21,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,9,7,7,9,16,Serie A,2989123
-Real Zaragoza,Málaga,9,2,2,4,y,1,1,1,1,1,1,1,1,1,1,2,4,6,9,7,7,9,16,Segunda División,3060011Arsenal,AFC Bournemouth,8,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,14,5,5,14,19,Premier League,3029143
+Real Zaragoza,Málaga,9,2,2,4,y,1,1,1,1,1,1,1,1,1,1,2,4,6,9,7,7,9,16,Segunda División,3060011
+Arsenal,AFC Bournemouth,8,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,14,5,5,14,19,Premier League,3029143
 Brighton & Hove Albion,Tottenham Hotspur,8,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,1,3,4,4,4,4,8,Premier League,3029144
 Southampton,Chelsea,8,1,4,5,y,1,3,3,1,4,0,1,1,0,1,0,1,1,3,4,4,3,7,Premier League,3029150
 Internazionale,Juventus,7,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,3,5,7,2,2,7,9,Serie A,3111766
@@ -5147,3 +5148,205 @@ Gaz Metan Mediaş,Academica Clinceni,12,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,1,4,5,7,7,
 Figueirense,Oeste,26,1,2,3,y,1,2,2,1,3,0,0,0,0,0,3,4,7,7,3,3,7,10,Serie B,2988130
 Sonnenhof Großaspach,Ingolstadt,11,1,5,6,y,1,3,3,1,4,0,2,2,0,2,1,2,3,2,9,9,2,11,3. Liga,3053242
 V-Varen Nagasaki,Machida Zelvia,35,3,2,5,y,1,0,0,1,1,2,2,2,2,4,2,1,3,5,2,2,5,7,J2 League,2972655
+Newcastle United,Manchester United,8,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,4,6,6,4,10,Premier League,3029148
+Fiorentina,Udinese,7,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,12,3,3,12,15,Serie A,3111763
+Cosenza,Venezia,7,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,3,4,3,5,5,3,8,Serie B,3122604
+Motherwell,St. Mirren,8,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,2,2,,,,,,Premiership,3038406
+Rangers,Hamilton Academical,8,5,0,5,n,2,0,0,2,2,3,0,0,3,3,0,1,1,,,,,,Premiership,3038407
+Dundee,Arbroath,8,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,3,6,,,,,,Championship,3038596
+Greenock Morton,Dunfermline Athletic,8,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,1,4,,,,,,Championship,3038597
+Partick Thistle,Queen of the South,8,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,0,1,,,,,,Championship,3038598
+Sivasspor,Ankaragücü,7,3,1,4,y,1,1,1,1,2,2,0,0,2,2,4,1,5,8,3,3,8,11,Süper Lig,3081831
+Cruzeiro,Internacional,23,1,1,2,y,0,1,1,0,1,1,0,0,1,1,5,3,8,3,3,3,3,6,Serie A,2989137
+São Paulo,Fortaleza,23,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,2,5,9,3,3,9,12,Serie A,2989140
+Bahia,Athletico Paranaense,23,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,3,5,4,4,4,4,8,Serie A,2989144
+Brøndby,Copenhagen,12,3,1,4,y,2,1,1,2,3,1,0,0,1,1,3,4,7,4,1,1,4,5,Superliga,3026957
+Hobro,AaB,12,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,2,4,4,3,3,4,7,Superliga,3026961
+Esbjerg,SønderjyskE,12,1,2,3,y,0,0,0,0,0,1,2,2,1,3,4,1,5,1,5,5,1,6,Superliga,3026962
+Silkeborg,Midtjylland,12,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,1,3,1,10,10,1,11,Superliga,3026963
+Brann,Molde,24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,2,9,11,Eliteserien,2951560
+Ranheim,Sarpsborg 08,24,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,6,6,6,6,12,Eliteserien,2951562
+Odd,Vålerenga,24,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,7,8,8,7,15,Eliteserien,2951563
+Tromsø,Kristiansund,24,5,0,5,n,3,0,0,3,3,2,0,0,2,2,2,3,5,,,,,,Eliteserien,2951564
+Stabæk,Viking,24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,5,3,3,5,8,Eliteserien,2951566
+Waterford,Sligo Rovers,34,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,8,4,4,8,12,Premier Division,2950336
+Salzburg,Rheindorf Altach,10,6,0,6,n,3,0,0,3,3,3,0,0,3,3,1,2,3,12,0,0,12,12,Bundesliga,3034891
+Admira,Swarovski Tirol,10,3,1,4,y,3,1,1,3,4,0,0,0,0,0,1,3,4,5,4,4,5,9,Bundesliga,3034895
+Cracovia Kraków,Górnik Zabrze,11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,3,6,9,2,2,9,11,Ekstraklasa,3025780
+Neuchâtel Xamax,Servette,10,2,2,4,y,0,2,2,0,2,2,0,0,2,2,3,4,7,7,2,2,7,9,Super League,3037860
+Sion,Lugano,10,1,2,3,y,0,0,0,0,0,1,2,2,1,3,3,0,3,3,6,6,3,9,Super League,3037861
+León,Veracruz,13,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,2,6,9,2,2,9,11,Liga MX,3041067
+Guadalajara,Pumas UNAM,13,1,1,2,y,1,0,0,1,1,0,1,1,0,1,6,4,10,2,5,5,2,7,Liga MX,3041070
+Bromley,Barrow,15,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,2,3,3,4,4,3,7,National League,3054048
+Fylde,Chesterfield,16,1,3,4,y,0,0,0,0,0,1,3,3,1,4,2,2,4,9,4,4,9,13,National League,3054059
+Aldershot Town,Dover Athletic,16,4,0,4,n,2,0,0,2,2,2,0,0,2,2,0,1,1,8,3,3,8,11,National League,3054060
+Barrow,Boreham Wood,16,3,1,4,y,2,1,1,2,3,1,0,0,1,1,2,2,4,9,4,4,9,13,National League,3054062
+Eastleigh,Maidenhead United,16,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,3,5,3,3,3,3,6,National League,3054063
+Ebbsfleet United,Torquay United,16,2,4,6,y,1,2,2,1,3,1,2,2,1,3,0,0,0,3,4,4,3,7,National League,3054064
+Wrexham,Harrogate Town,16,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,5,7,,,,,,National League,3054069
+Yeovil Town,Woking,16,3,1,4,y,3,0,0,3,3,0,1,1,0,1,1,1,2,5,6,6,5,11,National League,3054070
+Volos NFC,Atromitos,6,2,3,5,y,2,2,2,2,4,0,1,1,0,1,3,3,6,4,6,6,4,10,Super League 1,3051907
+Astra,Hermannstadt,12,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,4,5,8,0,0,8,8,Liga I,3048336
+Paraná,Coritiba,26,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,2,3,4,11,11,4,15,Serie B,2988128
+Ponte Preta,Londrina,27,3,1,4,y,2,1,1,2,3,1,0,0,1,1,5,4,9,0,5,5,0,5,Serie B,2988134
+Botafogo SP,Figueirense,27,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,5,8,10,1,1,10,11,Serie B,2988135
+Atlético GO,Cuiabá,27,1,1,2,y,1,0,0,1,1,0,1,1,0,1,4,2,6,5,3,3,5,8,Serie B,2988137
+Operário PR,Paraná,27,0,1,1,n,0,1,1,0,1,0,0,0,0,0,5,4,9,7,4,4,7,11,Serie B,2988139
+Criciúma,Brasil de Pelotas,27,2,2,4,y,1,2,2,1,3,1,0,0,1,1,3,6,9,10,4,4,10,14,Serie B,2988140
+América Mineiro,RB Bragantino,27,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,3,6,4,7,7,4,11,Serie B,2988141
+Chemnitzer FC,MSV Duisburg,11,3,1,4,y,0,0,0,0,0,3,1,1,3,4,0,2,2,5,2,2,5,7,3. Liga,3053238
+Hapoel Ra'anana,Hapoel Tel Aviv,6,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,2,4,5,4,4,5,9,Ligat ha'Al,3033647
+Ironi Kiryat Shmona,Ashdod,6,2,0,2,n,2,0,0,2,2,0,0,0,0,0,6,1,7,2,6,6,2,8,Ligat ha'Al,3033649
+Maccabi Netanya,Beitar Jerusalem,6,0,3,3,n,0,3,3,0,3,0,0,0,0,0,3,3,6,4,1,1,4,5,Ligat ha'Al,3033651
+Sektzia Nes Tziona,Maccabi Haifa,6,0,3,3,n,0,0,0,0,0,0,3,3,0,3,2,2,4,2,12,12,2,14,Ligat ha'Al,3033652
+Bnei Yehuda,Hapoel Kfar Saba,6,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,4,6,3,4,4,3,7,Ligat ha'Al,3033653
+Yokohama,Kashiwa Reysol,35,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,6,7,7,6,13,J2 League,2972659
+Trenčín,Zlaté Moravce,11,2,2,4,y,1,1,1,1,2,1,1,1,1,2,1,2,3,4,0,0,4,4,Super Liga,3032639
+Pohronie,Zemplín Michalovce,11,2,2,4,y,1,1,1,1,2,1,1,1,1,2,4,2,6,6,11,11,6,17,Super Liga,3032641
+Rotherham United,Coventry City,12,4,0,4,n,2,0,0,2,2,2,0,0,2,2,2,2,4,,,,,,League One,3035270
+Oldham Athletic,Cheltenham Town,12,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,4,7,,,,,,League Two,3036065
+Aberdeen,Hibernian,8,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,1,4,,,,,,Premiership,3038403
+Ayr United,Inverness CT,8,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,3,5,,,,,,Championship,3038595
+Gaziantep FK FK,Istanbul Basaksehir,7,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,6,8,5,8,8,5,13,Süper Lig,3081833
+Gençlerbirliği,Galatasaray,7,0,0,0,n,0,0,0,0,0,0,0,0,0,0,7,4,11,4,5,5,4,9,Süper Lig,3081834
+Rizespor,Trabzonspor,7,1,2,3,y,1,0,0,1,1,0,2,2,0,2,5,2,7,6,4,4,6,10,Süper Lig,3081837
+OB,Horsens,12,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,3,4,1,8,8,1,9,Superliga,3026959
+Lokomotiv Moscow,Arsenal Tula,12,2,1,3,y,2,1,1,2,3,0,0,0,0,0,2,5,7,3,5,5,3,8,Premier League,3027163
+Ural,Zenit,12,1,3,4,y,0,2,2,0,2,1,1,1,1,2,0,0,0,7,8,8,7,15,Premier League,3027167
+Mladá Boleslav,Viktoria Plzen,12,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,3,6,5,10,10,5,15,Czech Liga,3036878
+Häcken,Östersunds FK,27,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,8,1,1,8,9,Allsvenskan,2947343
+Thun,Luzern,10,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,2,3,7,2,2,7,9,Super League,3037863
+Dagenham & Redbridge,Barnet,15,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,1,1,5,2,2,5,7,National League,3054051
+Maidenhead United,Halifax Town,15,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,1,4,3,2,2,3,5,National League,3054055
+Barnet,Bromley,16,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,0,2,7,3,3,7,10,National League,3054061
+Halifax Town,Chorley,16,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,4,5,2,1,1,2,3,National League,3054065
+Notts County,Dagenham & Redbridge,16,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,2,7,7,2,9,National League,3054066
+Solihull Moors,Sutton United,16,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,4,4,4,4,8,National League,3054067
+Cuiabá,Londrina,26,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,4,8,8,2,2,8,10,Serie B,2988133
+Coritiba,Guarani,27,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,6,7,7,6,13,Serie B,2988138
+Vitória,Oeste,27,3,1,4,y,1,0,0,1,1,2,1,1,2,3,2,4,6,8,4,4,8,12,Serie B,2988142
+Spartak Trnava,DAC,11,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,2,3,12,3,3,12,15,Super Liga,3032640
+Blackpool,Rotherham United,13,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,0,0,,,,,,League One,3035273
+Bristol Rovers,Milton Keynes Dons,13,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,League One,3035274
+Oxford United,Doncaster Rovers,13,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,0,0,,,,,,League One,3035278
+Peterborough United,Lincoln City,13,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,,,,,,League One,3035279
+Portsmouth,Gillingham,13,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,League One,3035280
+Rochdale,Accrington Stanley,13,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,0,0,,,,,,League One,3035281
+Southend United,AFC Wimbledon,13,1,4,5,y,1,2,2,1,3,0,2,2,0,2,0,0,0,,,,,,League One,3035283
+Carlisle United,Crewe Alexandra,13,2,4,6,y,0,2,2,0,2,2,2,2,2,4,0,0,0,,,,,,League Two,3036075
+Crawley Town,Colchester United,13,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,0,0,,,,,,League Two,3036079
+Exeter City,Forest Green Rovers,13,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,,,,,,League Two,3036081
+Leyton Orient,Walsall,13,3,1,4,y,0,1,1,0,1,3,0,0,3,3,0,0,0,,,,,,League Two,3036083
+Macclesfield Town,Port Vale,13,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,0,0,,,,,,League Two,3036086
+Mansfield Town,Oldham Athletic,13,6,1,7,y,3,1,1,3,4,3,0,0,3,3,0,0,0,,,,,,League Two,3036089
+Morecambe,Bradford City,13,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,0,0,,,,,,League Two,3036092
+Salford City,Cambridge United,13,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,League Two,3036095
+Scunthorpe United,Northampton Town,13,3,0,3,n,3,0,0,3,3,0,0,0,0,0,0,0,0,,,,,,League Two,3036098
+Stevenage,Grimsby Town,13,2,1,3,y,2,0,0,2,2,0,1,1,0,1,0,0,0,,,,,,League Two,3036100
+Swindon Town,Plymouth Argyle,13,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,,,,,,League Two,3036102
+MVV,Cambuur,10,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,3,6,9,Eerste Divisie,3031763
+TOP Oss,Telstar,10,2,2,4,y,2,1,1,2,3,0,1,1,0,1,0,0,0,2,3,3,2,5,Eerste Divisie,3031764
+Roda JC,Helmond Sport,10,4,0,4,n,1,0,0,1,1,3,0,0,3,3,0,0,0,4,7,7,4,11,Eerste Divisie,3031765
+Almería,Lugo,11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,3,5,8,Segunda División,3060024
+Extremadura UD,Ponferradina,11,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,5,6,6,5,11,Segunda División,3060025
+Girona,Elche,11,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,7,3,3,7,10,Segunda División,3060026
+Málaga,Cádiz,11,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,0,0,4,0,0,4,4,Segunda División,3060030
+Rayo Vallecano,Tenerife,11,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,0,0,8,6,6,8,14,Segunda División,3060032
+Sporting Gijón,Alcorcón,11,1,3,4,y,0,3,3,0,3,1,0,0,1,1,0,0,0,5,0,0,5,5,Segunda División,3060033
+Chaves,Estoril,8,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,10,4,4,10,14,Segunda Liga,3065144
+Leixões,Casa Pia,8,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,9,2,2,9,11,Segunda Liga,3065146
+Adelaide United,Sydney,1,2,3,5,y,1,2,2,1,3,1,1,1,1,2,0,0,0,7,4,4,7,11,A-League,3129271
+Western Sydney Wanderers,Central Coast Mariners,1,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,0,0,4,6,6,4,10,A-League,3129272
+Melbourne Victory,Melbourne City,1,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,9,6,15,A-League,3129273
+Cerezo Osaka,Kashima Antlers,28,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,12,4,4,12,16,J1 League,3002549
+Sanfrecce Hiroshima,Vissel Kobe,28,6,2,8,y,2,1,1,2,3,4,1,1,4,5,0,0,0,3,5,5,3,8,J1 League,3002550
+Júbilo Iwata,Yokohama F. Marinos,28,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,6,8,8,6,14,J1 League,3002551
+Nagoya Grampus,Oita Trinita,28,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,4,1,1,4,5,J1 League,3002552
+Sagan Tosu,Tokyo,28,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,0,0,5,5,5,5,10,J1 League,3002553
+Shonan Bellmare,Kawasaki Frontale,28,0,5,5,n,0,4,4,0,4,0,1,1,0,1,0,0,0,4,5,5,4,9,J1 League,3002554
+Urawa Reds,Shimizu S-Pulse,28,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,0,0,5,2,2,5,7,J1 League,3002555
+Vegalta Sendai,Matsumoto Yamaga,28,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,13,7,7,13,20,J1 League,3002556
+Grêmio,Ceará,24,2,1,3,y,2,1,1,2,3,0,0,0,0,0,0,0,0,4,4,4,4,8,Serie A,2989146
+Cruzeiro,Fluminense,24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,5,2,7,Serie A,2989147
+Fortaleza,Chapecoense,24,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,,,,,,Serie A,2989148
+Corinthians,Athletico Paranaense,24,2,2,4,y,2,2,2,2,4,0,0,0,0,0,0,0,0,6,3,3,6,9,Serie A,2989149
+Santos,Palmeiras,24,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,0,0,2,3,3,2,5,Serie A,2989150
+Flamengo,Atlético Mineiro,24,3,1,4,y,1,0,0,1,1,2,1,1,2,3,0,0,0,9,2,2,9,11,Serie A,2989151
+Botafogo,Goiás,24,3,1,4,y,1,0,0,1,1,2,1,1,2,3,0,0,0,5,5,5,5,10,Serie A,2989152
+Avaí,Vasco da Gama,24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,6,7,13,Serie A,2989153
+Bahia,São Paulo,24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,3,8,Serie A,2989154
+CSA,Internacional,24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,3,11,11,3,14,Serie A,2989155
+Bohemians,Dundalk,34,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,0,0,5,4,4,5,9,Premier Division,2950333
+Cork City,UCD,34,3,2,5,y,1,0,0,1,1,2,2,2,2,4,0,0,0,3,4,4,3,7,Premier Division,2950334
+Shamrock Rovers,Finn Harps,34,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,9,1,1,9,10,Premier Division,2950337
+Stockport County,Hartlepool United,16,2,1,3,y,2,0,0,2,2,0,1,1,0,1,0,0,0,5,3,3,5,8,National League,3054068
+Aldershot Town,Hartlepool United,17,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,0,0,6,3,3,6,9,National League,3054072
+Barnet,Woking,17,2,2,4,y,0,1,1,0,1,2,1,1,2,3,0,0,0,2,3,3,2,5,National League,3054073
+Eastleigh,Chorley,17,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,4,8,12,National League,3054075
+Ebbsfleet United,Maidenhead United,17,1,2,3,y,1,1,1,1,2,0,1,1,0,1,0,0,0,5,4,4,5,9,National League,3054076
+Halifax Town,Boreham Wood,17,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,8,4,4,8,12,National League,3054077
+Notts County,Torquay United,17,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,6,6,6,6,12,National League,3054078
+Solihull Moors,Bromley,17,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,0,0,7,7,7,7,14,National League,3054079
+Yeovil Town,Harrogate Town,17,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,0,0,4,3,3,4,7,National League,3054082
+Guarani,CRB,28,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,9,5,5,9,14,Serie B,2988144
+Oeste,Ponte Preta,28,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,3,11,11,3,14,Serie B,2988146
+Vila Nova,Atlético GO,28,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,7,4,4,7,11,Serie B,2988147
+Brasil de Pelotas,Botafogo SP,28,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,,,,,,Serie B,2988151
+Sport Recife,São Bento,28,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,8,8,8,8,16,Serie B,2988152
+Cuiabá,Vitória,28,1,3,4,y,1,0,0,1,1,0,3,3,0,3,0,0,0,7,5,5,7,12,Serie B,2988153
+V-Varen Nagasaki,JEF United,36,0,2,2,n,0,0,0,0,0,0,2,2,0,2,0,0,0,8,4,4,8,12,J2 League,2972666
+Ryūkyū,Tokyo Verdy,36,1,5,6,y,0,3,3,0,3,1,2,2,1,3,0,0,0,7,0,0,7,7,J2 League,2972667
+Renofa Yamaguchi,Kyoto Sanga,36,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,J2 League,2972673
+Coventry City,Tranmere Rovers,13,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,,,,,,League One,3035276
+Volendam,Den Bosch,10,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,7,3,3,7,10,Eerste Divisie,3031766
+Excelsior,Dordrecht,10,3,2,5,y,0,1,1,0,1,3,1,1,3,4,0,0,0,11,5,5,11,16,Eerste Divisie,3031768
+Huesca,Racing Santander,11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,8,5,5,8,13,Segunda División,3060027
+Las Palmas,Deportivo La Coruña,11,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,0,0,5,8,8,5,13,Segunda División,3060028
+Numancia,Real Zaragoza,11,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,3,2,2,3,5,Segunda División,3060031
+Cova Piedade,Farense,8,0,2,2,n,0,2,2,0,2,0,0,0,0,0,0,0,0,3,6,6,3,9,Segunda Liga,3065151
+Internacional,Santos,25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,3,9,12,Serie A,2989156
+Ceará,Avaí,25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,Serie A,2989158
+Vasco da Gama,Fortaleza,25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,10,3,3,10,13,Serie A,2989161
+Fluminense,Bahia,25,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,0,0,4,7,7,4,11,Serie A,2989162
+Goiás,CSA,25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,4,2,2,4,6,Serie A,2989164
+Athletico Paranaense,Flamengo,25,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,5,2,2,5,7,Serie A,2989165
+AFC Telford United,York City,13,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,,,,,,National League N / S,3054619
+Bradford (Park Avenue),Hereford,13,3,2,5,y,2,1,1,2,3,1,1,1,1,2,0,0,0,,,,,,National League N / S,3054620
+Darlington,Boston United,13,2,1,3,y,2,1,1,2,3,0,0,0,0,0,0,0,0,,,,,,National League N / S,3054622
+Gateshead,Gloucester City,13,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,,,,,,National League N / S,3054623
+Guiseley,Altrincham,13,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,,,,,,National League N / S,3054624
+Leamington,Alfreton Town,13,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,,,,,,National League N / S,3054628
+Southport,Brackley Town,13,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,,,,,,National League N / S,3054629
+Bath City,Maidstone United,13,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,,,,,,National League N / S,3055081
+Chelmsford City,Wealdstone,13,1,3,4,y,0,1,1,0,1,1,2,2,1,3,0,0,0,,,,,,National League N / S,3055082
+Dorking Wanderers,Hungerford Town,13,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,,,,,,National League N / S,3055084
+Dulwich Hamlet,Weymouth,13,2,2,4,y,1,1,1,1,2,1,1,1,1,2,0,0,0,,,,,,National League N / S,3055085
+Havant & Waterlooville,Hemel Hempstead Town,13,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,0,0,,,,,,National League N / S,3055086
+St Albans City,Eastbourne Borough,13,1,3,4,y,1,2,2,1,3,0,1,1,0,1,0,0,0,,,,,,National League N / S,3055089
+Tonbridge Angels,Braintree Town,13,5,1,6,y,3,0,0,3,3,2,1,1,2,3,0,0,0,,,,,,National League N / S,3055090
+RB Bragantino,Paraná,28,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,11,2,2,11,13,Serie B,2988145
+Coritiba,Criciúma,28,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,2,6,6,2,8,Serie B,2988148
+Figueirense,América Mineiro,28,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,0,0,5,5,5,5,10,Serie B,2988150
+Montedio Yamagata,Gifu,36,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,,,,,,J2 League,2972668
+Machida Zelvia,Kagoshima United,36,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,10,4,14,J2 League,2972669
+Ventforet Kofu,Tochigi,36,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,,,,,,J2 League,2972670
+Tokushima Vortis,Fagiano Okayama,36,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,0,0,3,1,1,3,4,J2 League,2972671
+Ehime,Albirex Niigata,36,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,6,4,4,6,10,J2 League,2972672
+Mirandés,Fuenlabrada,11,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,0,0,3,7,7,3,10,Segunda División,3060029
+Vilafranquense,UD Oliveirense,8,3,2,5,y,2,0,0,2,2,1,2,2,1,3,0,0,0,7,7,7,7,14,Segunda Liga,3065152
+Wellington Phoenix,Western United,1,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,8,2,2,8,10,A-League,3129274
+Perth Glory,Brisbane Roar,1,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,4,6,6,4,10,A-League,3129275
+Atlético Mineiro,Grêmio,25,1,4,5,y,1,2,2,1,3,0,2,2,0,2,0,0,0,4,4,4,4,8,Serie A,2989157
+Palmeiras,Botafogo,25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,7,2,2,7,9,Serie A,2989159
+São Paulo,Corinthians,25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,1,2,3,Serie A,2989160
+Chapecoense,Cruzeiro,25,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,9,7,7,9,16,Serie A,2989163
+Beijing Renhe,Chongqing Dangdai Lifan,24,1,4,5,y,1,3,3,1,4,0,1,1,0,1,0,0,0,,,,,,CSL,2980062
+Curzon Ashton,Blyth Spartans,13,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,,,,,,National League N / S,3054621
+Kettering Town,Spennymoor Town,13,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,,,,,,National League N / S,3054625
+King's Lynn Town,Chester,13,2,2,4,y,1,0,0,1,1,1,2,2,1,3,0,0,0,,,,,,National League N / S,3054627
+Concord Rangers,Chippenham Town,13,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,,,,,,National League N / S,3055083
+Oxford City,Dartford,13,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,,,,,,National League N / S,3055087
+Slough Town,Billericay Town,13,3,1,4,y,2,0,0,2,2,1,1,1,1,2,0,0,0,,,,,,National League N / S,3055088
+Welling United,Hampton & Richmond,13,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,,,,,,National League N / S,3055091
+Londrina,Operário PR,28,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,0,0,6,5,5,6,11,Serie B,2988149
+Kashiwa Reysol,Mito Hollyhock,36,2,3,5,y,2,2,2,2,4,0,1,1,0,1,0,0,0,10,4,4,10,14,J2 League,2972664
