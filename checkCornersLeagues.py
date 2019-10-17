@@ -15,6 +15,6 @@ for c in content:
             leagues.update({league : 1})
 
 for c in leagues:
-    if(leagues[c]>5):
-        print(c)
+    if(leagues[c]>3):
+        print(c + ":" + str(leagues[c]))
 input()

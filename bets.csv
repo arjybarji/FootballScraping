@@ -40,7 +40,6 @@ matchGoals averages,Gil Vicente,Portimonense,Under 2.5,26 October 2019,Primeira 
 firstHalfTotalGoals averages,Sporting CP,Vitoria Guimaraes,Over 1.0,27 October 2019,Primeira Liga
 matchGoals averages,Santa Clara,Vitória Setúbal,Under 2.5,31 October 2019,Primeira Liga
 btts,Santa Clara,Vitória Setúbal,no,31 October 2019,Primeira Liga
-matchGoals averages,Almere City,Go Ahead Eagles,Over 2.5,13 October 2019,Eerste Divisie
 matchGoals averages,NEC,PSV II,Over 2.5,18 October 2019,Eerste Divisie
 firstHalfTotalGoals averages,NEC,PSV II,Over 1.0,18 October 2019,Eerste Divisie
 matchGoals averages,Dordrecht,Helmond Sport,Over 2.5,18 October 2019,Eerste Divisie
@@ -80,7 +79,6 @@ firstHalfTotalGoals averages,Trabzonspor,Gaziantep FK,Over 1.0,19 October 2019,S
 firstHalfTotalGoals  percent,Beşiktaş,Galatasaray,Under 1,27 October 2019,Süper Lig
 firstHalfTotalGoals  percent,Avaí,Internacional,Under 1,18 October 2019,Serie A
 firstHalfTotalGoals  percent,São Paulo,Avaí,Under 1,20 October 2019,Serie A
-matchGoals percent,CSA,Corinthians,Under 2.5,31 October 2019,Serie A
 firstHalfTotalGoals  percent,CSA,Corinthians,Under 1,31 October 2019,Serie A
 matchGoals averages,Shanghai Shenhua,Dalian Yifang,Over 2.5,20 October 2019,CSL
 firstHalfTotalGoals averages,Bodø / Glimt,Mjøndalen,Over 1.0,21 October 2019,Eliteserien
@@ -110,7 +108,6 @@ firstHalfTotalGoals averages,Hungerford Town,Hampton & Richmond,Over 1.0,26 Octo
 firstHalfTotalGoals averages,Wealdstone,Tonbridge Angels,Over 1.0,26 October 2019,National League N / S
 matchGoals averages,Weymouth,Braintree Town,Over 2.5,26 October 2019,National League N / S
 firstHalfTotalGoals averages,Academica Clinceni,Viitorul,Over 1.0,20 October 2019,Liga I
-matchGoals averages,Guarani,Botafogo SP,Under 2.5,15 October 2019,Serie B
 matchGoals averages,Paraná,Figueirense,Under 2.5,20 October 2019,Serie B
 firstHalfTotalGoals averages,Eintracht Braunschweig,Unterhaching,Over 1.0,19 October 2019,3. Liga
 matchGoals averages,Ingolstadt,Chemnitzer FC,Over 2.5,19 October 2019,3. Liga
@@ -122,3 +119,16 @@ matchGoals percent,Würzburger Kickers,MSV Duisburg,Over 2.5,26 October 2019,3. 
 firstHalfTotalGoals averages,Bayern München II,Waldhof Mannheim,Over 1.0,28 October 2019,3. Liga
 matchGoals averages,Trenčín,Senica,Over 2.5,20 October 2019,Super Liga
 firstHalfTotalGoals averages,Zemplín Michalovce,Slovan Bratislava,Over 1.0,27 October 2019,Super Liga
+matchGoals averages,Austria Klagenfurt,Horn,Over 2.5,18 October 2019,2. Liga
+firstHalfTotalGoals averages,Austria Lustenau,Kapfenberger SV,Over 1.0,25 October 2019,2. Liga
+matchGoals averages,Juniors OÖ,Austria Wien II,Over 2.5,26 October 2019,2. Liga
+matchGoals averages,Amstetten,Blau-Weiß Linz,Over 2.5,25 October 2019,2. Liga
+firstHalfTotalGoals averages,Falkirk,Peterhead,Over 1.0,19 October 2019,League One
+matchGoals averages,Stranraer,Dumbarton,Over 2.5,19 October 2019,League One
+matchGoals percent,Stranraer,Dumbarton,Over 2.5,19 October 2019,League One
+firstHalfTotalGoals averages,Dumbarton,Peterhead,Over 1.0,26 October 2019,League One
+matchGoals averages,Montrose,Stranraer,Over 2.5,26 October 2019,League One
+firstHalfTotalGoals averages,Montrose,Stranraer,Over 1.0,26 October 2019,League One
+matchGoals averages,Cove Rangers,Albion Rovers,Over 2.5,26 October 2019,League Two
+firstHalfTotalGoals averages,Cove Rangers,Albion Rovers,Over 1.0,26 October 2019,League Two
+firstHalfTotalGoals  percent,Stirling Albion,Cowdenbeath,Under 1,26 October 2019,League Two

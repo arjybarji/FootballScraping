@@ -97,4 +97,10 @@ getLinks(3033612,3033793)
 getLinks(2972277,2972739)
 #Slovakia
 getLinks(3032576,3032707)
+#Austria 2
+getLinks(3040372,3040611)
+#Scotland League One
+getLinks(3038181,3038360)
+#Scotland League 2
+getLinks(3038739,3038918)
 #getLinks(,)
