@@ -124,7 +124,7 @@ def parse(url):
                         print("Got Score. " + homeTeam + " vs " + awayTeam+" . " + gameWeek + " NO FRAME")
                         return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip()+ "," + gameID)
                 else:
-                    #print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
+                    print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + dds[0].text.strip() + "," + gameID +  "£" + url)
         
         except Exception as e:

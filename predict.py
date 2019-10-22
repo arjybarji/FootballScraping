@@ -36,10 +36,10 @@ def checkAvgGoals(homeTeam,awayTeam,field,lower,upper,bet,date,league):
     field = field + " averages"
     if(homeGoals <lower) and (awayGoals <lower) and (homeTotalGoals <lower) and (awayTotalGoals <lower):
         bets.write(field + "," + homeTeam + "," + awayTeam + "," + "Under " +bet + "," + date + "," + league + "\n")
-        print("Under "+bet+" because of H/A")
+        print("Under "+bet)
     if(homeGoals >upper )and (awayGoals >upper) and (homeTotalGoals >upper) and (awayTotalGoals >upper):
         bets.write(field + "," + homeTeam + "," + awayTeam + "," + "Over " +bet+ "," + date + "," + league +"\n")
-        print("Over "+bet+" because of H/A")
+        print("Over "+bet)
     
 def teamPercentStats(homeTeam,awayTeam,field,lower,upper,bet,date,league):
     database = 'allStats.db'
@@ -69,10 +69,10 @@ def teamPercentStats(homeTeam,awayTeam,field,lower,upper,bet,date,league):
     field = field + " percent"
     if(homeTeamHomeOver <lower) and (awayTeamAwayOver <lower) and (homeTeamTotalOver <lower) and (awayTeamTotalOver <lower):
         bets.write(field + "," + homeTeam + "," + awayTeam + ","  + "Under " +bet + "," + date +"," + league + "\n")
-        print("Under "+bet+" because of H/A")
+        print("Under "+bet)
     if(homeTeamHomeOver >upper )and (awayTeamAwayOver >upper) and (homeTeamTotalOver >upper) and (awayTeamTotalOver >upper):
         bets.write(field + "," + homeTeam + "," + awayTeam + "," + "Over " +bet+ "," + date +"," + league + "\n")
-        print("Over "+bet+" because of H/A")
+        print("Over "+bet)
 
 def BTTSStats(homeTeam,awayTeam,field,lower,upper,date,league):
     database = 'allStats.db'
@@ -109,13 +109,13 @@ def BTTSStats(homeTeam,awayTeam,field,lower,upper,date,league):
         bets.write(field + "," + homeTeam + "," + awayTeam + ","+ "yes"+","+ date + "," + league +"\n")
 
 def predict(homeTeam,awayTeam,gameweek,date,league):
-    checkAvgGoals(homeTeam,awayTeam,"matchGoals",2,3,"2.5",date,league)
+    checkAvgGoals(homeTeam,awayTeam,"matchGoals",1.8,3.2,"2.5",date,league)
     checkAvgGoals(homeTeam,awayTeam,"firstHalfTotalGoals",0.65,1.35,"1.0",date,league)
-    #checkAvgGoals(homeTeam,awayTeam,"secondHalfTotalGoals",0.7,1.3,"1.0",date,league) 
+    checkAvgGoals(homeTeam,awayTeam,"secondHalfTotalGoals",0.8,2.2,"1.5",date,league) 
     teamPercentStats(homeTeam,awayTeam,"matchGoals",0.25,0.75,"2.5",date,league)
     #teamPercentStats(homeTeam,awayTeam,"matchGoals",0.25,0.75,"3.5",date,league)
     teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals ",0.2,0.8,"1",date,league)
-    #teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals ",0.2,0.8,"1.5",date,league)
+    teamPercentStats(homeTeam,awayTeam,"secondHalfTotalGoals ",0.2,0.8,"1.5",date,league)
     BTTSStats(homeTeam,awayTeam,"btts",0.2,0.8,date,league)
 
 if __name__ == '__main__':
