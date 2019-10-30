@@ -1,25 +1,6 @@
 import sqlite3
 import datetime
 
-
-def insertIntoDatabase():
-    database = 'allStats.db'
-    conn = sqlite3.connect(database)
-    with open('Statsv2.csv',encoding="utf8") as f:
-        content = f.readlines()
-    content = [x.strip() for x in content]
-    cursor = conn.cursor()
-    for c in content:
-        statsSplit = c.split(",")
-        cursor.execute("SELECT * FROM stats WHERE gameID = ?", (statsSplit[-1],))
-        data=cursor.fetchall()
-        if(len(data)==0):
-            print("Inserting " + statsSplit[0] + " vs " + statsSplit[1])
-            cursor.execute("INSERT INTO stats(homeTeam,awayTeam,gameWeek,homeGoals,awayGoals,matchGoals,BTTS,firstHalfHomeGoals,firstHalfHomeConc,firstHalfAwayGoals,firstHalfAwayConc,firstHalfTotalGoals,secondHalfHomeGoals,secondHalfHomeConc,secondHalfAwayGoals,secondHalfAwayConc,secondHalfTotalGoals,league,gameID) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",(statsSplit[0],statsSplit[1],statsSplit[2],int(statsSplit[3]),int(statsSplit[4]),int(statsSplit[5]),statsSplit[6],int(statsSplit[7]),int(statsSplit[8]),int(statsSplit[9]),int(statsSplit[10]),int(statsSplit[11]),int(statsSplit[12]),int(statsSplit[13]),int(statsSplit[14]),int(statsSplit[15]),int(statsSplit[16]),statsSplit[25],int(statsSplit[26]),))
-    conn.commit()
-    cursor.close()
-    conn.close()
-
 def checkAvgGoals(homeTeam,awayTeam,field,lower,upper,bet,date,league):
     database = 'allStats.db'
     conn = sqlite3.connect(database)
@@ -110,8 +91,17 @@ def BTTSStats(homeTeam,awayTeam,field,lower,upper,date,league):
         print("BTTS Yes")
         bets.write(field + "," + homeTeam + "," + awayTeam + ","+ "yes"+","+ date + "," + league +"\n")
 
+
+def formCheck(team,playing,field,gameweek,bet):
+    database = 'allStats.db'
+    conn = sqlite3.connect(database)
+    cursor = conn.cursor()
+    last5Total = []
+    
+    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ? AND "+field+" = 'y'" , (homeTeam,))
+    homeBTTSHome = cursor.fetchall()[0][0]
+
 def predict(homeTeam,awayTeam,gameweek,date,league):
-    print(homeTeam + "," + awayTeam + "," + date)
     checkAvgGoals(homeTeam,awayTeam,"matchGoals",1.8,3.2,"2.5",date,league)
     checkAvgGoals(homeTeam,awayTeam,"firstHalfTotalGoals",0.65,1.35,"1.0",date,league)
     checkAvgGoals(homeTeam,awayTeam,"secondHalfTotalGoals",0.8,2.2,"1.5",date,league) 
@@ -128,8 +118,8 @@ if __name__ == '__main__':
     content = [x.strip() for x in content]
     bets = open("bets.csv","w",encoding="utf8")
     today = datetime.date.today()
-    tomorrow = datetime.date.today() + datetime.timedelta(days=30)
-    tomorrow = tomorrow.strftime("%B")
+    tomorrow = datetime.date.today() + datetime.timedelta(days=1)
+    tomorrow = tomorrow.strftime("%d %B %Y")
     today = today.strftime("%B")
     for c in content:
         split = c.split(",")
@@ -138,7 +128,8 @@ if __name__ == '__main__':
         gameweek = split[2]
         date = split[3]
         league = split[4]
-        if(today.lower() in date.lower() and int(gameweek)>7) or (tomorrow.lower() in date.lower() and int(gameweek)>7):
-        #if(today.lower() in date.lower() and int(gameweek)>7):
+        #if(date == today and int(gameweek)>7) or (date == tomorrow and int(gameweek)>7):
+        if(today.lower() in date.lower() and int(gameweek)>7):
             predict(homeTeam,awayTeam,gameweek,date,league)
+    input("Done")
     input("Done")

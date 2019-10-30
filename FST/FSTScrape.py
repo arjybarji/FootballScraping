@@ -13,7 +13,7 @@ intMax = int(maxi.get('href').split("-")[-1].split("/")[0])
 
 bets = open('bets.csv','w')
 
-for i in range(0,intMax+1):
+for i in range(185,intMax+1):
     r = requests.get(betsurl + str(i))
     soup = BeautifulSoup(r.content, "html.parser")
     try:
