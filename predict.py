@@ -69,6 +69,8 @@ def teamPercentStats(homeTeam,awayTeam,field,lower,upper,bet,date,league):
     field = field + " percent"
     if(".99" in bet):
         bet = "1"
+    if(("matchGoals" in field) and ("1.5" in bet)):
+        field = "OVER 1.5 BET"
     if(homeTeamHomeOver <lower) and (awayTeamAwayOver <lower) and (homeTeamTotalOver <lower) and (awayTeamTotalOver <lower):
         bets.write(field + "," + homeTeam + "," + awayTeam + ","  + "Under " +bet + "," + date +"," + league + "\n")
         print("Under "+bet)
@@ -116,6 +118,7 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
     checkAvgGoals(homeTeam,awayTeam,"firstHalfTotalGoals",0.65,1.35,"1.0",date,league)
     checkAvgGoals(homeTeam,awayTeam,"secondHalfTotalGoals",0.8,2.2,"1.5",date,league) 
     teamPercentStats(homeTeam,awayTeam,"matchGoals",0.25,0.75,"2.5",date,league)
+    teamPercentStats(homeTeam,awayTeam,"matchGoals",0.1,0.89,"1.5",date,league)
     #teamPercentStats(homeTeam,awayTeam,"matchGoals",0.25,0.75,"3.5",date,league)
     teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals ",0.2,0.8,".99",date,league)
     teamPercentStats(homeTeam,awayTeam,"secondHalfTotalGoals ",0.2,0.8,"1.5",date,league)
@@ -138,7 +141,7 @@ if __name__ == '__main__':
         gameweek = split[2]
         date = split[3]
         league = split[4]
-        if(today.lower() in date.lower() and int(gameweek)>7) or (tomorrow.lower() in date.lower() and int(gameweek)>7):
-        #if(today.lower() in date.lower() and int(gameweek)>7):
+        #if(today.lower() in date.lower() and int(gameweek)>7) or (tomorrow.lower() in date.lower() and int(gameweek)>7):
+        if(today.lower() in date.lower() and int(gameweek)>7):
             predict(homeTeam,awayTeam,gameweek,date,league)
     input("Done")

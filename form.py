@@ -1,135 +1,131 @@
-import sqlite3
-import datetime
+import requests
+from bs4 import BeautifulSoup
+import time
+import numpy as np
+import uuid
+import time
+from multiprocessing import Pool
+import sys, os
+import urllib.request
+import requests
+from lxml.html import fromstring
+import random
+from itertools import cycle
+import winsound
 
-def checkAvgGoals(homeTeam,awayTeam,field,lower,upper,bet,date,league):
-    database = 'allStats.db'
-    conn = sqlite3.connect(database)
-    cursor = conn.cursor()
-    cursor.execute("SELECT AVG("+field+") FROM stats WHERE homeTeam = ?", (homeTeam,))
-    homeGoals=cursor.fetchall()[0][0]
-    cursor.execute("SELECT AVG("+field+") FROM stats WHERE awayTeam = ?", (homeTeam,))
-    homeTotalGoals = (homeGoals + cursor.fetchall()[0][0])/2
-    
-    cursor.execute("SELECT AVG("+field+") FROM stats WHERE awayTeam = ?", (awayTeam,))
-    awayGoals=cursor.fetchall()[0][0]
-    cursor.execute("SELECT AVG("+field+") FROM stats WHERE homeTeam = ?", (awayTeam,))
-    awayTotalGoals = (awayGoals + cursor.fetchall()[0][0])/2
-    field = field + " averages"
-    if(homeGoals <lower) and (awayGoals <lower) and (homeTotalGoals <lower) and (awayTotalGoals <lower):
-        bets.write(field + "," + homeTeam + "," + awayTeam + "," + "Under " +bet + "," + date + "," + league + "\n")
-        print("Under "+bet)
-    if(homeGoals >upper )and (awayGoals >upper) and (homeTotalGoals >upper) and (awayTotalGoals >upper):
-        bets.write(field + "," + homeTeam + "," + awayTeam + "," + "Over " +bet+ "," + date + "," + league +"\n")
-        print("Over "+bet)
-    
-def teamPercentStats(homeTeam,awayTeam,field,lower,upper,bet,date,league):
-    database = 'allStats.db'
-    conn = sqlite3.connect(database)
-    cursor = conn.cursor()
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ? AND "+field+" > "+bet , (homeTeam,))
-    teamHomeOver=cursor.fetchall()[0][0]
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ?" , (homeTeam,))
-    teamHomeCount=cursor.fetchall()[0][0]
-    homeTeamHomeOver = teamHomeOver/teamHomeCount
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ? AND "+field+" > "+bet , (homeTeam,))
-    teamAwayOver=cursor.fetchall()[0][0]
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ?" , (homeTeam,))
-    teamAwayCount=cursor.fetchall()[0][0]
-    homeTeamTotalOver = (teamHomeOver + teamAwayOver)/(teamHomeCount+teamAwayCount)
+def get_proxies():
+    url = 'https://free-proxy-list.net/'
+    response = requests.get(url)
+    parser = fromstring(response.text)
+    proxies = set()
+    for i in parser.xpath('//tbody/tr')[:100000]:
+        if i.xpath('.//td[7][contains(text(),"yes")]'):
+            proxy = ":".join([i.xpath('.//td[1]/text()')[0], i.xpath('.//td[2]/text()')[0]])
+            proxies.add(proxy)
+    return proxies
+proxies = get_proxies()
 
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ? AND "+field+" > "+bet , (awayTeam,))
-    teamAwayOver=cursor.fetchall()[0][0]
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ?" , (awayTeam,))
-    teamAwayCount=cursor.fetchall()[0][0]
-    awayTeamAwayOver = teamAwayOver/teamAwayCount
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ? AND "+field+" > "+bet , (awayTeam,))
-    teamHomeOver=cursor.fetchall()[0][0]
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ?" , (awayTeam,))
-    teamHomeCount=cursor.fetchall()[0][0]
-    awayTeamTotalOver = (teamHomeOver + teamAwayOver)/(teamHomeCount+teamAwayCount) 
-    field = field + " percent"
-    if(".99" in bet):
-        bet = "1"
-    if(homeTeamHomeOver <lower) and (awayTeamAwayOver <lower) and (homeTeamTotalOver <lower) and (awayTeamTotalOver <lower):
-        bets.write(field + "," + homeTeam + "," + awayTeam + ","  + "Under " +bet + "," + date +"," + league + "\n")
-        print("Under "+bet)
-    if(homeTeamHomeOver >upper )and (awayTeamAwayOver >upper) and (homeTeamTotalOver >upper) and (awayTeamTotalOver >upper):
-        bets.write(field + "," + homeTeam + "," + awayTeam + "," + "Over " +bet+ "," + date +"," + league + "\n")
-        print("Over "+bet)
+def parse(url):
+    try:
+        #print(url)
+        delays = [2,3,4,5,6,7]
+        delay = np.random.choice(delays)
+        time.sleep(delay)
+        user_agent_list = [
+            #Chrome
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+            'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36',
+            'Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36',
+            'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36',
+            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36',
+            'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+            'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+            'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+            #Firefox
+            'Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)',
+            'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko',
+            'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)',
+            'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+            'Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko',
+            'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+            'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)',
+            'Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko',
+            'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+            'Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko',
+            'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)',
+            'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)',
+            'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)'
+        ]
+        user_agent = random.choice(user_agent_list)
+        proxy = random.choice(list(proxies))
+        headers = {'User-Agent': user_agent}
+        r = requests.get(url, timeout = 40,headers=headers,proxies={"http": proxy})
+        if(r.status_code !=200):
+            print(r.status_code)
+        soup = BeautifulSoup(r.content, "html.parser")
+        isHome = True if len(soup.findAll('ul', attrs = {'id':'block_home_matches_30_subnav'})) > 0 else False
+        if(isHome == False):
+            teams = soup.findAll('h3', attrs = {'class' : 'thick'})
+            homeTeam = teams[0].text.strip()
+            awayTeam = teams[2].text.strip()
+            
+                        
 
-def BTTSStats(homeTeam,awayTeam,field,lower,upper,date,league):
-    database = 'allStats.db'
-    conn = sqlite3.connect(database)
-    cursor = conn.cursor()
-
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ? AND "+field+" = 'y'" , (homeTeam,))
-    homeBTTSHome = cursor.fetchall()[0][0]
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ?" , (homeTeam,))
-    homeBTTSHomeCount = cursor.fetchall()[0][0]
-    homeBTTSHomePercent = homeBTTSHome/homeBTTSHomeCount
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ? AND "+field+" = 'y'" , (homeTeam,))
-    homeBTTSAway = cursor.fetchall()[0][0]
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ?" , (homeTeam,))
-    homeBTTSAwayCount = cursor.fetchall()[0][0]
-    homeBTTSTotal = (homeBTTSHome + homeBTTSAway)/(homeBTTSHomeCount+homeBTTSAwayCount)
-
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ? AND "+field+" = 'y'" , (awayTeam,))
-    awayBTTSAway = cursor.fetchall()[0][0]
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ?" , (awayTeam,))
-    awayBTTSAwayCount = cursor.fetchall()[0][0]
-    awayBTTSAwayPercent = awayBTTSAway/awayBTTSAwayCount
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ? AND "+field+" = 'y'" , (awayTeam,))
-    awayBTTSHome = cursor.fetchall()[0][0]
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ?" , (awayTeam,))
-    awayBTTSHomeCount = cursor.fetchall()[0][0]
-    awayBTTSTotal = (awayBTTSAway + awayBTTSHome)/(awayBTTSAwayCount+awayBTTSHomeCount)
-
-    if(homeBTTSHomePercent < lower) and (homeBTTSTotal < lower) and (awayBTTSAwayPercent < lower) and (awayBTTSTotal < lower):
-        print("BTTS No")
-        bets.write(field + "," + homeTeam + "," + awayTeam + ","+"no"+ "," + date + "," + league +"\n")
-    if(homeBTTSHomePercent >upper) and (homeBTTSTotal >upper) and (awayBTTSAwayPercent >upper) and (awayBTTSTotal >upper):
-        print("BTTS Yes")
-        bets.write(field + "," + homeTeam + "," + awayTeam + ","+ "yes"+","+ date + "," + league +"\n")
+                    print("Got Score. " + homeTeam + " vs " + awayTeam+" . " + gameWeek + " NO FRAME")
+                    return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip()+ "," + gameID)
+            else:
+                print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
+                return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + dds[0].text.strip() + "," + gameID +  "£" + url)
+        
+    except Exception as e:
+        exc_type, exc_obj, exc_tb = sys.exc_info()
+        fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
+        #print(exc_type, fname, exc_tb.tb_lineno)
+        #print(teams)
+        #print(url)
+        print(e)
+        return("L$" + url + "\n")
 
 
-def formCheck(team,playing,field,gameweek,bet):
-    database = 'allStats.db'
-    conn = sqlite3.connect(database)
-    cursor = conn.cursor()
-    last5Total = []
-    
-    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ? AND "+field+" = 'y'" , (homeTeam,))
-    homeBTTSHome = cursor.fetchall()[0][0]
-
-def predict(homeTeam,awayTeam,gameweek,date,league):
-    checkAvgGoals(homeTeam,awayTeam,"matchGoals",1.8,3.2,"2.5",date,league)
-    checkAvgGoals(homeTeam,awayTeam,"firstHalfTotalGoals",0.65,1.35,"1.0",date,league)
-    checkAvgGoals(homeTeam,awayTeam,"secondHalfTotalGoals",0.8,2.2,"1.5",date,league) 
-    teamPercentStats(homeTeam,awayTeam,"matchGoals",0.25,0.75,"2.5",date,league)
-    #teamPercentStats(homeTeam,awayTeam,"matchGoals",0.25,0.75,"3.5",date,league)
-    teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals ",0.2,0.8,".99",date,league)
-    teamPercentStats(homeTeam,awayTeam,"secondHalfTotalGoals ",0.2,0.8,"1.5",date,league)
-    BTTSStats(homeTeam,awayTeam,"btts",0.2,0.8,date,league)
+with open('premlinks.txt') as f:
+    content = f.readlines()
+content = [x.strip() for x in content]
 
 if __name__ == '__main__':
-    insertIntoDatabase()
-    with open('fixturesv2.csv',encoding="utf8") as f:
-        content = f.readlines()
-    content = [x.strip() for x in content]
-    bets = open("bets.csv","w",encoding="utf8")
-    today = datetime.date.today()
-    tomorrow = datetime.date.today() + datetime.timedelta(days=1)
-    tomorrow = tomorrow.strftime("%d %B %Y")
-    today = today.strftime("%B")
-    for c in content:
-        split = c.split(",")
-        homeTeam = split[0]
-        awayTeam = split[1]
-        gameweek = split[2]
-        date = split[3]
-        league = split[4]
-        #if(date == today and int(gameweek)>7) or (date == tomorrow and int(gameweek)>7):
-        if(today.lower() in date.lower() and int(gameweek)>7):
-            predict(homeTeam,awayTeam,gameweek,date,league)
-    input("Done")
-    input("Done")
+    start_time = time.time()
+    proxies = get_proxies()
+    if(len(proxies)>0):
+        p = Pool(40)  # Pool tells how many at a time
+        records = p.map(parse, content)
+        p.terminate()
+        p.join()
+        for r in records:
+            if r is not None:
+                if r[0] == "S":
+                    splitted = r.split("$")
+                    stats.write(splitted[1] + "\n")
+                    gameIDW = splitted[1].split(",")[-1]
+                    done.write(gameIDW + "\n")
+                    statsNum = statsNum+1
+                if r[0] == "F":
+                    splitted = r.split("$")
+                    splitted2 = splitted[1].split("£")
+                    fixtures.write(splitted2[0] + "\n")
+                    #links.write(splitted2[1] + "\n")
+                    fixturesNum = fixturesNum+1
+                if r[0] == "L":
+                    splitted = r.split("$")
+                    #links.write(splitted[1])
+                    errors.write(splitted[1])
+                    errorNum = errorNum+1
+        print("Length of Records:" + str(len(content)))
+        print("Stats: " + str(statsNum))
+        print("Fixtures: " + str(fixturesNum))
+        print("Errors:" + str(errorNum))
+    
+    duration = 1000  # milliseconds
+    freq = 440  # Hz
+    winsound.Beep(freq, duration)    
+    print("--- %s minutes ---" % ((time.time() - start_time)/60))

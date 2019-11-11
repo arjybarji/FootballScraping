@@ -121,10 +121,10 @@ def parse(url):
                         secondHalfTotalGoals = matchGoals - firstHalfTotalGoals
                         
 
-                        print("Got Score. " + homeTeam + " vs " + awayTeam+" . " + gameWeek + " NO FRAME")
+                        print("Got Score. " + homeTeam + " vs " + awayTeam+" . " + gameWeek)
                         return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip()+ "," + gameID)
                 else:
-                    print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
+                    #print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + dds[0].text.strip() + "," + gameID +  "£" + url)
         
         except Exception as e:
@@ -194,4 +194,4 @@ if __name__ == '__main__':
     duration = 1000  # milliseconds
     freq = 440  # Hz
     winsound.Beep(freq, duration)    
-    print("--- %s seconds ---" % (time.time() - start_time))
+    print("--- %s minutes ---" % ((time.time() - start_time)/60))
