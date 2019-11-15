@@ -49,7 +49,7 @@ getLinks(3031016,3031395)
 getLinks(3073147,3073452)
 #Portugal League
 getLinks(3064644,3064949)
-# Segunda Liga
+#Segunda Liga
 getLinks(3065081,3065386)
 #Eredivisie
 getLinks(3032053,3032358)
@@ -76,7 +76,9 @@ getLinks(3029812,3029991)
 #Poland
 getLinks(3025700,3025939)
 #Russia
-getLinks(3027073,3027312)        
+getLinks(3027073,3027312)
+#Russia2
+getLinks(3028137,3028516)         
 #Switzerland
 getLinks(3037815,3037994)
 #Turkey

@@ -121,10 +121,45 @@ def parse(url):
                         secondHalfTotalGoals = matchGoals - firstHalfTotalGoals
                         
 
-                        print("Got Score. " + homeTeam + " vs " + awayTeam+" . " + gameWeek)
-                        return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip()+ "," + gameID)
+                        homeTeamContainers = soup.findAll('div', attrs = {'class' : 'container left'})
+                        homeTeamStarting = homeTeamContainers[2]
+                        homeTeamBench = homeTeamContainers[3]
+                        homeTeamYellows = len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/YC.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/YC.png' }))
+                        homeTeamReds = len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/RC.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/RC.png' })) + len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/Y2C.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/Y2C.png' }))
+                        homeTeamCards = homeTeamYellows + homeTeamReds
+
+                        awayTeamContainers = soup.findAll('div', attrs = {'class' : 'container right'})
+                        awayTeamStarting = awayTeamContainers[2]
+                        awayTeamBench = awayTeamContainers[3]
+                        awayTeamYellows = len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/YC.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/YC.png' }))
+                        awayTeamReds = len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/RC.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/RC.png' })) + len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/Y2C.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/709/img/events/Y2C.png' }))
+                        awayTeamCards = awayTeamYellows + awayTeamReds
+
+                        matchCards = homeTeamCards + awayTeamCards
+                        try:
+                            iframe = soup.findAll('iframe')
+                            iframeSrc = iframe[1]['src']
+                            url = 'https://us.soccerway.com/' + iframeSrc
+                            c = requests.get(url,timeout = 40,headers=headers)
+                            soupC = BeautifulSoup(c.content, "html.parser")
+
+                            cornerContainer = soupC.findAll('td', attrs = {'class' : 'legend left value'})
+                            homeCorners = cornerContainer[0].text.strip()
+                            awayCornersConc = homeCorners
+                            cornerContainer = soupC.findAll('td', attrs = {'class' : 'legend right value'})
+                            awayCorners = cornerContainer[0].text.strip()
+                            homeCornersConc = awayCorners
+                            matchCorners = int(homeCorners) + int(awayCorners)
+
+                            print("Got Score . " + homeTeam + " vs " + awayTeam+" . " + gameWeek )
+                            if("3029148" in gameID):
+                                print("3029148 Score")
+                            return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + homeCorners + "," + awayCorners + "," + homeCornersConc + "," + awayCornersConc + "," + str(matchCorners)+","+dds[0].text.strip() + "," + gameID)
+                        except Exception as e:
+                            print("Got Score no corners. " + homeTeam + " vs " + awayTeam+" . " + gameWeek + " NO FRAME")
+                            return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "" + "," + "" + "," + "" + "," + "" + "," + ""+","+dds[0].text.strip()+ "," + gameID)
                 else:
-                    print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
+                    #print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + dds[0].text.strip() + "," + gameID +  "£" + url)
         
         except Exception as e:
@@ -158,8 +193,7 @@ if __name__ == '__main__':
             todo.append(c)
     print(len(proxies))
     if(len(proxies)>0):
-        #p = Pool(40)  # Pool tells how many at a time
-        p = Pool(20)  # Pool tells how many at a time
+        p = Pool(40)  # Pool tells how many at a time
         records = p.map(parse, todo)
         p.terminate()
         p.join()
@@ -195,4 +229,4 @@ if __name__ == '__main__':
     duration = 1000  # milliseconds
     freq = 440  # Hz
     winsound.Beep(freq, duration)    
-    print("--- %s minutes ---" % ((time.time() - start_time)/60))
+    print("--- %s seconds ---" % (time.time() - start_time))

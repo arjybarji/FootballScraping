@@ -699,7 +699,7 @@ West Bromwich Albion,Leeds United,26,1 January 2020,Championship,3036183
 Barnsley,Huddersfield Town,27,11 January 2020,Championship,3036185
 Blackburn Rovers,Preston North End,27,11 January 2020,Championship,3036187
 Brentford,Queens Park Rangers,27,11 January 2020,Championship,3036189
-Cardiff City,Swansea City,27,11 January 2020,Championship,3036191
+Cardiff City,Swansea City,27,12 January 2020,Championship,3036191
 Charlton Athletic,West Bromwich Albion,27,11 January 2020,Championship,3036193
 Hull City,Fulham,27,11 January 2020,Championship,3036195
 Leeds United,Sheffield Wednesday,27,11 January 2020,Championship,3036197
@@ -726,7 +726,6 @@ Port Vale,Carlisle United,18,16 November 2019,League Two,3036225
 Queens Park Rangers,Leeds United,28,18 January 2020,Championship,3036226
 Salford City,Swindon Town,18,16 November 2019,League Two,3036227
 Sheffield Wednesday,Blackburn Rovers,28,18 January 2020,Championship,3036228
-Stevenage,Oldham Athletic,18,16 November 2019,League Two,3036229
 Swansea City,Wigan Athletic,28,18 January 2020,Championship,3036230
 Walsall,Cambridge United,18,16 November 2019,League Two,3036231
 West Bromwich Albion,Stoke City,28,18 January 2020,Championship,3036232
@@ -1317,16 +1316,13 @@ Stockport County,Solihull Moors,23,26 November 2019,National League,3054151
 Woking,Bromley,23,26 November 2019,National League,3054152
 Wrexham,Fylde,23,26 November 2019,National League,3054153
 Yeovil Town,Aldershot Town,23,26 November 2019,National League,3054154
-Fylde,Notts County,24,30 November 2019,National League,3054155
 Aldershot Town,Chesterfield,24,30 November 2019,National League,3054156
 Boreham Wood,Woking,24,30 November 2019,National League,3054157
 Bromley,Yeovil Town,24,30 November 2019,National League,3054158
 Chorley,Dagenham & Redbridge,24,30 November 2019,National League,3054159
 Ebbsfleet United,Wrexham,24,30 November 2019,National League,3054160
-Halifax Town,Dover Athletic,24,30 November 2019,National League,3054161
 Hartlepool United,Eastleigh,24,30 November 2019,National League,3054162
 Maidenhead United,Barrow,24,30 November 2019,National League,3054163
-Solihull Moors,Barnet,24,30 November 2019,National League,3054164
 Sutton United,Harrogate Town,24,30 November 2019,National League,3054165
 Torquay United,Stockport County,24,30 November 2019,National League,3054166
 Barnet,Fylde,25,7 December 2019,National League,3054167
@@ -1535,7 +1531,6 @@ Woking,Chesterfield,41,28 March 2020,National League,3054369
 Yeovil Town,Ebbsfleet United,41,28 March 2020,National League,3054370
 Aldershot Town,Solihull Moors,42,4 April 2020,National League,3054371
 Barnet,Notts County,42,4 April 2020,National League,3054372
-Chesterfield,Boreham Wood,42,4 April 2020,National League,3054373
 Chorley,Sutton United,42,4 April 2020,National League,3054374
 Dagenham & Redbridge,Halifax Town,42,4 April 2020,National League,3054375
 Eastleigh,Barrow,42,4 April 2020,National League,3054376
@@ -1593,15 +1588,12 @@ Maidenhead United,Sutton United,46,25 April 2020,National League,3054427
 Notts County,Yeovil Town,46,25 April 2020,National League,3054428
 Solihull Moors,Halifax Town,46,25 April 2020,National League,3054429
 Stockport County,Wrexham,46,25 April 2020,National League,3054430
-Spennymoor Town,Boston United,3,12 November 2019,National League N / S,3054518
 Altrincham,Gateshead,12,19 November 2019,National League N / S,3054609
 Kettering Town,Altrincham,14,26 November 2019,National League N / S,3054637
-King's Lynn Town,Leamington,14,12 November 2019,National League N / S,3054638
 Altrincham,AFC Telford United,15,17 December 2019,National League N / S,3054641
 Boston United,Blyth Spartans,15,19 November 2019,National League N / S,3054642
 Curzon Ashton,Kettering Town,15,2 December 2019,National League N / S,3054645
 Farsley Celtic,Brackley Town,15,3 December 2019,National League N / S,3054646
-Hereford,Alfreton Town,15,12 November 2019,National League N / S,3054648
 Altrincham,Blyth Spartans,17,10 December 2019,National League N / S,3054663
 Boston United,Brackley Town,17,10 December 2019,National League N / S,3054664
 AFC Telford United,Spennymoor Town,18,16 November 2019,National League N / S,3054674
@@ -1612,11 +1604,9 @@ Bradford (Park Avenue),Leamington,18,16 November 2019,National League N / S,3054
 Curzon Ashton,York City,18,16 November 2019,National League N / S,3054679
 Farsley Celtic,Boston United,18,16 November 2019,National League N / S,3054680
 Gateshead,Chester,18,16 November 2019,National League N / S,3054681
-Guiseley,Kidderminster Harriers,18,16 November 2019,National League N / S,3054682
 Kettering Town,Blyth Spartans,18,16 November 2019,National League N / S,3054683
 Southport,King's Lynn Town,18,16 November 2019,National League N / S,3054684
 Blyth Spartans,Brackley Town,19,30 November 2019,National League N / S,3054685
-Boston United,Curzon Ashton,19,30 November 2019,National League N / S,3054686
 Chester,Bradford (Park Avenue),19,30 November 2019,National League N / S,3054687
 Darlington,AFC Telford United,19,30 November 2019,National League N / S,3054688
 Gloucester City,Kettering Town,19,30 November 2019,National League N / S,3054689
@@ -1624,7 +1614,6 @@ Hereford,Farsley Celtic,19,30 November 2019,National League N / S,3054690
 Kidderminster Harriers,Southport,19,30 November 2019,National League N / S,3054691
 King's Lynn Town,Gateshead,19,30 November 2019,National League N / S,3054692
 Leamington,Guiseley,19,30 November 2019,National League N / S,3054693
-Spennymoor Town,Altrincham,19,30 November 2019,National League N / S,3054694
 York City,Alfreton Town,19,30 November 2019,National League N / S,3054695
 AFC Telford United,Farsley Celtic,20,7 December 2019,National League N / S,3054696
 Bradford (Park Avenue),Altrincham,20,7 December 2019,National League N / S,3054697
@@ -1849,7 +1838,6 @@ Alfreton Town,Guiseley,40,13 April 2020,National League N / S,3054917
 Blyth Spartans,Bradford (Park Avenue),40,13 April 2020,National League N / S,3054918
 Boston United,Gloucester City,40,13 April 2020,National League N / S,3054919
 Brackley Town,Hereford,40,13 April 2020,National League N / S,3054920
-Chester,Kidderminster Harriers,40,13 April 2020,National League N / S,3054921
 Curzon Ashton,King's Lynn Town,40,13 April 2020,National League N / S,3054922
 Darlington,Altrincham,40,13 April 2020,National League N / S,3054923
 Farsley Celtic,Gateshead,40,13 April 2020,National League N / S,3054924
@@ -1877,12 +1865,9 @@ Darlington,King's Lynn Town,42,25 April 2020,National League N / S,3054945
 Farsley Celtic,Altrincham,42,25 April 2020,National League N / S,3054946
 Kettering Town,Southport,42,25 April 2020,National League N / S,3054947
 York City,Gloucester City,42,25 April 2020,National League N / S,3054948
-Billericay Town,Wealdstone,14,12 November 2019,National League N / S,3055092
-Chippenham Town,Hemel Hempstead Town,14,19 November 2019,National League N / S,3055094
 Dulwich Hamlet,Havant & Waterlooville,14,26 November 2019,National League N / S,3055097
 Maidstone United,Chippenham Town,17,10 December 2019,National League N / S,3055131
 Oxford City,St Albans City,17,26 November 2019,National League N / S,3055132
-Welling United,Dulwich Hamlet,17,12 November 2019,National League N / S,3055134
 Chelmsford City,Oxford City,18,16 November 2019,National League N / S,3055136
 Chippenham Town,Slough Town,18,16 November 2019,National League N / S,3055137
 Concord Rangers,Dorking Wanderers,18,16 November 2019,National League N / S,3055138
@@ -1890,7 +1875,6 @@ Dartford,Maidstone United,18,16 November 2019,National League N / S,3055139
 Dulwich Hamlet,Billericay Town,18,16 November 2019,National League N / S,3055140
 Hampton & Richmond,Wealdstone,18,16 November 2019,National League N / S,3055141
 Havant & Waterlooville,Bath City,18,16 November 2019,National League N / S,3055142
-Hemel Hempstead Town,Weymouth,18,16 November 2019,National League N / S,3055143
 Hungerford Town,Eastbourne Borough,18,16 November 2019,National League N / S,3055144
 Tonbridge Angels,St Albans City,18,16 November 2019,National League N / S,3055145
 Welling United,Braintree Town,18,16 November 2019,National League N / S,3055146
@@ -1899,7 +1883,6 @@ Billericay Town,Havant & Waterlooville,19,30 November 2019,National League N / S
 Braintree Town,Hampton & Richmond,19,30 November 2019,National League N / S,3055149
 Dorking Wanderers,Welling United,19,30 November 2019,National League N / S,3055150
 Eastbourne Borough,Chippenham Town,19,30 November 2019,National League N / S,3055151
-Maidstone United,Hemel Hempstead Town,19,30 November 2019,National League N / S,3055152
 Oxford City,Dulwich Hamlet,19,30 November 2019,National League N / S,3055153
 Slough Town,Tonbridge Angels,19,30 November 2019,National League N / S,3055154
 St Albans City,Chelmsford City,19,30 November 2019,National League N / S,3055155
@@ -1914,7 +1897,6 @@ Havant & Waterlooville,Chippenham Town,20,7 December 2019,National League N / S,
 Oxford City,Maidstone United,20,7 December 2019,National League N / S,3055164
 Slough Town,Braintree Town,20,7 December 2019,National League N / S,3055165
 St Albans City,Hampton & Richmond,20,7 December 2019,National League N / S,3055166
-Tonbridge Angels,Billericay Town,20,7 December 2019,National League N / S,3055167
 Welling United,Hemel Hempstead Town,20,7 December 2019,National League N / S,3055168
 Billericay Town,Oxford City,21,21 December 2019,National League N / S,3055169
 Braintree Town,Havant & Waterlooville,21,21 December 2019,National League N / S,3055170
@@ -2110,7 +2092,6 @@ Dorking Wanderers,Concord Rangers,38,4 April 2020,National League N / S,3055359
 Eastbourne Borough,Hungerford Town,38,4 April 2020,National League N / S,3055360
 Maidstone United,Dartford,38,4 April 2020,National League N / S,3055361
 Oxford City,Chelmsford City,38,4 April 2020,National League N / S,3055362
-Slough Town,Chippenham Town,38,4 April 2020,National League N / S,3055363
 St Albans City,Tonbridge Angels,38,4 April 2020,National League N / S,3055364
 Wealdstone,Hampton & Richmond,38,4 April 2020,National League N / S,3055365
 Weymouth,Hemel Hempstead Town,38,4 April 2020,National League N / S,3055366
@@ -2140,7 +2121,6 @@ Bath City,Chelmsford City,41,18 April 2020,National League N / S,3055389
 Braintree Town,Chippenham Town,41,18 April 2020,National League N / S,3055390
 Dulwich Hamlet,Dorking Wanderers,41,18 April 2020,National League N / S,3055391
 Hampton & Richmond,Eastbourne Borough,41,18 April 2020,National League N / S,3055392
-Havant & Waterlooville,Oxford City,41,18 April 2020,National League N / S,3055393
 Hemel Hempstead Town,Dartford,41,18 April 2020,National League N / S,3055394
 Hungerford Town,Billericay Town,41,18 April 2020,National League N / S,3055395
 Maidstone United,Wealdstone,41,18 April 2020,National League N / S,3055396
@@ -2197,7 +2177,6 @@ Kilmarnock,Motherwell,19,21 December 2019,Premiership,3038472
 Livingston,Ross County,19,21 December 2019,Premiership,3038473
 St. Johnstone,St. Mirren,19,21 December 2019,Premiership,3038474
 Aberdeen,Livingston,20,26 December 2019,Premiership,3038475
-Hamilton Academical,St. Johnstone,20,26 December 2019,Premiership,3038476
 Hearts,Hibernian,20,26 December 2019,Premiership,3038477
 Rangers,Kilmarnock,20,26 December 2019,Premiership,3038478
 Ross County,Motherwell,20,26 December 2019,Premiership,3038479
@@ -2216,10 +2195,8 @@ Rangers,St. Mirren,22,22 January 2020,Premiership,3038491
 Ross County,Hearts,22,22 January 2020,Premiership,3038492
 Celtic,Ross County,23,25 January 2020,Premiership,3038493
 Hamilton Academical,Livingston,23,25 January 2020,Premiership,3038494
-Hearts,Rangers,23,25 January 2020,Premiership,3038495
 Motherwell,Hibernian,23,25 January 2020,Premiership,3038496
 St. Johnstone,Kilmarnock,23,25 January 2020,Premiership,3038497
-St. Mirren,Aberdeen,23,25 January 2020,Premiership,3038498
 Hamilton Academical,Celtic,24,1 February 2020,Premiership,3038499
 Hibernian,St. Mirren,24,1 February 2020,Premiership,3038500
 Kilmarnock,Ross County,24,1 February 2020,Premiership,3038501
@@ -2298,7 +2275,6 @@ Queen of the South,Partick Thistle,16,7 December 2019,Championship,3038638
 Arbroath,Dundee United,17,14 December 2019,Championship,3038639
 Ayr United,Alloa Athletic,17,14 December 2019,Championship,3038640
 Dundee,Dunfermline Athletic,17,14 December 2019,Championship,3038641
-Greenock Morton,Queen of the South,17,14 December 2019,Championship,3038642
 Partick Thistle,Inverness CT,17,14 December 2019,Championship,3038643
 Alloa Athletic,Greenock Morton,18,21 December 2019,Championship,3038644
 Dundee United,Ayr United,18,21 December 2019,Championship,3038645
@@ -2343,7 +2319,6 @@ Queen of the South,Dundee,25,22 February 2020,Championship,3038683
 Alloa Athletic,Ayr United,26,29 February 2020,Championship,3038684
 Dundee,Arbroath,26,29 February 2020,Championship,3038685
 Dunfermline Athletic,Dundee United,26,29 February 2020,Championship,3038686
-Inverness CT,Partick Thistle,26,29 February 2020,Championship,3038687
 Queen of the South,Greenock Morton,26,29 February 2020,Championship,3038688
 Ayr United,Dundee United,27,3 March 2020,Championship,3038689
 Dundee,Alloa Athletic,27,3 March 2020,Championship,3038690
@@ -2399,7 +2374,6 @@ Dumbarton,Falkirk,14,16 November 2019,League One,3038246
 Peterhead,Montrose,14,16 November 2019,League One,3038248
 Raith Rovers,Forfar Athletic,14,26 November 2019,League One,3038249
 Stranraer,Airdrieonians,14,16 November 2019,League One,3038250
-Airdrieonians,East Fife,15,30 November 2019,League One,3038251
 Clyde,Dumbarton,15,30 November 2019,League One,3038252
 Falkirk,Stranraer,15,30 November 2019,League One,3038253
 Forfar Athletic,Peterhead,15,30 November 2019,League One,3038254
@@ -2413,9 +2387,7 @@ Airdrieonians,Peterhead,17,14 December 2019,League One,3038261
 Falkirk,Raith Rovers,17,14 December 2019,League One,3038262
 Forfar Athletic,Dumbarton,17,14 December 2019,League One,3038263
 Montrose,Clyde,17,14 December 2019,League One,3038264
-Stranraer,East Fife,17,14 December 2019,League One,3038265
 Clyde,Airdrieonians,18,21 December 2019,League One,3038266
-Montrose,Falkirk,18,21 December 2019,League One,3038267
 Peterhead,East Fife,18,21 December 2019,League One,3038268
 Raith Rovers,Dumbarton,18,21 December 2019,League One,3038269
 Stranraer,Forfar Athletic,18,21 December 2019,League One,3038270
@@ -2502,14 +2474,12 @@ Stranraer,Airdrieonians,34,18 April 2020,League One,3038350
 Airdrieonians,Peterhead,35,25 April 2020,League One,3038351
 East Fife,Falkirk,35,25 April 2020,League One,3038352
 Forfar Athletic,Dumbarton,35,25 April 2020,League One,3038353
-Montrose,Clyde,35,25 April 2020,League One,3038354
 Raith Rovers,Stranraer,35,25 April 2020,League One,3038355
 Clyde,Airdrieonians,36,2 May 2020,League One,3038356
 Dumbarton,Montrose,36,2 May 2020,League One,3038357
 Falkirk,Raith Rovers,36,2 May 2020,League One,3038358
 Peterhead,East Fife,36,2 May 2020,League One,3038359
 Stranraer,Forfar Athletic,36,2 May 2020,League One,3038360
-Annan Athletic,Brechin City,10,12 November 2019,League Two,3038784
 Cove Rangers,Brechin City,13,16 November 2019,League Two,3038799
 Cowdenbeath,Queen's Park,13,16 November 2019,League Two,3038800
 Edinburgh City,Albion Rovers,13,16 November 2019,League Two,3038801
@@ -2532,7 +2502,6 @@ Elgin City,Albion Rovers,16,14 December 2019,League Two,3038817
 Queen's Park,Stirling Albion,16,14 December 2019,League Two,3038818
 Albion Rovers,Annan Athletic,17,21 December 2019,League Two,3038819
 Cowdenbeath,Stenhousemuir,17,21 December 2019,League Two,3038820
-Elgin City,Brechin City,17,21 December 2019,League Two,3038821
 Queen's Park,Cove Rangers,17,21 December 2019,League Two,3038822
 Stirling Albion,Edinburgh City,17,21 December 2019,League Two,3038823
 Annan Athletic,Queen's Park,18,28 December 2019,League Two,3038824
@@ -2564,7 +2533,6 @@ Albion Rovers,Cove Rangers,23,1 February 2020,League Two,3038849
 Annan Athletic,Stenhousemuir,23,1 February 2020,League Two,3038850
 Brechin City,Elgin City,23,1 February 2020,League Two,3038851
 Edinburgh City,Stirling Albion,23,1 February 2020,League Two,3038852
-Queen's Park,Cowdenbeath,23,1 February 2020,League Two,3038853
 Albion Rovers,Brechin City,24,8 February 2020,League Two,3038854
 Edinburgh City,Annan Athletic,24,8 February 2020,League Two,3038855
 Elgin City,Cove Rangers,24,8 February 2020,League Two,3038856
@@ -2630,8 +2598,55 @@ Annan Athletic,Queen's Park,36,2 May 2020,League Two,3038915
 Brechin City,Edinburgh City,36,2 May 2020,League Two,3038916
 Cove Rangers,Stirling Albion,36,2 May 2020,League Two,3038917
 Cowdenbeath,Elgin City,36,2 May 2020,League Two,3038918
+Cardiff MU,Cefn Druids,8,23 November 2019,Premier League,3042843
+Barry Town United,Penybont,10,22 November 2019,Premier League,3042855
+The New Saints,Carmarthen Town,14,3 December 2019,Premier League,3042880
+Bala Town,Airbus UK,15,15 November 2019,Premier League,3042882
+Cardiff MU,Carmarthen Town,15,16 November 2019,Premier League,3042883
+Cefn Druids,Barry Town United,15,16 November 2019,Premier League,3042884
+Penybont,Caernarfon Town,15,4 January 2020,Premier League,3042885
+Connah's Quay,Newtown,15,15 November 2019,Premier League,3042886
+The New Saints,Aberystwyth Town,15,15 November 2019,Premier League,3042887
+Aberystwyth Town,Cefn Druids,16,29 November 2019,Premier League,3042888
+Airbus UK,The New Saints,16,30 November 2019,Premier League,3042889
+Barry Town United,Newtown,16,30 November 2019,Premier League,3042890
+Caernarfon Town,Cardiff MU,16,29 November 2019,Premier League,3042891
+Carmarthen Town,Bala Town,16,30 November 2019,Premier League,3042892
+Penybont,Connah's Quay,16,30 November 2019,Premier League,3042893
+Caernarfon Town,Airbus UK,17,13 December 2019,Premier League,3042894
+Cefn Druids,Connah's Quay,17,13 December 2019,Premier League,3042895
+Bala Town,Penybont,17,14 December 2019,Premier League,3042896
+Cardiff MU,Aberystwyth Town,17,14 December 2019,Premier League,3042898
+Newtown,Carmarthen Town,17,14 December 2019,Premier League,3042899
+Aberystwyth Town,Barry Town United,18,20 December 2019,Premier League,3042900
+Connah's Quay,Bala Town,18,20 December 2019,Premier League,3042901
+Airbus UK,Cefn Druids,18,21 December 2019,Premier League,3042902
+Carmarthen Town,Caernarfon Town,18,21 December 2019,Premier League,3042903
+The New Saints,Cardiff MU,18,20 December 2019,Premier League,3042905
+Barry Town United,Cardiff MU,19,26 December 2019,Premier League,3042906
+Caernarfon Town,Bala Town,19,26 December 2019,Premier League,3042907
+Carmarthen Town,Penybont,19,26 December 2019,Premier League,3042908
+Cefn Druids,The New Saints,19,26 December 2019,Premier League,3042909
+Connah's Quay,Airbus UK,19,26 December 2019,Premier League,3042910
+Newtown,Aberystwyth Town,19,26 December 2019,Premier League,3042911
+Bala Town,Caernarfon Town,20,30 December 2019,Premier League,3042912
+The New Saints,Cefn Druids,20,30 December 2019,Premier League,3042914
+Aberystwyth Town,Newtown,20,30 December 2019,Premier League,3042915
+Airbus UK,Connah's Quay,20,30 December 2019,Premier League,3042916
+Penybont,Carmarthen Town,20,1 January 2020,Premier League,3042917
+Caernarfon Town,Aberystwyth Town,21,10 January 2020,Premier League,3042918
+Carmarthen Town,Airbus UK,21,11 January 2020,Premier League,3042919
+Cefn Druids,Penybont,21,11 January 2020,Premier League,3042920
+Connah's Quay,Barry Town United,21,11 January 2020,Premier League,3042921
+Newtown,The New Saints,21,11 January 2020,Premier League,3042922
+Cardiff MU,Bala Town,21,12 January 2020,Premier League,3042923
+Aberystwyth Town,Penybont,22,17 January 2020,Premier League,3042924
+Bala Town,Cefn Druids,22,17 January 2020,Premier League,3042925
+Barry Town United,Carmarthen Town,22,17 January 2020,Premier League,3042926
+Cardiff MU,Caernarfon Town,22,17 January 2020,Premier League,3042927
+Newtown,Airbus UK,22,17 January 2020,Premier League,3042928
+The New Saints,Connah's Quay,22,17 January 2020,Premier League,3042929
 Brescia,Sassuolo,7,18 December 2019,Serie A,3111762
-Juventus,Milan,12,10 November 2019,Serie A,3111813
 Atalanta,Juventus,13,23 November 2019,Serie A,3111820
 Bologna,Parma,13,24 November 2019,Serie A,3111821
 Hellas Verona,Fiorentina,13,24 November 2019,Serie A,3111822
@@ -2892,7 +2907,6 @@ Juventus,Roma,38,24 May 2020,Serie A,3112076
 Brescia,Sampdoria,38,24 May 2020,Serie A,3112077
 Bologna,Torino,38,24 May 2020,Serie A,3112078
 Sassuolo,Udinese,38,24 May 2020,Serie A,3112079
-Frosinone,Chievo,12,10 November 2019,Serie B,3122656
 Ascoli,Cosenza,13,24 November 2019,Serie B,3122663
 Benevento,Crotone,13,23 November 2019,Serie B,3122664
 Chievo,Virtus Entella,13,25 November 2019,Serie B,3122665
@@ -2939,12 +2953,11 @@ Crotone,Livorno,17,21 December 2019,Serie B,3122705
 Empoli,Salernitana,17,21 December 2019,Serie B,3122706
 Juve Stabia,Venezia,17,21 December 2019,Serie B,3122707
 Perugia,Virtus Entella,17,21 December 2019,Serie B,3122708
-Pescara,Trapani,17,21 December 2019,Serie B,3122709
-Pisa,Cosenza,17,21 December 2019,Serie B,3122710
-Pordenone,Ascoli,17,21 December 2019,Serie B,3122711
-Spezia,Cremonese,17,21 December 2019,Serie B,3122712
+Pescara,Trapani,17,22 December 2019,Serie B,3122709
+Pisa,Cosenza,17,22 December 2019,Serie B,3122710
+Pordenone,Ascoli,17,22 December 2019,Serie B,3122711
+Spezia,Cremonese,17,20 December 2019,Serie B,3122712
 Ascoli,Pisa,18,26 December 2019,Serie B,3122713
-Chievo,Benevento,18,26 December 2019,Serie B,3122714
 Cosenza,Empoli,18,26 December 2019,Serie B,3122715
 Cremonese,Juve Stabia,18,26 December 2019,Serie B,3122716
 Frosinone,Crotone,18,26 December 2019,Serie B,3122717
@@ -2974,7 +2987,6 @@ Pescara,Salernitana,20,18 January 2020,Serie B,3122740
 Cremonese,Venezia,20,18 January 2020,Serie B,3122741
 Livorno,Virtus Entella,20,18 January 2020,Serie B,3122742
 Cittadella,Benevento,21,25 January 2020,Serie B,3122743
-Empoli,Chievo,21,25 January 2020,Serie B,3122744
 Salernitana,Cosenza,21,25 January 2020,Serie B,3122745
 Virtus Entella,Cremonese,21,25 January 2020,Serie B,3122746
 Ascoli,Frosinone,21,25 January 2020,Serie B,3122747
@@ -3013,14 +3025,12 @@ Benevento,Pordenone,24,15 February 2020,Serie B,3122779
 Chievo,Salernitana,24,15 February 2020,Serie B,3122780
 Cremonese,Trapani,24,15 February 2020,Serie B,3122781
 Venezia,Virtus Entella,24,15 February 2020,Serie B,3122782
-Virtus Entella,Benevento,25,22 February 2020,Serie B,3122783
 Pordenone,Chievo,25,22 February 2020,Serie B,3122784
 Ascoli,Cremonese,25,22 February 2020,Serie B,3122785
 Perugia,Empoli,25,22 February 2020,Serie B,3122786
 Cosenza,Frosinone,25,22 February 2020,Serie B,3122787
 Cittadella,Juve Stabia,25,22 February 2020,Serie B,3122788
 Salernitana,Livorno,25,22 February 2020,Serie B,3122789
-Crotone,Pescara,25,22 February 2020,Serie B,3122790
 Trapani,Spezia,25,22 February 2020,Serie B,3122791
 Pisa,Venezia,25,22 February 2020,Serie B,3122792
 Pescara,Ascoli,26,29 February 2020,Serie B,3122793
@@ -3083,7 +3093,6 @@ Spezia,Pisa,31,4 April 2020,Serie B,3122849
 Cosenza,Trapani,31,4 April 2020,Serie B,3122850
 Livorno,Venezia,31,4 April 2020,Serie B,3122851
 Pordenone,Virtus Entella,31,4 April 2020,Serie B,3122852
-Cosenza,Ascoli,32,13 April 2020,Serie B,3122853
 Crotone,Benevento,32,13 April 2020,Serie B,3122854
 Virtus Entella,Chievo,32,13 April 2020,Serie B,3122855
 Pisa,Cittadella,32,13 April 2020,Serie B,3122856
@@ -3128,7 +3137,6 @@ Chievo,Cittadella,36,2 May 2020,Serie B,3122894
 Livorno,Crotone,36,2 May 2020,Serie B,3122895
 Salernitana,Empoli,36,2 May 2020,Serie B,3122896
 Venezia,Juve Stabia,36,2 May 2020,Serie B,3122897
-Virtus Entella,Perugia,36,2 May 2020,Serie B,3122898
 Trapani,Pescara,36,2 May 2020,Serie B,3122899
 Cosenza,Pisa,36,2 May 2020,Serie B,3122900
 Ascoli,Pordenone,36,2 May 2020,Serie B,3122901
@@ -3145,7 +3153,6 @@ Cittadella,Venezia,37,9 May 2020,Serie B,3122911
 Spezia,Virtus Entella,37,9 May 2020,Serie B,3122912
 Ascoli,Benevento,38,14 May 2020,Serie B,3122913
 Virtus Entella,Cittadella,38,14 May 2020,Serie B,3122914
-Trapani,Crotone,38,14 May 2020,Serie B,3122915
 Livorno,Empoli,38,14 May 2020,Serie B,3122916
 Cosenza,Juve Stabia,38,14 May 2020,Serie B,3122917
 Venezia,Perugia,38,14 May 2020,Serie B,3122918
@@ -3153,7 +3160,7 @@ Chievo,Pescara,38,14 May 2020,Serie B,3122919
 Frosinone,Pisa,38,14 May 2020,Serie B,3122920
 Cremonese,Pordenone,38,14 May 2020,Serie B,3122921
 Salernitana,Spezia,38,14 May 2020,Serie B,3122922
-Real Betis,Sevilla,13,10 November 2019,La Liga,3058934
+Barcelona,Real Madrid,10,18 December 2019,La Liga,3058901
 Real Betis,Valencia,14,23 November 2019,La Liga,3058940
 Eibar,Deportivo Alavés,14,24 November 2019,La Liga,3058941
 Espanyol,Getafe,14,24 November 2019,La Liga,3058942
@@ -3174,7 +3181,6 @@ Mallorca,Real Betis,15,30 November 2019,La Liga,3058956
 Real Sociedad,Eibar,15,30 November 2019,La Liga,3058957
 Sevilla,Leganes,15,1 December 2019,La Liga,3058958
 Valencia,Villarreal,15,30 November 2019,La Liga,3058959
-Barcelona,Mallorca,16,7 December 2019,La Liga,3058960
 Real Betis,Athletic Club,16,8 December 2019,La Liga,3058961
 Eibar,Getafe,16,8 December 2019,La Liga,3058962
 Granada,Deportivo Alavés,16,7 December 2019,La Liga,3058963
@@ -3184,7 +3190,36 @@ Osasuna,Sevilla,16,8 December 2019,La Liga,3058966
 Real Madrid,Espanyol,16,7 December 2019,La Liga,3058967
 Villarreal,Atletico Madrid,16,6 December 2019,La Liga,3058968
 Real Valladolid,Real Sociedad,16,8 December 2019,La Liga,3058969
-Rayo Vallecano,Cádiz,15,10 November 2019,Segunda División,3060076
+Deportivo Alavés,Leganes,17,13 December 2019,La Liga,3058970
+Athletic Club,Eibar,17,14 December 2019,La Liga,3058971
+Atletico Madrid,Osasuna,17,14 December 2019,La Liga,3058972
+Celta Vigo,Mallorca,17,15 December 2019,La Liga,3058973
+Espanyol,Real Betis,17,15 December 2019,La Liga,3058974
+Getafe,Real Valladolid,17,15 December 2019,La Liga,3058975
+Granada,Levante,17,14 December 2019,La Liga,3058976
+Real Sociedad,Barcelona,17,14 December 2019,La Liga,3058977
+Sevilla,Villarreal,17,15 December 2019,La Liga,3058978
+Valencia,Real Madrid,17,15 December 2019,La Liga,3058979
+Barcelona,Deportivo Alavés,18,21 December 2019,La Liga,3058980
+Real Betis,Atletico Madrid,18,22 December 2019,La Liga,3058981
+Eibar,Granada,18,20 December 2019,La Liga,3058982
+Leganes,Espanyol,18,22 December 2019,La Liga,3058983
+Levante,Celta Vigo,18,22 December 2019,La Liga,3058984
+Mallorca,Sevilla,18,21 December 2019,La Liga,3058985
+Osasuna,Real Sociedad,18,22 December 2019,La Liga,3058986
+Real Madrid,Athletic Club,18,22 December 2019,La Liga,3058987
+Villarreal,Getafe,18,21 December 2019,La Liga,3058988
+Real Valladolid,Valencia,18,21 December 2019,La Liga,3058989
+Deportivo Alavés,Real Betis,19,5 January 2020,La Liga,3058990
+Atletico Madrid,Levante,19,4 January 2020,La Liga,3058991
+Celta Vigo,Osasuna,19,5 January 2020,La Liga,3058992
+Espanyol,Barcelona,19,4 January 2020,La Liga,3058993
+Getafe,Real Madrid,19,4 January 2020,La Liga,3058994
+Granada,Mallorca,19,5 January 2020,La Liga,3058995
+Real Sociedad,Villarreal,19,5 January 2020,La Liga,3058996
+Sevilla,Athletic Club,19,3 January 2020,La Liga,3058997
+Valencia,Eibar,19,4 January 2020,La Liga,3058998
+Real Valladolid,Leganes,19,3 January 2020,La Liga,3058999
 Alcorcón,Málaga,16,17 November 2019,Segunda División,3060078
 Elche,Almería,16,16 November 2019,Segunda División,3060079
 Extremadura UD,Deportivo La Coruña,16,16 November 2019,Segunda División,3060080
@@ -3229,6 +3264,39 @@ Las Palmas,Numancia,19,8 December 2019,Segunda División,3060118
 Málaga,Tenerife,19,6 December 2019,Segunda División,3060119
 Racing Santander,Fuenlabrada,19,6 December 2019,Segunda División,3060120
 Sporting Gijón,Ponferradina,19,7 December 2019,Segunda División,3060121
+Elche,Las Palmas,20,15 December 2019,Segunda División,3060122
+Extremadura UD,Málaga,20,15 December 2019,Segunda División,3060123
+Fuenlabrada,Almería,20,15 December 2019,Segunda División,3060124
+Lugo,Sporting Gijón,20,15 December 2019,Segunda División,3060125
+Mirandés,Huesca,20,14 December 2019,Segunda División,3060126
+Numancia,Girona,20,13 December 2019,Segunda División,3060127
+Ponferradina,Deportivo La Coruña,20,14 December 2019,Segunda División,3060128
+Real Oviedo,Cádiz,20,15 December 2019,Segunda División,3060129
+Rayo Vallecano,Albacete,20,15 December 2019,Segunda División,3060130
+Tenerife,Alcorcón,20,14 December 2019,Segunda División,3060131
+Real Zaragoza,Racing Santander,20,14 December 2019,Segunda División,3060132
+Albacete,Elche,21,21 December 2019,Segunda División,3060133
+Alcorcón,Fuenlabrada,21,22 December 2019,Segunda División,3060134
+Almería,Ponferradina,21,22 December 2019,Segunda División,3060135
+Cádiz,Numancia,21,21 December 2019,Segunda División,3060136
+Deportivo La Coruña,Tenerife,21,20 December 2019,Segunda División,3060137
+Girona,Mirandés,21,22 December 2019,Segunda División,3060138
+Huesca,Real Zaragoza,21,22 December 2019,Segunda División,3060139
+Las Palmas,Rayo Vallecano,21,21 December 2019,Segunda División,3060140
+Málaga,Lugo,21,21 December 2019,Segunda División,3060141
+Racing Santander,Real Oviedo,21,21 December 2019,Segunda División,3060142
+Sporting Gijón,Extremadura UD,21,21 December 2019,Segunda División,3060143
+Elche,Huesca,22,4 January 2020,Segunda División,3060144
+Extremadura UD,Alcorcón,22,3 January 2020,Segunda División,3060145
+Fuenlabrada,Las Palmas,22,4 January 2020,Segunda División,3060146
+Lugo,Almería,22,4 January 2020,Segunda División,3060147
+Mirandés,Racing Santander,22,4 January 2020,Segunda División,3060148
+Numancia,Deportivo La Coruña,22,5 January 2020,Segunda División,3060149
+Ponferradina,Cádiz,22,4 January 2020,Segunda División,3060150
+Real Oviedo,Málaga,22,5 January 2020,Segunda División,3060151
+Rayo Vallecano,Girona,22,5 January 2020,Segunda División,3060152
+Tenerife,Albacete,22,4 January 2020,Segunda División,3060153
+Real Zaragoza,Sporting Gijón,22,3 January 2020,Segunda División,3060154
 Borussia Dortmund,Paderborn,12,22 November 2019,Bundesliga,3047119
 RB Leipzig,Köln,12,23 November 2019,Bundesliga,3047120
 Bayer Leverkusen,Freiburg,12,23 November 2019,Bundesliga,3047121
@@ -3337,13 +3405,11 @@ Werder Bremen,Köln,34,16 May 2020,Bundesliga,3047322
 Freiburg,Schalke 04,34,16 May 2020,Bundesliga,3047323
 Augsburg,RB Leipzig,34,16 May 2020,Bundesliga,3047324
 Union Berlin,Fortuna Dusseldorf,34,16 May 2020,Bundesliga,3047325
-Karlsruher SC,Erzgebirge Aue,13,11 November 2019,2. Bundesliga,3047443
 Stuttgart,Karlsruher SC,14,24 November 2019,2. Bundesliga,3047444
 Hannover 96,Darmstadt 98,14,25 November 2019,2. Bundesliga,3047445
 Hamburger SV,Dynamo Dresden,14,23 November 2019,2. Bundesliga,3047446
 Arminia Bielefeld,Sandhausen,14,23 November 2019,2. Bundesliga,3047447
 Jahn Regensburg,Heidenheim,14,24 November 2019,2. Bundesliga,3047448
-Bochum,Osnabrück,14,22 November 2019,2. Bundesliga,3047449
 Greuther Fürth,Nürnberg,14,24 November 2019,2. Bundesliga,3047450
 Erzgebirge Aue,St. Pauli,14,22 November 2019,2. Bundesliga,3047451
 Wehen Wiesbaden,Holstein Kiel,14,23 November 2019,2. Bundesliga,3047452
@@ -3392,7 +3458,9 @@ Dynamo Dresden,Karlsruher SC,19,29 January 2020,2. Bundesliga,3047494
 Greuther Fürth,St. Pauli,19,28 January 2020,2. Bundesliga,3047495
 Osnabrück,Sandhausen,19,29 January 2020,2. Bundesliga,3047496
 Wehen Wiesbaden,Erzgebirge Aue,19,28 January 2020,2. Bundesliga,3047497
+Hannover 96,Wehen Wiesbaden,20,1 February 2020,2. Bundesliga,3047498
 Nürnberg,Sandhausen,20,2 February 2020,2. Bundesliga,3047499
+Heidenheim,Dynamo Dresden,20,2 February 2020,2. Bundesliga,3047500
 Jahn Regensburg,Greuther Fürth,20,31 January 2020,2. Bundesliga,3047501
 St. Pauli,Stuttgart,20,1 February 2020,2. Bundesliga,3047502
 Darmstadt 98,Osnabrück,20,2 February 2020,2. Bundesliga,3047503
@@ -3426,7 +3494,6 @@ Jahn Regensburg,Erzgebirge Aue,34,17 May 2020,2. Bundesliga,3047629
 Dynamo Dresden,Osnabrück,34,17 May 2020,2. Bundesliga,3047630
 Greuther Fürth,Karlsruher SC,34,17 May 2020,2. Bundesliga,3047631
 Wehen Wiesbaden,St. Pauli,34,17 May 2020,2. Bundesliga,3047632
-Preußen Münster,Eintracht Braunschweig,15,11 November 2019,3. Liga,3053280
 Zwickau,Preußen Münster,16,23 November 2019,3. Liga,3053288
 Eintracht Braunschweig,Chemnitzer FC,16,23 November 2019,3. Liga,3053289
 Würzburger Kickers,Uerdingen,16,23 November 2019,3. Liga,3053290
@@ -3478,33 +3545,30 @@ Eintracht Braunschweig,Magdeburg,20,21 December 2019,3. Liga,3053335
 Zwickau,Meppen,20,21 December 2019,3. Liga,3053336
 Viktoria Köln,Hansa Rostock,20,20 December 2019,3. Liga,3053337
 Magdeburg,Zwickau,21,25 January 2020,3. Liga,3053338
-1860 München,Eintracht Braunschweig,21,25 January 2020,3. Liga,3053339
+1860 München,Eintracht Braunschweig,21,26 January 2020,3. Liga,3053339
 Carl Zeiss Jena,Preußen Münster,21,25 January 2020,3. Liga,3053340
 MSV Duisburg,Ingolstadt,21,25 January 2020,3. Liga,3053341
-Kaiserslautern,Sonnenhof Großaspach,21,25 January 2020,3. Liga,3053342
-Würzburger Kickers,Unterhaching,21,25 January 2020,3. Liga,3053343
-Uerdingen,Bayern München II,21,25 January 2020,3. Liga,3053344
-Hansa Rostock,Hallescher FC,21,25 January 2020,3. Liga,3053345
+Kaiserslautern,Sonnenhof Großaspach,21,27 January 2020,3. Liga,3053342
+Uerdingen,Bayern München II,21,26 January 2020,3. Liga,3053344
+Hansa Rostock,Hallescher FC,21,24 January 2020,3. Liga,3053345
 Chemnitzer FC,Viktoria Köln,21,25 January 2020,3. Liga,3053346
 Meppen,Waldhof Mannheim,21,25 January 2020,3. Liga,3053347
 Meppen,Chemnitzer FC,22,1 February 2020,3. Liga,3053348
 Unterhaching,Uerdingen,22,1 February 2020,3. Liga,3053349
-Sonnenhof Großaspach,Würzburger Kickers,22,1 February 2020,3. Liga,3053350
 Ingolstadt,Kaiserslautern,22,1 February 2020,3. Liga,3053351
 Preußen Münster,MSV Duisburg,22,1 February 2020,3. Liga,3053352
 Eintracht Braunschweig,Carl Zeiss Jena,22,1 February 2020,3. Liga,3053353
-Zwickau,1860 München,22,1 February 2020,3. Liga,3053354
-Waldhof Mannheim,Magdeburg,22,1 February 2020,3. Liga,3053355
-Hallescher FC,Viktoria Köln,22,1 February 2020,3. Liga,3053356
+Zwickau,1860 München,22,2 February 2020,3. Liga,3053354
+Waldhof Mannheim,Magdeburg,22,2 February 2020,3. Liga,3053355
+Hallescher FC,Viktoria Köln,22,31 January 2020,3. Liga,3053356
 Bayern München II,Hansa Rostock,22,1 February 2020,3. Liga,3053357
-Carl Zeiss Jena,Zwickau,23,8 February 2020,3. Liga,3053358
-MSV Duisburg,Eintracht Braunschweig,23,8 February 2020,3. Liga,3053359
+Carl Zeiss Jena,Zwickau,23,10 February 2020,3. Liga,3053358
 Kaiserslautern,Preußen Münster,23,8 February 2020,3. Liga,3053360
-Würzburger Kickers,Ingolstadt,23,8 February 2020,3. Liga,3053361
+Würzburger Kickers,Ingolstadt,23,9 February 2020,3. Liga,3053361
 Uerdingen,Sonnenhof Großaspach,23,8 February 2020,3. Liga,3053362
 Hansa Rostock,Unterhaching,23,8 February 2020,3. Liga,3053363
 Viktoria Köln,Bayern München II,23,8 February 2020,3. Liga,3053364
-Chemnitzer FC,Hallescher FC,23,8 February 2020,3. Liga,3053365
+Chemnitzer FC,Hallescher FC,23,9 February 2020,3. Liga,3053365
 Magdeburg,Meppen,23,8 February 2020,3. Liga,3053366
 1860 München,Waldhof Mannheim,23,8 February 2020,3. Liga,3053367
 Magdeburg,Chemnitzer FC,24,15 February 2020,3. Liga,3053368
@@ -3517,7 +3581,6 @@ Meppen,1860 München,24,15 February 2020,3. Liga,3053374
 Bayern München II,Hallescher FC,24,15 February 2020,3. Liga,3053375
 Unterhaching,Viktoria Köln,24,15 February 2020,3. Liga,3053376
 Sonnenhof Großaspach,Hansa Rostock,24,15 February 2020,3. Liga,3053377
-Kaiserslautern,Zwickau,25,22 February 2020,3. Liga,3053378
 Würzburger Kickers,Eintracht Braunschweig,25,22 February 2020,3. Liga,3053379
 Uerdingen,Preußen Münster,25,22 February 2020,3. Liga,3053380
 Hansa Rostock,Ingolstadt,25,22 February 2020,3. Liga,3053381
@@ -3539,6 +3602,7 @@ Ingolstadt,Viktoria Köln,26,29 February 2020,3. Liga,3053396
 Preußen Münster,Hansa Rostock,26,29 February 2020,3. Liga,3053397
 Uerdingen,Zwickau,27,7 March 2020,3. Liga,3053398
 Hansa Rostock,Eintracht Braunschweig,27,7 March 2020,3. Liga,3053399
+Viktoria Köln,Preußen Münster,27,7 March 2020,3. Liga,3053400
 Hallescher FC,Ingolstadt,27,7 March 2020,3. Liga,3053401
 Bayern München II,Sonnenhof Großaspach,27,7 March 2020,3. Liga,3053402
 Chemnitzer FC,Unterhaching,27,7 March 2020,3. Liga,3053403
@@ -3560,7 +3624,6 @@ Viktoria Köln,Zwickau,29,18 March 2020,3. Liga,3053418
 Hallescher FC,Eintracht Braunschweig,29,18 March 2020,3. Liga,3053419
 Bayern München II,Preußen Münster,29,18 March 2020,3. Liga,3053420
 Unterhaching,Ingolstadt,29,18 March 2020,3. Liga,3053421
-Chemnitzer FC,Sonnenhof Großaspach,29,18 March 2020,3. Liga,3053422
 MSV Duisburg,Carl Zeiss Jena,29,18 March 2020,3. Liga,3053423
 Kaiserslautern,1860 München,29,18 March 2020,3. Liga,3053424
 Würzburger Kickers,Magdeburg,29,18 March 2020,3. Liga,3053425
@@ -3581,14 +3644,12 @@ Unterhaching,Eintracht Braunschweig,31,28 March 2020,3. Liga,3053439
 Sonnenhof Großaspach,Preußen Münster,31,28 March 2020,3. Liga,3053440
 Chemnitzer FC,Ingolstadt,31,28 March 2020,3. Liga,3053441
 Kaiserslautern,MSV Duisburg,31,28 March 2020,3. Liga,3053442
-Würzburger Kickers,Carl Zeiss Jena,31,28 March 2020,3. Liga,3053443
 Uerdingen,1860 München,31,28 March 2020,3. Liga,3053444
 Hansa Rostock,Magdeburg,31,28 March 2020,3. Liga,3053445
 Viktoria Köln,Meppen,31,28 March 2020,3. Liga,3053446
 Hallescher FC,Waldhof Mannheim,31,28 March 2020,3. Liga,3053447
 Kaiserslautern,Chemnitzer FC,32,4 April 2020,3. Liga,3053448
 Carl Zeiss Jena,Uerdingen,32,4 April 2020,3. Liga,3053449
-MSV Duisburg,Würzburger Kickers,32,4 April 2020,3. Liga,3053450
 Preußen Münster,Ingolstadt,32,4 April 2020,3. Liga,3053451
 Eintracht Braunschweig,Sonnenhof Großaspach,32,4 April 2020,3. Liga,3053452
 Zwickau,Unterhaching,32,4 April 2020,3. Liga,3053453
@@ -3655,7 +3716,6 @@ Kaiserslautern,Bayern München II,38,16 May 2020,3. Liga,3053514
 Würzburger Kickers,Hallescher FC,38,16 May 2020,3. Liga,3053515
 Uerdingen,Viktoria Köln,38,16 May 2020,3. Liga,3053516
 Chemnitzer FC,Hansa Rostock,38,16 May 2020,3. Liga,3053517
-Olympique Marseille,Olympique Lyonnais,13,10 November 2019,Ligue 1,3030667
 Toulouse,Olympique Marseille,14,24 November 2019,Ligue 1,3030677
 PSG,Lille,14,22 November 2019,Ligue 1,3030678
 Olympique Lyonnais,Nice,14,23 November 2019,Ligue 1,3030679
@@ -3686,16 +3746,16 @@ Angers SCO,Olympique Marseille,16,3 December 2019,Ligue 1,3030703
 Brest,Strasbourg,16,3 December 2019,Ligue 1,3030704
 Toulouse,Monaco,16,4 December 2019,Ligue 1,3030705
 Metz,Rennes,16,4 December 2019,Ligue 1,3030706
-Nîmes,Olympique Lyonnais,17,7 December 2019,Ligue 1,3030707
+Nîmes,Olympique Lyonnais,17,6 December 2019,Ligue 1,3030707
 Nice,Metz,17,7 December 2019,Ligue 1,3030708
 Montpellier,PSG,17,7 December 2019,Ligue 1,3030709
 Rennes,Angers SCO,17,7 December 2019,Ligue 1,3030710
-Reims,Saint-Etienne,17,7 December 2019,Ligue 1,3030711
-Nantes,Dijon,17,7 December 2019,Ligue 1,3030712
+Reims,Saint-Etienne,17,8 December 2019,Ligue 1,3030711
+Nantes,Dijon,17,8 December 2019,Ligue 1,3030712
 Strasbourg,Toulouse,17,7 December 2019,Ligue 1,3030713
-Olympique Marseille,Bordeaux,17,7 December 2019,Ligue 1,3030714
+Olympique Marseille,Bordeaux,17,8 December 2019,Ligue 1,3030714
 Monaco,Amiens SC,17,7 December 2019,Ligue 1,3030715
-Lille,Brest,17,7 December 2019,Ligue 1,3030716
+Lille,Brest,17,6 December 2019,Ligue 1,3030716
 Nîmes,Nantes,18,14 December 2019,Ligue 1,3030717
 Saint-Etienne,PSG,18,15 December 2019,Ligue 1,3030718
 Olympique Lyonnais,Rennes,18,14 December 2019,Ligue 1,3030719
@@ -3906,7 +3966,6 @@ Amiens SC,Nice,38,23 May 2020,Ligue 1,3030923
 Reims,Olympique Marseille,38,23 May 2020,Ligue 1,3030924
 Bordeaux,Lille,38,23 May 2020,Ligue 1,3030925
 Olympique Lyonnais,Brest,38,23 May 2020,Ligue 1,3030926
-Rodez,Lens,14,11 November 2019,Ligue 2,3031150
 Paris FC,Auxerre,15,22 November 2019,Ligue 2,3031156
 Caen,Le Mans,15,22 November 2019,Ligue 2,3031157
 Troyes,Chambly,15,22 November 2019,Ligue 2,3031158
@@ -3921,8 +3980,10 @@ Sochaux,Troyes,16,30 November 2019,Ligue 2,3031166
 Le Mans,Châteauroux,16,29 November 2019,Ligue 2,3031167
 Auxerre,Orléans,16,29 November 2019,Ligue 2,3031168
 Chambly,Ajaccio,16,29 November 2019,Ligue 2,3031169
+Rodez,Le Havre,16,29 November 2019,Ligue 2,3031170
 Guingamp,Caen,16,29 November 2019,Ligue 2,3031171
 Clermont,Niort,16,29 November 2019,Ligue 2,3031172
+Lorient,Grenoble Foot 38,16,29 November 2019,Ligue 2,3031173
 Nancy,Paris FC,16,29 November 2019,Ligue 2,3031174
 Valenciennes,Lens,16,29 November 2019,Ligue 2,3031175
 Orléans,Lorient,17,3 December 2019,Ligue 2,3031176
@@ -3953,8 +4014,15 @@ Cholet,Toulon,15,29 November 2019,National 1,3073278
 Avranches,Villefranche,15,29 November 2019,National 1,3073279
 Concarneau,Laval,15,29 November 2019,National 1,3073280
 Créteil,Gazélec Ajaccio,15,29 November 2019,National 1,3073281
-Boavista,Porto,11,10 November 2019,Primeira Liga,3064736
-Vitoria Guimaraes,Sporting Braga,11,10 November 2019,Primeira Liga,3064742
+Bourg-en-Bresse,Cholet,16,13 December 2019,National 1,3073282
+Gazélec Ajaccio,Béziers,16,13 December 2019,National 1,3073283
+Pau,Le Puy Foot,16,13 December 2019,National 1,3073284
+Red Star,Quevilly Rouen,16,13 December 2019,National 1,3073285
+Toulon,Lyon Duchère,16,13 December 2019,National 1,3073286
+Laval,Avranches,16,13 December 2019,National 1,3073287
+Créteil,Concarneau,16,13 December 2019,National 1,3073288
+Dunkerque,Boulogne,16,13 December 2019,National 1,3073289
+Villefranche,Bastia-Borgo,16,13 December 2019,National 1,3073290
 Gil Vicente,Sporting CP,12,1 December 2019,Primeira Liga,3064743
 Benfica,Marítimo,12,30 November 2019,Primeira Liga,3064744
 Sporting Braga,Rio Ave,12,2 December 2019,Primeira Liga,3064745
@@ -3973,6 +4041,7 @@ Rio Ave,Gil Vicente,13,9 December 2019,Primeira Liga,3064757
 Boavista,Benfica,13,6 December 2019,Primeira Liga,3064758
 Marítimo,Santa Clara,13,7 December 2019,Primeira Liga,3064759
 Sporting CP,Moreirense,13,8 December 2019,Primeira Liga,3064760
+Gil Vicente,Vitoria Guimaraes,14,15 December 2019,Primeira Liga,3064761
 Santa Clara,Sporting CP,14,15 December 2019,Primeira Liga,3064762
 Porto,Tondela,14,15 December 2019,Primeira Liga,3064763
 Portimonense,Rio Ave,14,15 December 2019,Primeira Liga,3064764
@@ -3986,7 +4055,6 @@ Paços de Ferreira,Moreirense,15,5 January 2020,Primeira Liga,3064771
 Desportivo Aves,Santa Clara,15,5 January 2020,Primeira Liga,3064772
 Belenenses,Sporting Braga,15,5 January 2020,Primeira Liga,3064773
 Boavista,Portimonense,15,5 January 2020,Primeira Liga,3064774
-Tondela,Gil Vicente,15,5 January 2020,Primeira Liga,3064775
 Vitoria Guimaraes,Benfica,15,5 January 2020,Primeira Liga,3064776
 Rio Ave,Marítimo,15,5 January 2020,Primeira Liga,3064777
 Sporting CP,Porto,15,5 January 2020,Primeira Liga,3064778
@@ -4000,7 +4068,6 @@ Portimonense,Paços de Ferreira,16,11 January 2020,Primeira Liga,3064785
 Benfica,Desportivo Aves,16,11 January 2020,Primeira Liga,3064786
 Marítimo,Vitoria Guimaraes,16,11 January 2020,Primeira Liga,3064787
 Famalicão,Marítimo,17,18 January 2020,Primeira Liga,3064788
-Desportivo Aves,Portimonense,17,18 January 2020,Primeira Liga,3064789
 Belenenses,Vitória Setúbal,17,18 January 2020,Primeira Liga,3064790
 Paços de Ferreira,Gil Vicente,17,18 January 2020,Primeira Liga,3064791
 Sporting CP,Benfica,17,18 January 2020,Primeira Liga,3064792
@@ -4017,7 +4084,6 @@ Paços de Ferreira,Benfica,18,26 January 2020,Primeira Liga,3064802
 Desportivo Aves,Boavista,18,26 January 2020,Primeira Liga,3064803
 Belenenses,Portimonense,18,26 January 2020,Primeira Liga,3064804
 Vitoria Guimaraes,Rio Ave,18,26 January 2020,Primeira Liga,3064805
-Rio Ave,Famalicão,19,2 February 2020,Primeira Liga,3064806
 Santa Clara,Paços de Ferreira,19,2 February 2020,Primeira Liga,3064807
 Marítimo,Desportivo Aves,19,2 February 2020,Primeira Liga,3064808
 Benfica,Belenenses,19,2 February 2020,Primeira Liga,3064809
@@ -4033,7 +4099,6 @@ Sporting CP,Portimonense,20,9 February 2020,Primeira Liga,3064818
 Famalicão,Vitoria Guimaraes,20,9 February 2020,Primeira Liga,3064819
 Paços de Ferreira,Boavista,20,9 February 2020,Primeira Liga,3064820
 Desportivo Aves,Rio Ave,20,9 February 2020,Primeira Liga,3064821
-Belenenses,Santa Clara,20,9 February 2020,Primeira Liga,3064822
 Moreirense,Vitória Setúbal,20,9 February 2020,Primeira Liga,3064823
 Vitória Setúbal,Gil Vicente,21,15 February 2020,Primeira Liga,3064824
 Marítimo,Paços de Ferreira,21,15 February 2020,Primeira Liga,3064825
@@ -4069,7 +4134,6 @@ Tondela,Boavista,24,8 March 2020,Primeira Liga,3064854
 Moreirense,Marítimo,24,8 March 2020,Primeira Liga,3064855
 Gil Vicente,Santa Clara,24,8 March 2020,Primeira Liga,3064856
 Paços de Ferreira,Vitoria Guimaraes,24,8 March 2020,Primeira Liga,3064857
-Sporting Braga,Portimonense,24,8 March 2020,Primeira Liga,3064858
 Porto,Rio Ave,24,8 March 2020,Primeira Liga,3064859
 Portimonense,Gil Vicente,25,15 March 2020,Primeira Liga,3064860
 Rio Ave,Paços de Ferreira,25,15 March 2020,Primeira Liga,3064861
@@ -4127,7 +4191,6 @@ Santa Clara,Marítimo,30,22 April 2020,Primeira Liga,3064912
 Moreirense,Sporting CP,30,22 April 2020,Primeira Liga,3064913
 Vitoria Guimaraes,Gil Vicente,31,26 April 2020,Primeira Liga,3064914
 Sporting CP,Santa Clara,31,26 April 2020,Primeira Liga,3064915
-Tondela,Porto,31,26 April 2020,Primeira Liga,3064916
 Rio Ave,Portimonense,31,26 April 2020,Primeira Liga,3064917
 Famalicão,Benfica,31,26 April 2020,Primeira Liga,3064918
 Paços de Ferreira,Sporting Braga,31,26 April 2020,Primeira Liga,3064919
@@ -4136,7 +4199,6 @@ Belenenses,Moreirense,31,26 April 2020,Primeira Liga,3064921
 Boavista,Marítimo,31,26 April 2020,Primeira Liga,3064922
 Vitória Setúbal,Famalicão,32,3 May 2020,Primeira Liga,3064923
 Moreirense,Paços de Ferreira,32,3 May 2020,Primeira Liga,3064924
-Santa Clara,Desportivo Aves,32,3 May 2020,Primeira Liga,3064925
 Sporting Braga,Belenenses,32,3 May 2020,Primeira Liga,3064926
 Portimonense,Boavista,32,3 May 2020,Primeira Liga,3064927
 Gil Vicente,Tondela,32,3 May 2020,Primeira Liga,3064928
@@ -4147,8 +4209,6 @@ Belenenses,Gil Vicente,33,10 May 2020,Primeira Liga,3064932
 Tondela,Sporting Braga,33,10 May 2020,Primeira Liga,3064933
 Rio Ave,Santa Clara,33,10 May 2020,Primeira Liga,3064934
 Porto,Moreirense,33,10 May 2020,Primeira Liga,3064935
-Sporting CP,Vitória Setúbal,33,10 May 2020,Primeira Liga,3064936
-Famalicão,Boavista,33,10 May 2020,Primeira Liga,3064937
 Paços de Ferreira,Portimonense,33,10 May 2020,Primeira Liga,3064938
 Desportivo Aves,Benfica,33,10 May 2020,Primeira Liga,3064939
 Vitoria Guimaraes,Marítimo,33,10 May 2020,Primeira Liga,3064940
@@ -4168,6 +4228,7 @@ Benfica II,Mafra,11,1 December 2019,Segunda Liga,3065172
 Porto II,Cova Piedade,11,1 December 2019,Segunda Liga,3065173
 Farense,Chaves,11,30 November 2019,Segunda Liga,3065174
 Casa Pia,Nacional,11,1 December 2019,Segunda Liga,3065175
+Sporting Covilhã,Feirense,11,29 November 2019,Segunda Liga,3065176
 Vilafranquense,Académica,11,30 November 2019,Segunda Liga,3065177
 Varzim,Penafiel,11,30 November 2019,Segunda Liga,3065178
 UD Oliveirense,Academico Viseu,11,1 December 2019,Segunda Liga,3065179
@@ -4176,9 +4237,7 @@ Nacional,Farense,12,7 December 2019,Segunda Liga,3065181
 Feirense,Benfica II,12,8 December 2019,Segunda Liga,3065182
 Académica,Casa Pia,12,8 December 2019,Segunda Liga,3065183
 Leixões,Academico Viseu,12,8 December 2019,Segunda Liga,3065184
-Penafiel,Porto II,12,7 December 2019,Segunda Liga,3065185
 Cova Piedade,Vilafranquense,12,7 December 2019,Segunda Liga,3065186
-Mafra,Estoril,12,8 December 2019,Segunda Liga,3065187
 Varzim,Sporting Covilhã,12,8 December 2019,Segunda Liga,3065188
 Benfica II,Varzim,13,15 December 2019,Segunda Liga,3065189
 Academico Viseu,Cova Piedade,13,15 December 2019,Segunda Liga,3065190
@@ -4212,6 +4271,7 @@ Feirense,Porto II,16,11 January 2020,Segunda Liga,3065218
 Benfica II,Casa Pia,16,11 January 2020,Segunda Liga,3065219
 Académica,Cova Piedade,16,11 January 2020,Segunda Liga,3065220
 Penafiel,Farense,16,11 January 2020,Segunda Liga,3065221
+Mafra,Vilafranquense,16,11 January 2020,Segunda Liga,3065222
 Sporting Covilhã,Estoril,16,11 January 2020,Segunda Liga,3065223
 Varzim,Academico Viseu,16,11 January 2020,Segunda Liga,3065224
 Estoril,Académica,17,18 January 2020,Segunda Liga,3065225
@@ -4221,7 +4281,6 @@ Cova Piedade,Nacional,17,18 January 2020,Segunda Liga,3065228
 UD Oliveirense,Feirense,17,18 January 2020,Segunda Liga,3065229
 Porto II,Benfica II,17,18 January 2020,Segunda Liga,3065230
 Farense,Sporting Covilhã,17,18 January 2020,Segunda Liga,3065231
-Vilafranquense,Penafiel,17,18 January 2020,Segunda Liga,3065232
 Casa Pia,Varzim,17,18 January 2020,Segunda Liga,3065233
 Vilafranquense,Feirense,18,26 January 2020,Segunda Liga,3065234
 Leixões,Académica,18,26 January 2020,Segunda Liga,3065235
@@ -4268,6 +4327,7 @@ Chaves,Feirense,22,23 February 2020,Segunda Liga,3065275
 Nacional,Académica,22,23 February 2020,Segunda Liga,3065276
 UD Oliveirense,Casa Pia,22,23 February 2020,Segunda Liga,3065277
 Cova Piedade,Varzim,22,23 February 2020,Segunda Liga,3065278
+Sporting Covilhã,Chaves,23,1 March 2020,Segunda Liga,3065279
 Penafiel,Nacional,23,1 March 2020,Segunda Liga,3065280
 Casa Pia,Cova Piedade,23,1 March 2020,Segunda Liga,3065281
 Varzim,Mafra,23,1 March 2020,Segunda Liga,3065282
@@ -4277,7 +4337,6 @@ Benfica II,Leixões,23,1 March 2020,Segunda Liga,3065285
 Porto II,UD Oliveirense,23,1 March 2020,Segunda Liga,3065286
 Farense,Academico Viseu,23,1 March 2020,Segunda Liga,3065287
 Mafra,Feirense,24,8 March 2020,Segunda Liga,3065288
-UD Oliveirense,Estoril,24,8 March 2020,Segunda Liga,3065289
 Cova Piedade,Sporting Covilhã,24,8 March 2020,Segunda Liga,3065290
 Vilafranquense,Porto II,24,8 March 2020,Segunda Liga,3065291
 Chaves,Varzim,24,8 March 2020,Segunda Liga,3065292
@@ -4317,6 +4376,7 @@ Mafra,Benfica II,28,11 April 2020,Segunda Liga,3065325
 Cova Piedade,Porto II,28,11 April 2020,Segunda Liga,3065326
 Chaves,Farense,28,11 April 2020,Segunda Liga,3065327
 Nacional,Casa Pia,28,11 April 2020,Segunda Liga,3065328
+Feirense,Sporting Covilhã,28,11 April 2020,Segunda Liga,3065329
 Académica,Vilafranquense,28,11 April 2020,Segunda Liga,3065330
 Penafiel,Varzim,28,11 April 2020,Segunda Liga,3065331
 Academico Viseu,UD Oliveirense,28,11 April 2020,Segunda Liga,3065332
@@ -4329,13 +4389,11 @@ Porto II,Penafiel,29,19 April 2020,Segunda Liga,3065338
 Vilafranquense,Cova Piedade,29,19 April 2020,Segunda Liga,3065339
 Estoril,Mafra,29,19 April 2020,Segunda Liga,3065340
 Sporting Covilhã,Varzim,29,19 April 2020,Segunda Liga,3065341
-Varzim,Benfica II,30,22 April 2020,Segunda Liga,3065342
 Cova Piedade,Academico Viseu,30,22 April 2020,Segunda Liga,3065343
 Chaves,Porto II,30,22 April 2020,Segunda Liga,3065344
 Nacional,Estoril,30,22 April 2020,Segunda Liga,3065345
 Feirense,Farense,30,22 April 2020,Segunda Liga,3065346
 Académica,Sporting Covilhã,30,22 April 2020,Segunda Liga,3065347
-Leixões,Vilafranquense,30,22 April 2020,Segunda Liga,3065348
 Penafiel,UD Oliveirense,30,22 April 2020,Segunda Liga,3065349
 Mafra,Casa Pia,30,22 April 2020,Segunda Liga,3065350
 Vilafranquense,Chaves,31,26 April 2020,Segunda Liga,3065351
@@ -4343,7 +4401,6 @@ Porto II,Nacional,31,26 April 2020,Segunda Liga,3065352
 Casa Pia,Feirense,31,26 April 2020,Segunda Liga,3065353
 UD Oliveirense,Académica,31,26 April 2020,Segunda Liga,3065354
 Cova Piedade,Leixões,31,26 April 2020,Segunda Liga,3065355
-Estoril,Penafiel,31,26 April 2020,Segunda Liga,3065356
 Benfica II,Sporting Covilhã,31,26 April 2020,Segunda Liga,3065357
 Farense,Varzim,31,26 April 2020,Segunda Liga,3065358
 Academico Viseu,Mafra,31,26 April 2020,Segunda Liga,3065359
@@ -4351,7 +4408,6 @@ Penafiel,Leixões,32,3 May 2020,Segunda Liga,3065360
 Mafra,UD Oliveirense,32,3 May 2020,Segunda Liga,3065361
 Chaves,Cova Piedade,32,3 May 2020,Segunda Liga,3065362
 Nacional,Academico Viseu,32,3 May 2020,Segunda Liga,3065363
-Feirense,Estoril,32,3 May 2020,Segunda Liga,3065364
 Benfica II,Farense,32,3 May 2020,Segunda Liga,3065365
 Académica,Porto II,32,3 May 2020,Segunda Liga,3065366
 Sporting Covilhã,Casa Pia,32,3 May 2020,Segunda Liga,3065367
@@ -4382,10 +4438,8 @@ ADO Den Haag,Willem II,14,23 November 2019,Eredivisie,3032174
 Groningen,Feyenoord,14,24 November 2019,Eredivisie,3032175
 RKC Waalwijk,Emmen,14,24 November 2019,Eredivisie,3032176
 VVV,Twente,14,24 November 2019,Eredivisie,3032177
-Sparta Rotterdam,Vitesse,14,24 November 2019,Eredivisie,3032178
 Heerenveen,Vitesse,15,29 November 2019,Eredivisie,3032179
 Willem II,Sparta Rotterdam,15,30 November 2019,Eredivisie,3032180
-Fortuna Sittard,Groningen,15,30 November 2019,Eredivisie,3032181
 Emmen,PSV,15,1 December 2019,Eredivisie,3032182
 Heracles,ADO Den Haag,15,30 November 2019,Eredivisie,3032183
 Feyenoord,PEC Zwolle,15,1 December 2019,Eredivisie,3032184
@@ -4428,11 +4482,9 @@ VVV,PSV,19,19 January 2020,Eredivisie,3032220
 Ajax,Sparta Rotterdam,19,19 January 2020,Eredivisie,3032221
 Emmen,Heracles,19,19 January 2020,Eredivisie,3032222
 ADO Den Haag,RKC Waalwijk,19,19 January 2020,Eredivisie,3032223
-Utrecht,ADO Den Haag,20,24 January 2020,Eredivisie,3032224
 Heerenveen,AZ,20,25 January 2020,Eredivisie,3032225
 RKC Waalwijk,VVV,20,25 January 2020,Eredivisie,3032226
 Heracles,Feyenoord,20,25 January 2020,Eredivisie,3032227
-Sparta Rotterdam,Fortuna Sittard,20,25 January 2020,Eredivisie,3032228
 Vitesse,Emmen,20,26 January 2020,Eredivisie,3032229
 Groningen,Ajax,20,26 January 2020,Eredivisie,3032230
 Willem II,PEC Zwolle,20,26 January 2020,Eredivisie,3032231
@@ -4462,6 +4514,7 @@ ADO Den Haag,PSV,23,15 February 2020,Eredivisie,3032254
 Fortuna Sittard,Emmen,23,15 February 2020,Eredivisie,3032255
 Vitesse,Heerenveen,23,16 February 2020,Eredivisie,3032256
 Sparta Rotterdam,Groningen,23,16 February 2020,Eredivisie,3032257
+Ajax,RKC Waalwijk,23,16 February 2020,Eredivisie,3032258
 PEC Zwolle,Feyenoord,23,16 February 2020,Eredivisie,3032259
 RKC Waalwijk,Sparta Rotterdam,24,21 February 2020,Eredivisie,3032260
 Emmen,Willem II,24,22 February 2020,Eredivisie,3032261
@@ -4493,7 +4546,6 @@ Groningen,PSV,26,8 March 2020,Eredivisie,3032286
 ADO Den Haag,Fortuna Sittard,27,13 March 2020,Eredivisie,3032287
 Willem II,Heerenveen,27,14 March 2020,Eredivisie,3032288
 Ajax,Twente,27,14 March 2020,Eredivisie,3032289
-Utrecht,Vitesse,27,14 March 2020,Eredivisie,3032290
 PEC Zwolle,Heracles,27,14 March 2020,Eredivisie,3032291
 Sparta Rotterdam,Feyenoord,27,15 March 2020,Eredivisie,3032292
 PSV,Emmen,27,15 March 2020,Eredivisie,3032293
@@ -4501,9 +4553,11 @@ VVV,AZ,27,15 March 2020,Eredivisie,3032294
 RKC Waalwijk,Groningen,27,15 March 2020,Eredivisie,3032295
 Heracles,Sparta Rotterdam,28,20 March 2020,Eredivisie,3032296
 Twente,ADO Den Haag,28,21 March 2020,Eredivisie,3032297
+PEC Zwolle,VVV,28,21 March 2020,Eredivisie,3032298
 Vitesse,Willem II,28,21 March 2020,Eredivisie,3032299
 Heerenveen,RKC Waalwijk,28,21 March 2020,Eredivisie,3032300
 Fortuna Sittard,PSV,28,22 March 2020,Eredivisie,3032301
+Feyenoord,Ajax,28,22 March 2020,Eredivisie,3032302
 Groningen,AZ,28,22 March 2020,Eredivisie,3032303
 Emmen,Utrecht,28,22 March 2020,Eredivisie,3032304
 Sparta Rotterdam,Heerenveen,29,4 April 2020,Eredivisie,3032305
@@ -4547,6 +4601,7 @@ Sparta Rotterdam,Willem II,33,3 May 2020,Eredivisie,3032342
 AZ,Utrecht,33,3 May 2020,Eredivisie,3032343
 RKC Waalwijk,Fortuna Sittard,33,3 May 2020,Eredivisie,3032344
 PEC Zwolle,Emmen,33,3 May 2020,Eredivisie,3032345
+Ajax,VVV,33,3 May 2020,Eredivisie,3032346
 Vitesse,Heracles,33,3 May 2020,Eredivisie,3032347
 Groningen,ADO Den Haag,33,3 May 2020,Eredivisie,3032348
 Twente,Feyenoord,33,3 May 2020,Eredivisie,3032349
@@ -4554,6 +4609,7 @@ Utrecht,Heerenveen,34,10 May 2020,Eredivisie,3032350
 Feyenoord,Vitesse,34,10 May 2020,Eredivisie,3032351
 Willem II,Twente,34,10 May 2020,Eredivisie,3032352
 PSV,RKC Waalwijk,34,10 May 2020,Eredivisie,3032353
+Fortuna Sittard,Ajax,34,10 May 2020,Eredivisie,3032354
 Heracles,Groningen,34,10 May 2020,Eredivisie,3032355
 VVV,Sparta Rotterdam,34,10 May 2020,Eredivisie,3032356
 ADO Den Haag,PEC Zwolle,34,10 May 2020,Eredivisie,3032357
@@ -4566,8 +4622,6 @@ Telstar,Go Ahead Eagles,15,17 November 2019,Eerste Divisie,3031816
 Den Bosch,Excelsior,15,17 November 2019,Eerste Divisie,3031817
 Cambuur,Almere City,15,17 November 2019,Eerste Divisie,3031818
 Utrecht II,AZ II,16,22 November 2019,Eerste Divisie,3031819
-NAC Breda,Ajax II,16,22 November 2019,Eerste Divisie,3031820
-De Graafschap,PSV II,16,22 November 2019,Eerste Divisie,3031821
 Helmond Sport,NEC,16,22 November 2019,Eerste Divisie,3031822
 Excelsior,Volendam,16,22 November 2019,Eerste Divisie,3031823
 Dordrecht,Telstar,16,22 November 2019,Eerste Divisie,3031824
@@ -4599,6 +4653,7 @@ Telstar,NAC Breda,18,6 December 2019,Eerste Divisie,3031849
 Go Ahead Eagles,PSV II,18,6 December 2019,Eerste Divisie,3031850
 Ajax II,Roda JC,18,9 December 2019,Eerste Divisie,3031851
 AZ II,Helmond Sport,18,9 December 2019,Eerste Divisie,3031852
+Cambuur,Ajax II,19,13 December 2019,Eerste Divisie,3031853
 Utrecht II,Eindhoven,19,13 December 2019,Eerste Divisie,3031854
 Volendam,MVV,19,13 December 2019,Eerste Divisie,3031855
 NAC Breda,Den Bosch,19,13 December 2019,Eerste Divisie,3031856
@@ -4617,12 +4672,10 @@ Excelsior,Cambuur,20,22 December 2019,Eerste Divisie,3031868
 Ajax II,TOP Oss,20,20 December 2019,Eerste Divisie,3031869
 Almere City,Roda JC,20,20 December 2019,Eerste Divisie,3031870
 Utrecht II,Go Ahead Eagles,20,20 December 2019,Eerste Divisie,3031872
-Cambuur,Volendam,21,10 January 2020,Eerste Divisie,3031873
-Dordrecht,Excelsior,21,10 January 2020,Eerste Divisie,3031874
-Go Ahead Eagles,Almere City,21,10 January 2020,Eerste Divisie,3031875
+Go Ahead Eagles,Almere City,21,12 January 2020,Eerste Divisie,3031875
 De Graafschap,Utrecht II,21,10 January 2020,Eerste Divisie,3031876
-NEC,Den Bosch,21,10 January 2020,Eerste Divisie,3031877
-Roda JC,MVV,21,10 January 2020,Eerste Divisie,3031878
+NEC,Den Bosch,21,12 January 2020,Eerste Divisie,3031877
+Roda JC,MVV,21,12 January 2020,Eerste Divisie,3031878
 Telstar,Eindhoven,21,10 January 2020,Eerste Divisie,3031879
 Helmond Sport,NAC Breda,21,10 January 2020,Eerste Divisie,3031880
 PSV II,Ajax II,21,13 January 2020,Eerste Divisie,3031881
@@ -4646,6 +4699,7 @@ Roda JC,Volendam,23,24 January 2020,Eerste Divisie,3031898
 Telstar,TOP Oss,23,24 January 2020,Eerste Divisie,3031899
 Helmond Sport,Den Bosch,23,24 January 2020,Eerste Divisie,3031900
 PSV II,Excelsior,23,27 January 2020,Eerste Divisie,3031901
+AZ II,Almere City,23,27 January 2020,Eerste Divisie,3031902
 Volendam,Helmond Sport,24,31 January 2020,Eerste Divisie,3031903
 MVV,PSV II,24,31 January 2020,Eerste Divisie,3031904
 Eindhoven,De Graafschap,24,31 January 2020,Eerste Divisie,3031905
@@ -4660,7 +4714,6 @@ Cambuur,MVV,25,7 February 2020,Eerste Divisie,3031913
 Dordrecht,Almere City,25,7 February 2020,Eerste Divisie,3031914
 NAC Breda,TOP Oss,25,7 February 2020,Eerste Divisie,3031915
 Go Ahead Eagles,Eindhoven,25,7 February 2020,Eerste Divisie,3031916
-Roda JC,Den Bosch,25,7 February 2020,Eerste Divisie,3031917
 Telstar,NEC,25,7 February 2020,Eerste Divisie,3031918
 Helmond Sport,Excelsior,25,7 February 2020,Eerste Divisie,3031919
 Utrecht II,Ajax II,25,10 February 2020,Eerste Divisie,3031920
@@ -4668,7 +4721,6 @@ PSV II,De Graafschap,25,10 February 2020,Eerste Divisie,3031921
 AZ II,Volendam,25,10 February 2020,Eerste Divisie,3031922
 Volendam,Telstar,26,14 February 2020,Eerste Divisie,3031923
 MVV,Go Ahead Eagles,26,14 February 2020,Eerste Divisie,3031924
-Eindhoven,PSV II,26,14 February 2020,Eerste Divisie,3031925
 Den Bosch,Utrecht II,26,14 February 2020,Eerste Divisie,3031926
 TOP Oss,Dordrecht,26,14 February 2020,Eerste Divisie,3031927
 Excelsior,AZ II,26,14 February 2020,Eerste Divisie,3031928
@@ -4694,10 +4746,9 @@ De Graafschap,AZ II,28,28 February 2020,Eerste Divisie,3031947
 NEC,NAC Breda,28,28 February 2020,Eerste Divisie,3031948
 Roda JC,Dordrecht,28,28 February 2020,Eerste Divisie,3031949
 Ajax II,Telstar,28,28 February 2020,Eerste Divisie,3031950
-TOP Oss,Utrecht II,28,28 February 2020,Eerste Divisie,3031951
 Almere City,Helmond Sport,28,28 February 2020,Eerste Divisie,3031952
+NAC Breda,Roda JC,29,6 March 2020,Eerste Divisie,3031953
 Den Bosch,Almere City,29,6 March 2020,Eerste Divisie,3031954
-Excelsior,MVV,29,6 March 2020,Eerste Divisie,3031955
 Volendam,Ajax II,29,6 March 2020,Eerste Divisie,3031956
 Telstar,PSV II,29,6 March 2020,Eerste Divisie,3031957
 Eindhoven,TOP Oss,29,6 March 2020,Eerste Divisie,3031958
@@ -4753,8 +4804,10 @@ Cambuur,Dordrecht,35,13 April 2020,Eerste Divisie,3032013
 Utrecht II,NAC Breda,35,13 April 2020,Eerste Divisie,3032014
 Volendam,Excelsior,35,13 April 2020,Eerste Divisie,3032015
 PSV II,Helmond Sport,35,13 April 2020,Eerste Divisie,3032016
+MVV,AZ II,35,13 April 2020,Eerste Divisie,3032017
 Go Ahead Eagles,Telstar,35,13 April 2020,Eerste Divisie,3032018
 Den Bosch,Ajax II,35,13 April 2020,Eerste Divisie,3032019
+De Graafschap,TOP Oss,35,13 April 2020,Eerste Divisie,3032020
 Roda JC,Eindhoven,35,13 April 2020,Eerste Divisie,3032021
 Almere City,NEC,35,13 April 2020,Eerste Divisie,3032022
 Dordrecht,PSV II,36,17 April 2020,Eerste Divisie,3032023
@@ -4765,11 +4818,9 @@ Telstar,De Graafschap,36,17 April 2020,Eerste Divisie,3032027
 Eindhoven,Den Bosch,36,17 April 2020,Eerste Divisie,3032028
 Helmond Sport,Cambuur,36,17 April 2020,Eerste Divisie,3032029
 Excelsior,Go Ahead Eagles,36,18 April 2020,Eerste Divisie,3032030
-Ajax II,MVV,36,20 April 2020,Eerste Divisie,3032031
 AZ II,Utrecht II,36,20 April 2020,Eerste Divisie,3032032
 Cambuur,Telstar,37,24 April 2020,Eerste Divisie,3032033
 Utrecht II,Excelsior,37,24 April 2020,Eerste Divisie,3032034
-Volendam,Eindhoven,37,24 April 2020,Eerste Divisie,3032035
 Dordrecht,Go Ahead Eagles,37,24 April 2020,Eerste Divisie,3032036
 PSV II,Almere City,37,24 April 2020,Eerste Divisie,3032037
 MVV,NAC Breda,37,24 April 2020,Eerste Divisie,3032038
@@ -4786,7 +4837,6 @@ NEC,Dordrecht,38,1 May 2020,Eerste Divisie,3032048
 Ajax II,Cambuur,38,1 May 2020,Eerste Divisie,3032049
 Almere City,MVV,38,1 May 2020,Eerste Divisie,3032050
 Telstar,Helmond Sport,38,1 May 2020,Eerste Divisie,3032051
-AZ II,Roda JC,38,1 May 2020,Eerste Divisie,3032052
 Salzburg,St. Pölten,15,23 November 2019,Bundesliga,3034921
 Rapid Wien,Sturm Graz,15,24 November 2019,Bundesliga,3034922
 Mattersburg,Wolfsberger AC,15,23 November 2019,Bundesliga,3034923
@@ -4830,7 +4880,6 @@ Dornbirn,Ried,16,30 November 2019,2. Liga,3040499
 Copenhagen,Hobro,17,24 November 2019,Superliga,3026992
 SønderjyskE,Lyngby,17,24 November 2019,Superliga,3026993
 AaB,Horsens,17,24 November 2019,Superliga,3026994
-OB,Midtjylland,17,25 November 2019,Superliga,3026995
 Nordsjælland,Randers,17,22 November 2019,Superliga,3026996
 AGF,Brøndby,17,24 November 2019,Superliga,3026997
 Silkeborg,Esbjerg,17,24 November 2019,Superliga,3026998
@@ -4864,7 +4913,6 @@ Esbjerg,Copenhagen,21,16 February 2020,Superliga,3027025
 Silkeborg,AaB,21,16 February 2020,Superliga,3027026
 AaB,Brøndby,22,23 February 2020,Superliga,3027027
 Randers,OB,22,23 February 2020,Superliga,3027028
-Horsens,AGF,22,23 February 2020,Superliga,3027029
 Nordsjælland,SønderjyskE,22,23 February 2020,Superliga,3027030
 Hobro,Midtjylland,22,23 February 2020,Superliga,3027031
 Lyngby,Esbjerg,22,23 February 2020,Superliga,3027032
@@ -4883,7 +4931,6 @@ Randers,Midtjylland,24,8 March 2020,Superliga,3027044
 Nordsjælland,Brøndby,24,8 March 2020,Superliga,3027045
 Hobro,Esbjerg,24,8 March 2020,Superliga,3027046
 Silkeborg,AGF,24,8 March 2020,Superliga,3027047
-Midtjylland,Horsens,25,15 March 2020,Superliga,3027048
 Brøndby,SønderjyskE,25,15 March 2020,Superliga,3027049
 Randers,Hobro,25,15 March 2020,Superliga,3027050
 AGF,OB,25,15 March 2020,Superliga,3027051
@@ -4901,7 +4948,6 @@ Vålerenga,Molde,29,24 November 2019,Eliteserien,2951600
 Ranheim,Lillestrøm,29,24 November 2019,Eliteserien,2951601
 Sarpsborg 08,Haugesund,29,24 November 2019,Eliteserien,2951602
 Odd,Tromsø,29,24 November 2019,Eliteserien,2951603
-Bodø / Glimt,Kristiansund,29,24 November 2019,Eliteserien,2951604
 Strømsgodset,Brann,29,24 November 2019,Eliteserien,2951605
 Stabæk,Mjøndalen,29,24 November 2019,Eliteserien,2951606
 Viking,Rosenborg,29,24 November 2019,Eliteserien,2951607
@@ -4928,7 +4974,6 @@ Genk,Sint-Truiden,17,30 November 2019,First Division A,3050270
 Kortrijk,Gent,17,1 December 2019,First Division A,3050271
 KV Oostende,Anderlecht,17,1 December 2019,First Division A,3050272
 Zulte-Waregem,AS Eupen,17,30 November 2019,First Division A,3050273
-Sporting Charleroi,Waasland-Beveren,17,30 November 2019,First Division A,3050274
 Antwerp,Mechelen,17,29 November 2019,First Division A,3050275
 Anderlecht,Sporting Charleroi,18,8 December 2019,First Division A,3050277
 Gent,Zulte-Waregem,18,7 December 2019,First Division A,3050278
@@ -4940,8 +4985,6 @@ Waasland-Beveren,Antwerp,18,6 December 2019,First Division A,3050283
 Sint-Truiden,Club Brugge,18,7 December 2019,First Division A,3050284
 Club Brugge,Mechelen,19,15 December 2019,First Division A,3050285
 Standard Liège,Anderlecht,19,15 December 2019,First Division A,3050286
-Genk,Waasland-Beveren,19,14 December 2019,First Division A,3050287
-Kortrijk,Royal Excel Mouscron,19,13 December 2019,First Division A,3050288
 KV Oostende,Gent,19,15 December 2019,First Division A,3050289
 Zulte-Waregem,Sint-Truiden,19,14 December 2019,First Division A,3050290
 Sporting Charleroi,Cercle Brugge,19,14 December 2019,First Division A,3050291
@@ -4957,6 +5000,7 @@ Sint-Truiden,Antwerp,20,22 December 2019,First Division A,3050300
 Club Brugge,Zulte-Waregem,21,26 December 2019,First Division A,3050301
 Standard Liège,Gent,21,26 December 2019,First Division A,3050302
 Genk,AS Eupen,21,26 December 2019,First Division A,3050303
+Kortrijk,Cercle Brugge,21,26 December 2019,First Division A,3050304
 Royal Excel Mouscron,Mechelen,21,26 December 2019,First Division A,3050305
 Sporting Charleroi,KV Oostende,21,27 December 2019,First Division A,3050306
 Antwerp,Anderlecht,21,27 December 2019,First Division A,3050307
@@ -4964,7 +5008,6 @@ Waasland-Beveren,Sint-Truiden,21,26 December 2019,First Division A,3050308
 Anderlecht,Club Brugge,22,19 January 2020,First Division A,3050309
 Gent,Royal Excel Mouscron,22,18 January 2020,First Division A,3050310
 AS Eupen,Sporting Charleroi,22,18 January 2020,First Division A,3050311
-KV Oostende,Waasland-Beveren,22,18 January 2020,First Division A,3050312
 Zulte-Waregem,Genk,22,19 January 2020,First Division A,3050313
 Cercle Brugge,Antwerp,22,19 January 2020,First Division A,3050314
 Mechelen,Standard Liège,22,17 January 2020,First Division A,3050315
@@ -4976,30 +5019,29 @@ Bohemians 1905,Příbram,17,23 November 2019,Czech Liga,3036917
 Teplice,Baník Ostrava,17,24 November 2019,Czech Liga,3036918
 Karviná,Viktoria Plzen,17,24 November 2019,Czech Liga,3036919
 Slovan Liberec,Zlín,17,23 November 2019,Czech Liga,3036920
-Sigma Olomouc,Slavia Praha,17,23 November 2019,Czech Liga,3036921
 Příbram,Sparta Praha,18,30 November 2019,Czech Liga,3036922
 Zlín,Slovácko,18,30 November 2019,Czech Liga,3036923
-Baník Ostrava,Opava,18,30 November 2019,Czech Liga,3036924
-Viktoria Plzen,Bohemians 1905,18,30 November 2019,Czech Liga,3036925
-Mladá Boleslav,Teplice,18,30 November 2019,Czech Liga,3036926
-Slavia Praha,Karviná,18,30 November 2019,Czech Liga,3036927
+Baník Ostrava,Opava,18,29 November 2019,Czech Liga,3036924
+Viktoria Plzen,Bohemians 1905,18,1 December 2019,Czech Liga,3036925
+Mladá Boleslav,Teplice,18,1 December 2019,Czech Liga,3036926
+Slavia Praha,Karviná,18,1 December 2019,Czech Liga,3036927
 Sigma Olomouc,Slovan Liberec,18,30 November 2019,Czech Liga,3036928
-Jablonec,České Budějovice,18,30 November 2019,Czech Liga,3036929
-Karviná,Sigma Olomouc,19,7 December 2019,Czech Liga,3036930
-Slovan Liberec,Slavia Praha,19,7 December 2019,Czech Liga,3036931
+Jablonec,České Budějovice,18,1 December 2019,Czech Liga,3036929
+Karviná,Sigma Olomouc,19,8 December 2019,Czech Liga,3036930
+Slovan Liberec,Slavia Praha,19,6 December 2019,Czech Liga,3036931
 Teplice,Zlín,19,7 December 2019,Czech Liga,3036932
 Slovácko,Viktoria Plzen,19,7 December 2019,Czech Liga,3036933
-Bohemians 1905,Baník Ostrava,19,7 December 2019,Czech Liga,3036934
-Sparta Praha,Mladá Boleslav,19,7 December 2019,Czech Liga,3036935
-České Budějovice,Příbram,19,7 December 2019,Czech Liga,3036936
+Bohemians 1905,Baník Ostrava,19,6 December 2019,Czech Liga,3036934
+Sparta Praha,Mladá Boleslav,19,8 December 2019,Czech Liga,3036935
+České Budějovice,Příbram,19,8 December 2019,Czech Liga,3036936
 Opava,Jablonec,19,7 December 2019,Czech Liga,3036937
 Slovan Liberec,Karviná,20,14 December 2019,Czech Liga,3036938
 Sigma Olomouc,Bohemians 1905,20,14 December 2019,Czech Liga,3036939
-Slavia Praha,České Budějovice,20,14 December 2019,Czech Liga,3036940
+Slavia Praha,České Budějovice,20,15 December 2019,Czech Liga,3036940
 Zlín,Opava,20,14 December 2019,Czech Liga,3036941
-Viktoria Plzen,Teplice,20,14 December 2019,Czech Liga,3036942
+Viktoria Plzen,Teplice,20,15 December 2019,Czech Liga,3036942
 Baník Ostrava,Sparta Praha,20,14 December 2019,Czech Liga,3036943
-Mladá Boleslav,Jablonec,20,14 December 2019,Czech Liga,3036944
+Mladá Boleslav,Jablonec,20,13 December 2019,Czech Liga,3036944
 Příbram,Slovácko,20,14 December 2019,Czech Liga,3036945
 Sparta Praha,Slovan Liberec,21,15 February 2020,Czech Liga,3036946
 Slovácko,Baník Ostrava,21,15 February 2020,Czech Liga,3036947
@@ -5031,7 +5073,6 @@ Slovan Liberec,Opava,24,7 March 2020,Czech Liga,3036972
 Zlín,Bohemians 1905,24,7 March 2020,Czech Liga,3036973
 Baník Ostrava,Mladá Boleslav,24,7 March 2020,Czech Liga,3036974
 Karviná,Příbram,24,7 March 2020,Czech Liga,3036975
-Sigma Olomouc,Jablonec,24,7 March 2020,Czech Liga,3036976
 Viktoria Plzen,České Budějovice,24,7 March 2020,Czech Liga,3036977
 Bohemians 1905,Teplice,25,14 March 2020,Czech Liga,3036978
 Opava,Karviná,25,14 March 2020,Czech Liga,3036979
@@ -5042,7 +5083,6 @@ Jablonec,Zlín,25,14 March 2020,Czech Liga,3036983
 Sparta Praha,Viktoria Plzen,25,14 March 2020,Czech Liga,3036984
 Příbram,Baník Ostrava,25,14 March 2020,Czech Liga,3036985
 Karviná,Sparta Praha,26,21 March 2020,Czech Liga,3036986
-Slovan Liberec,Slovácko,26,21 March 2020,Czech Liga,3036987
 Teplice,Opava,26,21 March 2020,Czech Liga,3036988
 Zlín,Baník Ostrava,26,21 March 2020,Czech Liga,3036989
 Viktoria Plzen,Mladá Boleslav,26,21 March 2020,Czech Liga,3036990
@@ -5057,13 +5097,11 @@ Jablonec,Slovan Liberec,27,4 April 2020,Czech Liga,3036997
 Příbram,Slavia Praha,27,4 April 2020,Czech Liga,3036999
 Mladá Boleslav,Zlín,27,4 April 2020,Czech Liga,3037000
 Baník Ostrava,Viktoria Plzen,27,4 April 2020,Czech Liga,3037001
-Bohemians 1905,Sparta Praha,28,11 April 2020,Czech Liga,3037002
 Opava,Slovácko,28,11 April 2020,Czech Liga,3037003
 Slavia Praha,Viktoria Plzen,28,11 April 2020,Czech Liga,3037004
 Sigma Olomouc,Baník Ostrava,28,11 April 2020,Czech Liga,3037005
 Slovan Liberec,Mladá Boleslav,28,11 April 2020,Czech Liga,3037006
 Zlín,Příbram,28,11 April 2020,Czech Liga,3037007
-Teplice,Jablonec,28,11 April 2020,Czech Liga,3037008
 Karviná,České Budějovice,28,11 April 2020,Czech Liga,3037009
 Sparta Praha,Opava,29,18 April 2020,Czech Liga,3037010
 Slovácko,Bohemians 1905,29,18 April 2020,Czech Liga,3037011
@@ -5083,11 +5121,21 @@ Bohemians 1905,Jablonec,30,25 April 2020,Czech Liga,3037024
 Opava,České Budějovice,30,25 April 2020,Czech Liga,3037025
 Dinamo Zagreb,Rijeka,6,18 December 2019,1. HNL,3029841
 Inter Zaprešić,Rijeka,16,24 November 2019,1. HNL,3029887
+Dinamo Zagreb,Hajduk Split,16,22 November 2019,1. HNL,3029888
+Osijek,Istra 1961,16,24 November 2019,1. HNL,3029889
 Gorica,Varaždin,16,23 November 2019,1. HNL,3029890
+Slaven Koprivnica,Lokomotiva Zagreb,16,23 November 2019,1. HNL,3029891
+Slaven Koprivnica,Inter Zaprešić,17,29 November 2019,1. HNL,3029892
+Varaždin,Osijek,17,30 November 2019,1. HNL,3029894
+Hajduk Split,Rijeka,17,1 December 2019,1. HNL,3029896
+Inter Zaprešić,Hajduk Split,18,7 December 2019,1. HNL,3029897
+Rijeka,Istra 1961,18,8 December 2019,1. HNL,3029898
+Dinamo Zagreb,Varaždin,18,6 December 2019,1. HNL,3029899
+Osijek,Lokomotiva Zagreb,18,8 December 2019,1. HNL,3029900
+Gorica,Slaven Koprivnica,18,7 December 2019,1. HNL,3029901
 Cracovia Kraków,Zagłębie Lubin,16,25 November 2019,Ekstraklasa,3025820
 Górnik Zabrze,Wisła Płock,16,22 November 2019,Ekstraklasa,3025821
 Jagiellonia Białystok,Arka Gdynia,16,24 November 2019,Ekstraklasa,3025822
-Korona Kielce,Raków Częstochowa,16,23 November 2019,Ekstraklasa,3025823
 Lech Poznań,Piast Gliwice,16,22 November 2019,Ekstraklasa,3025824
 Lechia Gdańsk,ŁKS Łódź,16,23 November 2019,Ekstraklasa,3025825
 Pogoń Szczecin,Legia Warszawa,16,23 November 2019,Ekstraklasa,3025826
@@ -5108,12 +5156,26 @@ Lech Poznań,ŁKS Łódź,18,7 December 2019,Ekstraklasa,3025840
 Lechia Gdańsk,Wisła Płock,18,7 December 2019,Ekstraklasa,3025841
 Pogoń Szczecin,Piast Gliwice,18,8 December 2019,Ekstraklasa,3025842
 Śląsk Wrocław,Legia Warszawa,18,8 December 2019,Ekstraklasa,3025843
+Arka Gdynia,Zagłębie Lubin,19,13 December 2019,Ekstraklasa,3025844
+Jagiellonia Białystok,Lechia Gdańsk,19,15 December 2019,Ekstraklasa,3025845
+Korona Kielce,Cracovia Kraków,19,15 December 2019,Ekstraklasa,3025846
+Legia Warszawa,Wisła Płock,19,14 December 2019,Ekstraklasa,3025847
+Piast Gliwice,ŁKS Łódź,19,15 December 2019,Ekstraklasa,3025848
+Raków Częstochowa,Górnik Zabrze,19,14 December 2019,Ekstraklasa,3025849
+Śląsk Wrocław,Lech Poznań,19,14 December 2019,Ekstraklasa,3025850
+Wisła Kraków,Pogoń Szczecin,19,13 December 2019,Ekstraklasa,3025851
+Cracovia Kraków,Śląsk Wrocław,20,20 December 2019,Ekstraklasa,3025852
+Górnik Zabrze,Jagiellonia Białystok,20,21 December 2019,Ekstraklasa,3025853
+Lech Poznań,Arka Gdynia,20,19 December 2019,Ekstraklasa,3025854
+Lechia Gdańsk,Raków Częstochowa,20,21 December 2019,Ekstraklasa,3025855
+ŁKS Łódź,Wisła Kraków,20,19 December 2019,Ekstraklasa,3025856
+Wisła Płock,Piast Gliwice,20,21 December 2019,Ekstraklasa,3025858
+Zagłębie Lubin,Legia Warszawa,20,20 December 2019,Ekstraklasa,3025859
 Tambov,Lokomotiv Moscow,17,22 November 2019,Premier League,3027201
 CSKA Moscow,Krylya Sovetov,17,24 November 2019,Premier League,3027202
 Dinamo Moscow,Rostov,17,23 November 2019,Premier League,3027203
 Rubin Kazan,Zenit,17,23 November 2019,Premier League,3027204
 Arsenal Tula,Krasnodar,17,24 November 2019,Premier League,3027205
-Ufa,Sochi,17,24 November 2019,Premier League,3027206
 Ural,Spartak Moscow,17,24 November 2019,Premier League,3027207
 Orenburg,Akhmat Grozny,17,23 November 2019,Premier League,3027208
 Zenit,Spartak Moscow,18,1 December 2019,Premier League,3027209
@@ -5127,9 +5189,25 @@ Krylya Sovetov,Ufa,18,30 November 2019,Premier League,3027216
 Zenit,Dinamo Moscow,19,6 December 2019,Premier League,3027217
 Spartak Moscow,Rostov,19,8 December 2019,Premier League,3027218
 Krasnodar,CSKA Moscow,19,7 December 2019,Premier League,3027219
+Tambov,Orenburg,19,7 December 2019,Premier League,3027220
 Akhmat Grozny,Ufa,19,7 December 2019,Premier League,3027221
 Sochi,Rubin Kazan,19,8 December 2019,Premier League,3027222
+Arsenal Tula,Lokomotiv Moscow,19,6 December 2019,Premier League,3027223
 Krylya Sovetov,Ural,19,8 December 2019,Premier League,3027224
+Baltika,SKA Khabarovsk,24,17 November 2019,FNL,3028367
+Mordovia Saransk,Fakel,24,17 November 2019,FNL,3028368
+Nizhny Novgorod,Chayka,24,17 November 2019,FNL,3028369
+Armavir,Torpedo Moskva,24,17 November 2019,FNL,3028370
+Avangard Kursk,Shinnik,24,17 November 2019,FNL,3028371
+Spartak Moskva II,Luch Vladivostok,24,17 November 2019,FNL,3028372
+Tekstilshchik,Neftekhimik,24,17 November 2019,FNL,3028373
+Yenisey,Tom Tomsk,24,17 November 2019,FNL,3028374
+Rotor Volgograd,Krasnodar II,24,17 November 2019,FNL,3028375
+Khimki,Chertanovo,24,17 November 2019,FNL,3028376
+Fakel,Nizhny Novgorod,25,23 November 2019,FNL,3028379
+Spartak Moskva II,Avangard Kursk,25,23 November 2019,FNL,3028382
+Neftekhimik,Yenisey,25,23 November 2019,FNL,3028384
+Krasnodar II,Khimki,25,23 November 2019,FNL,3028386
 Servette,Basel,15,23 November 2019,Super League,3037885
 Sion,Young Boys,15,24 November 2019,Super League,3037886
 St. Gallen,Neuchâtel Xamax,15,24 November 2019,Super League,3037887
@@ -5140,7 +5218,7 @@ Lugano,Servette,16,1 December 2019,Super League,3037891
 Luzern,St. Gallen,16,1 December 2019,Super League,3037892
 Neuchâtel Xamax,Zürich,16,30 November 2019,Super League,3037893
 Sion,Thun,16,30 November 2019,Super League,3037894
-Neuchâtel Xamax,Lugano,17,7 December 2019,Super League,3037896
+Basel,Sion,17,8 December 2019,Super League,3037895
 Thun,St. Gallen,17,8 December 2019,Super League,3037897
 Young Boys,Luzern,17,7 December 2019,Super League,3037898
 Zürich,Servette,17,8 December 2019,Super League,3037899
@@ -5156,7 +5234,6 @@ Antalyaspor,Gaziantep FK,12,25 November 2019,Süper Lig,3081879
 Ankaragücü,Trabzonspor,12,23 November 2019,Süper Lig,3081880
 Alanyaspor,Göztepe,12,24 November 2019,Süper Lig,3081881
 Yeni Malatyaspor,Fenerbahçe,12,24 November 2019,Süper Lig,3081882
-Kayserispor,Sivasspor,12,24 November 2019,Süper Lig,3081883
 Denizlispor,Rizespor,12,23 November 2019,Süper Lig,3081884
 Sivasspor,Kasımpaşa,13,30 November 2019,Süper Lig,3081885
 Gaziantep FK,Denizlispor,13,1 December 2019,Süper Lig,3081886
@@ -5178,7 +5255,6 @@ Konyaspor,Gaziantep FK,14,8 December 2019,Süper Lig,3081901
 Denizlispor,Istanbul Basaksehir,14,8 December 2019,Süper Lig,3081902
 Sivasspor,Fenerbahçe,15,15 December 2019,Süper Lig,3081903
 Trabzonspor,Denizlispor,15,16 December 2019,Süper Lig,3081904
-Rizespor,Kasımpaşa,15,14 December 2019,Süper Lig,3081905
 Gençlerbirliği,Göztepe,15,14 December 2019,Süper Lig,3081906
 Alanyaspor,Antalyaspor,15,13 December 2019,Süper Lig,3081907
 Istanbul Basaksehir,Konyaspor,15,16 December 2019,Süper Lig,3081908
@@ -5187,7 +5263,6 @@ Beşiktaş,Yeni Malatyaspor,15,15 December 2019,Süper Lig,3081910
 Galatasaray,Ankaragücü,15,14 December 2019,Süper Lig,3081911
 Yeni Malatyaspor,Rizespor,16,21 December 2019,Süper Lig,3081912
 Konyaspor,Trabzonspor,16,23 December 2019,Süper Lig,3081913
-Göztepe,Galatasaray,16,21 December 2019,Süper Lig,3081914
 Antalyaspor,Ankaragücü,16,20 December 2019,Süper Lig,3081915
 Gençlerbirliği,Sivasspor,16,22 December 2019,Süper Lig,3081916
 Fenerbahçe,Beşiktaş,16,22 December 2019,Süper Lig,3081917
@@ -5195,6 +5270,7 @@ Kasımpaşa,Gaziantep FK,16,21 December 2019,Süper Lig,3081918
 Kayserispor,Istanbul Basaksehir,16,22 December 2019,Süper Lig,3081919
 Denizlispor,Alanyaspor,16,23 December 2019,Süper Lig,3081920
 Sivasspor,Göztepe,17,29 December 2019,Süper Lig,3081921
+Istanbul Basaksehir,Kasımpaşa,17,28 December 2019,Süper Lig,3081922
 Beşiktaş,Gençlerbirliği,17,27 December 2019,Süper Lig,3081923
 Ankaragücü,Denizlispor,17,28 December 2019,Süper Lig,3081924
 Alanyaspor,Konyaspor,17,29 December 2019,Süper Lig,3081925
@@ -5202,7 +5278,6 @@ Trabzonspor,Kayserispor,17,28 December 2019,Süper Lig,3081926
 Gaziantep FK,Yeni Malatyaspor,17,29 December 2019,Süper Lig,3081927
 Rizespor,Fenerbahçe,17,29 December 2019,Süper Lig,3081928
 Galatasaray,Antalyaspor,17,28 December 2019,Süper Lig,3081929
-Larissa,Lamia,10,11 November 2019,Super League 1,3051932
 AEK Athens,Aris,11,24 November 2019,Super League 1,3051939
 Asteras Tripolis,Volos NFC,11,24 November 2019,Super League 1,3051940
 Atromitos,OFI,11,24 November 2019,Super League 1,3051941
@@ -5233,7 +5308,9 @@ Panathinaikos,Lamia,14,14 December 2019,Super League 1,3051965
 Panaitolikos,PAOK,14,15 December 2019,Super League 1,3051966
 AEK Athens,Asteras Tripolis,15,18 December 2019,Super League 1,3051967
 Xanthi,Panaitolikos,15,18 December 2019,Super League 1,3051968
+Aris,Volos NFC,15,19 December 2019,Super League 1,3051969
 Atromitos,Lamia,15,18 December 2019,Super League 1,3051970
+Olympiakos Piraeus,Larissa,15,18 December 2019,Super League 1,3051971
 OFI,Panathinaikos,15,18 December 2019,Super League 1,3051972
 Panionios,PAOK,15,19 December 2019,Super League 1,3051973
 Larissa,Panionios,16,22 December 2019,Super League 1,3051974
@@ -5247,9 +5324,28 @@ CFR Cluj,Chindia Târgovişte,17,22 November 2019,Liga I,3048367
 Universitatea Craiova,Hermannstadt,17,24 November 2019,Liga I,3048368
 Viitorul,Sepsi,17,25 November 2019,Liga I,3048369
 Gaz Metan Mediaş,Botoşani,17,24 November 2019,Liga I,3048370
-FCSB,Astra,17,23 November 2019,Liga I,3048371
 Academica Clinceni,Dinamo Bucureşti,17,24 November 2019,Liga I,3048372
 Politehnica Iași,Voluntari,17,23 November 2019,Liga I,3048373
+Hermannstadt,CFR Cluj,18,1 December 2019,Liga I,3048374
+Sepsi,Universitatea Craiova,18,30 November 2019,Liga I,3048375
+Botoşani,Viitorul,18,2 December 2019,Liga I,3048376
+Astra,Gaz Metan Mediaş,18,29 November 2019,Liga I,3048377
+Chindia Târgovişte,Academica Clinceni,18,1 December 2019,Liga I,3048378
+Voluntari,FCSB,18,30 November 2019,Liga I,3048379
+Dinamo Bucureşti,Politehnica Iași,18,29 November 2019,Liga I,3048380
+CFR Cluj,Sepsi,19,4 December 2019,Liga I,3048381
+Viitorul,Astra,19,5 December 2019,Liga I,3048383
+Academica Clinceni,Hermannstadt,19,4 December 2019,Liga I,3048384
+Gaz Metan Mediaş,Voluntari,19,3 December 2019,Liga I,3048385
+Dinamo Bucureşti,Chindia Târgovişte,19,4 December 2019,Liga I,3048386
+Politehnica Iași,FCSB,19,3 December 2019,Liga I,3048387
+Botoşani,CFR Cluj,20,8 December 2019,Liga I,3048388
+Astra,Universitatea Craiova,20,9 December 2019,Liga I,3048389
+Sepsi,Academica Clinceni,20,9 December 2019,Liga I,3048390
+Voluntari,Viitorul,20,8 December 2019,Liga I,3048391
+Hermannstadt,Dinamo Bucureşti,20,7 December 2019,Liga I,3048392
+FCSB,Gaz Metan Mediaş,20,6 December 2019,Liga I,3048393
+Chindia Târgovişte,Politehnica Iași,20,7 December 2019,Liga I,3048394
 Ružomberok,Senica,16,23 November 2019,Super Liga,3032666
 Pohronie,Zlaté Moravce,16,23 November 2019,Super Liga,3032667
 Zemplín Michalovce,DAC,16,23 November 2019,Super Liga,3032668
@@ -5276,7 +5372,6 @@ Spartak Trnava,Slovan Bratislava,19,15 February 2020,Super Liga,3032688
 Sereď,Ružomberok,19,15 February 2020,Super Liga,3032689
 Senica,Spartak Trnava,20,22 February 2020,Super Liga,3032690
 Zlaté Moravce,Sereď,20,22 February 2020,Super Liga,3032691
-Ružomberok,DAC,20,22 February 2020,Super Liga,3032692
 Pohronie,Žilina,20,22 February 2020,Super Liga,3032693
 Slovan Bratislava,Trenčín,20,22 February 2020,Super Liga,3032694
 Zemplín Michalovce,Nitra,20,22 February 2020,Super Liga,3032695
@@ -5292,10 +5387,7 @@ Senica,Nitra,22,7 March 2020,Super Liga,3032704
 Zlaté Moravce,Trenčín,22,7 March 2020,Super Liga,3032705
 DAC,Spartak Trnava,22,7 March 2020,Super Liga,3032706
 Zemplín Michalovce,Pohronie,22,7 March 2020,Super Liga,3032707
-Chapecoense,Grêmio,32,10 November 2019,Serie A,2989233
-CSA,Vasco da Gama,32,10 November 2019,Serie A,2989235
 Grêmio,Flamengo,33,17 November 2019,Serie A,2989236
-Cruzeiro,Avaí,33,19 November 2019,Serie A,2989237
 Fortaleza,CSA,33,17 November 2019,Serie A,2989238
 Corinthians,Internacional,33,17 November 2019,Serie A,2989239
 Santos,São Paulo,33,16 November 2019,Serie A,2989240
@@ -5309,14 +5401,13 @@ Atlético Mineiro,Athletico Paranaense,34,24 November 2019,Serie A,2989247
 Ceará,São Paulo,34,24 November 2019,Serie A,2989248
 Palmeiras,Grêmio,34,24 November 2019,Serie A,2989249
 Santos,Cruzeiro,34,24 November 2019,Serie A,2989250
-Flamengo,Vasco da Gama,34,14 November 2019,Serie A,2989251
 Botafogo,Corinthians,34,24 November 2019,Serie A,2989252
 Avaí,Chapecoense,34,24 November 2019,Serie A,2989253
 Goiás,Bahia,34,24 November 2019,Serie A,2989254
 CSA,Fluminense,34,26 November 2019,Serie A,2989255
 Internacional,Goiás,35,27 November 2019,Serie A,2989256
 Cruzeiro,CSA,35,29 November 2019,Serie A,2989257
-Fortaleza,Santos,35,28 November 2019,Serie A,2989258
+Fortaleza,Santos,35,29 November 2019,Serie A,2989258
 Corinthians,Avaí,35,28 November 2019,Serie A,2989259
 São Paulo,Vasco da Gama,35,29 November 2019,Serie A,2989260
 Flamengo,Ceará,35,28 November 2019,Serie A,2989261
@@ -5334,18 +5425,7 @@ Botafogo,Internacional,36,30 November 2019,Serie A,2989272
 Avaí,Fluminense,36,1 December 2019,Serie A,2989273
 Goiás,Fortaleza,36,1 December 2019,Serie A,2989274
 CSA,Bahia,36,1 December 2019,Serie A,2989275
-Ponte Preta,Figueirense,35,13 November 2019,Serie B,2988214
-Botafogo SP,Sport Recife,35,14 November 2019,Serie B,2988215
-Oeste,Atlético GO,35,12 November 2019,Serie B,2988216
-Vila Nova,Guarani,35,13 November 2019,Serie B,2988217
-Paraná,São Bento,35,13 November 2019,Serie B,2988218
-Operário PR,RB Bragantino,35,13 November 2019,Serie B,2988219
-Criciúma,Londrina,35,13 November 2019,Serie B,2988220
-Brasil de Pelotas,Coritiba,35,12 November 2019,Serie B,2988221
-Vitória,CRB,35,12 November 2019,Serie B,2988222
-Cuiabá,América Mineiro,35,12 November 2019,Serie B,2988223
 Guarani,Operário PR,36,16 November 2019,Serie B,2988224
-RB Bragantino,Criciúma,36,15 November 2019,Serie B,2988225
 São Bento,Brasil de Pelotas,36,17 November 2019,Serie B,2988226
 Atlético GO,Paraná,36,16 November 2019,Serie B,2988227
 Coritiba,Oeste,36,16 November 2019,Serie B,2988228
@@ -5358,20 +5438,19 @@ Guarani,América Mineiro,37,23 November 2019,Serie B,2988234
 Botafogo SP,Cuiabá,37,23 November 2019,Serie B,2988235
 São Bento,Londrina,37,21 November 2019,Serie B,2988236
 Vila Nova,Oeste,37,20 November 2019,Serie B,2988237
-Coritiba,RB Bragantino,37,22 November 2019,Serie B,2988238
-Operário PR,Vitória,37,20 November 2019,Serie B,2988239
+Coritiba,RB Bragantino,37,24 November 2019,Serie B,2988238
 Criciúma,Paraná,37,19 November 2019,Serie B,2988240
 Brasil de Pelotas,Atlético GO,37,22 November 2019,Serie B,2988241
 Sport Recife,Ponte Preta,37,21 November 2019,Serie B,2988242
-CRB,Figueirense,37,22 November 2019,Serie B,2988243
-Ponte Preta,Brasil de Pelotas,38,30 November 2019,Serie B,2988244
+RB Bragantino,CRB,38,30 November 2019,Serie B,2988245
+Oeste,Criciúma,38,30 November 2019,Serie B,2988246
 Atlético GO,Sport Recife,38,30 November 2019,Serie B,2988247
+Paraná,Botafogo SP,38,30 November 2019,Serie B,2988248
 Londrina,Guarani,38,30 November 2019,Serie B,2988249
 Figueirense,Operário PR,38,30 November 2019,Serie B,2988250
 América Mineiro,São Bento,38,30 November 2019,Serie B,2988251
 Vitória,Coritiba,38,30 November 2019,Serie B,2988252
 Cuiabá,Vila Nova,38,30 November 2019,Serie B,2988253
-Santos Laguna,Cruz Azul,18,11 November 2019,Liga MX,3041118
 Puebla,Necaxa,19,23 November 2019,Liga MX,3041119
 Tijuana,León,19,23 November 2019,Liga MX,3041120
 Querétaro,Morelia,19,24 November 2019,Liga MX,3041121
@@ -5409,11 +5488,13 @@ Consadole Sapporo,Júbilo Iwata,32,23 November 2019,J1 League,2973115
 Tokyo,Shonan Bellmare,32,23 November 2019,J1 League,2973117
 Matsumoto Yamaga,Yokohama F. Marinos,32,23 November 2019,J1 League,2973118
 Shimizu S-Pulse,Oita Trinita,32,23 November 2019,J1 League,2973119
+Nagoya Grampus,Sagan Tosu,32,23 November 2019,J1 League,2973120
+Gamba Osaka,Vegalta Sendai,32,23 November 2019,J1 League,2973121
 Vissel Kobe,Cerezo Osaka,32,23 November 2019,J1 League,2973122
+Sanfrecce Hiroshima,Kashima Antlers,32,23 November 2019,J1 League,2973123
 Vegalta Sendai,Oita Trinita,33,30 November 2019,J1 League,2973124
 Kashima Antlers,Vissel Kobe,33,30 November 2019,J1 League,2973125
 Tokyo,Urawa Reds,33,30 November 2019,J1 League,2973126
-Kawasaki Frontale,Yokohama F. Marinos,33,30 November 2019,J1 League,2973127
 Shonan Bellmare,Sanfrecce Hiroshima,33,30 November 2019,J1 League,2973128
 Júbilo Iwata,Nagoya Grampus,33,30 November 2019,J1 League,2973129
 Gamba Osaka,Matsumoto Yamaga,33,30 November 2019,J1 League,2973130
@@ -5431,7 +5512,6 @@ Oita Trinita,Cerezo Osaka,34,7 December 2019,J1 League,2973141
 Omiya Ardija,Albirex Niigata,41,16 November 2019,J2 League,2972718
 Tokyo Verdy,Tokushima Vortis,41,16 November 2019,J2 League,2972719
 Machida Zelvia,Kashiwa Reysol,41,16 November 2019,J2 League,2972720
-Gifu,Ventforet Kofu,41,16 November 2019,J2 League,2972721
 Kyoto Sanga,JEF United,41,16 November 2019,J2 League,2972722
 Fagiano Okayama,Yokohama,41,16 November 2019,J2 League,2972723
 Renofa Yamaguchi,Montedio Yamagata,41,16 November 2019,J2 League,2972724
@@ -5442,7 +5522,11 @@ Kagoshima United,Mito Hollyhock,41,16 November 2019,J2 League,2972728
 Montedio Yamagata,Machida Zelvia,42,24 November 2019,J2 League,2972729
 Mito Hollyhock,Fagiano Okayama,42,24 November 2019,J2 League,2972730
 JEF United,Tochigi,42,24 November 2019,J2 League,2972731
+Kashiwa Reysol,Kyoto Sanga,42,24 November 2019,J2 League,2972732
+Tokyo Verdy,Gifu,42,24 November 2019,J2 League,2972733
 Yokohama,Ehime,42,24 November 2019,J2 League,2972734
+Ventforet Kofu,Ryūkyū,42,24 November 2019,J2 League,2972735
+Albirex Niigata,V-Varen Nagasaki,42,24 November 2019,J2 League,2972736
 Zweigen Kanazawa,Omiya Ardija,42,24 November 2019,J2 League,2972737
 Tokushima Vortis,Renofa Yamaguchi,42,24 November 2019,J2 League,2972738
 Avispa Fukuoka,Kagoshima United,42,24 November 2019,J2 League,2972739
@@ -5495,8 +5579,11 @@ Newcastle Jets,Melbourne City,10,15 December 2019,A-League,3129319
 Western Sydney Wanderers,Western United,11,20 December 2019,A-League,3129320
 Wellington Phoenix,Sydney,11,21 December 2019,A-League,3129321
 Melbourne City,Melbourne Victory,11,21 December 2019,A-League,3129322
+Perth Glory,Newcastle Jets,11,21 December 2019,A-League,3129323
+Central Coast Mariners,Adelaide United,11,22 December 2019,A-League,3129324
 Adelaide United,Western Sydney Wanderers,12,27 December 2019,A-League,3129325
 Western United,Wellington Phoenix,12,28 December 2019,A-League,3129326
+Newcastle Jets,Brisbane Roar,12,28 December 2019,A-League,3129327
 Sydney,Melbourne City,12,29 December 2019,A-League,3129328
 Central Coast Mariners,Perth Glory,12,31 December 2019,A-League,3129329
 Western Sydney Wanderers,Brisbane Roar,13,1 January 2020,A-League,3129330
@@ -5534,7 +5621,11 @@ Wellington Phoenix,Melbourne City,19,15 February 2020,A-League,3129361
 Western Sydney Wanderers,Newcastle Jets,19,15 February 2020,A-League,3129362
 Western United,Brisbane Roar,19,16 February 2020,A-League,3129363
 Wellington Phoenix,Western United,20,21 February 2020,A-League,3129364
+Western Sydney Wanderers,Adelaide United,20,21 February 2020,A-League,3129365
+Newcastle Jets,Melbourne Victory,20,22 February 2020,A-League,3129366
 Central Coast Mariners,Sydney,20,22 February 2020,A-League,3129367
+Brisbane Roar,Perth Glory,20,23 February 2020,A-League,3129368
+Sydney,Wellington Phoenix,21,28 February 2020,A-League,3129369
 Newcastle Jets,Perth Glory,21,29 February 2020,A-League,3129370
 Melbourne Victory,Adelaide United,21,29 February 2020,A-League,3129371
 Western United,Central Coast Mariners,21,1 March 2020,A-League,3129372

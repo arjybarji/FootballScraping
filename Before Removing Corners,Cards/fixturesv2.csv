@@ -7,6 +7,7 @@ Everton,Norwich City,13,23 November 2019,Premier League,3029198
 Manchester City,Chelsea,13,23 November 2019,Premier League,3029199
 Sheffield United,Manchester United,13,24 November 2019,Premier League,3029200
 Watford,Burnley,13,23 November 2019,Premier League,3029201
+West Ham United,Tottenham Hotspur,13,23 November 2019,Premier League,3029202
 Burnley,Crystal Palace,14,30 November 2019,Premier League,3029203
 Chelsea,West Ham United,14,30 November 2019,Premier League,3029204
 Leicester City,Everton,14,1 December 2019,Premier League,3029205
@@ -34,6 +35,7 @@ Everton,Chelsea,16,7 December 2019,Premier League,3029226
 Manchester City,Manchester United,16,7 December 2019,Premier League,3029227
 Newcastle United,Southampton,16,8 December 2019,Premier League,3029228
 Norwich City,Sheffield United,16,8 December 2019,Premier League,3029229
+Tottenham Hotspur,Burnley,16,7 December 2019,Premier League,3029230
 Watford,Crystal Palace,16,7 December 2019,Premier League,3029231
 West Ham United,Arsenal,16,9 December 2019,Premier League,3029232
 Arsenal,Manchester City,17,15 December 2019,Premier League,3029233
@@ -59,6 +61,7 @@ AFC Bournemouth,Arsenal,19,26 December 2019,Premier League,3029253
 Aston Villa,Norwich City,19,26 December 2019,Premier League,3029254
 Chelsea,Southampton,19,26 December 2019,Premier League,3029255
 Crystal Palace,West Ham United,19,26 December 2019,Premier League,3029256
+Everton,Burnley,19,26 December 2019,Premier League,3029257
 Leicester City,Liverpool,19,26 December 2019,Premier League,3029258
 Manchester United,Newcastle United,19,26 December 2019,Premier League,3029259
 Sheffield United,Watford,19,26 December 2019,Premier League,3029260
@@ -68,6 +71,7 @@ Arsenal,Chelsea,20,29 December 2019,Premier League,3029263
 Brighton & Hove Albion,AFC Bournemouth,20,28 December 2019,Premier League,3029264
 Burnley,Manchester United,20,28 December 2019,Premier League,3029265
 Liverpool,Wolverhampton Wanderers,20,29 December 2019,Premier League,3029266
+Manchester City,Sheffield United,20,29 December 2019,Premier League,3029267
 Newcastle United,Everton,20,28 December 2019,Premier League,3029268
 Norwich City,Tottenham Hotspur,20,28 December 2019,Premier League,3029269
 Southampton,Crystal Palace,20,28 December 2019,Premier League,3029270
@@ -86,6 +90,8 @@ West Ham United,AFC Bournemouth,21,1 January 2020,Premier League,3029282
 AFC Bournemouth,Watford,22,12 January 2020,Premier League,3029283
 Aston Villa,Manchester City,22,12 January 2020,Premier League,3029284
 Chelsea,Burnley,22,11 January 2020,Premier League,3029285
+Crystal Palace,Arsenal,22,11 January 2020,Premier League,3029286
+Everton,Brighton & Hove Albion,22,11 January 2020,Premier League,3029287
 Leicester City,Southampton,22,11 January 2020,Premier League,3029288
 Manchester United,Norwich City,22,11 January 2020,Premier League,3029289
 Sheffield United,West Ham United,22,10 January 2020,Premier League,3029290
@@ -103,6 +109,7 @@ Watford,Tottenham Hotspur,23,18 January 2020,Premier League,3029301
 West Ham United,Everton,23,18 January 2020,Premier League,3029302
 AFC Bournemouth,Brighton & Hove Albion,24,21 January 2020,Premier League,3029303
 Aston Villa,Watford,24,21 January 2020,Premier League,3029304
+Everton,Newcastle United,24,21 January 2020,Premier League,3029305
 Leicester City,West Ham United,24,22 January 2020,Premier League,3029306
 Manchester United,Burnley,24,22 January 2020,Premier League,3029307
 Sheffield United,Manchester City,24,21 January 2020,Premier League,3029308
@@ -112,6 +119,7 @@ Crystal Palace,Southampton,24,21 January 2020,Premier League,3029311
 Tottenham Hotspur,Norwich City,24,22 January 2020,Premier League,3029312
 AFC Bournemouth,Aston Villa,25,1 February 2020,Premier League,3029313
 Burnley,Arsenal,25,1 February 2020,Premier League,3029314
+Crystal Palace,Sheffield United,25,1 February 2020,Premier League,3029315
 Leicester City,Chelsea,25,1 February 2020,Premier League,3029316
 Liverpool,Southampton,25,1 February 2020,Premier League,3029317
 Manchester United,Wolverhampton Wanderers,25,1 February 2020,Premier League,3029318
@@ -139,6 +147,7 @@ Manchester United,Watford,27,22 February 2020,Premier League,3029339
 Sheffield United,Brighton & Hove Albion,27,22 February 2020,Premier League,3029340
 Southampton,Aston Villa,27,22 February 2020,Premier League,3029341
 Wolverhampton Wanderers,Norwich City,27,22 February 2020,Premier League,3029342
+AFC Bournemouth,Chelsea,28,29 February 2020,Premier League,3029343
 Aston Villa,Sheffield United,28,29 February 2020,Premier League,3029344
 Brighton & Hove Albion,Crystal Palace,28,29 February 2020,Premier League,3029345
 Everton,Manchester United,28,29 February 2020,Premier League,3029346
@@ -188,6 +197,8 @@ Manchester City,Liverpool,32,4 April 2020,Premier League,3029389
 Sheffield United,Tottenham Hotspur,32,4 April 2020,Premier League,3029390
 Watford,Southampton,32,4 April 2020,Premier League,3029391
 West Ham United,Chelsea,32,4 April 2020,Premier League,3029392
+Burnley,Sheffield United,33,11 April 2020,Premier League,3029393
+Chelsea,Watford,33,11 April 2020,Premier League,3029394
 Leicester City,Crystal Palace,33,11 April 2020,Premier League,3029395
 Liverpool,Aston Villa,33,11 April 2020,Premier League,3029396
 Manchester United,AFC Bournemouth,33,11 April 2020,Premier League,3029397
@@ -205,6 +216,8 @@ Everton,Southampton,34,18 April 2020,Premier League,3029408
 Manchester City,Newcastle United,34,18 April 2020,Premier League,3029409
 Sheffield United,Wolverhampton Wanderers,34,18 April 2020,Premier League,3029410
 Watford,Norwich City,34,18 April 2020,Premier League,3029411
+West Ham United,Burnley,34,18 April 2020,Premier League,3029412
+AFC Bournemouth,Leicester City,35,25 April 2020,Premier League,3029413
 Aston Villa,Crystal Palace,35,25 April 2020,Premier League,3029414
 Brighton & Hove Albion,Manchester City,35,25 April 2020,Premier League,3029415
 Liverpool,Burnley,35,25 April 2020,Premier League,3029416
@@ -218,6 +231,7 @@ Arsenal,Liverpool,36,2 May 2020,Premier League,3029423
 Burnley,Wolverhampton Wanderers,36,2 May 2020,Premier League,3029424
 Chelsea,Norwich City,36,2 May 2020,Premier League,3029425
 Crystal Palace,Manchester United,36,2 May 2020,Premier League,3029426
+Everton,Aston Villa,36,2 May 2020,Premier League,3029427
 Leicester City,Sheffield United,36,2 May 2020,Premier League,3029428
 Manchester City,AFC Bournemouth,36,2 May 2020,Premier League,3029429
 Newcastle United,Tottenham Hotspur,36,2 May 2020,Premier League,3029430
@@ -235,6 +249,7 @@ Watford,Manchester City,37,9 May 2020,Premier League,3029441
 Wolverhampton Wanderers,Crystal Palace,37,9 May 2020,Premier League,3029442
 Arsenal,Watford,38,17 May 2020,Premier League,3029443
 Burnley,Brighton & Hove Albion,38,17 May 2020,Premier League,3029444
+Chelsea,Wolverhampton Wanderers,38,17 May 2020,Premier League,3029445
 Crystal Palace,Tottenham Hotspur,38,17 May 2020,Premier League,3029446
 Everton,AFC Bournemouth,38,17 May 2020,Premier League,3029447
 Leicester City,Manchester United,38,17 May 2020,Premier League,3029448
@@ -261,6 +276,8 @@ Hellas Verona,Roma,14,1 December 2019,Serie A,3111834
 Internazionale,SPAL,14,1 December 2019,Serie A,3111835
 Juventus,Sassuolo,14,1 December 2019,Serie A,3111836
 Lazio,Udinese,14,1 December 2019,Serie A,3111837
+Napoli,Bologna,14,1 December 2019,Serie A,3111838
+Parma,Milan,14,1 December 2019,Serie A,3111839
 Atalanta,Hellas Verona,15,7 December 2019,Serie A,3111840
 Bologna,Milan,15,8 December 2019,Serie A,3111841
 Internazionale,Roma,15,6 December 2019,Serie A,3111842
@@ -273,6 +290,7 @@ Torino,Fiorentina,15,8 December 2019,Serie A,3111848
 Udinese,Napoli,15,7 December 2019,Serie A,3111849
 Bologna,Atalanta,16,15 December 2019,Serie A,3111850
 Brescia,Lecce,16,14 December 2019,Serie A,3111851
+Cagliari,Lazio,16,16 December 2019,Serie A,3111852
 Fiorentina,Internazionale,16,15 December 2019,Serie A,3111853
 Genoa,Sampdoria,16,14 December 2019,Serie A,3111854
 Hellas Verona,Torino,16,15 December 2019,Serie A,3111855
@@ -285,6 +303,7 @@ Fiorentina,Roma,17,20 December 2019,Serie A,3111861
 Internazionale,Genoa,17,21 December 2019,Serie A,3111862
 Lazio,Hellas Verona,17,8 January 2020,Serie A,3111863
 Lecce,Bologna,17,22 December 2019,Serie A,3111864
+Parma,Brescia,17,22 December 2019,Serie A,3111865
 Sampdoria,Juventus,17,18 December 2019,Serie A,3111866
 Sassuolo,Napoli,17,22 December 2019,Serie A,3111867
 Torino,SPAL,17,21 December 2019,Serie A,3111868
@@ -301,6 +320,7 @@ Roma,Torino,18,5 January 2020,Serie A,3111878
 SPAL,Hellas Verona,18,5 January 2020,Serie A,3111879
 Cagliari,Milan,19,12 January 2020,Serie A,3111880
 Fiorentina,SPAL,19,12 January 2020,Serie A,3111881
+Hellas Verona,Genoa,19,12 January 2020,Serie A,3111882
 Internazionale,Atalanta,19,12 January 2020,Serie A,3111883
 Lazio,Napoli,19,12 January 2020,Serie A,3111884
 Parma,Lecce,19,12 January 2020,Serie A,3111885
@@ -309,14 +329,18 @@ Sampdoria,Brescia,19,12 January 2020,Serie A,3111887
 Torino,Bologna,19,12 January 2020,Serie A,3111888
 Udinese,Sassuolo,19,12 January 2020,Serie A,3111889
 Brescia,Cagliari,20,19 January 2020,Serie A,3111890
+Napoli,Fiorentina,20,19 January 2020,Serie A,3111891
+Bologna,Hellas Verona,20,19 January 2020,Serie A,3111892
 Lecce,Internazionale,20,19 January 2020,Serie A,3111893
 Juventus,Parma,20,19 January 2020,Serie A,3111894
 Genoa,Roma,20,19 January 2020,Serie A,3111895
 Lazio,Sampdoria,20,19 January 2020,Serie A,3111896
+Atalanta,SPAL,20,19 January 2020,Serie A,3111897
 Sassuolo,Torino,20,19 January 2020,Serie A,3111898
 Milan,Udinese,20,19 January 2020,Serie A,3111899
 Torino,Atalanta,21,26 January 2020,Serie A,3111900
 SPAL,Bologna,21,26 January 2020,Serie A,3111901
+Internazionale,Cagliari,21,26 January 2020,Serie A,3111902
 Fiorentina,Genoa,21,26 January 2020,Serie A,3111903
 Napoli,Juventus,21,26 January 2020,Serie A,3111904
 Roma,Lazio,21,26 January 2020,Serie A,3111905
@@ -325,13 +349,17 @@ Brescia,Milan,21,26 January 2020,Serie A,3111907
 Sampdoria,Sassuolo,21,26 January 2020,Serie A,3111908
 Parma,Udinese,21,26 January 2020,Serie A,3111909
 Bologna,Brescia,22,2 February 2020,Serie A,3111910
+Juventus,Fiorentina,22,2 February 2020,Serie A,3111911
 Atalanta,Genoa,22,2 February 2020,Serie A,3111912
 Milan,Hellas Verona,22,2 February 2020,Serie A,3111913
 Udinese,Internazionale,22,2 February 2020,Serie A,3111914
 Sampdoria,Napoli,22,2 February 2020,Serie A,3111915
 Cagliari,Parma,22,2 February 2020,Serie A,3111916
+Sassuolo,Roma,22,2 February 2020,Serie A,3111917
 Lazio,SPAL,22,2 February 2020,Serie A,3111918
 Lecce,Torino,22,2 February 2020,Serie A,3111919
+Fiorentina,Atalanta,23,9 February 2020,Serie A,3111920
+Roma,Bologna,23,9 February 2020,Serie A,3111921
 Genoa,Cagliari,23,9 February 2020,Serie A,3111922
 Hellas Verona,Juventus,23,9 February 2020,Serie A,3111923
 Parma,Lazio,23,9 February 2020,Serie A,3111924
@@ -352,6 +380,7 @@ Lecce,SPAL,24,16 February 2020,Serie A,3111938
 Milan,Torino,24,16 February 2020,Serie A,3111939
 Hellas Verona,Cagliari,25,23 February 2020,Serie A,3111940
 SPAL,Juventus,25,23 February 2020,Serie A,3111941
+Genoa,Lazio,25,23 February 2020,Serie A,3111942
 Roma,Lecce,25,23 February 2020,Serie A,3111943
 Fiorentina,Milan,25,23 February 2020,Serie A,3111944
 Brescia,Napoli,25,23 February 2020,Serie A,3111945
@@ -361,10 +390,14 @@ Atalanta,Sassuolo,25,23 February 2020,Serie A,3111948
 Bologna,Udinese,25,23 February 2020,Serie A,3111949
 Lecce,Atalanta,26,1 March 2020,Serie A,3111950
 Lazio,Bologna,26,1 March 2020,Serie A,3111951
+Sassuolo,Brescia,26,1 March 2020,Serie A,3111952
 Udinese,Fiorentina,26,1 March 2020,Serie A,3111953
 Milan,Genoa,26,1 March 2020,Serie A,3111954
 Sampdoria,Hellas Verona,26,1 March 2020,Serie A,3111955
 Juventus,Internazionale,26,1 March 2020,Serie A,3111956
+Cagliari,Roma,26,1 March 2020,Serie A,3111957
+Parma,SPAL,26,1 March 2020,Serie A,3111958
+Napoli,Torino,26,1 March 2020,Serie A,3111959
 Fiorentina,Brescia,27,8 March 2020,Serie A,3111960
 SPAL,Cagliari,27,8 March 2020,Serie A,3111961
 Bologna,Juventus,27,8 March 2020,Serie A,3111962
@@ -373,6 +406,7 @@ Lecce,Milan,27,8 March 2020,Serie A,3111964
 Hellas Verona,Napoli,27,8 March 2020,Serie A,3111965
 Genoa,Parma,27,8 March 2020,Serie A,3111966
 Roma,Sampdoria,27,8 March 2020,Serie A,3111967
+Internazionale,Sassuolo,27,8 March 2020,Serie A,3111968
 Torino,Udinese,27,8 March 2020,Serie A,3111969
 Udinese,Atalanta,28,15 March 2020,Serie A,3111970
 Sampdoria,Bologna,28,15 March 2020,Serie A,3111971
@@ -382,6 +416,7 @@ Sassuolo,Hellas Verona,28,15 March 2020,Serie A,3111974
 Parma,Internazionale,28,15 March 2020,Serie A,3111975
 Juventus,Lecce,28,15 March 2020,Serie A,3111976
 Milan,Roma,28,15 March 2020,Serie A,3111977
+Napoli,SPAL,28,15 March 2020,Serie A,3111978
 Cagliari,Torino,28,15 March 2020,Serie A,3111979
 Internazionale,Brescia,29,22 March 2020,Serie A,3111980
 Bologna,Cagliari,29,22 March 2020,Serie A,3111981
@@ -396,6 +431,7 @@ Roma,Udinese,29,22 March 2020,Serie A,3111989
 Cagliari,Atalanta,30,5 April 2020,Serie A,3111990
 Internazionale,Bologna,30,5 April 2020,Serie A,3111991
 Parma,Fiorentina,30,5 April 2020,Serie A,3111992
+Udinese,Genoa,30,5 April 2020,Serie A,3111993
 Brescia,Hellas Verona,30,5 April 2020,Serie A,3111994
 Sassuolo,Lecce,30,5 April 2020,Serie A,3111995
 Lazio,Milan,30,5 April 2020,Serie A,3111996
@@ -403,7 +439,9 @@ Napoli,Roma,30,5 April 2020,Serie A,3111997
 Sampdoria,SPAL,30,5 April 2020,Serie A,3111998
 Juventus,Torino,30,5 April 2020,Serie A,3111999
 Torino,Brescia,31,11 April 2020,Serie A,3112000
+Fiorentina,Cagliari,31,11 April 2020,Serie A,3112001
 Hellas Verona,Internazionale,31,11 April 2020,Serie A,3112002
+Milan,Juventus,31,11 April 2020,Serie A,3112003
 Lecce,Lazio,31,11 April 2020,Serie A,3112004
 Genoa,Napoli,31,11 April 2020,Serie A,3112005
 Roma,Parma,31,11 April 2020,Serie A,3112006
@@ -453,6 +491,7 @@ SPAL,Roma,35,3 May 2020,Serie A,3112049
 Milan,Atalanta,36,10 May 2020,Serie A,3112050
 Roma,Fiorentina,36,10 May 2020,Serie A,3112051
 Genoa,Internazionale,36,10 May 2020,Serie A,3112052
+Hellas Verona,Lazio,36,10 May 2020,Serie A,3112053
 Bologna,Lecce,36,10 May 2020,Serie A,3112054
 Brescia,Parma,36,10 May 2020,Serie A,3112055
 Juventus,Sampdoria,36,10 May 2020,Serie A,3112056
@@ -460,6 +499,7 @@ Napoli,Sassuolo,36,10 May 2020,Serie A,3112057
 SPAL,Torino,36,10 May 2020,Serie A,3112058
 Cagliari,Udinese,36,10 May 2020,Serie A,3112059
 Parma,Atalanta,37,17 May 2020,Serie A,3112060
+Fiorentina,Bologna,37,17 May 2020,Serie A,3112061
 Lazio,Brescia,37,17 May 2020,Serie A,3112062
 Sassuolo,Genoa,37,17 May 2020,Serie A,3112063
 Cagliari,Juventus,37,17 May 2020,Serie A,3112064
@@ -468,6 +508,7 @@ Sampdoria,Milan,37,17 May 2020,Serie A,3112066
 Internazionale,Napoli,37,17 May 2020,Serie A,3112067
 Torino,Roma,37,17 May 2020,Serie A,3112068
 Hellas Verona,SPAL,37,17 May 2020,Serie A,3112069
+Milan,Cagliari,38,24 May 2020,Serie A,3112070
 SPAL,Fiorentina,38,24 May 2020,Serie A,3112071
 Genoa,Hellas Verona,38,24 May 2020,Serie A,3112072
 Atalanta,Internazionale,38,24 May 2020,Serie A,3112073
@@ -484,8 +525,10 @@ Granada,Atletico Madrid,14,23 November 2019,La Liga,3058943
 Leganes,Barcelona,14,23 November 2019,La Liga,3058944
 Levante,Mallorca,14,22 November 2019,La Liga,3058945
 Osasuna,Athletic Club,14,24 November 2019,La Liga,3058946
+Real Madrid,Real Sociedad,14,23 November 2019,La Liga,3058947
 Villarreal,Celta Vigo,14,24 November 2019,La Liga,3058948
 Real Valladolid,Sevilla,14,24 November 2019,La Liga,3058949
+Deportivo Alavés,Real Madrid,15,30 November 2019,La Liga,3058950
 Athletic Club,Granada,15,1 December 2019,La Liga,3058951
 Atletico Madrid,Barcelona,15,1 December 2019,La Liga,3058952
 Celta Vigo,Real Valladolid,15,29 November 2019,La Liga,3058953
@@ -507,6 +550,7 @@ Villarreal,Atletico Madrid,16,6 December 2019,La Liga,3058968
 Real Valladolid,Real Sociedad,16,8 December 2019,La Liga,3058969
 Toulouse,Olympique Marseille,14,24 November 2019,Ligue 1,3030677
 PSG,Lille,14,22 November 2019,Ligue 1,3030678
+Olympique Lyonnais,Nice,14,23 November 2019,Ligue 1,3030679
 Brest,Nantes,14,23 November 2019,Ligue 1,3030680
 Bordeaux,Monaco,14,24 November 2019,Ligue 1,3030681
 Metz,Reims,14,23 November 2019,Ligue 1,3030682
@@ -550,6 +594,7 @@ Olympique Lyonnais,Rennes,18,14 December 2019,Ligue 1,3030719
 Angers SCO,Monaco,18,14 December 2019,Ligue 1,3030720
 Bordeaux,Strasbourg,18,14 December 2019,Ligue 1,3030721
 Toulouse,Reims,18,14 December 2019,Ligue 1,3030722
+Lille,Montpellier,18,14 December 2019,Ligue 1,3030723
 Metz,Olympique Marseille,18,14 December 2019,Ligue 1,3030724
 Amiens SC,Dijon,18,14 December 2019,Ligue 1,3030725
 Brest,Nice,18,14 December 2019,Ligue 1,3030726
@@ -572,6 +617,7 @@ Nîmes,Reims,20,11 January 2020,Ligue 1,3030742
 Metz,Strasbourg,20,11 January 2020,Ligue 1,3030743
 Dijon,Lille,20,11 January 2020,Ligue 1,3030744
 PSG,Monaco,20,12 January 2020,Ligue 1,3030745
+Saint-Etienne,Nantes,20,11 January 2020,Ligue 1,3030746
 Brest,Amiens SC,21,25 January 2020,Ligue 1,3030747
 Monaco,Strasbourg,21,25 January 2020,Ligue 1,3030748
 Olympique Marseille,Angers SCO,21,25 January 2020,Ligue 1,3030749
@@ -590,6 +636,7 @@ PSG,Montpellier,22,1 February 2020,Ligue 1,3030761
 Angers SCO,Reims,22,1 February 2020,Ligue 1,3030762
 Strasbourg,Lille,22,1 February 2020,Ligue 1,3030763
 Amiens SC,Toulouse,22,1 February 2020,Ligue 1,3030764
+Bordeaux,Olympique Marseille,22,1 February 2020,Ligue 1,3030765
 Metz,Saint-Etienne,22,1 February 2020,Ligue 1,3030766
 Nantes,PSG,23,5 February 2020,Ligue 1,3030767
 Toulouse,Strasbourg,23,5 February 2020,Ligue 1,3030768
@@ -604,13 +651,17 @@ Brest,Bordeaux,23,5 February 2020,Ligue 1,3030776
 Rennes,Brest,24,8 February 2020,Ligue 1,3030777
 PSG,Olympique Lyonnais,24,9 February 2020,Ligue 1,3030778
 Montpellier,Saint-Etienne,24,8 February 2020,Ligue 1,3030779
+Dijon,Nantes,24,8 February 2020,Ligue 1,3030780
+Angers SCO,Lille,24,8 February 2020,Ligue 1,3030781
 Amiens SC,Monaco,24,8 February 2020,Ligue 1,3030782
+Nice,Nîmes,24,8 February 2020,Ligue 1,3030783
 Olympique Marseille,Toulouse,24,8 February 2020,Ligue 1,3030784
 Metz,Bordeaux,24,8 February 2020,Ligue 1,3030785
 Strasbourg,Reims,24,8 February 2020,Ligue 1,3030786
 Amiens SC,PSG,25,15 February 2020,Ligue 1,3030787
 Bordeaux,Dijon,25,15 February 2020,Ligue 1,3030788
 Brest,Saint-Etienne,25,15 February 2020,Ligue 1,3030789
+Nantes,Metz,25,15 February 2020,Ligue 1,3030790
 Toulouse,Nice,25,15 February 2020,Ligue 1,3030791
 Olympique Lyonnais,Strasbourg,25,15 February 2020,Ligue 1,3030792
 Monaco,Montpellier,25,15 February 2020,Ligue 1,3030793
@@ -618,6 +669,7 @@ Lille,Olympique Marseille,25,15 February 2020,Ligue 1,3030794
 Nîmes,Angers SCO,25,15 February 2020,Ligue 1,3030795
 Reims,Rennes,25,15 February 2020,Ligue 1,3030796
 Metz,Olympique Lyonnais,26,22 February 2020,Ligue 1,3030797
+Rennes,Nîmes,26,22 February 2020,Ligue 1,3030798
 Nice,Brest,26,22 February 2020,Ligue 1,3030799
 Lille,Toulouse,26,22 February 2020,Ligue 1,3030800
 Dijon,Monaco,26,22 February 2020,Ligue 1,3030801
@@ -626,14 +678,18 @@ Olympique Marseille,Nantes,26,22 February 2020,Ligue 1,3030803
 PSG,Bordeaux,26,22 February 2020,Ligue 1,3030804
 Strasbourg,Amiens SC,26,22 February 2020,Ligue 1,3030805
 Angers SCO,Montpellier,26,22 February 2020,Ligue 1,3030806
+Olympique Lyonnais,Saint-Etienne,27,1 March 2020,Ligue 1,3030807
 Amiens SC,Metz,27,29 February 2020,Ligue 1,3030808
 Brest,Angers SCO,27,29 February 2020,Ligue 1,3030809
+Bordeaux,Nice,27,29 February 2020,Ligue 1,3030810
 PSG,Dijon,27,29 February 2020,Ligue 1,3030811
 Toulouse,Rennes,27,29 February 2020,Ligue 1,3030812
 Monaco,Reims,27,29 February 2020,Ligue 1,3030813
 Nîmes,Olympique Marseille,27,29 February 2020,Ligue 1,3030814
+Montpellier,Strasbourg,27,29 February 2020,Ligue 1,3030815
 Nantes,Lille,27,29 February 2020,Ligue 1,3030816
 Nice,Monaco,28,7 March 2020,Ligue 1,3030817
+Strasbourg,PSG,28,7 March 2020,Ligue 1,3030818
 Dijon,Toulouse,28,7 March 2020,Ligue 1,3030819
 Lille,Olympique Lyonnais,28,7 March 2020,Ligue 1,3030820
 Saint-Etienne,Bordeaux,28,7 March 2020,Ligue 1,3030821
@@ -656,8 +712,10 @@ Nice,Montpellier,30,21 March 2020,Ligue 1,3030837
 Metz,Brest,30,21 March 2020,Ligue 1,3030838
 Lille,Monaco,30,21 March 2020,Ligue 1,3030839
 Reims,Nantes,30,21 March 2020,Ligue 1,3030840
+Olympique Marseille,PSG,30,22 March 2020,Ligue 1,3030841
 Saint-Etienne,Strasbourg,30,21 March 2020,Ligue 1,3030842
 Nîmes,Bordeaux,30,21 March 2020,Ligue 1,3030843
+Angers SCO,Toulouse,30,21 March 2020,Ligue 1,3030844
 Rennes,Olympique Lyonnais,30,21 March 2020,Ligue 1,3030845
 Dijon,Amiens SC,30,21 March 2020,Ligue 1,3030846
 Montpellier,Lille,31,5 April 2020,Ligue 1,3030847
@@ -682,6 +740,7 @@ Reims,Toulouse,32,11 April 2020,Ligue 1,3030865
 Saint-Etienne,Rennes,32,11 April 2020,Ligue 1,3030866
 Toulouse,Nantes,33,18 April 2020,Ligue 1,3030867
 Monaco,Bordeaux,33,18 April 2020,Ligue 1,3030868
+Montpellier,Reims,33,18 April 2020,Ligue 1,3030869
 Amiens SC,Nîmes,33,18 April 2020,Ligue 1,3030870
 PSG,Saint-Etienne,33,18 April 2020,Ligue 1,3030871
 Lille,Nice,33,18 April 2020,Ligue 1,3030872
@@ -696,18 +755,22 @@ Saint-Etienne,Angers SCO,34,26 April 2020,Ligue 1,3030880
 Nantes,Amiens SC,34,26 April 2020,Ligue 1,3030881
 Reims,PSG,34,26 April 2020,Ligue 1,3030882
 Metz,Dijon,34,26 April 2020,Ligue 1,3030883
+Nîmes,Lille,34,26 April 2020,Ligue 1,3030884
 Olympique Marseille,Nice,34,26 April 2020,Ligue 1,3030885
+Brest,Montpellier,34,26 April 2020,Ligue 1,3030886
 PSG,Brest,35,2 May 2020,Ligue 1,3030887
 Dijon,Olympique Lyonnais,35,2 May 2020,Ligue 1,3030888
 Monaco,Metz,35,2 May 2020,Ligue 1,3030889
 Lille,Reims,35,2 May 2020,Ligue 1,3030890
 Montpellier,Bordeaux,35,2 May 2020,Ligue 1,3030891
+Nice,Nantes,35,2 May 2020,Ligue 1,3030892
 Amiens SC,Saint-Etienne,35,2 May 2020,Ligue 1,3030893
 Strasbourg,Olympique Marseille,35,2 May 2020,Ligue 1,3030894
 Toulouse,Nîmes,35,2 May 2020,Ligue 1,3030895
 Angers SCO,Rennes,35,2 May 2020,Ligue 1,3030896
 Saint-Etienne,Lille,36,9 May 2020,Ligue 1,3030897
 Reims,Amiens SC,36,9 May 2020,Ligue 1,3030898
+Bordeaux,Angers SCO,36,9 May 2020,Ligue 1,3030899
 Nîmes,Strasbourg,36,9 May 2020,Ligue 1,3030900
 Toulouse,PSG,36,9 May 2020,Ligue 1,3030901
 Rennes,Dijon,36,9 May 2020,Ligue 1,3030902
@@ -740,6 +803,7 @@ RB Leipzig,Köln,12,23 November 2019,Bundesliga,3047120
 Bayer Leverkusen,Freiburg,12,23 November 2019,Bundesliga,3047121
 Eintracht Frankfurt,Wolfsburg,12,23 November 2019,Bundesliga,3047122
 Werder Bremen,Schalke 04,12,23 November 2019,Bundesliga,3047123
+Hoffenheim,Mainz 05,12,24 November 2019,Bundesliga,3047124
 Fortuna Dusseldorf,Bayern Munich,12,23 November 2019,Bundesliga,3047125
 Augsburg,Hertha BSC,12,24 November 2019,Bundesliga,3047126
 Union Berlin,Borussia M'gladbach,12,23 November 2019,Bundesliga,3047127
@@ -764,9 +828,11 @@ Union Berlin,Köln,14,8 December 2019,Bundesliga,3047145
 Bayern Munich,Werder Bremen,15,14 December 2019,Bundesliga,3047146
 Wolfsburg,Borussia M'gladbach,15,15 December 2019,Bundesliga,3047147
 Hoffenheim,Augsburg,15,13 December 2019,Bundesliga,3047148
+Fortuna Dusseldorf,RB Leipzig,15,14 December 2019,Bundesliga,3047149
 Hertha BSC,Freiburg,15,14 December 2019,Bundesliga,3047150
 Mainz 05,Borussia Dortmund,15,14 December 2019,Bundesliga,3047151
 Schalke 04,Eintracht Frankfurt,15,15 December 2019,Bundesliga,3047152
+Köln,Bayer Leverkusen,15,14 December 2019,Bundesliga,3047153
 Paderborn,Union Berlin,15,14 December 2019,Bundesliga,3047154
 Borussia Dortmund,RB Leipzig,16,17 December 2019,Bundesliga,3047155
 Bayer Leverkusen,Hertha BSC,16,18 December 2019,Bundesliga,3047156
@@ -779,6 +845,7 @@ Augsburg,Fortuna Dusseldorf,16,17 December 2019,Bundesliga,3047162
 Union Berlin,Hoffenheim,16,17 December 2019,Bundesliga,3047163
 Bayern Munich,Wolfsburg,17,21 December 2019,Bundesliga,3047164
 RB Leipzig,Augsburg,17,21 December 2019,Bundesliga,3047165
+Hoffenheim,Borussia Dortmund,17,20 December 2019,Bundesliga,3047166
 Fortuna Dusseldorf,Union Berlin,17,22 December 2019,Bundesliga,3047167
 Hertha BSC,Borussia M'gladbach,17,21 December 2019,Bundesliga,3047168
 Mainz 05,Bayer Leverkusen,17,21 December 2019,Bundesliga,3047169
@@ -788,9 +855,11 @@ Paderborn,Eintracht Frankfurt,17,22 December 2019,Bundesliga,3047172
 RB Leipzig,Union Berlin,18,18 January 2020,Bundesliga,3047173
 Hoffenheim,Eintracht Frankfurt,18,18 January 2020,Bundesliga,3047174
 Fortuna Dusseldorf,Werder Bremen,18,18 January 2020,Bundesliga,3047175
+Hertha BSC,Bayern Munich,18,19 January 2020,Bundesliga,3047176
 Mainz 05,Freiburg,18,18 January 2020,Bundesliga,3047177
 Schalke 04,Borussia M'gladbach,18,17 January 2020,Bundesliga,3047178
 Augsburg,Borussia Dortmund,18,18 January 2020,Bundesliga,3047179
+Köln,Wolfsburg,18,18 January 2020,Bundesliga,3047180
 Paderborn,Bayer Leverkusen,18,19 January 2020,Bundesliga,3047181
 Bayern Munich,Schalke 04,19,25 January 2020,Bundesliga,3047182
 Borussia Dortmund,Köln,19,24 January 2020,Bundesliga,3047183
@@ -839,6 +908,7 @@ Augsburg,RB Leipzig,34,16 May 2020,Bundesliga,3047324
 Union Berlin,Fortuna Dusseldorf,34,16 May 2020,Bundesliga,3047325
 Central Coast Mariners,Adelaide United,6,16 November 2019,A-League,3129296
 Sydney,Melbourne Victory,6,17 November 2019,A-League,3129297
+Western United,Newcastle Jets,6,16 November 2019,A-League,3129298
 Brisbane Roar,Melbourne City,6,17 November 2019,A-League,3129299
 Western Sydney Wanderers,Melbourne City,7,22 November 2019,A-League,3129300
 Wellington Phoenix,Brisbane Roar,7,23 November 2019,A-League,3129301
@@ -865,7 +935,9 @@ Wellington Phoenix,Sydney,11,21 December 2019,A-League,3129321
 Melbourne City,Melbourne Victory,11,21 December 2019,A-League,3129322
 Perth Glory,Newcastle Jets,11,21 December 2019,A-League,3129323
 Central Coast Mariners,Adelaide United,11,22 December 2019,A-League,3129324
+Adelaide United,Western Sydney Wanderers,12,27 December 2019,A-League,3129325
 Western United,Wellington Phoenix,12,28 December 2019,A-League,3129326
+Newcastle Jets,Brisbane Roar,12,28 December 2019,A-League,3129327
 Sydney,Melbourne City,12,29 December 2019,A-League,3129328
 Central Coast Mariners,Perth Glory,12,31 December 2019,A-League,3129329
 Western Sydney Wanderers,Brisbane Roar,13,1 January 2020,A-League,3129330
@@ -908,6 +980,7 @@ Newcastle Jets,Melbourne Victory,20,22 February 2020,A-League,3129366
 Central Coast Mariners,Sydney,20,22 February 2020,A-League,3129367
 Brisbane Roar,Perth Glory,20,23 February 2020,A-League,3129368
 Sydney,Wellington Phoenix,21,28 February 2020,A-League,3129369
+Newcastle Jets,Perth Glory,21,29 February 2020,A-League,3129370
 Melbourne Victory,Adelaide United,21,29 February 2020,A-League,3129371
 Western United,Central Coast Mariners,21,1 March 2020,A-League,3129372
 Melbourne City,Brisbane Roar,21,1 March 2020,A-League,3129373
@@ -927,6 +1000,8 @@ Perth Glory,Western United,24,21 March 2020,A-League,3129386
 Newcastle Jets,Wellington Phoenix,24,22 March 2020,A-League,3129387
 Melbourne Victory,Brisbane Roar,24,22 March 2020,A-League,3129388
 Melbourne City,Adelaide United,25,27 March 2020,A-League,3129389
+Central Coast Mariners,Newcastle Jets,25,28 March 2020,A-League,3129390
+Brisbane Roar,Sydney,25,28 March 2020,A-League,3129391
 Western United,Western Sydney Wanderers,25,29 March 2020,A-League,3129392
 Perth Glory,Melbourne Victory,25,29 March 2020,A-League,3129393
 Sydney,Western United,26,3 April 2020,A-League,3129394

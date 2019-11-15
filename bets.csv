@@ -1,8 +1,3 @@
-matchGoals percent,Liverpool,Manchester City,Over 2.5,10 November 2019,Premier League
-OVER 1.5 BET,Liverpool,Manchester City,Over 1.5,10 November 2019,Premier League
-firstHalfTotalGoals  percent,Liverpool,Manchester City,Over 1,10 November 2019,Premier League
-firstHalfTotalGoals averages,Norwich City,Watford,Over 1.0,8 November 2019,Premier League
-firstHalfTotalGoals  percent,Norwich City,Watford,Over 1,8 November 2019,Premier League
 matchGoals averages,Manchester City,Chelsea,Over 2.5,23 November 2019,Premier League
 firstHalfTotalGoals averages,Manchester City,Chelsea,Over 1.0,23 November 2019,Premier League
 OVER 1.5 BET,Manchester City,Chelsea,Over 1.5,23 November 2019,Premier League
@@ -11,137 +6,85 @@ firstHalfTotalGoals averages,Southampton,Watford,Over 1.0,30 November 2019,Premi
 firstHalfTotalGoals averages,Tottenham Hotspur,AFC Bournemouth,Over 1.0,30 November 2019,Premier League
 firstHalfTotalGoals averages,Blackpool,AFC Wimbledon,Over 1.0,16 November 2019,League One
 firstHalfTotalGoals  percent,Gillingham,Lincoln City,Over 1,16 November 2019,League One
-firstHalfTotalGoals  percent,Oxford United,Ipswich Town,Over 1,16 November 2019,League One
 firstHalfTotalGoals averages,Southend United,Oxford United,Over 1.0,23 November 2019,League One
-firstHalfTotalGoals averages,King's Lynn Town,Leamington,Over 1.0,12 November 2019,National League N / S
 matchGoals averages,Alfreton Town,Gloucester City,Over 2.5,16 November 2019,National League N / S
 firstHalfTotalGoals averages,Alfreton Town,Gloucester City,Over 1.0,16 November 2019,National League N / S
 firstHalfTotalGoals  percent,Alfreton Town,Gloucester City,Over 1,16 November 2019,National League N / S
+matchGoals averages,Bradford (Park Avenue),Leamington,Over 2.5,16 November 2019,National League N / S
 firstHalfTotalGoals averages,Bradford (Park Avenue),Leamington,Over 1.0,16 November 2019,National League N / S
-matchGoals averages,Chester,Bradford (Park Avenue),Over 2.5,30 November 2019,National League N / S
-firstHalfTotalGoals averages,Spennymoor Town,Altrincham,Over 1.0,30 November 2019,National League N / S
-firstHalfTotalGoals  percent,Spennymoor Town,Altrincham,Over 1,30 November 2019,National League N / S
 firstHalfTotalGoals averages,Dulwich Hamlet,Havant & Waterlooville,Over 1.0,26 November 2019,National League N / S
-firstHalfTotalGoals averages,Hampton & Richmond,Dartford,Over 1.0,5 November 2019,National League N / S
-firstHalfTotalGoals averages,Havant & Waterlooville,Slough Town,Over 1.0,9 November 2019,National League N / S
-firstHalfTotalGoals averages,Hungerford Town,Tonbridge Angels,Over 1.0,9 November 2019,National League N / S
 firstHalfTotalGoals averages,Dulwich Hamlet,Billericay Town,Over 1.0,16 November 2019,National League N / S
 firstHalfTotalGoals averages,Hampton & Richmond,Wealdstone,Over 1.0,16 November 2019,National League N / S
+firstHalfTotalGoals averages,Havant & Waterlooville,Bath City,Over 1.0,16 November 2019,National League N / S
 firstHalfTotalGoals averages,Tonbridge Angels,St Albans City,Over 1.0,16 November 2019,National League N / S
-firstHalfTotalGoals averages,Braintree Town,Hampton & Richmond,Over 1.0,30 November 2019,National League N / S
 firstHalfTotalGoals averages,Slough Town,Tonbridge Angels,Over 1.0,30 November 2019,National League N / S
 firstHalfTotalGoals  percent,Wealdstone,Concord Rangers,Over 1,30 November 2019,National League N / S
-firstHalfTotalGoals averages,Clyde,Peterhead,Over 1.0,9 November 2019,League One
-matchGoals averages,Raith Rovers,Stranraer,Over 2.5,9 November 2019,League One
 firstHalfTotalGoals averages,Clyde,Dumbarton,Over 1.0,30 November 2019,League One
+matchGoals averages,Cove Rangers,Brechin City,Over 2.5,16 November 2019,League Two
 firstHalfTotalGoals averages,Annan Athletic,Cove Rangers,Over 1.0,30 November 2019,League Two
+firstHalfTotalGoals  percent,Aberystwyth Town,Cefn Druids,Over 1,29 November 2019,Premier League
+firstHalfTotalGoals averages,Carmarthen Town,Bala Town,Over 1.0,30 November 2019,Premier League
 firstHalfTotalGoals averages,Sassuolo,Lazio,Over 1.0,24 November 2019,Serie A
-firstHalfTotalGoals  percent,Valencia,Granada,Over 1,9 November 2019,La Liga
-firstHalfTotalGoals averages,Numancia,Málaga,Under 1.0,29 November 2019,Segunda División
+firstHalfTotalGoals  percent,Sassuolo,Lazio,Over 1,24 November 2019,Serie A
 matchGoals percent,Numancia,Málaga,Under 2.5,29 November 2019,Segunda División
-matchGoals percent,Bayern Munich,Borussia Dortmund,Over 2.5,9 November 2019,Bundesliga
-firstHalfTotalGoals averages,Borussia M'gladbach,Werder Bremen,Over 1.0,10 November 2019,Bundesliga
-firstHalfTotalGoals averages,Hertha BSC,RB Leipzig,Over 1.0,9 November 2019,Bundesliga
-OVER 1.5 BET,Hertha BSC,RB Leipzig,Over 1.5,9 November 2019,Bundesliga
-matchGoals percent,Freiburg,Eintracht Frankfurt,Over 2.5,10 November 2019,Bundesliga
-OVER 1.5 BET,Freiburg,Eintracht Frankfurt,Over 1.5,10 November 2019,Bundesliga
-matchGoals averages,Paderborn,Augsburg,Over 2.5,9 November 2019,Bundesliga
-firstHalfTotalGoals averages,Paderborn,Augsburg,Over 1.0,9 November 2019,Bundesliga
-matchGoals percent,Borussia Dortmund,Paderborn,Over 2.5,22 November 2019,Bundesliga
 OVER 1.5 BET,RB Leipzig,Köln,Over 1.5,23 November 2019,Bundesliga
 firstHalfTotalGoals averages,Bayer Leverkusen,Freiburg,Over 1.0,23 November 2019,Bundesliga
 firstHalfTotalGoals averages,Fortuna Dusseldorf,Bayern Munich,Over 1.0,23 November 2019,Bundesliga
 firstHalfTotalGoals averages,Bayern Munich,Bayer Leverkusen,Over 1.0,30 November 2019,Bundesliga
 OVER 1.5 BET,Bayern Munich,Bayer Leverkusen,Over 1.5,30 November 2019,Bundesliga
+firstHalfTotalGoals  percent,Bayern Munich,Bayer Leverkusen,Over 1,30 November 2019,Bundesliga
+matchGoals averages,Hertha BSC,Borussia Dortmund,Over 2.5,30 November 2019,Bundesliga
 matchGoals percent,Hertha BSC,Borussia Dortmund,Over 2.5,30 November 2019,Bundesliga
+firstHalfTotalGoals  percent,Köln,Augsburg,Over 1,30 November 2019,Bundesliga
+matchGoals averages,Paderborn,RB Leipzig,Over 2.5,30 November 2019,Bundesliga
 firstHalfTotalGoals averages,Paderborn,RB Leipzig,Over 1.0,30 November 2019,Bundesliga
-OVER 1.5 BET,Paderborn,RB Leipzig,Over 1.5,30 November 2019,Bundesliga
-OVER 1.5 BET,Holstein Kiel,Hamburger SV,Over 1.5,9 November 2019,2. Bundesliga
+firstHalfTotalGoals  percent,Paderborn,RB Leipzig,Over 1,30 November 2019,Bundesliga
 firstHalfTotalGoals averages,Stuttgart,Karlsruher SC,Over 1.0,24 November 2019,2. Bundesliga
-firstHalfTotalGoals averages,Sonnenhof Großaspach,Waldhof Mannheim,Over 1.0,9 November 2019,3. Liga
-firstHalfTotalGoals averages,Unterhaching,Meppen,Over 1.0,9 November 2019,3. Liga
+firstHalfTotalGoals averages,Nürnberg,Wehen Wiesbaden,Over 1.0,30 November 2019,2. Bundesliga
 matchGoals averages,MSV Duisburg,Viktoria Köln,Over 2.5,25 November 2019,3. Liga
 firstHalfTotalGoals averages,MSV Duisburg,Viktoria Köln,Over 1.0,25 November 2019,3. Liga
 OVER 1.5 BET,MSV Duisburg,Viktoria Köln,Over 1.5,25 November 2019,3. Liga
+firstHalfTotalGoals averages,Waldhof Mannheim,Ingolstadt,Over 1.0,23 November 2019,3. Liga
 firstHalfTotalGoals averages,Preußen Münster,Waldhof Mannheim,Over 1.0,30 November 2019,3. Liga
 OVER 1.5 BET,Preußen Münster,Waldhof Mannheim,Over 1.5,30 November 2019,3. Liga
 OVER 1.5 BET,Bayern München II,Carl Zeiss Jena,Over 1.5,29 November 2019,3. Liga
 firstHalfTotalGoals averages,Viktoria Köln,Kaiserslautern,Over 1.0,30 November 2019,3. Liga
-firstHalfTotalGoals averages,Nice,Bordeaux,Over 1.0,8 November 2019,Ligue 1
-firstHalfTotalGoals  percent,Nice,Bordeaux,Over 1,8 November 2019,Ligue 1
-matchGoals averages,Valenciennes,Châteauroux,Under 2.5,8 November 2019,Ligue 2
 firstHalfTotalGoals averages,Chambly,Ajaccio,Under 1.0,29 November 2019,Ligue 2
 matchGoals averages,Santa Clara,Boavista,Under 2.5,29 November 2019,Primeira Liga
 matchGoals percent,Santa Clara,Boavista,Under 2.5,29 November 2019,Primeira Liga
 secondHalfTotalGoals  percent,Santa Clara,Boavista,Under 1.5,29 November 2019,Primeira Liga
-secondHalfTotalGoals  percent,Penafiel,Benfica II,Under 1.5,10 November 2019,Segunda Liga
-firstHalfTotalGoals averages,Fortuna Sittard,ADO Den Haag,Over 1.0,9 November 2019,Eredivisie
-firstHalfTotalGoals averages,AZ,Emmen,Over 1.0,10 November 2019,Eredivisie
-matchGoals averages,Ajax,Utrecht,Over 2.5,10 November 2019,Eredivisie
-firstHalfTotalGoals averages,Ajax,Utrecht,Over 1.0,10 November 2019,Eredivisie
-OVER 1.5 BET,Ajax,Utrecht,Over 1.5,10 November 2019,Eredivisie
-matchGoals averages,Feyenoord,RKC Waalwijk,Over 2.5,10 November 2019,Eredivisie
-firstHalfTotalGoals averages,Feyenoord,RKC Waalwijk,Over 1.0,10 November 2019,Eredivisie
-OVER 1.5 BET,Feyenoord,RKC Waalwijk,Over 1.5,10 November 2019,Eredivisie
-firstHalfTotalGoals  percent,Feyenoord,RKC Waalwijk,Over 1,10 November 2019,Eredivisie
+firstHalfTotalGoals averages,Varzim,Penafiel,Over 1.0,30 November 2019,Segunda Liga
 matchGoals averages,PEC Zwolle,Fortuna Sittard,Over 2.5,23 November 2019,Eredivisie
-OVER 1.5 BET,PEC Zwolle,Fortuna Sittard,Over 1.5,23 November 2019,Eredivisie
 OVER 1.5 BET,Ajax,Heracles,Over 1.5,23 November 2019,Eredivisie
 OVER 1.5 BET,RKC Waalwijk,Emmen,Over 1.5,24 November 2019,Eredivisie
 firstHalfTotalGoals  percent,RKC Waalwijk,Emmen,Over 1,24 November 2019,Eredivisie
 matchGoals averages,VVV,Twente,Over 2.5,24 November 2019,Eredivisie
-firstHalfTotalGoals averages,Sparta Rotterdam,Vitesse,Over 1.0,24 November 2019,Eredivisie
-OVER 1.5 BET,Sparta Rotterdam,Vitesse,Over 1.5,24 November 2019,Eredivisie
-matchGoals averages,Excelsior,Eindhoven,Over 2.5,8 November 2019,Eerste Divisie
-OVER 1.5 BET,Utrecht II,AZ II,Over 1.5,22 November 2019,Eerste Divisie
+matchGoals percent,VVV,Twente,Over 2.5,24 November 2019,Eredivisie
 matchGoals averages,Ajax II,Helmond Sport,Over 2.5,25 November 2019,Eerste Divisie
-firstHalfTotalGoals averages,Ajax II,Helmond Sport,Over 1.0,25 November 2019,Eerste Divisie
 OVER 1.5 BET,Ajax II,Helmond Sport,Over 1.5,25 November 2019,Eerste Divisie
-matchGoals averages,Wolfsberger AC,Salzburg,Over 2.5,10 November 2019,Bundesliga
-firstHalfTotalGoals averages,Wolfsberger AC,Salzburg,Over 1.0,10 November 2019,Bundesliga
-matchGoals averages,St. Pölten,Swarovski Tirol,Over 2.5,9 November 2019,Bundesliga
-firstHalfTotalGoals averages,St. Pölten,Swarovski Tirol,Over 1.0,9 November 2019,Bundesliga
-matchGoals averages,Rheindorf Altach,Rapid Wien,Over 2.5,9 November 2019,Bundesliga
-firstHalfTotalGoals averages,Rheindorf Altach,Rapid Wien,Over 1.0,9 November 2019,Bundesliga
-firstHalfTotalGoals  percent,Rheindorf Altach,Rapid Wien,Over 1,9 November 2019,Bundesliga
+firstHalfTotalGoals averages,Cambuur,AZ II,Over 1.0,29 November 2019,Eerste Divisie
 firstHalfTotalGoals averages,Salzburg,St. Pölten,Over 1.0,23 November 2019,Bundesliga
 firstHalfTotalGoals  percent,Salzburg,St. Pölten,Over 1,23 November 2019,Bundesliga
 matchGoals averages,St. Pölten,Mattersburg,Over 2.5,30 November 2019,Bundesliga
 firstHalfTotalGoals averages,St. Pölten,Mattersburg,Over 1.0,30 November 2019,Bundesliga
 firstHalfTotalGoals  percent,St. Pölten,Mattersburg,Over 1,30 November 2019,Bundesliga
-matchGoals averages,Amstetten,Austria Lustenau,Over 2.5,8 November 2019,2. Liga
-OVER 1.5 BET,Amstetten,Austria Lustenau,Over 1.5,8 November 2019,2. Liga
-btts,Amstetten,Austria Lustenau,yes,8 November 2019,2. Liga
-firstHalfTotalGoals averages,Austria Wien II,Kapfenberger SV,Over 1.0,8 November 2019,2. Liga
-matchGoals percent,Horn,Juniors OÖ,Over 2.5,8 November 2019,2. Liga
 matchGoals averages,Blau-Weiß Linz,Liefering,Over 2.5,22 November 2019,2. Liga
 matchGoals averages,Austria Klagenfurt,Austria Wien II,Over 2.5,22 November 2019,2. Liga
 secondHalfTotalGoals averages,Austria Klagenfurt,Austria Wien II,Over 1.5,22 November 2019,2. Liga
 OVER 1.5 BET,Amstetten,Grazer AK,Over 1.5,29 November 2019,2. Liga
+firstHalfTotalGoals  percent,AaB,Horsens,Over 1,24 November 2019,Superliga
 OVER 1.5 BET,Lyngby,Nordsjælland,Over 1.5,29 November 2019,Superliga
 firstHalfTotalGoals  percent,Lyngby,Nordsjælland,Over 1,29 November 2019,Superliga
-firstHalfTotalGoals averages,Rosenborg,Bodø / Glimt,Over 1.0,10 November 2019,Eliteserien
-firstHalfTotalGoals  percent,Antwerp,Club Brugge,Over 1,10 November 2019,First Division A
 matchGoals averages,Gent,Antwerp,Over 2.5,24 November 2019,First Division A
 OVER 1.5 BET,Gent,Antwerp,Over 1.5,24 November 2019,First Division A
-firstHalfTotalGoals  percent,AS Eupen,Standard Liège,Over 1,23 November 2019,First Division A
 firstHalfTotalGoals  percent,Mechelen,Zulte-Waregem,Over 1,23 November 2019,First Division A
-firstHalfTotalGoals  percent,Zulte-Waregem,AS Eupen,Over 1,30 November 2019,First Division A
-firstHalfTotalGoals  percent,České Budějovice,Slovácko,Over 1,10 November 2019,Czech Liga
 firstHalfTotalGoals averages,Sparta Praha,České Budějovice,Over 1.0,22 November 2019,Czech Liga
-matchGoals averages,Rubin Kazan,Dinamo Moscow,Under 2.5,9 November 2019,Premier League
+firstHalfTotalGoals  percent,Sparta Praha,České Budějovice,Over 1,22 November 2019,Czech Liga
 firstHalfTotalGoals  percent,Arsenal Tula,Krasnodar,Over 1,24 November 2019,Premier League
-OVER 1.5 BET,Young Boys,St. Gallen,Over 1.5,10 November 2019,Super League
 firstHalfTotalGoals averages,Antalyaspor,Gaziantep FK,Over 1.0,25 November 2019,Süper Lig
-matchGoals averages,OFI,PAOK,Over 2.5,9 November 2019,Super League 1
+firstHalfTotalGoals  percent,Antalyaspor,Gaziantep FK,Over 1,25 November 2019,Süper Lig
 firstHalfTotalGoals averages,PAOK,Larissa,Over 1.0,24 November 2019,Super League 1
-matchGoals averages,Dinamo Bucureşti,CFR Cluj,Over 2.5,10 November 2019,Liga I
-firstHalfTotalGoals averages,Žilina,Ružomberok,Over 1.0,9 November 2019,Super Liga
 firstHalfTotalGoals  percent,Trenčín,Spartak Trnava,Over 1,23 November 2019,Super Liga
-matchGoals percent,Vila Nova,Guarani,Under 2.5,13 November 2019,Serie B
-firstHalfTotalGoals averages,Tijuana,Monterrey,Over 1.0,9 November 2019,Liga MX
 firstHalfTotalGoals averages,Tijuana,León,Over 1.0,23 November 2019,Liga MX
 firstHalfTotalGoals  percent,Tijuana,León,Over 1,23 November 2019,Liga MX
 matchGoals averages,Shanghai Shenhua,Jiangsu Suning,Over 2.5,27 November 2019,CSL
-secondHalfTotalGoals averages,Brisbane Roar,Central Coast Mariners,Under 1.5,30 November 2019,A-League
-secondHalfTotalGoals  percent,Brisbane Roar,Central Coast Mariners,Under 1.5,30 November 2019,A-League
