@@ -24,3 +24,4 @@ for c in content:
     if split[1] not in teamsList:
         teamsList.append(split[1])
         teams.write(split[1] + "\n")
+input("Done")

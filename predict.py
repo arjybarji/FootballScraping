@@ -293,11 +293,11 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
         asianCardHandicap(homeTeam,awayTeam,date,league)
         
         #Over/Under 3.5 Cards Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCards",0.2,0.8,"3",date,league)
+        teamPercentStats(homeTeam,awayTeam,"matchCards",0.2,0.8,"3.5",date,league)
         #Over/Under 4.5 Cards Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCards",0.2,0.8,"4",date,league)
+        teamPercentStats(homeTeam,awayTeam,"matchCards",0.2,0.8,"4.5",date,league)
         #Over/Under 5.5 Cards Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCards",0.2,0.8,"5",date,league)
+        teamPercentStats(homeTeam,awayTeam,"matchCards",0.2,0.8,"5.5",date,league)
         
         #Over/Under 1.5 Team Cards H/A and Total
         teamCards(homeTeam,awayTeam,date,league,"1.5")
