@@ -1,0 +1,34 @@
+Stats
+    homeTeam 
+    awayTeam   
+    gameWeek 
+    homeGoals 
+    awayGoals 
+    matchGoals 
+    btts 
+    firstHalfHomeGoals 
+    firstHalfHomeConc 
+    firstHalfAwayGoals 
+    firstHalfAwayConc 
+    firstHalfTotalGoals 
+    secondHalfHomeGoals 
+    secondHalfHomeConc 
+    secondHalfAwayGoals 
+    secondHalfAwayConc 
+    secondHalfTotalGoals 
+    homeTeamCards 
+    awayTeamCards 
+    matchCards 
+    homeCorners 
+    awayCorners 
+    homeCornersConc 
+    awayCornersConc 
+    matchCorners 
+    league 
+    gameID
+Fixtures
+    homeTeam 
+    awayTeam  
+    gameWeek 
+    date 
+    league

@@ -1,0 +1,503 @@
+Liverpool
+Norwich City
+AFC Bournemouth
+Sheffield United
+Burnley
+Southampton
+Crystal Palace
+Everton
+Leicester City
+Wolverhampton Wanderers
+Tottenham Hotspur
+Aston Villa
+Watford
+Brighton & Hove Albion
+West Ham United
+Manchester City
+Manchester United
+Chelsea
+Newcastle United
+Arsenal
+Fylde
+Barnet
+Yeovil Town
+Chesterfield
+Woking
+Halifax Town
+Hartlepool United
+Torquay United
+Boreham Wood
+Cagliari
+Brescia
+Fiorentina
+Napoli
+Hellas Verona
+Bologna
+Internazionale
+Lecce
+Parma
+Juventus
+Roma
+Genoa
+Sampdoria
+Lazio
+SPAL
+Atalanta
+Torino
+Sassuolo
+Udinese
+Milan
+Ascoli
+Trapani
+Cittadella
+Spezia
+Crotone
+Cosenza
+Empoli
+Juve Stabia
+Perugia
+Chievo
+Pisa
+Benevento
+Pordenone
+Frosinone
+Venezia
+Cremonese
+Virtus Entella
+Livorno
+Deportivo Alavés
+Levante
+Athletic Club
+Barcelona
+Atletico Madrid
+Getafe
+Real Betis
+Real Valladolid
+Celta Vigo
+Real Madrid
+Espanyol
+Sevilla
+Leganes
+Osasuna
+Mallorca
+Eibar
+Valencia
+Real Sociedad
+Villarreal
+Granada
+Almería
+Albacete
+Cádiz
+Ponferradina
+Deportivo La Coruña
+Real Oviedo
+Elche
+Fuenlabrada
+Girona
+Sporting Gijón
+Las Palmas
+Huesca
+Lugo
+Extremadura UD
+Numancia
+Alcorcón
+Racing Santander
+Málaga
+Rayo Vallecano
+Mirandés
+Real Zaragoza
+Tenerife
+Bayern Munich
+Hertha BSC
+Borussia Dortmund
+Augsburg
+Bayer Leverkusen
+Paderborn
+Borussia M'gladbach
+Schalke 04
+Wolfsburg
+Köln
+Eintracht Frankfurt
+Hoffenheim
+Werder Bremen
+Fortuna Dusseldorf
+Freiburg
+Mainz 05
+Union Berlin
+RB Leipzig
+Stuttgart
+Hannover 96
+Hamburger SV
+Darmstadt 98
+Holstein Kiel
+Sandhausen
+Arminia Bielefeld
+St. Pauli
+Jahn Regensburg
+Bochum
+Dynamo Dresden
+Nürnberg
+Greuther Fürth
+Erzgebirge Aue
+Osnabrück
+Heidenheim
+Wehen Wiesbaden
+Karlsruher SC
+Preußen Münster
+Kaiserslautern
+MSV Duisburg
+Hansa Rostock
+Viktoria Köln
+Waldhof Mannheim
+Uerdingen
+Dijon
+Saint-Etienne
+Olympique Marseille
+Reims
+Nice
+Amiens SC
+Strasbourg
+Metz
+Montpellier
+Rennes
+Angers SCO
+Bordeaux
+Lille
+Nantes
+PSG
+Nîmes
+Brest
+Toulouse
+Monaco
+Olympique Lyonnais
+Sochaux
+Caen
+Le Mans
+Lens
+Valenciennes
+Auxerre
+Ajaccio
+Le Havre
+Châteauroux
+Lorient
+Paris FC
+Nancy
+Orléans
+Niort
+Troyes
+Gil Vicente
+Porto
+Sporting Braga
+Moreirense
+Marítimo
+Sporting CP
+Vitória Setúbal
+Tondela
+Santa Clara
+Famalicão
+Benfica
+Paços de Ferreira
+Boavista
+Desportivo Aves
+Portimonense
+Belenenses
+Rio Ave
+Vitoria Guimaraes
+Feirense
+Vilafranquense
+Académica
+Leixões
+Porto II
+Penafiel
+Academico Viseu
+Farense
+Casa Pia
+Chaves
+Benfica II
+Estoril
+Varzim
+UD Oliveirense
+Mafra
+Cova Piedade
+PEC Zwolle
+Willem II
+Vitesse
+Ajax
+Emmen
+Groningen
+VVV
+RKC Waalwijk
+Twente
+PSV
+Heracles
+Heerenveen
+ADO Den Haag
+Utrecht
+Feyenoord
+Sparta Rotterdam
+AZ
+Fortuna Sittard
+Go Ahead Eagles
+MVV
+De Graafschap
+Cambuur
+NEC
+Eindhoven
+TOP Oss
+Ajax II
+Helmond Sport
+Dordrecht
+NAC Breda
+PSV II
+Den Bosch
+AZ II
+Rapid Wien
+Salzburg
+Admira
+Wolfsberger AC
+Swarovski Tirol
+Austria Wien
+Mattersburg
+Hartberg
+Sturm Graz
+St. Pölten
+LASK
+Rheindorf Altach
+Austria Klagenfurt
+Kapfenberger SV
+Grazer AK
+Liefering
+Amstetten
+Horn
+Lafnitz
+Wacker Innsbruck
+Dornbirn
+SønderjyskE
+Randers
+Midtjylland
+Esbjerg
+Brøndby
+Silkeborg
+OB
+Copenhagen
+Horsens
+Nordsjælland
+Hobro
+AGF
+Lyngby
+AaB
+Odd
+Brann
+Vålerenga
+Viking
+Bodø / Glimt
+Rosenborg
+Stabæk
+Helsingborg
+Norrköping
+Falkenberg
+Sirius
+Malmö FF
+Djurgården
+AFC Eskilstuna
+Genk
+Kortrijk
+Cercle Brugge
+Standard Liège
+Sint-Truiden
+Royal Excel Mouscron
+Waasland-Beveren
+Club Brugge
+Anderlecht
+KV Oostende
+Zulte-Waregem
+Mechelen
+Sporting Charleroi
+Gent
+AS Eupen
+Antwerp
+Sparta Praha
+Slovácko
+Zlín
+Slavia Praha
+Sigma Olomouc
+Slovan Liberec
+Mladá Boleslav
+Karviná
+Příbram
+Teplice
+Jablonec
+Bohemians 1905
+České Budějovice
+Opava
+Gorica
+Inter Zaprešić
+Lokomotiva Zagreb
+Hajduk Split
+Arka Gdynia
+Jagiellonia Białystok
+Legia Warszawa
+Pogoń Szczecin
+ŁKS Łódź
+Lechia Gdańsk
+Piast Gliwice
+Lech Poznań
+Raków Częstochowa
+Korona Kielce
+Wisła Kraków
+Śląsk Wrocław
+Wisła Płock
+Górnik Zabrze
+Zagłębie Lubin
+Cracovia Kraków
+Zenit
+Tambov
+Spartak Moscow
+Sochi
+Rostov
+Orenburg
+Lokomotiv Moscow
+Rubin Kazan
+Akhmat Grozny
+Krasnodar
+Arsenal Tula
+Dinamo Moscow
+Krylya Sovetov
+CSKA Moscow
+Ural
+Ufa
+Neftekhimik
+Nizhny Novgorod
+Rotor Volgograd
+Sion
+Basel
+Thun
+Neuchâtel Xamax
+Luzern
+Servette
+Zürich
+Lugano
+Sivasspor
+Beşiktaş
+Fenerbahçe
+Gaziantep FK
+Yeni Malatyaspor
+Istanbul Basaksehir
+Gençlerbirliği
+Rizespor
+Kasımpaşa
+Trabzonspor
+Kayserispor
+Alanyaspor
+Konyaspor
+Ankaragücü
+Denizlispor
+Galatasaray
+Göztepe
+Antalyaspor
+AEK Athens
+Xanthi
+Aris
+OFI
+Atromitos
+Larissa
+Olympiakos Piraeus
+Asteras Tripolis
+Panionios
+Volos NFC
+PAOK
+Panaitolikos
+Lamia
+Panathinaikos
+CFR Cluj
+Politehnica Iași
+Universitatea Craiova
+Academica Clinceni
+Viitorul
+Dinamo Bucureşti
+Gaz Metan Mediaş
+Chindia Târgovişte
+FCSB
+Hermannstadt
+Voluntari
+Sepsi
+Astra
+Botoşani
+Zemplín Michalovce
+Žilina
+Senica
+Trenčín
+Ružomberok
+Spartak Trnava
+Sereď
+DAC
+Javor Ivanjica
+Radnički Niš
+Proleter Novi Sad
+Voždovac
+Bačka Topola
+Radnik Surdulica
+Napredak
+Santos
+Atlético Mineiro
+Cruzeiro
+Fluminense
+Corinthians
+Athletico Paranaense
+Vitória
+São Bento
+Paraná
+Ponte Preta
+América Mineiro
+RB Bragantino
+Londrina
+Puebla
+Atlas
+Atlético San Luis
+Pumas UNAM
+Pachuca
+León
+Morelia
+América
+Monterrey
+Necaxa
+Cruz Azul
+Toluca
+Santos Laguna
+Guadalajara
+Cerezo Osaka
+Kawasaki Frontale
+Tokyo
+Shimizu S-Pulse
+Sagan Tosu
+Nagoya Grampus
+Kashima Antlers
+Oita Trinita
+Gamba Osaka
+Yokohama F. Marinos
+Shonan Bellmare
+Consadole Sapporo
+Omiya Ardija
+Fagiano Okayama
+Ryūkyū
+Maccabi Netanya
+Maccabi Tel Aviv
+Bnei Yehuda
+Ironi Kiryat Shmona
+Hapoel Haifa
+Maccabi Haifa
+Hapoel Ra'anana
+Hapoel Be'er Sheva
+Hapoel Hadera
+Ashdod
+Adelaide United
+Sydney
+Western Sydney Wanderers
+Central Coast Mariners
+Melbourne Victory
+Melbourne City
+Wellington Phoenix
+Western United
+Perth Glory
+Brisbane Roar
+Newcastle Jets
