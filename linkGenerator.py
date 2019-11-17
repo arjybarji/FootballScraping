@@ -76,9 +76,7 @@ getLinks(3029812,3029991)
 #Poland
 getLinks(3025700,3025939)
 #Russia
-getLinks(3027073,3027312)
-#Russia2
-getLinks(3028137,3028516)         
+getLinks(3027073,3027312)       
 #Switzerland
 getLinks(3037815,3037994)
 #Turkey
