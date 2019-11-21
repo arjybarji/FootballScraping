@@ -13,7 +13,7 @@ import random
 from itertools import cycle
 import winsound
 
-
+today = datetime.date.today().strftime("%B").lower()
 with open('done.txt') as f:
     doneIDs = f.readlines()
 doneIDs = [x.strip() for x in doneIDs]
@@ -29,6 +29,11 @@ def get_proxies():
             proxies.add(proxy)
     return proxies
 proxies = get_proxies()
+
+def replaceTeam(team,league):
+    if(team == "Arsenal"):
+        team = team + " - " + league
+    return team    
 
 def parse(url):
     gameID = url.split("/")[-2]
@@ -87,6 +92,8 @@ def parse(url):
                 #print(soup.findAll('div', attrs = {'class' : 'block  clearfix block_competition_left_tree-wrapper'}))
                 country = dds[0].find('a')['href'].split("/")[2].strip().capitalize()
                 league = league + " - " + country
+                homeTeam = replaceTeam(homeTeam,league)
+                awayTeam = replaceTeam(awayTeam,league)
                 kickOff = False
                 for c in dts:
                     if(c.text.strip() == "Kick-off"):
@@ -168,7 +175,8 @@ def parse(url):
                             print("Got Score no corners. " + homeTeam + " vs " + awayTeam+" . " + gameWeek + " NO FRAME")
                             return("S$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1"+","+league+ "," + gameID)
                 else:
-                    print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)
+                    if(today in date.lower()):
+                        print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)                    
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + league + "," + gameID +  "£" + url)
         
         except Exception as e:
