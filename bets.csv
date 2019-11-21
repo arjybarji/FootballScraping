@@ -1,5 +1,5 @@
-Arsenal,Southampton,Arsenal Asian Card Handicap,23 November 2019,Premier League - England
-Arsenal,Southampton,Arsenal Corner Match Bet,23 November 2019,Premier League - England
+Arsenal - Premier League - England,Southampton,Arsenal - Premier League - England Asian Card Handicap,23 November 2019,Premier League - England
+Arsenal - Premier League - England,Southampton,Arsenal - Premier League - England Corner Match Bet,23 November 2019,Premier League - England
 Brighton & Hove Albion,Leicester City,Under 5.5 matchCards,23 November 2019,Premier League - England
 Everton,Norwich City,Under 5.5 matchCards,23 November 2019,Premier League - England
 Everton,Norwich City,Everton Corner Match Bet,23 November 2019,Premier League - England
@@ -26,11 +26,10 @@ Blackburn Rovers,Brentford,Under 4.5 matchCards,27 November 2019,Championship - 
 Blackburn Rovers,Brentford,Under 5.5 matchCards,27 November 2019,Championship - England
 Middlesbrough,Barnsley,Barnsley Asian Card Handicap,27 November 2019,Championship - England
 Birmingham City,Millwall,Under 5.5 matchCards,30 November 2019,Championship - England
+Grimsby Town,Cheltenham Town,Under 5.5 matchCards,26 November 2019,League Two - England
 Carlisle United,Cambridge United,Under 5.5 matchCards,23 November 2019,League Two - England
 Crawley Town,Exeter City,Under 5.5 matchCards,23 November 2019,League Two - England
 Salford City,Macclesfield Town,Under 5.5 matchCards,23 November 2019,League Two - England
-Barnet,Stockport County,Under 5.5 matchCards,16 November 2019,National League - England
-Chesterfield,Chorley,Under 5.5 matchCards,16 November 2019,National League - England
 Fylde,Dagenham & Redbridge,Under 4.5 matchCards,23 November 2019,National League - England
 Fylde,Dagenham & Redbridge,Under 5.5 matchCards,23 November 2019,National League - England
 Aldershot Town,Notts County,Under 5.5 matchCards,23 November 2019,National League - England
@@ -40,6 +39,7 @@ Sutton United,Bromley,Under 5.5 matchCards,23 November 2019,National League - En
 Notts County,Boreham Wood,Under 5.5 matchCards,26 November 2019,National League - England
 Aldershot Town,Chesterfield,Under 5.5 matchCards,30 November 2019,National League - England
 Chorley,Dagenham & Redbridge,Under 5.5 matchCards,30 November 2019,National League - England
+Ebbsfleet United,Wrexham,Under 5.5 matchCards,30 November 2019,National League - England
 Sutton United,Harrogate Town,Under 5.5 matchCards,30 November 2019,National League - England
 Slough Town,Tonbridge Angels,Over 1.0 firstHalfTotalGoals,30 November 2019,National League N / S - England
 Wealdstone,Concord Rangers,Over 1 firstHalfTotalGoals ,30 November 2019,National League N / S - England
@@ -109,8 +109,6 @@ Espanyol,Getafe,Under 12 matchCorners,24 November 2019,La Liga - Spain
 Deportivo Alavés,Real Madrid,Deportivo Alavés Over 1.5 Cards,30 November 2019,La Liga - Spain
 Deportivo Alavés,Real Madrid,Real Madrid Corner Match Bet,30 November 2019,La Liga - Spain
 Celta Vigo,Real Valladolid,Under 12 matchCorners,29 November 2019,La Liga - Spain
-Ponferradina,Girona,Girona Over 1.5 Cards,17 November 2019,Segunda División - Spain
-Ponferradina,Girona,Under 12 matchCorners,17 November 2019,Segunda División - Spain
 Albacete,Mirandés,Albacete Over 1.5 Cards,24 November 2019,Segunda División - Spain
 Albacete,Mirandés,Under 12 matchCorners,24 November 2019,Segunda División - Spain
 Almería,Numancia,Under 12 matchCorners,24 November 2019,Segunda División - Spain
@@ -134,7 +132,6 @@ Ponferradina,Albacete,Albacete Asian Card Handicap,30 November 2019,Segunda Divi
 Ponferradina,Albacete,Under 12 matchCorners,30 November 2019,Segunda División - Spain
 Tenerife,Almería,Over 3.5 matchCards,30 November 2019,Segunda División - Spain
 Tenerife,Almería,Under 12 matchCorners,30 November 2019,Segunda División - Spain
-Real Zaragoza,Girona,Girona Over 1.5 Cards,30 November 2019,Segunda División - Spain
 Real Zaragoza,Girona,Under 12 matchCorners,30 November 2019,Segunda División - Spain
 RB Leipzig,Köln,Over 1.5 1.5 BET,23 November 2019,Bundesliga - Germany
 Bayer Leverkusen,Freiburg,Over 1.0 firstHalfTotalGoals,23 November 2019,Bundesliga - Germany
@@ -318,10 +315,6 @@ Rostov,Ural,Under 12 matchCorners,30 November 2019,Premier League - Russia
 Akhmat Grozny,Rubin Kazan,Under 10 matchCorners,30 November 2019,Premier League - Russia
 Akhmat Grozny,Rubin Kazan,Under 12 matchCorners,30 November 2019,Premier League - Russia
 Krylya Sovetov,Ufa,Under 12 matchCorners,30 November 2019,Premier League - Russia
-Chertanovo,SKA Khabarovsk,Over 3.5 matchCards,23 November 2019,FNL - Russia
-Baltika,Mordovia Saransk,Mordovia Saransk Over 1.5 Cards,23 November 2019,FNL - Russia
-Fakel,Nizhny Novgorod,Nizhny Novgorod Over 1.5 Cards,23 November 2019,FNL - Russia
-Neftekhimik,Yenisey,Over 3.5 matchCards,23 November 2019,FNL - Russia
 Kasımpaşa,Gençlerbirliği,Gençlerbirliği Over 1.5 Cards,24 November 2019,Süper Lig - Turkey
 Konyaspor,Beşiktaş,Beşiktaş Over 1.5 Cards,23 November 2019,Süper Lig - Turkey
 Galatasaray,Istanbul Basaksehir,Istanbul Basaksehir Corner Match Bet,22 November 2019,Süper Lig - Turkey
@@ -365,6 +358,19 @@ Puebla,Necaxa,Under 12 matchCorners,23 November 2019,Liga MX - Mexico
 Tijuana,León,Over 1.0 firstHalfTotalGoals,23 November 2019,Liga MX - Mexico
 Tijuana,León,Over 1 firstHalfTotalGoals ,23 November 2019,Liga MX - Mexico
 Monterrey,Atlas,Monterrey Corner Match Bet,24 November 2019,Liga MX - Mexico
+Boca Juniors,Unión,Over 3.5 matchCards,24 November 2019,Superliga - Argentina
+Huracán,Central Córdoba SdE,Under 12 matchCorners,23 November 2019,Superliga - Argentina
+Banfield,Vélez Sarsfield,Banfield Asian Card Handicap,24 November 2019,Superliga - Argentina
+Colón,Estudiantes,Over 3.5 matchCards,25 November 2019,Superliga - Argentina
+Talleres de Córdoba,Racing Club,Under 12 matchCorners,25 November 2019,Superliga - Argentina
+Patronato,Godoy Cruz,Patronato Over 1.5 Cards,25 November 2019,Superliga - Argentina
+Patronato,Godoy Cruz,Patronato Corner Match Bet,25 November 2019,Superliga - Argentina
+Atlético Tucumán,San Lorenzo,Atlético Tucumán Over 1.5 Cards,24 November 2019,Superliga - Argentina
+Atlético Tucumán,San Lorenzo,San Lorenzo Over 1.5 Cards,24 November 2019,Superliga - Argentina
+Boca Juniors,Argentinos Juniors,Under 1.5 secondHalfTotalGoals ,30 November 2019,Superliga - Argentina
+Estudiantes,Atlético Tucumán,Under 2.5 matchGoals,30 November 2019,Superliga - Argentina
+Estudiantes,Atlético Tucumán,Atlético Tucumán Over 1.5 Cards,30 November 2019,Superliga - Argentina
+Banfield,Gimnasia La Plata,Over 3.5 matchCards,29 November 2019,Superliga - Argentina
 Dalian Yifang,Hebei CFFC,Under 5.5 matchCards,23 November 2019,CSL - China-pr
 Wuhan Zall,Guangzhou R&F,Under 5.5 matchCards,22 November 2019,CSL - China-pr
 Guangzhou Evergrande,Shanghai SIPG,Under 5.5 matchCards,23 November 2019,CSL - China-pr

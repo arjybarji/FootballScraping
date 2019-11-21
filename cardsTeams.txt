@@ -17,7 +17,7 @@ Manchester City
 Manchester United
 Chelsea
 Newcastle United
-Arsenal
+Arsenal - Premier League - England
 AFC Wimbledon
 Rotherham United
 Blackpool
@@ -136,11 +136,15 @@ AFC Telford United
 Kidderminster Harriers
 Leamington
 Bath City
+Braintree Town
 Billericay Town
+Eastbourne Borough
 Chelmsford City
 Hampton & Richmond
 Havant & Waterlooville
+Welling United
 Hemel Hempstead Town
+Hungerford Town
 Maidstone United
 Weymouth
 Oxford City
@@ -205,11 +209,15 @@ St Patrick's Athletic
 Cork City
 Waterford
 Shamrock Rovers
+Aberystwyth Town
 Carmarthen Town
+Airbus UK
+Bala Town
 Newtown
 Cefn Druids
 Penybont
 Barry Town United
+The New Saints
 Caernarfon Town
 Connah's Quay
 Cardiff MU
@@ -407,8 +415,6 @@ Dunkerque
 Lyon Duchère
 Villefranche
 Boulogne
-Gazélec Ajaccio
-Red Star
 Gil Vicente
 Porto
 Sporting Braga
@@ -643,26 +649,6 @@ Krylya Sovetov
 CSKA Moscow
 Ural
 Ufa
-Chayka
-Chertanovo
-Fakel
-Torpedo Moskva
-Baltika
-Spartak Moskva II
-SKA Khabarovsk
-Shinnik
-Mordovia Saransk
-Neftekhimik
-Nizhny Novgorod
-Tom Tomsk
-Luch Vladivostok
-Khimki
-Avangard Kursk
-Rotor Volgograd
-Tekstilshchik
-Yenisey
-Armavir
-Krasnodar II
 Sion
 Basel
 Thun
@@ -768,7 +754,6 @@ Corinthians
 Athletico Paranaense
 Vasco da Gama
 Guarani
-Figueirense
 Botafogo SP
 Vitória
 São Bento
@@ -780,7 +765,6 @@ Ponte Preta
 Operário PR
 América Mineiro
 Criciúma
-Cuiabá
 Brasil de Pelotas
 RB Bragantino
 Sport Recife
@@ -806,6 +790,30 @@ Querétaro
 Santos Laguna
 Guadalajara
 Veracruz
+Racing Club
+Unión
+Colón
+Patronato
+San Lorenzo
+Godoy Cruz
+Lanús
+Gimnasia La Plata
+Argentinos Juniors
+River Plate
+Estudiantes
+Aldosivi
+Newell's Old Boys
+Central Córdoba SdE
+Talleres de Córdoba
+Vélez Sarsfield
+Defensa y Justicia
+Independiente
+Boca Juniors
+Huracán
+Arsenal - Superliga - Argentina
+Banfield
+Atlético Tucumán
+Rosario Central
 Shandong Luneng
 Beijing Renhe
 Guangzhou Evergrande

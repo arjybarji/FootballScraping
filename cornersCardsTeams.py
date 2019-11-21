@@ -7,6 +7,8 @@ with open('fixturesv2.csv',encoding="utf8") as f:
     fixtures = f.readlines()
 fixtures = [x.strip() for x in fixtures]
 
+teamsL = []
+teams = open("teams.txt","w",encoding="utf8")
 
 cornerTeams = open("cornersTeams.txt","w",encoding="utf8")
 
@@ -58,5 +60,14 @@ for c in cardTeamsDict:
     if(cardTeamsDict[c]<1):
         print(c + ":" + str(cardTeamsDict[c]))
         cardTeams.write(c + "\n")
-        
-input("DONE")
+
+for c in fixtures:
+    statsSplit = c.split(",")
+    homeTeam = statsSplit[0]
+    awayTeam = statsSplit[1]
+    if(homeTeam not in teamsL): 
+        teamsL.append(homeTeam)
+        teams.write(homeTeam + "\n")
+    if(awayTeam not in teamsL): 
+        teamsL.append(awayTeam)
+        teams.write(awayTeam + "\n")

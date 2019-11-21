@@ -17,7 +17,7 @@ Manchester City
 Manchester United
 Chelsea
 Newcastle United
-Arsenal
+Arsenal - Premier League - England
 Fylde
 Barnet
 Yeovil Town
@@ -366,9 +366,6 @@ Krylya Sovetov
 CSKA Moscow
 Ural
 Ufa
-Neftekhimik
-Nizhny Novgorod
-Rotor Volgograd
 Sion
 Basel
 Thun
@@ -465,6 +462,30 @@ Cruz Azul
 Toluca
 Santos Laguna
 Guadalajara
+Racing Club
+Unión
+Colón
+Patronato
+San Lorenzo
+Godoy Cruz
+Lanús
+Gimnasia La Plata
+Argentinos Juniors
+River Plate
+Estudiantes
+Aldosivi
+Newell's Old Boys
+Central Córdoba SdE
+Talleres de Córdoba
+Vélez Sarsfield
+Defensa y Justicia
+Independiente
+Boca Juniors
+Huracán
+Arsenal - Superliga - Argentina
+Banfield
+Atlético Tucumán
+Rosario Central
 Cerezo Osaka
 Kawasaki Frontale
 Tokyo

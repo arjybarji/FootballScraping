@@ -19,6 +19,35 @@ with open('done.txt') as f:
     doneIDs = f.readlines()
 doneIDs = [x.strip() for x in doneIDs]
 
+def cardLinksfunc():
+    yellowCardLink = ""
+    redCardLink = ""
+    red2YCardLink = ""
+    game1 = "https://us.soccerway.com/matches/2019/11/11/argentina/primera-division/club-atletico-velez-sarsfield/boca-juniors/3070465/?ICID=PL_MS_11"
+    game2 = "https://us.soccerway.com/matches/2019/11/21/brazil/serie-b/sport-club-do-recife/associacao-atletica-ponte-preta/2988242/?ICID=PL_MS_04"
+    r = requests.get(game1, timeout = 40)
+    soup = BeautifulSoup(r.content, "html.parser")
+    imgs = soup.findAll("img")
+    for img in imgs:
+        if("YC.png" in img['src']):
+            yellowCardLink = img['src']
+        if("RC.png" in img['src']):
+            redCardLink = img['src']
+        if("Y2C.png" in img['src']):
+            red2YCardLink = img['src']
+    r2 = requests.get(game2, timeout = 40)
+    soup2 = BeautifulSoup(r2.content, "html.parser")
+    imgs2 = soup2.findAll("img")
+    for img in imgs2:
+        if("YC.png" in img['src']):
+            yellowCardLink = img['src']
+        if("RC.png" in img['src']):
+            redCardLink = img['src']
+        if("Y2C.png" in img['src']):
+            red2YCardLink = img['src']
+
+    return yellowCardLink,redCardLink,red2YCardLink
+
 def get_proxies():
     url = 'https://free-proxy-list.net/'
     response = requests.get(url)
@@ -133,22 +162,24 @@ def parse(url):
                         secondHalfTotalGoals = matchGoals - firstHalfTotalGoals
                         
                         try:
+                            
                             homeTeamContainers = soup.findAll('div', attrs = {'class' : 'container left'})
                             homeTeamStarting = homeTeamContainers[2]
                             homeTeamBench = homeTeamContainers[3]
-                            homeTeamYellows = len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/YC.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/YC.png' }))
-                            homeTeamReds = len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/RC.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/RC.png' })) + len(homeTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/Y2C.png' })) + len(homeTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/Y2C.png' }))
+                            homeTeamYellows = len(homeTeamStarting.findAll('img', attrs = {'src' : yellowCardLink })) + len(homeTeamBench.findAll('img', attrs = {'src' : yellowCardLink }))
+                            homeTeamReds = len(homeTeamStarting.findAll('img', attrs = {'src' : redCardLink })) + len(homeTeamBench.findAll('img', attrs = {'src' : redCardLink })) + len(homeTeamStarting.findAll('img', attrs = {'src' : red2YCardLink })) + len(homeTeamBench.findAll('img', attrs = {'src' : red2YCardLink }))
                             homeTeamCards = homeTeamYellows + homeTeamReds
 
                             awayTeamContainers = soup.findAll('div', attrs = {'class' : 'container right'})
                             awayTeamStarting = awayTeamContainers[2]
                             awayTeamBench = awayTeamContainers[3]
-                            awayTeamYellows = len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/YC.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/YC.png' }))
-                            awayTeamReds = len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/RC.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/RC.png' })) + len(awayTeamStarting.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/Y2C.png' })) + len(awayTeamBench.findAll('img', attrs = {'src' : 'https://s1.swimg.net/gsmf/741/img/events/Y2C.png' }))
+                            awayTeamYellows = len(awayTeamStarting.findAll('img', attrs = {'src' : yellowCardLink })) + len(awayTeamBench.findAll('img', attrs = {'src' : yellowCardLink }))
+                            awayTeamReds = len(awayTeamStarting.findAll('img', attrs = {'src' : redCardLink })) + len(awayTeamBench.findAll('img', attrs = {'src' : redCardLink })) + len(awayTeamStarting.findAll('img', attrs = {'src' : red2YCardLink })) + len(awayTeamBench.findAll('img', attrs = {'src' : red2YCardLink }))
                             awayTeamCards = awayTeamYellows + awayTeamReds
 
                             matchCards = homeTeamCards + awayTeamCards
-                        except Exception:
+                        except Exception as e:
+                            print(e)
                             homeTeamCards = -1
                             awayTeamCards = -1
                             matchCards = -1
@@ -200,18 +231,23 @@ content = [x.strip() for x in content]
 links = open('links.txt','r')
 errors = open('errors.txt','w')
 done = open('done.txt','a')
+yellowCardLink,redCardLink,red2YCardLink = cardLinksfunc()
 
 if __name__ == '__main__':
     start_time = time.time()
     proxies = get_proxies()
-    todo = []
+    todo = []  
+    print(yellowCardLink)
+    print(redCardLink)
+    print(red2YCardLink)
     for c in content:
         gameID = c.split("/")[-2]
         if gameID not in doneIDs:
             todo.append(c)
     print(len(proxies))
-    if(len(proxies)>0):
-        p = Pool(50)  # Pool tells how many at a time
+    if(len(proxies)>0 and len(yellowCardLink)>0 and len(redCardLink)>0 and len(red2YCardLink)>0):
+        #p = Pool(50)  # Pool tells how many at a time
+        p = Pool(30)  # Pool tells how many at a time
         records = p.map(parse, todo)
         p.terminate()
         p.join()
