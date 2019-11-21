@@ -12,6 +12,7 @@ from lxml.html import fromstring
 import random
 from itertools import cycle
 import winsound
+import datetime
 
 today = datetime.date.today().strftime("%B").lower()
 with open('done.txt') as f:
