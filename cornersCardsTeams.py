@@ -9,6 +9,7 @@ fixtures = [x.strip() for x in fixtures]
 
 teamsL = []
 teams = open("teams.txt","w",encoding="utf8")
+teams.write("Teams" + "\n")
 
 cornerTeams = open("cornersTeams.txt","w",encoding="utf8")
 

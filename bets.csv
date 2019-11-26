@@ -1,443 +1,994 @@
-Arsenal - Premier League - England,Southampton,Arsenal - Premier League - England Asian Card Handicap,23 November 2019,Premier League - England
-Arsenal - Premier League - England,Southampton,Arsenal - Premier League - England Corner Match Bet,23 November 2019,Premier League - England
-Brighton & Hove Albion,Leicester City,Under 5 matchCards,23 November 2019,Premier League - England
-Everton,Norwich City,Under 5 matchCards,23 November 2019,Premier League - England
-Everton,Norwich City,Everton Corner Match Bet,23 November 2019,Premier League - England
-Manchester City,Chelsea,Over 2.5 matchGoals,23 November 2019,Premier League - England
-Manchester City,Chelsea,Over 1.0 firstHalfTotalGoals,23 November 2019,Premier League - England
-Manchester City,Chelsea,Over 1.5 1.5 BET,23 November 2019,Premier League - England
-Manchester City,Chelsea,Manchester City Corner Match Bet,23 November 2019,Premier League - England
-West Ham United,Tottenham Hotspur,Over 1.5 1.5 BET,23 November 2019,Premier League - England
-Liverpool,Brighton & Hove Albion,Under 5 matchCards,30 November 2019,Premier League - England
-Liverpool,Brighton & Hove Albion,Liverpool Corner Match Bet,30 November 2019,Premier League - England
-Newcastle United,Manchester City,Under 5 matchCards,30 November 2019,Premier League - England
-Newcastle United,Manchester City,Manchester City Corner Match Bet,30 November 2019,Premier League - England
-Southampton,Watford,Over 1.0 firstHalfTotalGoals,30 November 2019,Premier League - England
-Southampton,Watford,Watford Asian Card Handicap,30 November 2019,Premier League - England
-Tottenham Hotspur,AFC Bournemouth,Over 1.0 firstHalfTotalGoals,30 November 2019,Premier League - England
-Southend United,Oxford United,Over 1.0 firstHalfTotalGoals,23 November 2019,League One - England
-Blackburn Rovers,Barnsley,Barnsley Asian Card Handicap,23 November 2019,Championship - England
-Derby County,Preston North End,Under 5 matchCards,23 November 2019,Championship - England
-Stoke City,Wigan Athletic,Wigan Athletic Asian Card Handicap,23 November 2019,Championship - England
-Swansea City,Millwall,Under 5 matchCards,23 November 2019,Championship - England
-Huddersfield Town,Swansea City,Under 5 matchCards,26 November 2019,Championship - England
-Luton Town,Charlton Athletic,Charlton Athletic Asian Card Handicap,26 November 2019,Championship - England
-Blackburn Rovers,Brentford,Under 4 matchCards,27 November 2019,Championship - England
-Blackburn Rovers,Brentford,Under 5 matchCards,27 November 2019,Championship - England
-Middlesbrough,Barnsley,Barnsley Asian Card Handicap,27 November 2019,Championship - England
-Birmingham City,Millwall,Under 5 matchCards,30 November 2019,Championship - England
-Grimsby Town,Cheltenham Town,Under 5 matchCards,26 November 2019,League Two - England
-Carlisle United,Cambridge United,Under 5 matchCards,23 November 2019,League Two - England
-Crawley Town,Exeter City,Under 5 matchCards,23 November 2019,League Two - England
-Salford City,Macclesfield Town,Under 5 matchCards,23 November 2019,League Two - England
-Fylde,Dagenham & Redbridge,Under 4 matchCards,23 November 2019,National League - England
-Fylde,Dagenham & Redbridge,Under 5 matchCards,23 November 2019,National League - England
-Aldershot Town,Notts County,Under 5 matchCards,23 November 2019,National League - England
-Harrogate Town,Chesterfield,Under 5 matchCards,23 November 2019,National League - England
-Stockport County,Ebbsfleet United,Ebbsfleet United Asian Card Handicap,23 November 2019,National League - England
-Sutton United,Bromley,Under 5 matchCards,23 November 2019,National League - England
-Notts County,Boreham Wood,Under 5 matchCards,26 November 2019,National League - England
-Aldershot Town,Chesterfield,Under 5 matchCards,30 November 2019,National League - England
-Chorley,Dagenham & Redbridge,Under 5 matchCards,30 November 2019,National League - England
-Ebbsfleet United,Wrexham,Under 5 matchCards,30 November 2019,National League - England
-Sutton United,Harrogate Town,Under 5 matchCards,30 November 2019,National League - England
-Slough Town,Tonbridge Angels,Over 1.0 firstHalfTotalGoals,30 November 2019,National League N / S - England
-Wealdstone,Concord Rangers,Over 1 firstHalfTotalGoals ,30 November 2019,National League N / S - England
-St. Mirren,Hibernian,Under 5 matchCards,26 November 2019,Premiership - Scotland
-Celtic,Livingston,Livingston Asian Card Handicap,23 November 2019,Premiership - Scotland
-Celtic,Livingston,Under 5 matchCards,23 November 2019,Premiership - Scotland
-Hamilton Academical,Rangers,Under 4 matchCards,24 November 2019,Premiership - Scotland
-Hamilton Academical,Rangers,Under 5 matchCards,24 November 2019,Premiership - Scotland
-Hibernian,Motherwell,Under 5 matchCards,23 November 2019,Premiership - Scotland
-St. Johnstone,Aberdeen,Under 5 matchCards,24 November 2019,Premiership - Scotland
-St. Mirren,Ross County,Under 5 matchCards,23 November 2019,Premiership - Scotland
-Aberdeen,St. Mirren,Under 4 matchCards,30 November 2019,Premiership - Scotland
-Aberdeen,St. Mirren,Under 5 matchCards,30 November 2019,Premiership - Scotland
-Hibernian,Kilmarnock,Under 5 matchCards,30 November 2019,Premiership - Scotland
-Motherwell,St. Johnstone,Under 5 matchCards,30 November 2019,Premiership - Scotland
-Inverness CT,Dundee,Under 5 matchCards,23 November 2019,Championship - Scotland
-Partick Thistle,Alloa Athletic,Under 5 matchCards,26 November 2019,Championship - Scotland
-Alloa Athletic,Inverness CT,Under 5 matchCards,30 November 2019,Championship - Scotland
-Dundee,Queen of the South,Under 5 matchCards,30 November 2019,Championship - Scotland
-Dunfermline Athletic,Partick Thistle,Under 5 matchCards,30 November 2019,Championship - Scotland
-Greenock Morton,Dundee United,Under 4 matchCards,30 November 2019,Championship - Scotland
-Greenock Morton,Dundee United,Under 5 matchCards,30 November 2019,Championship - Scotland
-East Fife,Clyde,Under 5 matchCards,26 November 2019,League One - Scotland
-Airdrieonians,East Fife,Under 5 matchCards,30 November 2019,League One - Scotland
-Clyde,Dumbarton,Over 1.0 firstHalfTotalGoals,30 November 2019,League One - Scotland
-Falkirk,Stranraer,Under 5 matchCards,30 November 2019,League One - Scotland
-Annan Athletic,Cove Rangers,Over 1.0 firstHalfTotalGoals,30 November 2019,League Two - Scotland
-Annan Athletic,Cove Rangers,Under 5 matchCards,30 November 2019,League Two - Scotland
-Aberystwyth Town,Cefn Druids,Over 1 firstHalfTotalGoals ,29 November 2019,Premier League - Wales
-Airbus UK,The New Saints,Over 1.0 firstHalfTotalGoals,30 November 2019,Premier League - Wales
-Caernarfon Town,Cardiff MU,Under 5 matchCards,29 November 2019,Premier League - Wales
-Carmarthen Town,Bala Town,Over 1.0 firstHalfTotalGoals,30 November 2019,Premier League - Wales
-Atalanta,Juventus,Over 3 matchCards,23 November 2019,Serie A - Italy
-Bologna,Parma,Over 3 matchCards,24 November 2019,Serie A - Italy
-Lecce,Cagliari,Lecce Over 1.5 Cards,24 November 2019,Serie A - Italy
-Sampdoria,Udinese,Sampdoria Over 1.5 Cards,24 November 2019,Serie A - Italy
-Sassuolo,Lazio,Over 1.0 firstHalfTotalGoals,24 November 2019,Serie A - Italy
-Sassuolo,Lazio,Over 1 firstHalfTotalGoals ,24 November 2019,Serie A - Italy
-Sassuolo,Lazio,Over 3 matchCards,24 November 2019,Serie A - Italy
-Sassuolo,Lazio,Over 8 matchCorners,24 November 2019,Serie A - Italy
-Torino,Internazionale,Over 3 matchCards,23 November 2019,Serie A - Italy
-Fiorentina,Lecce,Lecce Over 1.5 Cards,30 November 2019,Serie A - Italy
-Fiorentina,Lecce,Fiorentina Corner Match Bet,30 November 2019,Serie A - Italy
-Ascoli,Cosenza,Over 3 matchCards,24 November 2019,Serie B - Italy
-Ascoli,Cosenza,Under 10 matchCorners,24 November 2019,Serie B - Italy
-Ascoli,Cosenza,Under 12 matchCorners,24 November 2019,Serie B - Italy
-Chievo,Virtus Entella,Virtus Entella Over 1.5 Cards,25 November 2019,Serie B - Italy
-Cittadella,Pisa,Cittadella Over 1.5 Cards,24 November 2019,Serie B - Italy
-Cittadella,Pisa,Under 12 matchCorners,24 November 2019,Serie B - Italy
-Empoli,Venezia,Venezia Asian Card Handicap,23 November 2019,Serie B - Italy
-Empoli,Venezia,Venezia Over 1.5 Cards,23 November 2019,Serie B - Italy
-Empoli,Venezia,Under 12 matchCorners,23 November 2019,Serie B - Italy
-Juve Stabia,Salernitana,Over 3 matchCards,23 November 2019,Serie B - Italy
-Juve Stabia,Salernitana,Juve Stabia Over 1.5 Cards,23 November 2019,Serie B - Italy
-Juve Stabia,Salernitana,Salernitana Over 1.5 Cards,23 November 2019,Serie B - Italy
-Spezia,Frosinone,Under 12 matchCorners,24 November 2019,Serie B - Italy
-Cosenza,Spezia,Under 12 matchCorners,29 November 2019,Serie B - Italy
-Crotone,Cittadella,Cittadella Asian Card Handicap,30 November 2019,Serie B - Italy
-Salernitana,Ascoli,Over 3 matchCards,30 November 2019,Serie B - Italy
-Venezia,Benevento,Venezia Asian Card Handicap,30 November 2019,Serie B - Italy
-Venezia,Benevento,Venezia Over 1.5 Cards,30 November 2019,Serie B - Italy
-Real Betis,Valencia,Real Betis Over 1.5 Cards,23 November 2019,La Liga - Spain
-Eibar,Deportivo Alavés,Under 12 matchCorners,24 November 2019,La Liga - Spain
-Espanyol,Getafe,Getafe Asian Card Handicap,24 November 2019,La Liga - Spain
-Espanyol,Getafe,Getafe Over 1.5 Cards,24 November 2019,La Liga - Spain
-Espanyol,Getafe,Under 12 matchCorners,24 November 2019,La Liga - Spain
-Deportivo Alavés,Real Madrid,Deportivo Alavés Over 1.5 Cards,30 November 2019,La Liga - Spain
-Deportivo Alavés,Real Madrid,Real Madrid Corner Match Bet,30 November 2019,La Liga - Spain
-Celta Vigo,Real Valladolid,Under 12 matchCorners,29 November 2019,La Liga - Spain
-Albacete,Mirandés,Albacete Over 1.5 Cards,24 November 2019,Segunda División - Spain
-Albacete,Mirandés,Under 12 matchCorners,24 November 2019,Segunda División - Spain
-Almería,Numancia,Under 12 matchCorners,24 November 2019,Segunda División - Spain
-Cádiz,Lugo,Over 3 matchCards,24 November 2019,Segunda División - Spain
-Deportivo La Coruña,Alcorcón,Alcorcón Asian Card Handicap,23 November 2019,Segunda División - Spain
-Deportivo La Coruña,Alcorcón,Under 12 matchCorners,23 November 2019,Segunda División - Spain
-Girona,Fuenlabrada,Over 3 matchCards,24 November 2019,Segunda División - Spain
-Girona,Fuenlabrada,Under 12 matchCorners,24 November 2019,Segunda División - Spain
-Huesca,Ponferradina,Under 12 matchCorners,23 November 2019,Segunda División - Spain
-Las Palmas,Real Oviedo,Las Palmas Over 1.5 Cards,24 November 2019,Segunda División - Spain
-Las Palmas,Real Oviedo,Real Oviedo Over 1.5 Cards,24 November 2019,Segunda División - Spain
-Málaga,Elche,Over 3 matchCards,24 November 2019,Segunda División - Spain
-Málaga,Elche,Under 12 matchCorners,24 November 2019,Segunda División - Spain
-Málaga,Elche,Málaga Corner Match Bet,24 November 2019,Segunda División - Spain
-Sporting Gijón,Tenerife,Over 3 matchCards,22 November 2019,Segunda División - Spain
-Sporting Gijón,Tenerife,Under 12 matchCorners,22 November 2019,Segunda División - Spain
-Alcorcón,Huesca,Alcorcón Asian Card Handicap,30 November 2019,Segunda División - Spain
-Alcorcón,Huesca,Over 3 matchCards,30 November 2019,Segunda División - Spain
-Mirandés,Sporting Gijón,Under 12 matchCorners,30 November 2019,Segunda División - Spain
-Ponferradina,Albacete,Albacete Asian Card Handicap,30 November 2019,Segunda División - Spain
-Ponferradina,Albacete,Under 12 matchCorners,30 November 2019,Segunda División - Spain
-Tenerife,Almería,Over 3 matchCards,30 November 2019,Segunda División - Spain
-Tenerife,Almería,Under 12 matchCorners,30 November 2019,Segunda División - Spain
-Real Zaragoza,Girona,Under 12 matchCorners,30 November 2019,Segunda División - Spain
-RB Leipzig,Köln,Over 1.5 1.5 BET,23 November 2019,Bundesliga - Germany
-Bayer Leverkusen,Freiburg,Over 1.0 firstHalfTotalGoals,23 November 2019,Bundesliga - Germany
-Bayer Leverkusen,Freiburg,Bayer Leverkusen Corner Match Bet,23 November 2019,Bundesliga - Germany
-Eintracht Frankfurt,Wolfsburg,Under 5 matchCards,23 November 2019,Bundesliga - Germany
-Fortuna Dusseldorf,Bayern Munich,Over 1.0 firstHalfTotalGoals,23 November 2019,Bundesliga - Germany
-Union Berlin,Borussia M'gladbach,Under 5 matchCards,23 November 2019,Bundesliga - Germany
-Bayern Munich,Bayer Leverkusen,Over 1.0 firstHalfTotalGoals,30 November 2019,Bundesliga - Germany
-Bayern Munich,Bayer Leverkusen,Over 1.5 1.5 BET,30 November 2019,Bundesliga - Germany
-Bayern Munich,Bayer Leverkusen,Over 1 firstHalfTotalGoals ,30 November 2019,Bundesliga - Germany
-Bayern Munich,Bayer Leverkusen,Under 12 matchCorners,30 November 2019,Bundesliga - Germany
-Hertha BSC,Borussia Dortmund,Over 2.5 matchGoals,30 November 2019,Bundesliga - Germany
-Hertha BSC,Borussia Dortmund,Over 2.5 matchGoals,30 November 2019,Bundesliga - Germany
-Hertha BSC,Borussia Dortmund,Borussia Dortmund Corner Match Bet,30 November 2019,Bundesliga - Germany
-Schalke 04,Union Berlin,Under 12 matchCorners,29 November 2019,Bundesliga - Germany
-Köln,Augsburg,Over 1 firstHalfTotalGoals ,30 November 2019,Bundesliga - Germany
-Köln,Augsburg,Köln Corner Match Bet,30 November 2019,Bundesliga - Germany
-Paderborn,RB Leipzig,Over 2.5 matchGoals,30 November 2019,Bundesliga - Germany
-Paderborn,RB Leipzig,Over 1.0 firstHalfTotalGoals,30 November 2019,Bundesliga - Germany
-Paderborn,RB Leipzig,Over 1 firstHalfTotalGoals ,30 November 2019,Bundesliga - Germany
-Paderborn,RB Leipzig,Under 5 matchCards,30 November 2019,Bundesliga - Germany
-Stuttgart,Karlsruher SC,Over 1.0 firstHalfTotalGoals,24 November 2019,2. Bundesliga - Germany
-Stuttgart,Karlsruher SC,Under 5 matchCards,24 November 2019,2. Bundesliga - Germany
-Hamburger SV,Dynamo Dresden,Dynamo Dresden Asian Card Handicap,23 November 2019,2. Bundesliga - Germany
-Hamburger SV,Dynamo Dresden,Under 5 matchCards,23 November 2019,2. Bundesliga - Germany
-Hamburger SV,Dynamo Dresden,Hamburger SV Corner Match Bet,23 November 2019,2. Bundesliga - Germany
-Arminia Bielefeld,Sandhausen,Under 5 matchCards,23 November 2019,2. Bundesliga - Germany
-Jahn Regensburg,Heidenheim,Under 5 matchCards,24 November 2019,2. Bundesliga - Germany
-Jahn Regensburg,Heidenheim,Over 8 matchCorners,24 November 2019,2. Bundesliga - Germany
-Nürnberg,Wehen Wiesbaden,Over 1.0 firstHalfTotalGoals,30 November 2019,2. Bundesliga - Germany
-Karlsruher SC,Jahn Regensburg,Under 5 matchCards,29 November 2019,2. Bundesliga - Germany
-Würzburger Kickers,Uerdingen,Uerdingen Over 1.5 Cards,23 November 2019,3. Liga - Germany
-MSV Duisburg,Viktoria Köln,Over 2.5 matchGoals,25 November 2019,3. Liga - Germany
-MSV Duisburg,Viktoria Köln,Over 1.0 firstHalfTotalGoals,25 November 2019,3. Liga - Germany
-MSV Duisburg,Viktoria Köln,Over 1.5 1.5 BET,25 November 2019,3. Liga - Germany
-Waldhof Mannheim,Ingolstadt,Over 1.0 firstHalfTotalGoals,23 November 2019,3. Liga - Germany
-Chemnitzer FC,Uerdingen,Uerdingen Over 1.5 Cards,30 November 2019,3. Liga - Germany
-Preußen Münster,Waldhof Mannheim,Over 1.0 firstHalfTotalGoals,30 November 2019,3. Liga - Germany
-Preußen Münster,Waldhof Mannheim,Over 1.5 1.5 BET,30 November 2019,3. Liga - Germany
-Preußen Münster,Waldhof Mannheim,Preußen Münster Asian Card Handicap,30 November 2019,3. Liga - Germany
-Bayern München II,Carl Zeiss Jena,Over 1.5 1.5 BET,29 November 2019,3. Liga - Germany
-Viktoria Köln,Kaiserslautern,Over 1.0 firstHalfTotalGoals,30 November 2019,3. Liga - Germany
-Viktoria Köln,Kaiserslautern,Kaiserslautern Corner Match Bet,30 November 2019,3. Liga - Germany
-PSG,Lille,Under 5 matchCards,22 November 2019,Ligue 1 - France
-Olympique Lyonnais,Nice,Nice Asian Card Handicap,23 November 2019,Ligue 1 - France
-Bordeaux,Monaco,Monaco Over 1.5 Cards,24 November 2019,Ligue 1 - France
-Metz,Reims,Under 4 matchCards,23 November 2019,Ligue 1 - France
-Metz,Reims,Under 5 matchCards,23 November 2019,Ligue 1 - France
-Metz,Reims,Under 12 matchCorners,23 November 2019,Ligue 1 - France
-Amiens SC,Strasbourg,Under 12 matchCorners,23 November 2019,Ligue 1 - France
-Olympique Marseille,Brest,Olympique Marseille Asian Card Handicap,29 November 2019,Ligue 1 - France
-Montpellier,Amiens SC,Under 12 matchCorners,30 November 2019,Ligue 1 - France
-Lille,Dijon,Under 5 matchCards,30 November 2019,Ligue 1 - France
-Paris FC,Auxerre,Under 12 matchCorners,22 November 2019,Ligue 2 - France
-Caen,Le Mans,Under 12 matchCorners,22 November 2019,Ligue 2 - France
-Lens,Sochaux,Under 12 matchCorners,23 November 2019,Ligue 2 - France
-Chambly,Ajaccio,Under 1.0 firstHalfTotalGoals,29 November 2019,Ligue 2 - France
-Villefranche,Concarneau,Villefranche Over 1.5 Cards,22 November 2019,National 1 - France
-Boulogne,Bourg-en-Bresse,Boulogne Asian Card Handicap,29 November 2019,National 1 - France
-Cholet,Toulon,Over 3 matchCards,29 November 2019,National 1 - France
-Cholet,Toulon,Toulon Over 1.5 Cards,29 November 2019,National 1 - France
-Avranches,Villefranche,Villefranche Over 1.5 Cards,29 November 2019,National 1 - France
-Benfica,Marítimo,Marítimo Asian Card Handicap,30 November 2019,Primeira Liga - Portugal
-Benfica,Marítimo,Benfica Corner Match Bet,30 November 2019,Primeira Liga - Portugal
-Santa Clara,Boavista,Under 2.5 matchGoals,29 November 2019,Primeira Liga - Portugal
-Santa Clara,Boavista,Under 2.5 matchGoals,29 November 2019,Primeira Liga - Portugal
-Santa Clara,Boavista,Under 1.5 secondHalfTotalGoals ,29 November 2019,Primeira Liga - Portugal
-Santa Clara,Boavista,Boavista Asian Card Handicap,29 November 2019,Primeira Liga - Portugal
-Santa Clara,Boavista,Boavista Over 1.5 Cards,29 November 2019,Primeira Liga - Portugal
-Santa Clara,Boavista,Boavista Over 2.5 Cards,29 November 2019,Primeira Liga - Portugal
-Sporting Covilhã,Feirense,Feirense Over 1.5 Cards,29 November 2019,Segunda Liga - Portugal
-Vilafranquense,Académica,Académica Over 1.5 Cards,30 November 2019,Segunda Liga - Portugal
-Varzim,Penafiel,Under 12 matchCorners,30 November 2019,Segunda Liga - Portugal
-Varzim,Penafiel,Varzim Corner Match Bet,30 November 2019,Segunda Liga - Portugal
-PSV,Heerenveen,Under 4 matchCards,24 November 2019,Eredivisie - Netherlands
-PSV,Heerenveen,Under 5 matchCards,24 November 2019,Eredivisie - Netherlands
-PEC Zwolle,Fortuna Sittard,Over 2.5 matchGoals,23 November 2019,Eredivisie - Netherlands
-Ajax,Heracles,Over 1.5 1.5 BET,23 November 2019,Eredivisie - Netherlands
-Ajax,Heracles,Ajax Over 1.5 Cards,23 November 2019,Eredivisie - Netherlands
-Ajax,Heracles,Ajax Corner Match Bet,23 November 2019,Eredivisie - Netherlands
-RKC Waalwijk,Emmen,Over 1.5 1.5 BET,24 November 2019,Eredivisie - Netherlands
-RKC Waalwijk,Emmen,Over 1 firstHalfTotalGoals ,24 November 2019,Eredivisie - Netherlands
-VVV,Twente,Over 2.5 matchGoals,24 November 2019,Eredivisie - Netherlands
-VVV,Twente,Over 2.5 matchGoals,24 November 2019,Eredivisie - Netherlands
-VVV,Twente,Under 5 matchCards,24 November 2019,Eredivisie - Netherlands
-Sparta Rotterdam,Vitesse,Over 1.0 firstHalfTotalGoals,24 November 2019,Eredivisie - Netherlands
-Sparta Rotterdam,Vitesse,Over 1.5 1.5 BET,24 November 2019,Eredivisie - Netherlands
-Sparta Rotterdam,Vitesse,Under 5 matchCards,24 November 2019,Eredivisie - Netherlands
-Heerenveen,Vitesse,Under 5 matchCards,29 November 2019,Eredivisie - Netherlands
-Utrecht II,AZ II,Under 5 matchCards,22 November 2019,Eerste Divisie - Netherlands
-De Graafschap,PSV II,Under 12 matchCorners,22 November 2019,Eerste Divisie - Netherlands
-Helmond Sport,NEC,Under 5 matchCards,22 November 2019,Eerste Divisie - Netherlands
-MVV,TOP Oss,Under 5 matchCards,22 November 2019,Eerste Divisie - Netherlands
-Eindhoven,Cambuur,Under 12 matchCorners,22 November 2019,Eerste Divisie - Netherlands
-Go Ahead Eagles,Roda JC,Under 5 matchCards,22 November 2019,Eerste Divisie - Netherlands
-PSV II,NAC Breda,NAC Breda Corner Match Bet,25 November 2019,Eerste Divisie - Netherlands
-NEC,Utrecht II,Under 5 matchCards,25 November 2019,Eerste Divisie - Netherlands
-Ajax II,Helmond Sport,Over 2.5 matchGoals,25 November 2019,Eerste Divisie - Netherlands
-Ajax II,Helmond Sport,Over 1.5 1.5 BET,25 November 2019,Eerste Divisie - Netherlands
-Ajax II,Helmond Sport,Under 5 matchCards,25 November 2019,Eerste Divisie - Netherlands
-Ajax II,Helmond Sport,Ajax II Corner Match Bet,25 November 2019,Eerste Divisie - Netherlands
-AZ II,De Graafschap,Under 12 matchCorners,25 November 2019,Eerste Divisie - Netherlands
-AZ II,De Graafschap,De Graafschap Corner Match Bet,25 November 2019,Eerste Divisie - Netherlands
-Cambuur,AZ II,Over 1.0 firstHalfTotalGoals,29 November 2019,Eerste Divisie - Netherlands
-Cambuur,AZ II,Cambuur Corner Match Bet,29 November 2019,Eerste Divisie - Netherlands
-TOP Oss,Eindhoven,Under 12 matchCorners,29 November 2019,Eerste Divisie - Netherlands
-Roda JC,Excelsior,Under 5 matchCards,29 November 2019,Eerste Divisie - Netherlands
-Telstar,Ajax II,Under 5 matchCards,29 November 2019,Eerste Divisie - Netherlands
-Volendam,NEC,Under 5 matchCards,29 November 2019,Eerste Divisie - Netherlands
-Helmond Sport,PSV II,Under 5 matchCards,29 November 2019,Eerste Divisie - Netherlands
-Salzburg,St. Pölten,Over 1.0 firstHalfTotalGoals,23 November 2019,Bundesliga - Austria
-Salzburg,St. Pölten,Over 1 firstHalfTotalGoals ,23 November 2019,Bundesliga - Austria
-Salzburg,St. Pölten,St. Pölten Asian Card Handicap,23 November 2019,Bundesliga - Austria
-Salzburg,St. Pölten,Salzburg Corner Match Bet,23 November 2019,Bundesliga - Austria
-Austria Wien,Hartberg,Hartberg Over 1.5 Cards,30 November 2019,Bundesliga - Austria
-St. Pölten,Mattersburg,Over 2.5 matchGoals,30 November 2019,Bundesliga - Austria
-St. Pölten,Mattersburg,Over 1.0 firstHalfTotalGoals,30 November 2019,Bundesliga - Austria
-St. Pölten,Mattersburg,Over 1 firstHalfTotalGoals ,30 November 2019,Bundesliga - Austria
-St. Pölten,Mattersburg,St. Pölten Over 1.5 Cards,30 November 2019,Bundesliga - Austria
-Austria Lustenau,Lafnitz,Over 3 matchCards,23 November 2019,2. Liga - Austria
-Austria Lustenau,Lafnitz,Over 4 matchCards,23 November 2019,2. Liga - Austria
-Austria Lustenau,Lafnitz,Lafnitz Over 1.5 Cards,23 November 2019,2. Liga - Austria
-Kapfenberger SV,Vorwärts Steyr,Kapfenberger SV Over 1.5 Cards,22 November 2019,2. Liga - Austria
-Blau-Weiß Linz,Liefering,Over 2.5 matchGoals,22 November 2019,2. Liga - Austria
-Blau-Weiß Linz,Liefering,Over 3 matchCards,22 November 2019,2. Liga - Austria
-Austria Klagenfurt,Austria Wien II,Over 2.5 matchGoals,22 November 2019,2. Liga - Austria
-Austria Klagenfurt,Austria Wien II,Over 1.5 secondHalfTotalGoals,22 November 2019,2. Liga - Austria
-Austria Klagenfurt,Austria Wien II,Austria Klagenfurt Asian Card Handicap,22 November 2019,2. Liga - Austria
-Austria Klagenfurt,Austria Wien II,Austria Klagenfurt Over 1.5 Cards,22 November 2019,2. Liga - Austria
-Horn,Wacker Innsbruck,Over 3 matchCards,22 November 2019,2. Liga - Austria
-Horn,Wacker Innsbruck,Wacker Innsbruck Over 1.5 Cards,22 November 2019,2. Liga - Austria
-Wacker Innsbruck,Horn,Over 3 matchCards,29 November 2019,2. Liga - Austria
-Amstetten,Grazer AK,Over 1.5 1.5 BET,29 November 2019,2. Liga - Austria
-Lafnitz,Austria Lustenau,Over 3 matchCards,29 November 2019,2. Liga - Austria
-Lafnitz,Austria Lustenau,Austria Lustenau Over 1.5 Cards,29 November 2019,2. Liga - Austria
-AaB,Horsens,Over 1 firstHalfTotalGoals ,24 November 2019,Superliga - Denmark
-Nordsjælland,Randers,Nordsjælland Corner Match Bet,22 November 2019,Superliga - Denmark
-AGF,Brøndby,Under 5 matchCards,24 November 2019,Superliga - Denmark
-Silkeborg,Esbjerg,Under 5 matchCards,24 November 2019,Superliga - Denmark
-Lyngby,Nordsjælland,Over 1.5 1.5 BET,29 November 2019,Superliga - Denmark
-Lyngby,Nordsjælland,Over 1 firstHalfTotalGoals ,29 November 2019,Superliga - Denmark
-Lyngby,Nordsjælland,Nordsjælland Corner Match Bet,29 November 2019,Superliga - Denmark
-Vålerenga,Molde,Under 5 matchCards,24 November 2019,Eliteserien - Norway
-Ranheim,Lillestrøm,Under 5 matchCards,24 November 2019,Eliteserien - Norway
-Sarpsborg 08,Haugesund,Under 5 matchCards,24 November 2019,Eliteserien - Norway
-Odd,Tromsø,Under 5 matchCards,24 November 2019,Eliteserien - Norway
-Bodø / Glimt,Kristiansund,Under 5 matchCards,24 November 2019,Eliteserien - Norway
-Strømsgodset,Brann,Under 5 matchCards,24 November 2019,Eliteserien - Norway
-Stabæk,Mjøndalen,Under 4 matchCards,24 November 2019,Eliteserien - Norway
-Stabæk,Mjøndalen,Under 5 matchCards,24 November 2019,Eliteserien - Norway
-Viking,Rosenborg,Rosenborg Over 4 Corners,24 November 2019,Eliteserien - Norway
-Viking,Rosenborg,Rosenborg Corner Match Bet,24 November 2019,Eliteserien - Norway
-Club Brugge,KV Oostende,Club Brugge Over 1.5 Cards,22 November 2019,First Division A - Belgium
-Club Brugge,KV Oostende,Club Brugge Corner Match Bet,22 November 2019,First Division A - Belgium
-Gent,Antwerp,Over 2.5 matchGoals,24 November 2019,First Division A - Belgium
-Gent,Antwerp,Over 1.5 1.5 BET,24 November 2019,First Division A - Belgium
-Royal Excel Mouscron,Genk,Under 12 matchCorners,23 November 2019,First Division A - Belgium
-Mechelen,Zulte-Waregem,Over 1 firstHalfTotalGoals ,23 November 2019,First Division A - Belgium
-Waasland-Beveren,Cercle Brugge,Under 5 matchCards,23 November 2019,First Division A - Belgium
-Club Brugge,Royal Excel Mouscron,Club Brugge Over 1.5 Cards,30 November 2019,First Division A - Belgium
-Genk,Sint-Truiden,Sint-Truiden Asian Card Handicap,30 November 2019,First Division A - Belgium
-Sparta Praha,České Budějovice,Over 1.0 firstHalfTotalGoals,22 November 2019,Czech Liga - Czech-republic
-Sparta Praha,České Budějovice,Over 1 firstHalfTotalGoals ,22 November 2019,Czech Liga - Czech-republic
-Sparta Praha,České Budějovice,Sparta Praha Corner Match Bet,22 November 2019,Czech Liga - Czech-republic
-Bohemians 1905,Příbram,Under 5 matchCards,23 November 2019,Czech Liga - Czech-republic
-Slovan Liberec,Zlín,Under 12 matchCorners,23 November 2019,Czech Liga - Czech-republic
-Sigma Olomouc,Slovan Liberec,Slovan Liberec Asian Card Handicap,30 November 2019,Czech Liga - Czech-republic
-Dinamo Zagreb,Hajduk Split,Hajduk Split Asian Card Handicap,22 November 2019,1. HNL - Croatia
-Osijek,Istra 1961,Osijek Asian Card Handicap,24 November 2019,1. HNL - Croatia
-Lokomotiva Zagreb,Gorica,Gorica Asian Card Handicap,29 November 2019,1. HNL - Croatia
-Pogoń Szczecin,Legia Warszawa,Under 12 matchCorners,23 November 2019,Ekstraklasa - Poland
-Legia Warszawa,Korona Kielce,Under 12 matchCorners,30 November 2019,Ekstraklasa - Poland
-Tambov,Lokomotiv Moscow,Under 12 matchCorners,22 November 2019,Premier League - Russia
-CSKA Moscow,Krylya Sovetov,CSKA Moscow Corner Match Bet,24 November 2019,Premier League - Russia
-Dinamo Moscow,Rostov,Under 12 matchCorners,23 November 2019,Premier League - Russia
-Rubin Kazan,Zenit,Rubin Kazan Asian Card Handicap,23 November 2019,Premier League - Russia
-Arsenal Tula,Krasnodar,Over 1 firstHalfTotalGoals ,24 November 2019,Premier League - Russia
-Ural,Spartak Moscow,Spartak Moscow Asian Card Handicap,24 November 2019,Premier League - Russia
-Ural,Spartak Moscow,Under 12 matchCorners,24 November 2019,Premier League - Russia
-Rostov,Ural,Under 12 matchCorners,30 November 2019,Premier League - Russia
-Akhmat Grozny,Rubin Kazan,Under 10 matchCorners,30 November 2019,Premier League - Russia
-Akhmat Grozny,Rubin Kazan,Under 12 matchCorners,30 November 2019,Premier League - Russia
-Krylya Sovetov,Ufa,Under 12 matchCorners,30 November 2019,Premier League - Russia
-Kasımpaşa,Gençlerbirliği,Gençlerbirliği Over 1.5 Cards,24 November 2019,Süper Lig - Turkey
-Konyaspor,Beşiktaş,Beşiktaş Over 1.5 Cards,23 November 2019,Süper Lig - Turkey
-Galatasaray,Istanbul Basaksehir,Istanbul Basaksehir Corner Match Bet,22 November 2019,Süper Lig - Turkey
-Antalyaspor,Gaziantep FK,Over 1.0 firstHalfTotalGoals,25 November 2019,Süper Lig - Turkey
-Antalyaspor,Gaziantep FK,Over 1 firstHalfTotalGoals ,25 November 2019,Süper Lig - Turkey
-Antalyaspor,Gaziantep FK,Gaziantep FK Over 1.5 Cards,25 November 2019,Süper Lig - Turkey
-Yeni Malatyaspor,Fenerbahçe,Yeni Malatyaspor Asian Card Handicap,24 November 2019,Süper Lig - Turkey
-Kayserispor,Sivasspor,Sivasspor Over 1.5 Cards,24 November 2019,Süper Lig - Turkey
-Sivasspor,Kasımpaşa,Over 3 matchCards,30 November 2019,Süper Lig - Turkey
-Sivasspor,Kasımpaşa,Kasımpaşa Over 1.5 Cards,30 November 2019,Süper Lig - Turkey
-Gençlerbirliği,Yeni Malatyaspor,Under 12 matchCorners,29 November 2019,Süper Lig - Turkey
-Alanyaspor,Ankaragücü,Alanyaspor Corner Match Bet,30 November 2019,Süper Lig - Turkey
-Göztepe,Fenerbahçe,Göztepe Asian Card Handicap,30 November 2019,Süper Lig - Turkey
-Göztepe,Fenerbahçe,Under 12 matchCorners,30 November 2019,Süper Lig - Turkey
-Atromitos,OFI,OFI Over 1.5 Cards,24 November 2019,Super League 1 - Greece
-Panaitolikos,Panathinaikos,Panathinaikos Asian Card Handicap,24 November 2019,Super League 1 - Greece
-Panaitolikos,Panathinaikos,Under 12 matchCorners,24 November 2019,Super League 1 - Greece
-Panionios,Olympiakos Piraeus,Panionios Asian Card Handicap,23 November 2019,Super League 1 - Greece
-Panionios,Olympiakos Piraeus,Olympiakos Piraeus Corner Match Bet,23 November 2019,Super League 1 - Greece
-PAOK,Larissa,Over 1.0 firstHalfTotalGoals,24 November 2019,Super League 1 - Greece
-PAOK,Larissa,Larissa Asian Card Handicap,24 November 2019,Super League 1 - Greece
-OFI,AEK Athens,OFI Over 1.5 Cards,30 November 2019,Super League 1 - Greece
-CFR Cluj,Chindia Târgovişte,Chindia Târgovişte Over 1.5 Cards,22 November 2019,Liga I - Romania
-CFR Cluj,Chindia Târgovişte,Under 12 matchCorners,22 November 2019,Liga I - Romania
-CFR Cluj,Chindia Târgovişte,CFR Cluj Corner Match Bet,22 November 2019,Liga I - Romania
-Viitorul,Sepsi,Under 12 matchCorners,25 November 2019,Liga I - Romania
-Gaz Metan Mediaş,Botoşani,Under 12 matchCorners,24 November 2019,Liga I - Romania
-FCSB,Astra,Over 3 matchCards,23 November 2019,Liga I - Romania
-FCSB,Astra,FCSB Over 1.5 Cards,23 November 2019,Liga I - Romania
-FCSB,Astra,Under 12 matchCorners,23 November 2019,Liga I - Romania
-Academica Clinceni,Dinamo Bucureşti,Under 12 matchCorners,24 November 2019,Liga I - Romania
-Sepsi,Universitatea Craiova,Under 12 matchCorners,30 November 2019,Liga I - Romania
-Astra,Gaz Metan Mediaş,Under 12 matchCorners,29 November 2019,Liga I - Romania
-Voluntari,FCSB,Under 12 matchCorners,30 November 2019,Liga I - Romania
-Trenčín,Spartak Trnava,Over 1 firstHalfTotalGoals ,23 November 2019,Super Liga - Slovakia
-Partizan,Javor Ivanjica,Over 1.0 firstHalfTotalGoals,22 November 2019,Super Liga - Serbia
-Vojvodina,Napredak,Napredak Over 1.5 Cards,23 November 2019,Super Liga - Serbia
-Voždovac,Proleter Novi Sad,Under 12 matchCorners,23 November 2019,Super Liga - Serbia
-América Mineiro,São Bento,São Bento Asian Card Handicap,30 November 2019,Serie B - Brazil
-Puebla,Necaxa,Under 12 matchCorners,23 November 2019,Liga MX - Mexico
-Tijuana,León,Over 1.0 firstHalfTotalGoals,23 November 2019,Liga MX - Mexico
-Tijuana,León,Over 1 firstHalfTotalGoals ,23 November 2019,Liga MX - Mexico
-Monterrey,Atlas,Monterrey Corner Match Bet,24 November 2019,Liga MX - Mexico
-Boca Juniors,Unión,Over 3 matchCards,24 November 2019,Superliga - Argentina
-Huracán,Central Córdoba SdE,Under 12 matchCorners,23 November 2019,Superliga - Argentina
-Banfield,Vélez Sarsfield,Banfield Asian Card Handicap,24 November 2019,Superliga - Argentina
-Colón,Estudiantes,Over 3 matchCards,25 November 2019,Superliga - Argentina
-Talleres de Córdoba,Racing Club,Under 12 matchCorners,25 November 2019,Superliga - Argentina
-Patronato,Godoy Cruz,Patronato Over 1.5 Cards,25 November 2019,Superliga - Argentina
-Patronato,Godoy Cruz,Patronato Corner Match Bet,25 November 2019,Superliga - Argentina
-Atlético Tucumán,San Lorenzo,Atlético Tucumán Over 1.5 Cards,24 November 2019,Superliga - Argentina
-Atlético Tucumán,San Lorenzo,San Lorenzo Over 1.5 Cards,24 November 2019,Superliga - Argentina
-Boca Juniors,Argentinos Juniors,Under 1.5 secondHalfTotalGoals ,30 November 2019,Superliga - Argentina
-Estudiantes,Atlético Tucumán,Under 2.5 matchGoals,30 November 2019,Superliga - Argentina
-Estudiantes,Atlético Tucumán,Atlético Tucumán Over 1.5 Cards,30 November 2019,Superliga - Argentina
-Banfield,Gimnasia La Plata,Over 3 matchCards,29 November 2019,Superliga - Argentina
-Dalian Yifang,Hebei CFFC,Under 5 matchCards,23 November 2019,CSL - China-pr
-Wuhan Zall,Guangzhou R&F,Under 5 matchCards,22 November 2019,CSL - China-pr
-Guangzhou Evergrande,Shanghai SIPG,Under 5 matchCards,23 November 2019,CSL - China-pr
-Guangzhou R&F,Beijing Guoan,Under 5 matchCards,27 November 2019,CSL - China-pr
-Hebei CFFC,Guangzhou Evergrande,Under 5 matchCards,27 November 2019,CSL - China-pr
-Beijing Renhe,Shanghai SIPG,Under 5 matchCards,27 November 2019,CSL - China-pr
-Shanghai Shenhua,Jiangsu Suning,Over 2.5 matchGoals,27 November 2019,CSL - China-pr
-Consadole Sapporo,Júbilo Iwata,Under 5 matchCards,23 November 2019,J1 League - Japan
-Tokyo,Shonan Bellmare,Under 5 matchCards,23 November 2019,J1 League - Japan
-Matsumoto Yamaga,Yokohama F. Marinos,Under 4 matchCards,23 November 2019,J1 League - Japan
-Matsumoto Yamaga,Yokohama F. Marinos,Under 5 matchCards,23 November 2019,J1 League - Japan
-Shimizu S-Pulse,Oita Trinita,Under 4 matchCards,23 November 2019,J1 League - Japan
-Shimizu S-Pulse,Oita Trinita,Under 5 matchCards,23 November 2019,J1 League - Japan
-Nagoya Grampus,Sagan Tosu,Under 4 matchCards,23 November 2019,J1 League - Japan
-Nagoya Grampus,Sagan Tosu,Under 5 matchCards,23 November 2019,J1 League - Japan
-Gamba Osaka,Vegalta Sendai,Under 3 matchCards,23 November 2019,J1 League - Japan
-Gamba Osaka,Vegalta Sendai,Under 4 matchCards,23 November 2019,J1 League - Japan
-Gamba Osaka,Vegalta Sendai,Under 5 matchCards,23 November 2019,J1 League - Japan
-Vissel Kobe,Cerezo Osaka,Under 3 matchCards,23 November 2019,J1 League - Japan
-Vissel Kobe,Cerezo Osaka,Under 4 matchCards,23 November 2019,J1 League - Japan
-Vissel Kobe,Cerezo Osaka,Under 5 matchCards,23 November 2019,J1 League - Japan
-Sanfrecce Hiroshima,Kashima Antlers,Under 4 matchCards,23 November 2019,J1 League - Japan
-Sanfrecce Hiroshima,Kashima Antlers,Under 5 matchCards,23 November 2019,J1 League - Japan
-Vegalta Sendai,Oita Trinita,Under 3 matchCards,30 November 2019,J1 League - Japan
-Vegalta Sendai,Oita Trinita,Under 4 matchCards,30 November 2019,J1 League - Japan
-Vegalta Sendai,Oita Trinita,Under 5 matchCards,30 November 2019,J1 League - Japan
-Kashima Antlers,Vissel Kobe,Under 5 matchCards,30 November 2019,J1 League - Japan
-Tokyo,Urawa Reds,Under 4 matchCards,30 November 2019,J1 League - Japan
-Tokyo,Urawa Reds,Under 5 matchCards,30 November 2019,J1 League - Japan
-Kawasaki Frontale,Yokohama F. Marinos,Under 4 matchCards,30 November 2019,J1 League - Japan
-Kawasaki Frontale,Yokohama F. Marinos,Under 5 matchCards,30 November 2019,J1 League - Japan
-Shonan Bellmare,Sanfrecce Hiroshima,Under 4 matchCards,30 November 2019,J1 League - Japan
-Shonan Bellmare,Sanfrecce Hiroshima,Under 5 matchCards,30 November 2019,J1 League - Japan
-Júbilo Iwata,Nagoya Grampus,Under 4 matchCards,30 November 2019,J1 League - Japan
-Júbilo Iwata,Nagoya Grampus,Under 5 matchCards,30 November 2019,J1 League - Japan
-Gamba Osaka,Matsumoto Yamaga,Under 3 matchCards,30 November 2019,J1 League - Japan
-Gamba Osaka,Matsumoto Yamaga,Under 4 matchCards,30 November 2019,J1 League - Japan
-Gamba Osaka,Matsumoto Yamaga,Under 5 matchCards,30 November 2019,J1 League - Japan
-Cerezo Osaka,Shimizu S-Pulse,Under 4 matchCards,30 November 2019,J1 League - Japan
-Cerezo Osaka,Shimizu S-Pulse,Under 5 matchCards,30 November 2019,J1 League - Japan
-Sagan Tosu,Consadole Sapporo,Under 4 matchCards,30 November 2019,J1 League - Japan
-Sagan Tosu,Consadole Sapporo,Under 5 matchCards,30 November 2019,J1 League - Japan
-Montedio Yamagata,Machida Zelvia,Under 5 matchCards,24 November 2019,J2 League - Japan
-Mito Hollyhock,Fagiano Okayama,Under 4 matchCards,24 November 2019,J2 League - Japan
-Mito Hollyhock,Fagiano Okayama,Under 5 matchCards,24 November 2019,J2 League - Japan
-JEF United,Tochigi,Under 4 matchCards,24 November 2019,J2 League - Japan
-JEF United,Tochigi,Under 5 matchCards,24 November 2019,J2 League - Japan
-Kashiwa Reysol,Kyoto Sanga,Under 4 matchCards,24 November 2019,J2 League - Japan
-Kashiwa Reysol,Kyoto Sanga,Under 5 matchCards,24 November 2019,J2 League - Japan
-Tokyo Verdy,Gifu,Under 3 matchCards,24 November 2019,J2 League - Japan
-Tokyo Verdy,Gifu,Under 4 matchCards,24 November 2019,J2 League - Japan
-Tokyo Verdy,Gifu,Under 5 matchCards,24 November 2019,J2 League - Japan
-Yokohama,Ehime,Under 4 matchCards,24 November 2019,J2 League - Japan
-Yokohama,Ehime,Under 5 matchCards,24 November 2019,J2 League - Japan
-Ventforet Kofu,Ryūkyū,Under 4 matchCards,24 November 2019,J2 League - Japan
-Ventforet Kofu,Ryūkyū,Under 5 matchCards,24 November 2019,J2 League - Japan
-Albirex Niigata,V-Varen Nagasaki,Under 4 matchCards,24 November 2019,J2 League - Japan
-Albirex Niigata,V-Varen Nagasaki,Under 5 matchCards,24 November 2019,J2 League - Japan
-Zweigen Kanazawa,Omiya Ardija,Under 3 matchCards,24 November 2019,J2 League - Japan
-Zweigen Kanazawa,Omiya Ardija,Under 4 matchCards,24 November 2019,J2 League - Japan
-Zweigen Kanazawa,Omiya Ardija,Under 5 matchCards,24 November 2019,J2 League - Japan
-Tokushima Vortis,Renofa Yamaguchi,Under 4 matchCards,24 November 2019,J2 League - Japan
-Tokushima Vortis,Renofa Yamaguchi,Under 5 matchCards,24 November 2019,J2 League - Japan
-Avispa Fukuoka,Kagoshima United,Under 4 matchCards,24 November 2019,J2 League - Japan
-Avispa Fukuoka,Kagoshima United,Under 5 matchCards,24 November 2019,J2 League - Japan
-Hapoel Haifa,Maccabi Netanya,Maccabi Netanya Asian Card Handicap,30 November 2019,Ligat ha'Al - Israel
-Hapoel Haifa,Maccabi Netanya,Maccabi Netanya Over 1.5 Cards,30 November 2019,Ligat ha'Al - Israel
-Ironi Kiryat Shmona,Maccabi Tel Aviv,Under 12 matchCorners,30 November 2019,Ligat ha'Al - Israel
-Brisbane Roar,Central Coast Mariners,Brisbane Roar Asian Card Handicap,30 November 2019,A-League - Australia
-Newcastle Jets,Western Sydney Wanderers,Newcastle Jets Corner Match Bet,30 November 2019,A-League - Australia
+1 December 2019,Everton,0.0 Asian Card Handicap,Premier League
+1 December 2019,Leicester City,Over 3 Team Corners,Premier League
+30 November 2019,Liverpool,Over 3 Team Corners,Premier League
+30 November 2019,Liverpool,Corner Match Bet,Premier League
+30 November 2019,Manchester City,Corner Match Bet,Premier League
+30 November 2019,Tottenham Hotspur vs AFC Bournemouth,Over 1.0 FH Goal Line,Premier League
+30 November 2019,AFC Bournemouth,Over 3 Team Corners,Premier League
+5 December 2019,Arsenal - Premier League - England,Corner Match Bet,Premier League
+4 December 2019,Watford,0.0 Asian Card Handicap,Premier League
+4 December 2019,Leicester City,Over 3 Team Corners,Premier League
+4 December 2019,Manchester United vs Tottenham Hotspur,Over 1.0 FH Goal Line,Premier League
+5 December 2019,Sheffield United,Over 3 Team Corners,Premier League
+5 December 2019,Sheffield United,Corner Match Bet,Premier League
+3 December 2019,AFC Bournemouth,Over 3 Team Corners,Premier League
+4 December 2019,Everton,0.0 Asian Card Handicap,Premier League
+4 December 2019,Liverpool,Over 3 Team Corners,Premier League
+7 December 2019,AFC Bournemouth vs Liverpool,Over 8 Corners,Premier League
+7 December 2019,Liverpool,Over 3 Team Corners,Premier League
+8 December 2019,Leicester City,Over 3 Team Corners,Premier League
+7 December 2019,Everton,Over 3 Team Corners,Premier League
+7 December 2019,Manchester City,Corner Match Bet,Premier League
+8 December 2019,Norwich City vs Sheffield United,Under 5 Match Cards,Premier League
+15 December 2019,Arsenal - Premier League - England vs Manchester City,Over 1.0 FH Goal Line,Premier League
+14 December 2019,Burnley vs Newcastle United,Over 8 Corners,Premier League
+14 December 2019,AFC Bournemouth,Over 3 Team Corners,Premier League
+14 December 2019,Leicester City vs Norwich City,Under 5 Match Cards,Premier League
+14 December 2019,Leicester City vs Norwich City,Over 8 Corners,Premier League
+14 December 2019,Leicester City,Over 3 Team Corners,Premier League
+14 December 2019,Leicester City,Corner Match Bet,Premier League
+14 December 2019,Watford,0.0 Asian Card Handicap,Premier League
+14 December 2019,Liverpool,Over 3 Team Corners,Premier League
+14 December 2019,Sheffield United,Over 3 Team Corners,Premier League
+21 December 2019,AFC Bournemouth vs Burnley,Over 8 Corners,Premier League
+21 December 2019,Everton,Over 3 Team Corners,Premier League
+21 December 2019,Manchester City,0.0 Asian Card Handicap,Premier League
+21 December 2019,Manchester City vs Leicester City,Under 5 Match Cards,Premier League
+21 December 2019,Manchester City vs Leicester City,Over 8 Corners,Premier League
+21 December 2019,Leicester City,Over 3 Team Corners,Premier League
+22 December 2019,Tottenham Hotspur vs Chelsea,Over 1.0 FH Goal Line,Premier League
+26 December 2019,Everton,Over 3 Team Corners,Premier League
+26 December 2019,Leicester City vs Liverpool,Over 8 Corners,Premier League
+26 December 2019,Leicester City,Over 3 Team Corners,Premier League
+26 December 2019,Liverpool,Over 3 Team Corners,Premier League
+26 December 2019,Manchester United vs Newcastle United,Under 13 Corners,Premier League
+26 December 2019,Sheffield United,Over 3 Team Corners,Premier League
+27 December 2019,Manchester City,Corner Match Bet,Premier League
+29 December 2019,Arsenal - Premier League - England,Corner Match Bet,Premier League
+28 December 2019,AFC Bournemouth,Over 3 Team Corners,Premier League
+29 December 2019,Wolverhampton Wanderers,0.0 Asian Card Handicap,Premier League
+29 December 2019,Liverpool,Over 3 Team Corners,Premier League
+29 December 2019,Manchester City vs Sheffield United,Under 5 Match Cards,Premier League
+29 December 2019,Manchester City,Corner Match Bet,Premier League
+28 December 2019,Norwich City vs Tottenham Hotspur,Over 1.0 FH Goal Line,Premier League
+28 December 2019,West Ham United,0.0 Asian Card Handicap,Premier League
+28 December 2019,Leicester City,Over 3 Team Corners,Premier League
+7 December 2019,Blackpool vs Fleetwood Town,Over 1.0 FH Goal Line,League One
+7 December 2019,Gillingham vs Sunderland,Over 1.0 FH Goal Line,League One
+14 December 2019,Sunderland vs Blackpool,Over 1.0 FH Goal Line,League One
+26 December 2019,Oxford United vs Lincoln City,Over 1.0 FH Goal Line,League One
+29 December 2019,Gillingham vs Rochdale,Over 1.0 FH Goal Line,League One
+26 November 2019,Charlton Athletic,0.0 Asian Card Handicap,Championship
+7 December 2019,Wigan Athletic,0.0 Asian Card Handicap,Championship
+29 December 2019,Sheffield Wednesday vs Cardiff City,Under 5 Match Cards,Championship
+29 December 2019,Barnsley,0.0 Asian Card Handicap,Championship
+30 November 2019,Boreham Wood,Over 3 Team Corners,National League
+30 November 2019,Barrow,Over 1 Team Cards,National League
+7 December 2019,Maidenhead United,0.0 Asian Card Handicap,National League
+21 December 2019,Barrow,Over 1 Team Cards,National League
+26 December 2019,Boreham Wood,Over 3 Team Corners,National League
+26 December 2019,Dagenham & Redbridge vs Ebbsfleet United,Over 1.0 FH Goal Line,National League
+26 December 2019,Ebbsfleet United,0.0 Asian Card Handicap,National League
+26 December 2019,Maidenhead United,0.0 Asian Card Handicap,National League
+28 December 2019,Fylde vs Stockport County,Under 5 Match Cards,National League
+28 December 2019,Barrow,Over 1 Team Cards,National League
+21 December 2019,Gloucester City vs King's Lynn Town,Over 1.0 FH Goal Line,National League CHANGE
+26 December 2019,AFC Telford United vs Alfreton Town,Over 1.0 FH Goal Line,National League CHANGE
+28 December 2019,Alfreton Town vs King's Lynn Town,Over 2.5 Goals,National League CHANGE
+28 December 2019,Alfreton Town vs King's Lynn Town,Over 1.0 FH Goal Line,National League CHANGE
+11 December 2019,Havant & Waterlooville vs Slough Town,Over 1.0 FH Goal Line,National League CHANGE
+30 November 2019,Slough Town vs Tonbridge Angels,Over 1.0 FH Goal Line,National League CHANGE
+30 November 2019,Wealdstone vs Concord Rangers,Over 1.0 FH Goal Line,National League CHANGE
+7 December 2019,Slough Town vs Braintree Town,Over 1.0 FH Goal Line,National League CHANGE
+21 December 2019,Braintree Town vs Havant & Waterlooville,Over 2.5 Goals,National League CHANGE
+21 December 2019,Braintree Town vs Havant & Waterlooville,Over 1.0 FH Goal Line,National League CHANGE
+21 December 2019,Dartford vs Concord Rangers,Over 1.0 FH Goal Line,National League CHANGE
+26 December 2019,Chelmsford City vs Braintree Town,Over 2.5 Goals,National League CHANGE
+28 December 2019,Braintree Town vs Concord Rangers,Over 1.0 FH Goal Line,National League CHANGE
+28 December 2019,Dartford vs Tonbridge Angels,Over 1.0 FH Goal Line,National League CHANGE
+28 December 2019,Hungerford Town vs Havant & Waterlooville,Over 1.0 FH Goal Line,National League CHANGE
+28 December 2019,Wealdstone vs St Albans City,Over 1.0 FH Goal Line,National League CHANGE
+30 November 2019,Aberdeen vs St. Mirren,Under 5 Match Cards,Scotland Premier
+1 December 2019,Ross County vs Celtic,Over 1.0 FH Goal Line,Scotland Premier
+4 December 2019,Aberdeen vs Rangers,Over 1.0 FH Goal Line,Scotland Premier
+4 December 2019,Aberdeen vs Rangers,Under 5 Match Cards,Scotland Premier
+4 December 2019,Celtic vs Hamilton Academical,Over 1.0 FH Goal Line,Scotland Premier
+4 December 2019,Ross County vs Hibernian,Over 2.5 Goals,Scotland Premier
+4 December 2019,Motherwell,0.0 Asian Card Handicap,Scotland Premier
+7 December 2019,Hamilton Academical vs St. Mirren,Under 5 Match Cards,Scotland Premier
+14 December 2019,Aberdeen vs Hamilton Academical,Over 1.0 FH Goal Line,Scotland Premier
+14 December 2019,Aberdeen vs Hamilton Academical,Under 5 Match Cards,Scotland Premier
+15 December 2019,Celtic vs Hibernian,Over 2.5 Goals,Scotland Premier
+21 December 2019,Celtic vs Aberdeen,Over 1.0 FH Goal Line,Scotland Premier
+26 December 2019,Aberdeen vs Livingston,Under 5 Match Cards,Scotland Premier
+26 December 2019,Hamilton Academical vs St. Johnstone,Over 1.0 FH Goal Line,Scotland Premier
+26 December 2019,Rangers vs Kilmarnock,Under 5 Match Cards,Scotland Premier
+26 December 2019,Ross County vs Motherwell,Over 1.0 FH Goal Line,Scotland Premier
+30 November 2019,Greenock Morton vs Dundee United,Under 5 Match Cards,Scotland Championship
+7 December 2019,Dundee United vs Alloa Athletic,Over 1.0 FH Goal Line,Scotland Championship
+14 December 2019,Ayr United vs Alloa Athletic,Over 1.0 FH Goal Line,Scotland Championship
+14 December 2019,Partick Thistle vs Inverness CT,Under 5 Match Cards,Scotland Championship
+21 December 2019,Dundee United vs Ayr United,Over 2.5 Goals,Scotland Championship
+21 December 2019,Dundee United vs Ayr United,Over 1.0 FH Goal Line,Scotland Championship
+27 December 2019,Dundee United vs Dundee,Over 1.0 FH Goal Line,Scotland Championship
+28 December 2019,Alloa Athletic,0.0 Asian Card Handicap,Scotland Championship
+28 December 2019,Greenock Morton vs Partick Thistle,Under 5 Match Cards,Scotland Championship
+30 November 2019,Clyde vs Dumbarton,Over 1.0 FH Goal Line,Scotland League One
+14 December 2019,Forfar Athletic vs Dumbarton,Under 5 Match Cards,Scotland League One
+21 December 2019,Raith Rovers vs Dumbarton,Over 2.5 Goals,Scotland League One
+30 November 2019,Annan Athletic vs Cove Rangers,Over 1.0 FH Goal Line,Scotland League Two
+7 December 2019,Cowdenbeath,0.0 Asian Card Handicap,Scotland League Two
+28 December 2019,Brechin City vs Albion Rovers,Over 2.5 Goals,Scotland League Two
+3 December 2019,The New Saints vs Carmarthen Town,Over 1.0 FH Goal Line,Wales
+29 November 2019,Aberystwyth Town vs Cefn Druids,Over 1.0 FH Goal Line,Wales
+30 November 2019,Airbus UK vs The New Saints,Over 1.0 FH Goal Line,Wales
+30 November 2019,Carmarthen Town vs Bala Town,Over 1.0 FH Goal Line,Wales
+21 December 2019,Airbus UK vs Cefn Druids,Over 1.0 FH Goal Line,Wales
+26 December 2019,Carmarthen Town vs Penybont,Over 1.0 FH Goal Line,Wales
+26 December 2019,Cefn Druids vs The New Saints,Over 1.0 FH Goal Line,Wales
+30 December 2019,The New Saints vs Cefn Druids,Over 1.0 FH Goal Line,Wales
+30 November 2019,Lecce,Over 1 Team Cards,Serie A
+30 November 2019,Fiorentina,Corner Match Bet,Serie A
+1 December 2019,SPAL,Over 1 Team Cards,Serie A
+1 December 2019,Internazionale vs SPAL,Over 8 Corners,Serie A
+1 December 2019,Milan,0.0 Asian Card Handicap,Serie A
+1 December 2019,Parma vs Milan,Over 3 Match Cards,Serie A
+1 December 2019,Milan,Over 1 Team Cards,Serie A
+7 December 2019,Atalanta vs Hellas Verona,Over 3 Match Cards,Serie A
+8 December 2019,Bologna vs Milan,Over 3 Match Cards,Serie A
+8 December 2019,Milan,Over 1 Team Cards,Serie A
+7 December 2019,Lazio vs Juventus,Over 3 Match Cards,Serie A
+8 December 2019,Lecce,Over 1 Team Cards,Serie A
+8 December 2019,Sampdoria vs Parma,Over 3 Match Cards,Serie A
+8 December 2019,Sampdoria,Over 1 Team Cards,Serie A
+8 December 2019,SPAL,Over 1 Team Cards,Serie A
+7 December 2019,Napoli,Over 3 Team Corners,Serie A
+14 December 2019,Lecce,Over 1 Team Cards,Serie A
+15 December 2019,Internazionale,Over 3 Team Corners,Serie A
+15 December 2019,Hellas Verona vs Torino,Over 3 Match Cards,Serie A
+15 December 2019,Milan,Over 1 Team Cards,Serie A
+15 December 2019,SPAL,Over 1 Team Cards,Serie A
+15 December 2019,Roma,Over 3 Team Corners,Serie A
+22 December 2019,Milan,0.0 Asian Card Handicap,Serie A
+22 December 2019,Atalanta vs Milan,Over 3 Match Cards,Serie A
+22 December 2019,Milan,Over 1 Team Cards,Serie A
+22 December 2019,Lecce vs Bologna,Over 3 Match Cards,Serie A
+22 December 2019,Lecce,Over 1 Team Cards,Serie A
+18 December 2019,Sampdoria vs Juventus,Over 3 Match Cards,Serie A
+18 December 2019,Sampdoria,Over 1 Team Cards,Serie A
+22 December 2019,Sassuolo vs Napoli,Over 1.0 FH Goal Line,Serie A
+22 December 2019,Napoli,Over 3 Team Corners,Serie A
+21 December 2019,SPAL,Over 1 Team Cards,Serie A
+29 November 2019,Cosenza vs Spezia,Under 12 Corners,Serie B
+29 November 2019,Cosenza vs Spezia,Under 13 Corners,Serie B
+30 November 2019,Cittadella,0.0 Asian Card Handicap,Serie B
+30 November 2019,Frosinone,Corner Match Bet,Serie B
+2 December 2019,Pisa,Over 1 Team Cards,Serie B
+30 November 2019,Salernitana vs Ascoli,Over 3 Match Cards,Serie B
+30 November 2019,Venezia,0.0 Asian Card Handicap,Serie B
+30 November 2019,Venezia,Over 1 Team Cards,Serie B
+1 December 2019,Virtus Entella vs Juve Stabia,Over 3 Match Cards,Serie B
+6 December 2019,Trapani,0.0 Asian Card Handicap,Serie B
+7 December 2019,Chievo vs Cremonese,Under 13 Corners,Serie B
+7 December 2019,Cittadella vs Salernitana,Over 3 Match Cards,Serie B
+7 December 2019,Cittadella,Over 1 Team Cards,Serie B
+7 December 2019,Salernitana,Over 1 Team Cards,Serie B
+7 December 2019,Ascoli,0.0 Asian Card Handicap,Serie B
+7 December 2019,Empoli vs Ascoli,Under 11 Corners,Serie B
+7 December 2019,Empoli vs Ascoli,Under 12 Corners,Serie B
+7 December 2019,Empoli vs Ascoli,Under 13 Corners,Serie B
+8 December 2019,Juve Stabia vs Frosinone,Over 3 Match Cards,Serie B
+8 December 2019,Juve Stabia,Over 1 Team Cards,Serie B
+7 December 2019,Venezia,Over 1 Team Cards,Serie B
+8 December 2019,Pisa,Over 1 Team Cards,Serie B
+8 December 2019,Pisa vs Virtus Entella,Under 13 Corners,Serie B
+14 December 2019,Ascoli vs Cittadella,Over 3 Match Cards,Serie B
+14 December 2019,Cittadella,Corner Match Bet,Serie B
+13 December 2019,Juve Stabia,0.0 Asian Card Handicap,Serie B
+16 December 2019,Pisa,Over 1 Team Cards,Serie B
+21 December 2019,Cittadella,Over 1 Team Cards,Serie B
+21 December 2019,Salernitana,0.0 Asian Card Handicap,Serie B
+21 December 2019,Salernitana,Over 1 Team Cards,Serie B
+21 December 2019,Juve Stabia vs Venezia,Over 3 Match Cards,Serie B
+21 December 2019,Juve Stabia,Over 1 Team Cards,Serie B
+21 December 2019,Venezia,Over 1 Team Cards,Serie B
+22 December 2019,Pisa,Over 1 Team Cards,Serie B
+22 December 2019,Pisa vs Cosenza,Under 13 Corners,Serie B
+22 December 2019,Pordenone vs Ascoli,Over 3 Match Cards,Serie B
+20 December 2019,Spezia vs Cremonese,Under 13 Corners,Serie B
+26 December 2019,Pisa,Over 1 Team Cards,Serie B
+26 December 2019,Ascoli vs Pisa,Under 13 Corners,Serie B
+26 December 2019,Cosenza vs Empoli,Under 11 Corners,Serie B
+26 December 2019,Cosenza vs Empoli,Under 12 Corners,Serie B
+26 December 2019,Cosenza vs Empoli,Under 13 Corners,Serie B
+26 December 2019,Salernitana vs Pordenone,Over 3 Match Cards,Serie B
+26 December 2019,Venezia vs Cittadella,Over 3 Match Cards,Serie B
+26 December 2019,Venezia,Over 1 Team Cards,Serie B
+29 December 2019,Cittadella,Over 1 Team Cards,Serie B
+29 December 2019,Trapani,0.0 Asian Card Handicap,Serie B
+29 December 2019,Crotone,Corner Match Bet,Serie B
+29 December 2019,Juve Stabia vs Cosenza,Over 3 Match Cards,Serie B
+29 December 2019,Juve Stabia,Over 1 Team Cards,Serie B
+29 December 2019,Venezia,0.0 Asian Card Handicap,Serie B
+29 December 2019,Venezia,Over 1 Team Cards,Serie B
+29 December 2019,Pisa,Over 1 Team Cards,Serie B
+29 December 2019,Salernitana,Over 1 Team Cards,Serie B
+18 December 2019,Real Madrid,Over 3 Team Corners,La Liga
+30 November 2019,Deportivo Alavés,Over 1 Team Cards,La Liga
+30 November 2019,Real Madrid,Over 3 Team Corners,La Liga
+30 November 2019,Real Madrid,Corner Match Bet,La Liga
+29 November 2019,Celta Vigo vs Real Valladolid,Under 13 Corners,La Liga
+1 December 2019,Getafe,Over 1 Team Cards,La Liga
+1 December 2019,Leganes,Over 1 Team Cards,La Liga
+7 December 2019,Barcelona vs Mallorca,Under 12 Corners,La Liga
+7 December 2019,Barcelona vs Mallorca,Under 13 Corners,La Liga
+8 December 2019,Real Betis,0.0 Asian Card Handicap,La Liga
+8 December 2019,Real Betis,Over 1 Team Cards,La Liga
+8 December 2019,Getafe,0.0 Asian Card Handicap,La Liga
+8 December 2019,Getafe,Over 1 Team Cards,La Liga
+7 December 2019,Deportivo Alavés,Over 1 Team Cards,La Liga
+7 December 2019,Granada vs Deportivo Alavés,Under 12 Corners,La Liga
+7 December 2019,Granada vs Deportivo Alavés,Under 13 Corners,La Liga
+7 December 2019,Valencia,Over 3 Team Corners,La Liga
+8 December 2019,Sevilla,Over 1 Team Cards,La Liga
+7 December 2019,Real Madrid,Over 3 Team Corners,La Liga
+6 December 2019,Atletico Madrid,Over 1 Team Cards,La Liga
+8 December 2019,Real Valladolid vs Real Sociedad,Under 13 Corners,La Liga
+13 December 2019,Deportivo Alavés,Over 1 Team Cards,La Liga
+13 December 2019,Leganes,Over 1 Team Cards,La Liga
+15 December 2019,Celta Vigo vs Mallorca,Under 12 Corners,La Liga
+15 December 2019,Celta Vigo vs Mallorca,Under 13 Corners,La Liga
+15 December 2019,Getafe,Over 1 Team Cards,La Liga
+15 December 2019,Getafe vs Real Valladolid,Under 13 Corners,La Liga
+15 December 2019,Real Madrid,Over 3 Team Corners,La Liga
+21 December 2019,Deportivo Alavés,Over 1 Team Cards,La Liga
+21 December 2019,Barcelona vs Deportivo Alavés,Under 12 Corners,La Liga
+21 December 2019,Barcelona vs Deportivo Alavés,Under 13 Corners,La Liga
+22 December 2019,Real Betis vs Atletico Madrid,Over 3 Match Cards,La Liga
+22 December 2019,Real Betis,Over 1 Team Cards,La Liga
+22 December 2019,Atletico Madrid,Over 1 Team Cards,La Liga
+21 December 2019,Sevilla,Over 1 Team Cards,La Liga
+21 December 2019,Mallorca vs Sevilla,Under 13 Corners,La Liga
+22 December 2019,Real Madrid,Over 3 Team Corners,La Liga
+21 December 2019,Getafe,0.0 Asian Card Handicap,La Liga
+21 December 2019,Getafe,Over 1 Team Cards,La Liga
+21 December 2019,Real Valladolid vs Valencia,Under 13 Corners,La Liga
+21 December 2019,Valencia,Over 3 Team Corners,La Liga
+30 November 2019,Alcorcón,0.0 Asian Card Handicap,Spain Segunda
+30 November 2019,Alcorcón vs Huesca,Over 3 Match Cards,Spain Segunda
+1 December 2019,Racing Santander,Over 1 Team Cards,Spain Segunda
+1 December 2019,Las Palmas,0.0 Asian Card Handicap,Spain Segunda
+1 December 2019,Extremadura UD vs Las Palmas,Over 3 Match Cards,Spain Segunda
+1 December 2019,Las Palmas,Over 1 Team Cards,Spain Segunda
+1 December 2019,Fuenlabrada vs Cádiz,Over 3 Match Cards,Spain Segunda
+1 December 2019,Fuenlabrada vs Cádiz,Under 13 Corners,Spain Segunda
+30 November 2019,Sporting Gijón,0.0 Asian Card Handicap,Spain Segunda
+30 November 2019,Mirandés vs Sporting Gijón,Under 13 Corners,Spain Segunda
+29 November 2019,Numancia vs Málaga,Under 2.5 Goals,Spain Segunda
+29 November 2019,Málaga,Over 3 Team Corners,Spain Segunda
+30 November 2019,Albacete,0.0 Asian Card Handicap,Spain Segunda
+30 November 2019,Albacete,Over 1 Team Cards,Spain Segunda
+30 November 2019,Ponferradina vs Albacete,Under 12 Corners,Spain Segunda
+30 November 2019,Ponferradina vs Albacete,Under 13 Corners,Spain Segunda
+1 December 2019,Real Oviedo,Over 1 Team Cards,Spain Segunda
+1 December 2019,Rayo Vallecano,Over 3 Team Corners,Spain Segunda
+30 November 2019,Tenerife vs Almería,Over 3 Match Cards,Spain Segunda
+30 November 2019,Almería,Over 1 Team Cards,Spain Segunda
+30 November 2019,Tenerife vs Almería,Under 13 Corners,Spain Segunda
+30 November 2019,Girona,Over 1 Team Cards,Spain Segunda
+30 November 2019,Real Zaragoza vs Girona,Under 12 Corners,Spain Segunda
+30 November 2019,Real Zaragoza vs Girona,Under 13 Corners,Spain Segunda
+6 December 2019,Albacete,Over 1 Team Cards,Spain Segunda
+6 December 2019,Real Oviedo,Over 1 Team Cards,Spain Segunda
+7 December 2019,Almería,Over 1 Team Cards,Spain Segunda
+7 December 2019,Almería vs Mirandés,Under 13 Corners,Spain Segunda
+8 December 2019,Cádiz vs Elche,Under 13 Corners,Spain Segunda
+8 December 2019,Deportivo La Coruña vs Real Zaragoza,Under 13 Corners,Spain Segunda
+8 December 2019,Girona vs Lugo,Over 3 Match Cards,Spain Segunda
+8 December 2019,Girona,Over 1 Team Cards,Spain Segunda
+7 December 2019,Rayo Vallecano,Over 3 Team Corners,Spain Segunda
+8 December 2019,Las Palmas,Over 1 Team Cards,Spain Segunda
+6 December 2019,Málaga vs Tenerife,Over 3 Match Cards,Spain Segunda
+6 December 2019,Málaga vs Tenerife,Under 13 Corners,Spain Segunda
+6 December 2019,Málaga,Over 3 Team Corners,Spain Segunda
+6 December 2019,Racing Santander vs Fuenlabrada,Over 3 Match Cards,Spain Segunda
+6 December 2019,Racing Santander,Over 1 Team Cards,Spain Segunda
+6 December 2019,Racing Santander vs Fuenlabrada,Under 13 Corners,Spain Segunda
+7 December 2019,Sporting Gijón vs Ponferradina,Over 3 Match Cards,Spain Segunda
+7 December 2019,Sporting Gijón vs Ponferradina,Under 13 Corners,Spain Segunda
+15 December 2019,Las Palmas,0.0 Asian Card Handicap,Spain Segunda
+15 December 2019,Las Palmas,Over 1 Team Cards,Spain Segunda
+15 December 2019,Elche vs Las Palmas,Under 13 Corners,Spain Segunda
+15 December 2019,Málaga,Over 3 Team Corners,Spain Segunda
+15 December 2019,Fuenlabrada vs Almería,Over 3 Match Cards,Spain Segunda
+15 December 2019,Almería,Over 1 Team Cards,Spain Segunda
+15 December 2019,Fuenlabrada vs Almería,Under 13 Corners,Spain Segunda
+15 December 2019,Sporting Gijón,0.0 Asian Card Handicap,Spain Segunda
+13 December 2019,Girona,Over 1 Team Cards,Spain Segunda
+13 December 2019,Numancia vs Girona,Under 13 Corners,Spain Segunda
+15 December 2019,Real Oviedo vs Cádiz,Over 3 Match Cards,Spain Segunda
+15 December 2019,Real Oviedo,Over 1 Team Cards,Spain Segunda
+15 December 2019,Albacete,Over 1 Team Cards,Spain Segunda
+15 December 2019,Rayo Vallecano,Over 3 Team Corners,Spain Segunda
+15 December 2019,Rayo Vallecano,Corner Match Bet,Spain Segunda
+14 December 2019,Tenerife vs Alcorcón,Over 3 Match Cards,Spain Segunda
+14 December 2019,Tenerife vs Alcorcón,Under 12 Corners,Spain Segunda
+14 December 2019,Tenerife vs Alcorcón,Under 13 Corners,Spain Segunda
+14 December 2019,Racing Santander,Over 1 Team Cards,Spain Segunda
+21 December 2019,Albacete vs Elche,Over 3 Match Cards,Spain Segunda
+21 December 2019,Albacete,Over 1 Team Cards,Spain Segunda
+22 December 2019,Alcorcón vs Fuenlabrada,Over 3 Match Cards,Spain Segunda
+22 December 2019,Almería,Over 1 Team Cards,Spain Segunda
+22 December 2019,Almería vs Ponferradina,Under 13 Corners,Spain Segunda
+21 December 2019,Cádiz vs Numancia,Under 13 Corners,Spain Segunda
+20 December 2019,Deportivo La Coruña vs Tenerife,Under 13 Corners,Spain Segunda
+22 December 2019,Girona,Over 1 Team Cards,Spain Segunda
+22 December 2019,Girona vs Mirandés,Under 13 Corners,Spain Segunda
+22 December 2019,Huesca vs Real Zaragoza,Under 13 Corners,Spain Segunda
+21 December 2019,Las Palmas,Over 1 Team Cards,Spain Segunda
+21 December 2019,Rayo Vallecano,Over 3 Team Corners,Spain Segunda
+21 December 2019,Málaga vs Lugo,Over 3 Match Cards,Spain Segunda
+21 December 2019,Málaga,Over 3 Team Corners,Spain Segunda
+21 December 2019,Racing Santander,Over 1 Team Cards,Spain Segunda
+21 December 2019,Real Oviedo,Over 1 Team Cards,Spain Segunda
+21 December 2019,Sporting Gijón,0.0 Asian Card Handicap,Spain Segunda
+21 December 2019,Extremadura UD,Corner Match Bet,Spain Segunda
+30 November 2019,Bayern Munich vs Bayer Leverkusen,Over 1.0 FH Goal Line,Bundesliga
+1 December 2019,Borussia M'gladbach vs Freiburg,Over 1.0 FH Goal Line,Bundesliga
+1 December 2019,Wolfsburg vs Werder Bremen,Under 12 Corners,Bundesliga
+1 December 2019,Wolfsburg vs Werder Bremen,Under 13 Corners,Bundesliga
+30 November 2019,Hertha BSC vs Borussia Dortmund,Over 2.5 Goals,Bundesliga
+30 November 2019,Borussia Dortmund,Corner Match Bet,Bundesliga
+29 November 2019,Schalke 04 vs Union Berlin,Under 12 Corners,Bundesliga
+29 November 2019,Schalke 04 vs Union Berlin,Under 13 Corners,Bundesliga
+30 November 2019,Köln vs Augsburg,Over 1.0 FH Goal Line,Bundesliga
+30 November 2019,Köln,Over 3 Team Corners,Bundesliga
+30 November 2019,Köln,Corner Match Bet,Bundesliga
+30 November 2019,Paderborn vs RB Leipzig,Over 2.5 Goals,Bundesliga
+30 November 2019,Paderborn vs RB Leipzig,Over 1.0 FH Goal Line,Bundesliga
+7 December 2019,Fortuna Dusseldorf,0.0 Asian Card Handicap,Bundesliga
+7 December 2019,Borussia Dortmund,Corner Match Bet,Bundesliga
+7 December 2019,Borussia M'gladbach vs Bayern Munich,Over 1.0 FH Goal Line,Bundesliga
+6 December 2019,Eintracht Frankfurt vs Hertha BSC,Over 1.0 FH Goal Line,Bundesliga
+6 December 2019,Eintracht Frankfurt,Corner Match Bet,Bundesliga
+8 December 2019,Werder Bremen vs Paderborn,Over 2.5 Goals,Bundesliga
+8 December 2019,Werder Bremen vs Paderborn,Over 1.0 FH Goal Line,Bundesliga
+7 December 2019,Augsburg vs Mainz 05,Over 2.5 Goals,Bundesliga
+7 December 2019,Augsburg vs Mainz 05,Over 1.0 FH Goal Line,Bundesliga
+8 December 2019,Köln,Over 3 Team Corners,Bundesliga
+14 December 2019,Bayern Munich vs Werder Bremen,Over 2.5 Goals,Bundesliga
+14 December 2019,Bayern Munich vs Werder Bremen,Over 1.0 FH Goal Line,Bundesliga
+14 December 2019,Bayern Munich,Corner Match Bet,Bundesliga
+13 December 2019,Hoffenheim,Corner Match Bet,Bundesliga
+14 December 2019,Fortuna Dusseldorf vs RB Leipzig,Over 1.0 FH Goal Line,Bundesliga
+14 December 2019,Hertha BSC vs Freiburg,Over 1.0 FH Goal Line,Bundesliga
+14 December 2019,Mainz 05 vs Borussia Dortmund,Over 2.5 Goals,Bundesliga
+14 December 2019,Köln vs Bayer Leverkusen,Over 1.0 FH Goal Line,Bundesliga
+14 December 2019,Köln,Over 3 Team Corners,Bundesliga
+14 December 2019,Paderborn,Corner Match Bet,Bundesliga
+17 December 2019,Borussia Dortmund vs RB Leipzig,Over 2.5 Goals,Bundesliga
+18 December 2019,Bayer Leverkusen,Corner Match Bet,Bundesliga
+18 December 2019,Borussia M'gladbach vs Paderborn,Over 1.0 FH Goal Line,Bundesliga
+18 December 2019,Wolfsburg vs Schalke 04,Under 12 Corners,Bundesliga
+18 December 2019,Wolfsburg vs Schalke 04,Under 13 Corners,Bundesliga
+18 December 2019,Eintracht Frankfurt vs Köln,Over 1.0 FH Goal Line,Bundesliga
+18 December 2019,Köln,Over 3 Team Corners,Bundesliga
+17 December 2019,Werder Bremen vs Mainz 05,Over 2.5 Goals,Bundesliga
+17 December 2019,Werder Bremen vs Mainz 05,Over 1.0 FH Goal Line,Bundesliga
+17 December 2019,Augsburg vs Fortuna Dusseldorf,Over 1.0 FH Goal Line,Bundesliga
+21 December 2019,Bayern Munich,Corner Match Bet,Bundesliga
+21 December 2019,RB Leipzig vs Augsburg,Over 2.5 Goals,Bundesliga
+21 December 2019,RB Leipzig vs Augsburg,Over 1.0 FH Goal Line,Bundesliga
+21 December 2019,RB Leipzig vs Augsburg,Under 13 Corners,Bundesliga
+21 December 2019,Hertha BSC vs Borussia M'gladbach,Over 1.0 FH Goal Line,Bundesliga
+21 December 2019,Mainz 05 vs Bayer Leverkusen,Over 1.0 FH Goal Line,Bundesliga
+21 December 2019,Köln vs Werder Bremen,Over 1.0 FH Goal Line,Bundesliga
+21 December 2019,Köln,Over 3 Team Corners,Bundesliga
+30 November 2019,Nürnberg vs Wehen Wiesbaden,Over 1.0 FH Goal Line,2. Bundesliga
+30 November 2019,Erzgebirge Aue,Over 1 Team Cards,2. Bundesliga
+30 November 2019,Holstein Kiel,Over 3 Team Corners,2. Bundesliga
+1 December 2019,Stuttgart,Over 3 Team Corners,2. Bundesliga
+7 December 2019,Erzgebirge Aue,Over 1 Team Cards,2. Bundesliga
+6 December 2019,Heidenheim,Over 3 Team Corners,2. Bundesliga
+7 December 2019,Holstein Kiel,Corner Match Bet,2. Bundesliga
+8 December 2019,Sandhausen,Over 3 Team Corners,2. Bundesliga
+15 December 2019,Nürnberg vs Holstein Kiel,Over 1.0 FH Goal Line,2. Bundesliga
+15 December 2019,Holstein Kiel,Over 3 Team Corners,2. Bundesliga
+16 December 2019,Stuttgart,Over 3 Team Corners,2. Bundesliga
+13 December 2019,Bochum vs Hannover 96,Over 1.0 FH Goal Line,2. Bundesliga
+13 December 2019,Bochum vs Hannover 96,Under 13 Corners,2. Bundesliga
+13 December 2019,Erzgebirge Aue,Over 1 Team Cards,2. Bundesliga
+15 December 2019,Osnabrück vs Dynamo Dresden,Over 3 Match Cards,2. Bundesliga
+15 December 2019,Dynamo Dresden,Over 1 Team Cards,2. Bundesliga
+21 December 2019,Stuttgart,Over 3 Team Corners,2. Bundesliga
+20 December 2019,Dynamo Dresden,Over 1 Team Cards,2. Bundesliga
+20 December 2019,Nürnberg,Corner Match Bet,2. Bundesliga
+22 December 2019,Heidenheim,Corner Match Bet,2. Bundesliga
+22 December 2019,Bochum vs Jahn Regensburg,Under 13 Corners,2. Bundesliga
+21 December 2019,Erzgebirge Aue,Over 1 Team Cards,2. Bundesliga
+22 December 2019,Holstein Kiel,Over 3 Team Corners,2. Bundesliga
+20 December 2019,Karlsruher SC vs Wehen Wiesbaden,Over 1.0 FH Goal Line,2. Bundesliga
+30 November 2019,Uerdingen,Over 1 Team Cards,3. Liga
+30 November 2019,Preußen Münster vs Waldhof Mannheim,Over 1.0 FH Goal Line,3. Liga
+30 November 2019,Preußen Münster,0.0 Asian Card Handicap,3. Liga
+1 December 2019,Ingolstadt vs Meppen,Over 1.0 FH Goal Line,3. Liga
+1 December 2019,Unterhaching,Over 1 Team Cards,3. Liga
+30 November 2019,Viktoria Köln vs Kaiserslautern,Over 1.0 FH Goal Line,3. Liga
+30 November 2019,Kaiserslautern,Over 3 Team Corners,3. Liga
+30 November 2019,Kaiserslautern,Corner Match Bet,3. Liga
+7 December 2019,Uerdingen,Over 1 Team Cards,3. Liga
+7 December 2019,Würzburger Kickers vs Viktoria Köln,Over 2.5 Goals,3. Liga
+7 December 2019,Würzburger Kickers vs Viktoria Köln,Over 1.0 FH Goal Line,3. Liga
+8 December 2019,MSV Duisburg vs Bayern München II,Over 2.5 Goals,3. Liga
+8 December 2019,MSV Duisburg vs Bayern München II,Over 1.0 FH Goal Line,3. Liga
+7 December 2019,Unterhaching,Over 1 Team Cards,3. Liga
+7 December 2019,Magdeburg vs Ingolstadt,Over 1.0 FH Goal Line,3. Liga
+9 December 2019,Meppen vs Preußen Münster,Over 2.5 Goals,3. Liga
+14 December 2019,Eintracht Braunschweig vs Meppen,Over 1.0 FH Goal Line,3. Liga
+15 December 2019,Unterhaching,Over 1 Team Cards,3. Liga
+14 December 2019,Bayern München II vs Kaiserslautern,Over 2.5 Goals,3. Liga
+14 December 2019,Bayern München II vs Kaiserslautern,Over 1.0 FH Goal Line,3. Liga
+14 December 2019,Uerdingen,Over 1 Team Cards,3. Liga
+22 December 2019,Uerdingen,Over 1 Team Cards,3. Liga
+22 December 2019,Bayern München II vs Würzburger Kickers,Over 2.5 Goals,3. Liga
+22 December 2019,Bayern München II vs Würzburger Kickers,Over 1.0 FH Goal Line,3. Liga
+21 December 2019,Unterhaching vs Kaiserslautern,Over 1.0 FH Goal Line,3. Liga
+21 December 2019,Unterhaching,Over 1 Team Cards,3. Liga
+20 December 2019,Viktoria Köln vs Hansa Rostock,Under 12 Corners,3. Liga
+20 December 2019,Viktoria Köln vs Hansa Rostock,Under 13 Corners,3. Liga
+1 December 2019,Monaco,Over 1 Team Cards,Ligue 1
+1 December 2019,PSG,Over 3 Team Corners,Ligue 1
+1 December 2019,PSG,Corner Match Bet,Ligue 1
+29 November 2019,Olympique Marseille,0.0 Asian Card Handicap,Ligue 1
+30 November 2019,Montpellier vs Amiens SC,Under 13 Corners,Ligue 1
+4 December 2019,Nice,Over 1 Team Cards,Ligue 1
+4 December 2019,Dijon vs Montpellier,Under 2.5 Goals,Ligue 1
+4 December 2019,Amiens SC vs Reims,Under 13 Corners,Ligue 1
+3 December 2019,Olympique Marseille,0.0 Asian Card Handicap,Ligue 1
+4 December 2019,Monaco,Over 1 Team Cards,Ligue 1
+4 December 2019,Metz vs Rennes,Under 13 Corners,Ligue 1
+7 December 2019,Nice vs Metz,Over 1.0 FH Goal Line,Ligue 1
+7 December 2019,Nice vs Metz,Under 13 Corners,Ligue 1
+7 December 2019,PSG,Over 3 Team Corners,Ligue 1
+7 December 2019,PSG,Corner Match Bet,Ligue 1
+8 December 2019,Nantes vs Dijon,Under 2.5 Goals,Ligue 1
+7 December 2019,Monaco,Over 1 Team Cards,Ligue 1
+15 December 2019,PSG,Over 3 Team Corners,Ligue 1
+15 December 2019,PSG,Corner Match Bet,Ligue 1
+14 December 2019,Monaco,0.0 Asian Card Handicap,Ligue 1
+14 December 2019,Monaco,Over 1 Team Cards,Ligue 1
+14 December 2019,Olympique Marseille,0.0 Asian Card Handicap,Ligue 1
+14 December 2019,Metz vs Olympique Marseille,Under 13 Corners,Ligue 1
+14 December 2019,Nice,0.0 Asian Card Handicap,Ligue 1
+14 December 2019,Nice,Over 1 Team Cards,Ligue 1
+21 December 2019,Monaco,Over 1 Team Cards,Ligue 1
+30 November 2019,Troyes,Over 3 Team Corners,Ligue 2
+29 November 2019,Châteauroux,Over 1 Team Cards,Ligue 2
+29 November 2019,Paris FC,Over 1 Team Cards,Ligue 2
+2 December 2019,Caen vs Nancy,Under 13 Corners,Ligue 2
+3 December 2019,Châteauroux,Over 1 Team Cards,Ligue 2
+3 December 2019,Paris FC,Over 1 Team Cards,Ligue 2
+13 December 2019,Châteauroux,Over 1 Team Cards,Ligue 2
+13 December 2019,Paris FC,Over 1 Team Cards,Ligue 2
+20 December 2019,Paris FC,Over 1 Team Cards,Ligue 2
+20 December 2019,Paris FC vs Le Mans,Under 12 Corners,Ligue 2
+20 December 2019,Paris FC vs Le Mans,Under 13 Corners,Ligue 2
+20 December 2019,Châteauroux,Over 1 Team Cards,Ligue 2
+20 December 2019,Auxerre vs Nancy,Under 13 Corners,Ligue 2
+6 December 2019,Toulon,Over 1 Team Cards,National 1
+29 November 2019,Boulogne,0.0 Asian Card Handicap,National 1
+29 November 2019,Le Puy Foot,0.0 Asian Card Handicap,National 1
+29 November 2019,Le Puy Foot,Over 1 Team Cards,National 1
+29 November 2019,Toulon,Over 1 Team Cards,National 1
+29 November 2019,Villefranche,Over 1 Team Cards,National 1
+14 December 2019,Pau vs Le Puy Foot,Over 3 Match Cards,National 1
+13 December 2019,Toulon,Over 1 Team Cards,National 1
+13 December 2019,Laval vs Avranches,Under 1.0 FH Goal Line,National 1
+13 December 2019,Laval vs Avranches,Under 2.5 Goals,National 1
+13 December 2019,Villefranche,Over 1 Team Cards,National 1
+20 December 2019,Boulogne vs Pau,Over 3 Match Cards,National 1
+20 December 2019,Boulogne vs Pau,Over 4 Match Cards,National 1
+20 December 2019,Gazélec Ajaccio vs Concarneau,Under 1.5 SH Goals,National 1
+20 December 2019,Le Puy Foot vs Villefranche,Over 3 Match Cards,National 1
+20 December 2019,Le Puy Foot,Over 1 Team Cards,National 1
+20 December 2019,Villefranche,Over 1 Team Cards,National 1
+20 December 2019,Toulon,0.0 Asian Card Handicap,National 1
+20 December 2019,Toulon,Over 1 Team Cards,National 1
+1 December 2019,Gil Vicente vs Sporting CP,Over 3 Match Cards,Primeira Liga
+30 November 2019,Marítimo,0.0 Asian Card Handicap,Primeira Liga
+30 November 2019,Benfica,Over 3 Team Corners,Primeira Liga
+30 November 2019,Benfica,Corner Match Bet,Primeira Liga
+2 December 2019,Paços de Ferreira,0.0 Asian Card Handicap,Primeira Liga
+2 December 2019,Porto,Over 3 Team Corners,Primeira Liga
+29 November 2019,Santa Clara vs Boavista,Under 2.5 Goals,Primeira Liga
+29 November 2019,Santa Clara vs Boavista,Under 1.5 SH Goals,Primeira Liga
+29 November 2019,Boavista,0.0 Asian Card Handicap,Primeira Liga
+29 November 2019,Boavista,Over 1 Team Cards,Primeira Liga
+1 December 2019,Vitoria Guimaraes,Over 3 Team Corners,Primeira Liga
+1 December 2019,Vitoria Guimaraes,Corner Match Bet,Primeira Liga
+7 December 2019,Famalicão,Over 1 Team Cards,Primeira Liga
+8 December 2019,Paços de Ferreira,Corner Match Bet,Primeira Liga
+7 December 2019,Sporting Braga,Over 1 Team Cards,Primeira Liga
+8 December 2019,Porto,Over 3 Team Corners,Primeira Liga
+8 December 2019,Porto,Corner Match Bet,Primeira Liga
+8 December 2019,Vitoria Guimaraes,Over 3 Team Corners,Primeira Liga
+8 December 2019,Vitoria Guimaraes,Corner Match Bet,Primeira Liga
+6 December 2019,Boavista,0.0 Asian Card Handicap,Primeira Liga
+6 December 2019,Boavista,Over 1 Team Cards,Primeira Liga
+6 December 2019,Benfica,Over 3 Team Corners,Primeira Liga
+30 November 2019,Leixões,Over 1 Team Cards,Segunda Liga
+1 December 2019,Cova Piedade,Over 1 Team Cards,Segunda Liga
+1 December 2019,Nacional,0.0 Asian Card Handicap,Segunda Liga
+29 November 2019,Feirense,Over 1 Team Cards,Segunda Liga
+30 November 2019,Académica,Over 1 Team Cards,Segunda Liga
+30 November 2019,Varzim vs Penafiel,Under 13 Corners,Segunda Liga
+30 November 2019,Varzim,Corner Match Bet,Segunda Liga
+1 December 2019,Academico Viseu,Over 1 Team Cards,Segunda Liga
+1 December 2019,Academico Viseu,Over 3 Team Corners,Segunda Liga
+7 December 2019,Nacional vs Farense,Over 3 Match Cards,Segunda Liga
+8 December 2019,Feirense,Over 1 Team Cards,Segunda Liga
+8 December 2019,Académica,Over 1 Team Cards,Segunda Liga
+8 December 2019,Académica vs Casa Pia,Under 13 Corners,Segunda Liga
+8 December 2019,Académica,Corner Match Bet,Segunda Liga
+8 December 2019,Leixões vs Academico Viseu,Over 3 Match Cards,Segunda Liga
+8 December 2019,Academico Viseu,Over 1 Team Cards,Segunda Liga
+8 December 2019,Academico Viseu,Over 3 Team Corners,Segunda Liga
+7 December 2019,Penafiel,Over 1 Team Cards,Segunda Liga
+7 December 2019,Porto II,Corner Match Bet,Segunda Liga
+15 December 2019,Varzim,Over 1 Team Cards,Segunda Liga
+15 December 2019,Cova Piedade,Over 1 Team Cards,Segunda Liga
+15 December 2019,Feirense,Over 1 Team Cards,Segunda Liga
+15 December 2019,Académica,Over 1 Team Cards,Segunda Liga
+15 December 2019,Leixões,0.0 Asian Card Handicap,Segunda Liga
+15 December 2019,Leixões,Over 1 Team Cards,Segunda Liga
+15 December 2019,Leixões,Corner Match Bet,Segunda Liga
+29 December 2019,Feirense,Over 1 Team Cards,Segunda Liga
+29 December 2019,Feirense,Corner Match Bet,Segunda Liga
+29 December 2019,Académica,Over 1 Team Cards,Segunda Liga
+29 December 2019,Cova Piedade,Over 1 Team Cards,Segunda Liga
+29 December 2019,Leixões,Corner Match Bet,Segunda Liga
+29 December 2019,Penafiel,Over 1 Team Cards,Segunda Liga
+29 December 2019,Academico Viseu,0.0 Asian Card Handicap,Segunda Liga
+29 December 2019,Academico Viseu,Over 1 Team Cards,Segunda Liga
+29 December 2019,Academico Viseu,Over 3 Team Corners,Segunda Liga
+1 December 2019,Feyenoord vs PEC Zwolle,Over 1.0 FH Goal Line,Eredivisie
+1 December 2019,Twente vs Ajax,Over 2.5 Goals,Eredivisie
+1 December 2019,Twente vs Ajax,Over 1.0 FH Goal Line,Eredivisie
+1 December 2019,Ajax,Over 3 Team Corners,Eredivisie
+1 December 2019,Ajax,Corner Match Bet,Eredivisie
+1 December 2019,AZ,Corner Match Bet,Eredivisie
+1 December 2019,Utrecht vs RKC Waalwijk,Over 2.5 Goals,Eredivisie
+1 December 2019,RKC Waalwijk,0.0 Asian Card Handicap,Eredivisie
+7 December 2019,PEC Zwolle vs AZ,Over 1.0 FH Goal Line,Eredivisie
+6 December 2019,Ajax vs Willem II,Over 1.0 FH Goal Line,Eredivisie
+6 December 2019,Ajax,Over 3 Team Corners,Eredivisie
+6 December 2019,Ajax,Corner Match Bet,Eredivisie
+7 December 2019,PSV vs Fortuna Sittard,Over 2.5 Goals,Eredivisie
+7 December 2019,PSV vs Fortuna Sittard,Over 1.5 SH Goals,Eredivisie
+7 December 2019,VVV vs Emmen,Over 2.5 Goals,Eredivisie
+7 December 2019,VVV vs Emmen,Over 1.0 FH Goal Line,Eredivisie
+8 December 2019,Vitesse vs Feyenoord,Over 2.5 Goals,Eredivisie
+8 December 2019,Vitesse vs Feyenoord,Over 1.0 FH Goal Line,Eredivisie
+8 December 2019,RKC Waalwijk vs Heerenveen,Over 1.0 FH Goal Line,Eredivisie
+8 December 2019,RKC Waalwijk,0.0 Asian Card Handicap,Eredivisie
+14 December 2019,Fortuna Sittard vs RKC Waalwijk,Over 2.5 Goals,Eredivisie
+14 December 2019,Fortuna Sittard vs RKC Waalwijk,Over 1.0 FH Goal Line,Eredivisie
+14 December 2019,VVV vs PEC Zwolle,Over 1.0 FH Goal Line,Eredivisie
+14 December 2019,Twente vs Vitesse,Over 1.0 FH Goal Line,Eredivisie
+15 December 2019,AZ vs Ajax,Over 1.0 FH Goal Line,Eredivisie
+15 December 2019,Ajax,Over 3 Team Corners,Eredivisie
+15 December 2019,Emmen vs Sparta Rotterdam,Over 1.0 FH Goal Line,Eredivisie
+15 December 2019,Heracles vs Utrecht,Over 2.5 Goals,Eredivisie
+21 December 2019,Sparta Rotterdam vs AZ,Over 1.0 FH Goal Line,Eredivisie
+22 December 2019,Ajax vs ADO Den Haag,Over 1.0 FH Goal Line,Eredivisie
+22 December 2019,ADO Den Haag,0.0 Asian Card Handicap,Eredivisie
+22 December 2019,Ajax,Over 3 Team Corners,Eredivisie
+22 December 2019,Ajax,Corner Match Bet,Eredivisie
+22 December 2019,Utrecht vs Feyenoord,Over 2.5 Goals,Eredivisie
+22 December 2019,Vitesse vs VVV,Over 2.5 Goals,Eredivisie
+22 December 2019,Telstar vs AZ II,Under 5 Match Cards,Eerste Divisie
+29 November 2019,Cambuur vs AZ II,Over 1.0 FH Goal Line,Eerste Divisie
+29 November 2019,Cambuur,Corner Match Bet,Eerste Divisie
+29 November 2019,TOP Oss vs Eindhoven,Under 13 Corners,Eerste Divisie
+29 November 2019,Telstar vs Ajax II,Under 5 Match Cards,Eerste Divisie
+29 November 2019,Volendam,Under 2 Team Cards,Eerste Divisie
+1 December 2019,Go Ahead Eagles,Over 3 Team Corners,Eerste Divisie
+6 December 2019,Eindhoven,0.0 Asian Card Handicap,Eerste Divisie
+6 December 2019,Volendam,Under 2 Team Cards,Eerste Divisie
+6 December 2019,Go Ahead Eagles,Over 3 Team Corners,Eerste Divisie
+6 December 2019,Go Ahead Eagles,Corner Match Bet,Eerste Divisie
+13 December 2019,Cambuur vs Ajax II,Over 1.0 FH Goal Line,Eerste Divisie
+13 December 2019,MVV,0.0 Asian Card Handicap,Eerste Divisie
+13 December 2019,Volendam,Under 2 Team Cards,Eerste Divisie
+13 December 2019,NAC Breda,Corner Match Bet,Eerste Divisie
+13 December 2019,Go Ahead Eagles,Over 3 Team Corners,Eerste Divisie
+20 December 2019,Volendam,Under 2 Team Cards,Eerste Divisie
+21 December 2019,NAC Breda vs Dordrecht,Over 8 Corners,Eerste Divisie
+21 December 2019,NAC Breda,Corner Match Bet,Eerste Divisie
+20 December 2019,NEC,Over 3 Team Corners,Eerste Divisie
+20 December 2019,NEC,Corner Match Bet,Eerste Divisie
+20 December 2019,Ajax II vs TOP Oss,Over 1.0 FH Goal Line,Eerste Divisie
+20 December 2019,Ajax II,Corner Match Bet,Eerste Divisie
+30 November 2019,Hartberg,Over 1 Team Cards,Austria
+30 November 2019,St. Pölten vs Mattersburg,Over 2.5 Goals,Austria
+30 November 2019,St. Pölten vs Mattersburg,Over 1.0 FH Goal Line,Austria
+30 November 2019,St. Pölten,Over 1 Team Cards,Austria
+1 December 2019,Rheindorf Altach vs Wolfsberger AC,Over 2.5 Goals,Austria
+1 December 2019,Rheindorf Altach vs Wolfsberger AC,Over 1.0 FH Goal Line,Austria
+1 December 2019,Wolfsberger AC,Over 3 Team Corners,Austria
+1 December 2019,Admira vs Salzburg,Over 1.0 FH Goal Line,Austria
+1 December 2019,Admira,0.0 Asian Card Handicap,Austria
+1 December 2019,Salzburg,Over 3 Team Corners,Austria
+30 November 2019,Swarovski Tirol,Over 1 Team Cards,Austria
+7 December 2019,Salzburg vs Swarovski Tirol,Over 2.5 Goals,Austria
+7 December 2019,Salzburg vs Swarovski Tirol,Over 1.0 FH Goal Line,Austria
+7 December 2019,Swarovski Tirol,0.0 Asian Card Handicap,Austria
+7 December 2019,Swarovski Tirol,Over 1 Team Cards,Austria
+7 December 2019,Salzburg,Corner Match Bet,Austria
+7 December 2019,Wolfsberger AC,Over 3 Team Corners,Austria
+7 December 2019,LASK,Over 3 Team Corners,Austria
+8 December 2019,Sturm Graz vs Rheindorf Altach,Under 13 Corners,Austria
+8 December 2019,Mattersburg vs Admira,Over 1.0 FH Goal Line,Austria
+7 December 2019,Hartberg,Over 1 Team Cards,Austria
+7 December 2019,St. Pölten,Over 1 Team Cards,Austria
+15 December 2019,Wolfsberger AC,Over 3 Team Corners,Austria
+14 December 2019,St. Pölten vs Rheindorf Altach,Over 2.5 Goals,Austria
+14 December 2019,St. Pölten vs Rheindorf Altach,Over 1.0 FH Goal Line,Austria
+14 December 2019,St. Pölten,Over 1 Team Cards,Austria
+14 December 2019,Admira vs Rapid Wien,Over 1.0 FH Goal Line,Austria
+14 December 2019,Hartberg,0.0 Asian Card Handicap,Austria
+14 December 2019,Hartberg,Over 1 Team Cards,Austria
+14 December 2019,Salzburg,Over 3 Team Corners,Austria
+15 December 2019,Swarovski Tirol,Over 1 Team Cards,Austria
+29 November 2019,Wacker Innsbruck vs Horn,Over 3 Match Cards,Austria 2
+29 November 2019,Wacker Innsbruck,Over 1 Team Cards,Austria 2
+1 December 2019,Liefering vs Blau-Weiß Linz,Over 2.5 Goals,Austria 2
+29 November 2019,Austria Klagenfurt,Over 1 Team Cards,Austria 2
+29 November 2019,Lafnitz vs Austria Lustenau,Over 3 Match Cards,Austria 2
+29 November 2019,Lafnitz,Over 1 Team Cards,Austria 2
+29 November 2019,Austria Lustenau,Over 1 Team Cards,Austria 2
+30 November 2019,Kapfenberger SV,Over 1 Team Cards,Austria 2
+1 December 2019,AaB vs Hobro,Under 13 Corners,Superliga
+1 December 2019,Esbjerg vs AGF,Under 12 Corners,Superliga
+1 December 2019,Esbjerg vs AGF,Under 13 Corners,Superliga
+29 November 2019,Lyngby vs Nordsjælland,Over 1.0 FH Goal Line,Superliga
+29 November 2019,Nordsjælland,Over 3 Team Corners,Superliga
+29 November 2019,Nordsjælland,Corner Match Bet,Superliga
+9 December 2019,OB vs AaB,Over 1.0 FH Goal Line,Superliga
+9 December 2019,OB vs AaB,Under 13 Corners,Superliga
+8 December 2019,Nordsjælland,Corner Match Bet,Superliga
+13 December 2019,AaB vs Nordsjælland,Over 1.0 FH Goal Line,Superliga
+13 December 2019,Nordsjælland,Over 3 Team Corners,Superliga
+15 December 2019,Randers vs Esbjerg,Under 13 Corners,Superliga
+15 December 2019,Lyngby vs Silkeborg,Over 1.0 FH Goal Line,Superliga
+1 December 2019,Molde vs Bodø / Glimt,Over 2.5 Goals,Norway Eliteserien
+1 December 2019,Molde vs Bodø / Glimt,Over 1.0 FH Goal Line,Norway Eliteserien
+30 November 2019,Club Brugge,Over 3 Team Corners,Belgium Pro
+30 November 2019,Royal Excel Mouscron,Over 3 Team Corners,Belgium Pro
+1 December 2019,Standard Liège vs Cercle Brugge,Over 1.0 FH Goal Line,Belgium Pro
+1 December 2019,Standard Liège vs Cercle Brugge,Under 13 Corners,Belgium Pro
+30 November 2019,Sint-Truiden,0.0 Asian Card Handicap,Belgium Pro
+7 December 2019,Gent vs Zulte-Waregem,Under 12 Corners,Belgium Pro
+7 December 2019,Gent vs Zulte-Waregem,Under 13 Corners,Belgium Pro
+8 December 2019,Royal Excel Mouscron vs Standard Liège,Over 1.0 FH Goal Line,Belgium Pro
+8 December 2019,Royal Excel Mouscron vs Standard Liège,Under 13 Corners,Belgium Pro
+7 December 2019,Club Brugge,Over 3 Team Corners,Belgium Pro
+7 December 2019,Club Brugge,Corner Match Bet,Belgium Pro
+15 December 2019,Club Brugge,Over 3 Team Corners,Belgium Pro
+15 December 2019,Club Brugge,Corner Match Bet,Belgium Pro
+15 December 2019,Standard Liège vs Anderlecht,Under 12 Corners,Belgium Pro
+15 December 2019,Standard Liège vs Anderlecht,Under 13 Corners,Belgium Pro
+14 December 2019,Genk vs Waasland-Beveren,Under 13 Corners,Belgium Pro
+13 December 2019,Royal Excel Mouscron,Over 3 Team Corners,Belgium Pro
+14 December 2019,Antwerp vs AS Eupen,Over 1.0 FH Goal Line,Belgium Pro
+22 December 2019,Club Brugge,Over 3 Team Corners,Belgium Pro
+22 December 2019,Club Brugge,Corner Match Bet,Belgium Pro
+21 December 2019,Waasland-Beveren vs Standard Liège,Over 1.0 FH Goal Line,Belgium Pro
+26 December 2019,Club Brugge vs Zulte-Waregem,Over 1.0 FH Goal Line,Belgium Pro
+26 December 2019,Club Brugge,Over 3 Team Corners,Belgium Pro
+26 December 2019,Club Brugge,Corner Match Bet,Belgium Pro
+26 December 2019,Standard Liège vs Gent,Under 12 Corners,Belgium Pro
+26 December 2019,Standard Liège vs Gent,Under 13 Corners,Belgium Pro
+26 December 2019,AS Eupen,0.0 Asian Card Handicap,Belgium Pro
+26 December 2019,Kortrijk vs Cercle Brugge,Over 1.0 FH Goal Line,Belgium Pro
+27 December 2019,Antwerp vs Anderlecht,Under 13 Corners,Belgium Pro
+30 November 2019,Sparta Praha,Over 3 Team Corners,Czech Liga
+1 December 2019,Bohemians 1905,Over 1 Team Cards,Czech Liga
+1 December 2019,Slavia Praha vs Karviná,Over 3 Match Cards,Czech Liga
+1 December 2019,Karviná,Over 1 Team Cards,Czech Liga
+1 December 2019,Slavia Praha,Corner Match Bet,Czech Liga
+30 November 2019,Slovan Liberec,0.0 Asian Card Handicap,Czech Liga
+1 December 2019,České Budějovice,0.0 Asian Card Handicap,Czech Liga
+8 December 2019,Karviná,Over 1 Team Cards,Czech Liga
+8 December 2019,Karviná vs Sigma Olomouc,Under 13 Corners,Czech Liga
+6 December 2019,Bohemians 1905,Over 1 Team Cards,Czech Liga
+8 December 2019,Sparta Praha vs Mladá Boleslav,Over 1.0 FH Goal Line,Czech Liga
+14 December 2019,Karviná,Over 1 Team Cards,Czech Liga
+14 December 2019,Bohemians 1905,Over 1 Team Cards,Czech Liga
+15 December 2019,Slavia Praha,Corner Match Bet,Czech Liga
+14 December 2019,Baník Ostrava vs Sparta Praha,Over 1.0 FH Goal Line,Czech Liga
+29 November 2019,Gorica,0.0 Asian Card Handicap,Croatia Premier
+29 November 2019,Gorica,Over 3 Team Corners,Croatia Premier
+30 November 2019,Osijek,Over 1 Team Cards,Croatia Premier
+1 December 2019,Hajduk Split vs Rijeka,Over 1.0 FH Goal Line,Croatia Premier
+7 December 2019,Hajduk Split,Over 1 Team Cards,Croatia Premier
+6 December 2019,Varaždin,0.0 Asian Card Handicap,Croatia Premier
+7 December 2019,Slaven Koprivnica,Over 1 Team Cards,Croatia Premier
+15 December 2019,Slaven Koprivnica,Over 1 Team Cards,Croatia Premier
+14 December 2019,Varaždin,0.0 Asian Card Handicap,Croatia Premier
+30 November 2019,Legia Warszawa vs Korona Kielce,Under 13 Corners,Ekstraklasa
+1 December 2019,Jagiellonia Białystok,Over 3 Team Corners,Ekstraklasa
+7 December 2019,Jagiellonia Białystok,0.0 Asian Card Handicap,Ekstraklasa
+15 December 2019,Piast Gliwice vs ŁKS Łódź,Over 8 Corners,Ekstraklasa
+21 December 2019,Jagiellonia Białystok,Over 3 Team Corners,Ekstraklasa
+20 December 2019,Pogoń Szczecin vs Korona Kielce,Under 12 Corners,Ekstraklasa
+20 December 2019,Pogoń Szczecin vs Korona Kielce,Under 13 Corners,Ekstraklasa
+1 December 2019,Zenit vs Spartak Moscow,Under 13 Corners,Russia Premier
+30 November 2019,Rostov vs Ural,Under 13 Corners,Russia Premier
+2 December 2019,Tambov,Over 1 Team Cards,Russia Premier
+1 December 2019,Lokomotiv Moscow vs Dinamo Moscow,Under 11 Corners,Russia Premier
+1 December 2019,Lokomotiv Moscow vs Dinamo Moscow,Under 12 Corners,Russia Premier
+1 December 2019,Lokomotiv Moscow vs Dinamo Moscow,Under 13 Corners,Russia Premier
+30 November 2019,Akhmat Grozny vs Rubin Kazan,Under 12 Corners,Russia Premier
+30 November 2019,Akhmat Grozny vs Rubin Kazan,Under 13 Corners,Russia Premier
+1 December 2019,Sochi,Over 1 Team Cards,Russia Premier
+30 November 2019,Krylya Sovetov,Over 1 Team Cards,Russia Premier
+30 November 2019,Krylya Sovetov vs Ufa,Under 13 Corners,Russia Premier
+6 December 2019,Zenit vs Dinamo Moscow,Under 12 Corners,Russia Premier
+6 December 2019,Zenit vs Dinamo Moscow,Under 13 Corners,Russia Premier
+7 December 2019,Akhmat Grozny vs Ufa,Under 13 Corners,Russia Premier
+8 December 2019,Sochi,Over 1 Team Cards,Russia Premier
+8 December 2019,Sochi vs Rubin Kazan,Under 13 Corners,Russia Premier
+8 December 2019,Krylya Sovetov,Over 1 Team Cards,Russia Premier
+8 December 2019,Krylya Sovetov vs Ural,Under 13 Corners,Russia Premier
+1 December 2019,Basel vs Young Boys,Over 2.5 Goals,Swiss Super
+8 December 2019,Zürich vs Servette,Over 1.0 FH Goal Line,Swiss Super
+15 December 2019,Luzern,Corner Match Bet,Swiss Super
+29 November 2019,Gençlerbirliği vs Yeni Malatyaspor,Under 13 Corners,Super-Lig
+30 November 2019,Alanyaspor vs Ankaragücü,Under 13 Corners,Super-Lig
+30 November 2019,Alanyaspor,Corner Match Bet,Super-Lig
+1 December 2019,Trabzonspor vs Galatasaray,Under 12 Corners,Super-Lig
+1 December 2019,Trabzonspor vs Galatasaray,Under 13 Corners,Super-Lig
+30 November 2019,Göztepe,0.0 Asian Card Handicap,Super-Lig
+30 November 2019,Göztepe vs Fenerbahçe,Under 12 Corners,Super-Lig
+30 November 2019,Göztepe vs Fenerbahçe,Under 13 Corners,Super-Lig
+7 December 2019,Yeni Malatyaspor vs Sivasspor,Over 3 Match Cards,Super-Lig
+7 December 2019,Galatasaray vs Alanyaspor,Under 13 Corners,Super-Lig
+8 December 2019,Antalyaspor vs Trabzonspor,Over 1.0 FH Goal Line,Super-Lig
+7 December 2019,Ankaragücü vs Göztepe,Under 12 Corners,Super-Lig
+7 December 2019,Ankaragücü vs Göztepe,Under 13 Corners,Super-Lig
+8 December 2019,Kasımpaşa,Over 3 Team Corners,Super-Lig
+8 December 2019,Gaziantep FK,Over 1 Team Cards,Super-Lig
+15 December 2019,Sivasspor,0.0 Asian Card Handicap,Super-Lig
+16 December 2019,Trabzonspor vs Denizlispor,Under 13 Corners,Super-Lig
+14 December 2019,Gençlerbirliği vs Göztepe,Under 13 Corners,Super-Lig
+16 December 2019,Istanbul Basaksehir,Corner Match Bet,Super-Lig
+15 December 2019,Beşiktaş vs Yeni Malatyaspor,Over 3 Match Cards,Super-Lig
+15 December 2019,Beşiktaş vs Yeni Malatyaspor,Under 13 Corners,Super-Lig
+14 December 2019,Galatasaray vs Ankaragücü,Under 12 Corners,Super-Lig
+14 December 2019,Galatasaray vs Ankaragücü,Under 13 Corners,Super-Lig
+23 December 2019,Konyaspor vs Trabzonspor,Under 11 Corners,Super-Lig
+23 December 2019,Konyaspor vs Trabzonspor,Under 12 Corners,Super-Lig
+23 December 2019,Konyaspor vs Trabzonspor,Under 13 Corners,Super-Lig
+21 December 2019,Göztepe vs Galatasaray,Under 12 Corners,Super-Lig
+21 December 2019,Göztepe vs Galatasaray,Under 13 Corners,Super-Lig
+20 December 2019,Antalyaspor,Corner Match Bet,Super-Lig
+22 December 2019,Beşiktaş,0.0 Asian Card Handicap,Super-Lig
+22 December 2019,Fenerbahçe vs Beşiktaş,Under 13 Corners,Super-Lig
+21 December 2019,Gaziantep FK,Over 1 Team Cards,Super-Lig
+21 December 2019,Kasımpaşa,Over 3 Team Corners,Super-Lig
+23 December 2019,Denizlispor vs Alanyaspor,Under 13 Corners,Super-Lig
+28 December 2019,Ankaragücü vs Denizlispor,Under 13 Corners,Super-Lig
+29 December 2019,Alanyaspor vs Konyaspor,Under 13 Corners,Super-Lig
+29 December 2019,Alanyaspor,Corner Match Bet,Super-Lig
+29 December 2019,Gaziantep FK vs Yeni Malatyaspor,Over 1.0 FH Goal Line,Super-Lig
+29 December 2019,Gaziantep FK vs Yeni Malatyaspor,Over 3 Match Cards,Super-Lig
+28 December 2019,Galatasaray vs Antalyaspor,Over 3 Match Cards,Super-Lig
+28 December 2019,Antalyaspor,Corner Match Bet,Super-Lig
+30 November 2019,Larissa vs Volos NFC,Over 3 Match Cards,Hellas Liga
+30 November 2019,Larissa,Over 1 Team Cards,Hellas Liga
+1 December 2019,Atromitos,Over 1 Team Cards,Hellas Liga
+1 December 2019,Aris vs Lamia,Under 12 Corners,Hellas Liga
+1 December 2019,Aris vs Lamia,Under 13 Corners,Hellas Liga
+1 December 2019,Olympiakos Piraeus,Over 3 Team Corners,Hellas Liga
+1 December 2019,PAOK,Over 3 Team Corners,Hellas Liga
+30 November 2019,OFI,Over 1 Team Cards,Hellas Liga
+1 December 2019,Panathinaikos vs Asteras Tripolis,Under 12 Corners,Hellas Liga
+1 December 2019,Panathinaikos vs Asteras Tripolis,Under 13 Corners,Hellas Liga
+7 December 2019,AEK Athens vs Panionios,Under 13 Corners,Hellas Liga
+8 December 2019,Asteras Tripolis vs Larissa,Over 1.0 FH Goal Line,Hellas Liga
+8 December 2019,Asteras Tripolis vs Larissa,Over 3 Match Cards,Hellas Liga
+8 December 2019,Asteras Tripolis vs Larissa,Over 4 Match Cards,Hellas Liga
+8 December 2019,Asteras Tripolis,Over 1 Team Cards,Hellas Liga
+8 December 2019,Asteras Tripolis vs Larissa,Under 13 Corners,Hellas Liga
+8 December 2019,Atromitos vs Aris,Under 13 Corners,Hellas Liga
+8 December 2019,Panathinaikos,0.0 Asian Card Handicap,Hellas Liga
+8 December 2019,Panathinaikos,Over 1 Team Cards,Hellas Liga
+7 December 2019,Olympiakos Piraeus,Corner Match Bet,Hellas Liga
+7 December 2019,PAOK vs Xanthi,Under 12 Corners,Hellas Liga
+7 December 2019,PAOK vs Xanthi,Under 13 Corners,Hellas Liga
+7 December 2019,PAOK,Corner Match Bet,Hellas Liga
+8 December 2019,Lamia vs OFI,Over 3 Match Cards,Hellas Liga
+8 December 2019,OFI,Over 1 Team Cards,Hellas Liga
+8 December 2019,Lamia vs OFI,Under 13 Corners,Hellas Liga
+15 December 2019,Larissa vs Atromitos,Over 3 Match Cards,Hellas Liga
+15 December 2019,Larissa,Over 1 Team Cards,Hellas Liga
+15 December 2019,Atromitos,Over 1 Team Cards,Hellas Liga
+15 December 2019,Larissa vs Atromitos,Under 13 Corners,Hellas Liga
+15 December 2019,Asteras Tripolis,Over 1 Team Cards,Hellas Liga
+15 December 2019,Olympiakos Piraeus,Corner Match Bet,Hellas Liga
+14 December 2019,OFI,Over 1 Team Cards,Hellas Liga
+14 December 2019,OFI vs Aris,Under 13 Corners,Hellas Liga
+14 December 2019,Panathinaikos,0.0 Asian Card Handicap,Hellas Liga
+14 December 2019,Panathinaikos vs Lamia,Under 12 Corners,Hellas Liga
+14 December 2019,Panathinaikos vs Lamia,Under 13 Corners,Hellas Liga
+15 December 2019,Panaitolikos vs PAOK,Under 13 Corners,Hellas Liga
+15 December 2019,PAOK,Over 3 Team Corners,Hellas Liga
+18 December 2019,AEK Athens vs Asteras Tripolis,Under 13 Corners,Hellas Liga
+19 December 2019,Aris vs Volos NFC,Over 3 Match Cards,Hellas Liga
+18 December 2019,Atromitos vs Lamia,Under 13 Corners,Hellas Liga
+18 December 2019,Larissa,0.0 Asian Card Handicap,Hellas Liga
+18 December 2019,Olympiakos Piraeus,Over 3 Team Corners,Hellas Liga
+18 December 2019,Olympiakos Piraeus,Corner Match Bet,Hellas Liga
+18 December 2019,OFI,Over 1 Team Cards,Hellas Liga
+18 December 2019,Panathinaikos,Over 1 Team Cards,Hellas Liga
+18 December 2019,OFI vs Panathinaikos,Under 13 Corners,Hellas Liga
+19 December 2019,PAOK,Over 3 Team Corners,Hellas Liga
+22 December 2019,Larissa,Over 1 Team Cards,Hellas Liga
+22 December 2019,Larissa vs Panionios,Under 13 Corners,Hellas Liga
+21 December 2019,Asteras Tripolis,Over 1 Team Cards,Hellas Liga
+21 December 2019,Asteras Tripolis vs Xanthi,Under 13 Corners,Hellas Liga
+22 December 2019,Olympiakos Piraeus,Corner Match Bet,Hellas Liga
+22 December 2019,Panathinaikos vs Aris,Under 12 Corners,Hellas Liga
+22 December 2019,Panathinaikos vs Aris,Under 13 Corners,Hellas Liga
+22 December 2019,OFI,Over 1 Team Cards,Hellas Liga
+22 December 2019,Panaitolikos vs OFI,Under 13 Corners,Hellas Liga
+23 December 2019,PAOK vs Atromitos,Over 3 Match Cards,Hellas Liga
+23 December 2019,Atromitos,Over 1 Team Cards,Hellas Liga
+23 December 2019,PAOK vs Atromitos,Under 13 Corners,Hellas Liga
+1 December 2019,Hermannstadt vs CFR Cluj,Under 13 Corners,Romania Liga
+30 November 2019,Sepsi vs Universitatea Craiova,Under 13 Corners,Romania Liga
+2 December 2019,Botoşani vs Viitorul,Over 1.0 FH Goal Line,Romania Liga
+2 December 2019,Botoşani vs Viitorul,Under 13 Corners,Romania Liga
+2 December 2019,Viitorul,Over 3 Team Corners,Romania Liga
+29 November 2019,Astra vs Gaz Metan Mediaş,Under 12 Corners,Romania Liga
+29 November 2019,Astra vs Gaz Metan Mediaş,Under 13 Corners,Romania Liga
+1 December 2019,Chindia Târgovişte,Over 1 Team Cards,Romania Liga
+30 November 2019,FCSB,Over 1 Team Cards,Romania Liga
+30 November 2019,Voluntari vs FCSB,Under 13 Corners,Romania Liga
+4 December 2019,CFR Cluj vs Sepsi,Under 12 Corners,Romania Liga
+4 December 2019,CFR Cluj vs Sepsi,Under 13 Corners,Romania Liga
+5 December 2019,Universitatea Craiova vs Botoşani,Under 13 Corners,Romania Liga
+5 December 2019,Viitorul vs Astra,Under 13 Corners,Romania Liga
+4 December 2019,Hermannstadt,Over 1 Team Cards,Romania Liga
+4 December 2019,Chindia Târgovişte,Over 1 Team Cards,Romania Liga
+4 December 2019,Dinamo Bucureşti vs Chindia Târgovişte,Under 12 Corners,Romania Liga
+4 December 2019,Dinamo Bucureşti vs Chindia Târgovişte,Under 13 Corners,Romania Liga
+3 December 2019,FCSB,Over 1 Team Cards,Romania Liga
+8 December 2019,Botoşani vs CFR Cluj,Over 1.0 FH Goal Line,Romania Liga
+8 December 2019,Botoşani vs CFR Cluj,Under 13 Corners,Romania Liga
+8 December 2019,Astra vs Universitatea Craiova,Over 3 Match Cards,Romania Liga
+8 December 2019,Astra vs Universitatea Craiova,Under 13 Corners,Romania Liga
+9 December 2019,Voluntari vs Viitorul,Under 13 Corners,Romania Liga
+9 December 2019,Viitorul,Over 3 Team Corners,Romania Liga
+7 December 2019,Hermannstadt vs Dinamo Bucureşti,Under 13 Corners,Romania Liga
+6 December 2019,FCSB,Over 1 Team Cards,Romania Liga
+6 December 2019,FCSB vs Gaz Metan Mediaş,Under 13 Corners,Romania Liga
+7 December 2019,Chindia Târgovişte,Over 1 Team Cards,Romania Liga
+16 December 2019,CFR Cluj vs Astra,Under 13 Corners,Romania Liga
+14 December 2019,Academica Clinceni vs Botoşani,Under 13 Corners,Romania Liga
+14 December 2019,Dinamo Bucureşti vs Sepsi,Under 12 Corners,Romania Liga
+14 December 2019,Dinamo Bucureşti vs Sepsi,Under 13 Corners,Romania Liga
+15 December 2019,FCSB,Over 1 Team Cards,Romania Liga
+15 December 2019,Viitorul vs FCSB,Under 13 Corners,Romania Liga
+15 December 2019,Chindia Târgovişte,Over 1 Team Cards,Romania Liga
+15 December 2019,Hermannstadt,Over 1 Team Cards,Romania Liga
+1 December 2019,Žilina vs Slovan Bratislava,Over 1.0 FH Goal Line,Slovakia
+30 November 2019,Zlaté Moravce,Over 1 Team Cards,Slovakia
+29 November 2019,Spartak Trnava vs Ružomberok,Over 1.0 FH Goal Line,Slovakia
+8 December 2019,Žilina,Over 3 Team Corners,Slovakia
+7 December 2019,Zemplín Michalovce vs Spartak Trnava,Over 1.0 FH Goal Line,Slovakia
+7 December 2019,Spartak Trnava,Over 3 Team Corners,Slovakia
+7 December 2019,Zlaté Moravce,Over 1 Team Cards,Slovakia
+30 November 2019,Javor Ivanjica vs Radnički Niš,Under 13 Corners,Serbia
+29 November 2019,Spartak Subotica,Over 1 Team Cards,Serbia
+30 November 2019,Napredak,Over 1 Team Cards,Serbia
+30 November 2019,Inđija,Over 1 Team Cards,Serbia
+1 December 2019,Mačva Šabac,0.0 Asian Card Handicap,Serbia
+1 December 2019,Mačva Šabac,Over 1 Team Cards,Serbia
+1 December 2019,Shakhtar Donetsk,Over 3 Team Corners,Ukraine
+1 December 2019,Olimpik Donetsk vs Dynamo Kyiv,Under 13 Corners,Ukraine
+30 November 2019,Zorya vs Karpaty,Over 3 Match Cards,Ukraine
+30 November 2019,Karpaty,Over 1 Team Cards,Ukraine
+1 December 2019,Oleksandria,0.0 Asian Card Handicap,Ukraine
+1 December 2019,Oleksandria,Over 1 Team Cards,Ukraine
+30 November 2019,Vorskla,Over 1 Team Cards,Ukraine
+30 November 2019,Kolos Kovalivka,Over 1 Team Cards,Ukraine
+30 November 2019,Lviv vs Dnipro-1,Over 3 Match Cards,Ukraine
+30 November 2019,Lviv,Over 1 Team Cards,Ukraine
+30 November 2019,Lviv vs Dnipro-1,Under 13 Corners,Ukraine
+8 December 2019,Kolos Kovalivka vs Dnipro-1,Over 3 Match Cards,Ukraine
+8 December 2019,Kolos Kovalivka,Over 1 Team Cards,Ukraine
+7 December 2019,Vorskla,Over 1 Team Cards,Ukraine
+6 December 2019,Shakhtar Donetsk,Over 3 Team Corners,Ukraine
+6 December 2019,Shakhtar Donetsk,Corner Match Bet,Ukraine
+8 December 2019,Lviv,0.0 Asian Card Handicap,Ukraine
+8 December 2019,Lviv,Over 1 Team Cards,Ukraine
+14 December 2019,Shakhtar Donetsk,Over 3 Team Corners,Ukraine
+15 December 2019,Desna vs Dynamo Kyiv,Under 13 Corners,Ukraine
+15 December 2019,Vorskla,Over 1 Team Cards,Ukraine
+15 December 2019,Karpaty,Over 1 Team Cards,Ukraine
+15 December 2019,Dnipro-1 vs Oleksandria,Over 3 Match Cards,Ukraine
+15 December 2019,Dnipro-1,Over 1 Team Cards,Ukraine
+15 December 2019,Oleksandria,Over 1 Team Cards,Ukraine
+14 December 2019,Lviv vs Kolos Kovalivka,Over 3 Match Cards,Ukraine
+14 December 2019,Lviv,Over 1 Team Cards,Ukraine
+14 December 2019,Kolos Kovalivka,Over 1 Team Cards,Ukraine
+5 December 2019,Vasco da Gama,0.0 Asian Card Handicap,Brasil Serie A
+30 November 2019,Atlético GO,Over 1 Team Cards,Brasil Serie B
+30 November 2019,Guarani,Over 1 Team Cards,Brasil Serie B
+30 November 2019,São Bento,0.0 Asian Card Handicap,Brasil Serie B
+15 December 2019,Independiente vs Newell's Old Boys,Over 3 Match Cards,Argentina
+30 November 2019,Boca Juniors vs Argentinos Juniors,Under 1.5 SH Goals,Argentina
+30 November 2019,Boca Juniors,Over 1 Team Cards,Argentina
+30 November 2019,Argentinos Juniors,Over 3 Team Corners,Argentina
+1 December 2019,San Lorenzo vs Patronato,Over 3 Match Cards,Argentina
+1 December 2019,San Lorenzo,Over 1 Team Cards,Argentina
+1 December 2019,Patronato,Over 1 Team Cards,Argentina
+30 November 2019,Estudiantes,Over 1 Team Cards,Argentina
+30 November 2019,Atlético Tucumán,Over 1 Team Cards,Argentina
+1 December 2019,Newell's Old Boys vs River Plate,Over 3 Match Cards,Argentina
+1 December 2019,River Plate,Over 1 Team Cards,Argentina
+9 December 2019,River Plate,Over 1 Team Cards,Argentina
+9 December 2019,San Lorenzo,Over 1 Team Cards,Argentina
+9 December 2019,River Plate,Corner Match Bet,Argentina
+7 December 2019,Huracán,0.0 Asian Card Handicap,Argentina
+7 December 2019,Huracán,Over 1 Team Cards,Argentina
+10 December 2019,Estudiantes,Over 1 Team Cards,Argentina
+10 December 2019,Argentinos Juniors,Over 3 Team Corners,Argentina
+8 December 2019,Lanús vs Racing Club,Over 3 Match Cards,Argentina
+8 December 2019,Boca Juniors,0.0 Asian Card Handicap,Argentina
+8 December 2019,Boca Juniors,Over 1 Team Cards,Argentina
+6 December 2019,Colón vs Aldosivi,Under 13 Corners,Argentina
+9 December 2019,Patronato,0.0 Asian Card Handicap,Argentina
+9 December 2019,Patronato,Over 1 Team Cards,Argentina
+7 December 2019,Atlético Tucumán,Over 1 Team Cards,Argentina
+27 November 2019,Shanghai Shenhua vs Jiangsu Suning,Over 2.5 Goals,CSL
+27 November 2019,Shanghai Shenhua vs Jiangsu Suning,Over 1.0 FH Goal Line,CSL
+30 November 2019,Vegalta Sendai vs Oita Trinita,Under 4 Match Cards,J1 League
+30 November 2019,Vegalta Sendai vs Oita Trinita,Under 5 Match Cards,J1 League
+30 November 2019,Tokyo vs Urawa Reds,Under 5 Match Cards,J1 League
+30 November 2019,Kawasaki Frontale vs Yokohama F. Marinos,Under 5 Match Cards,J1 League
+30 November 2019,Yokohama F. Marinos,Over 3 Team Corners,J1 League
+30 November 2019,Shonan Bellmare vs Sanfrecce Hiroshima,Under 5 Match Cards,J1 League
+30 November 2019,Júbilo Iwata vs Nagoya Grampus,Under 5 Match Cards,J1 League
+30 November 2019,Gamba Osaka vs Matsumoto Yamaga,Under 4 Match Cards,J1 League
+30 November 2019,Gamba Osaka vs Matsumoto Yamaga,Under 5 Match Cards,J1 League
+30 November 2019,Cerezo Osaka vs Shimizu S-Pulse,Under 5 Match Cards,J1 League
+30 November 2019,Sagan Tosu vs Consadole Sapporo,Under 5 Match Cards,J1 League
+7 December 2019,Urawa Reds vs Gamba Osaka,Under 5 Match Cards,J1 League
+7 December 2019,Shimizu S-Pulse vs Sagan Tosu,Under 5 Match Cards,J1 League
+7 December 2019,Nagoya Grampus vs Kashima Antlers,Under 5 Match Cards,J1 League
+7 December 2019,Sanfrecce Hiroshima vs Vegalta Sendai,Under 5 Match Cards,J1 League
+7 December 2019,Oita Trinita vs Cerezo Osaka,Under 5 Match Cards,J1 League
+1 December 2019,Maccabi Haifa,Corner Match Bet,Isreal
+30 November 2019,Hapoel Kfar Saba,Over 1 Team Cards,Isreal
+30 November 2019,Maccabi Netanya,0.0 Asian Card Handicap,Isreal
+30 November 2019,Maccabi Netanya,Over 1 Team Cards,Isreal
+30 November 2019,Ironi Kiryat Shmona vs Maccabi Tel Aviv,Under 13 Corners,Isreal
+3 December 2019,Maccabi Netanya,Over 1 Team Cards,Isreal
+4 December 2019,Hapoel Haifa,Over 1 Team Cards,Isreal
+3 December 2019,Hapoel Be'er Sheva,Over 1 Team Cards,Isreal
+7 December 2019,Hapoel Kfar Saba,Over 1 Team Cards,Isreal
+7 December 2019,Maccabi Netanya,0.0 Asian Card Handicap,Isreal
+7 December 2019,Maccabi Netanya,Over 1 Team Cards,Isreal
+15 December 2019,Maccabi Netanya,0.0 Asian Card Handicap,Isreal
+15 December 2019,Maccabi Netanya,Over 1 Team Cards,Isreal
+14 December 2019,Hapoel Kfar Saba,Over 1 Team Cards,Isreal
+14 December 2019,Hapoel Ra'anana vs Maccabi Haifa,Over 3 Match Cards,Isreal
+14 December 2019,Maccabi Haifa,Corner Match Bet,Isreal
+24 December 2019,Hapoel Be'er Sheva,Over 1 Team Cards,Isreal
+24 December 2019,Hapoel Haifa,Over 1 Team Cards,Isreal
+24 December 2019,Bnei Yehuda vs Maccabi Tel Aviv,Under 2.5 Goals,Isreal
+25 December 2019,Maccabi Netanya,0.0 Asian Card Handicap,Isreal
+25 December 2019,Maccabi Netanya,Over 1 Team Cards,Isreal
