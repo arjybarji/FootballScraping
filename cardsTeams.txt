@@ -199,16 +199,6 @@ Stenhousemuir
 Albion Rovers
 Stirling Albion
 Queen's Park
-Bohemians
-Finn Harps
-Derry City
-UCD
-Dundalk
-Sligo Rovers
-St Patrick's Athletic
-Cork City
-Waterford
-Shamrock Rovers
 Aberystwyth Town
 Carmarthen Town
 Airbus UK
@@ -547,34 +537,6 @@ Bodø / Glimt
 Rosenborg
 Stabæk
 Lillestrøm
-Helsingborg
-Norrköping
-Elfsborg
-Hammarby
-Falkenberg
-Örebro
-Kalmar
-Sirius
-Malmö FF
-Häcken
-Djurgården
-GIF Sundsvall
-AIK
-Östersunds FK
-AFC Eskilstuna
-IFK Göteborg
-KuPS
-RoPS
-HJK
-Inter Turku
-SJK
-HIFK
-Honka
-KPV
-Ilves
-Lahti
-Mariehamn
-VPS
 Genk
 Kortrijk
 Cercle Brugge
@@ -771,25 +733,6 @@ Sport Recife
 Oeste
 CRB
 Londrina
-Puebla
-Tijuana
-Atlas
-Juárez
-Atlético San Luis
-Pumas UNAM
-Pachuca
-León
-Tigres UANL
-Morelia
-América
-Monterrey
-Necaxa
-Cruz Azul
-Toluca
-Querétaro
-Santos Laguna
-Guadalajara
-Veracruz
 Racing Club
 Unión
 Colón
@@ -848,28 +791,6 @@ Gamba Osaka
 Yokohama F. Marinos
 Shonan Bellmare
 Consadole Sapporo
-Kagoshima United
-Tokushima Vortis
-Tochigi
-Zweigen Kanazawa
-Omiya Ardija
-Ventforet Kofu
-Machida Zelvia
-Tokyo Verdy
-Gifu
-Montedio Yamagata
-Kyoto Sanga
-Albirex Niigata
-Fagiano Okayama
-Mito Hollyhock
-V-Varen Nagasaki
-Yokohama
-Renofa Yamaguchi
-Kashiwa Reysol
-Ehime
-JEF United
-Ryūkyū
-Avispa Fukuoka
 Hapoel Tel Aviv
 Maccabi Netanya
 Sektzia Nes Tziona
@@ -895,15 +816,3 @@ Western United
 Perth Glory
 Brisbane Roar
 Newcastle Jets
-Vorskla
-Zorya
-Dnipro-1
-Olimpik Donetsk
-Kolos Kovalivka
-Mariupol'
-Oleksandria
-Shakhtar Donetsk
-Karpaty
-Dynamo Kyiv
-Desna
-Lviv

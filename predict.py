@@ -389,10 +389,13 @@ if __name__ == '__main__':
         awayTeam = split[1]
         gameweek = split[2]
         cursor.execute("SELECT COUNT(gameID) FROM stats WHERE homeTeam = ? OR awayTeam = ?", (homeTeam,homeTeam,))
-        data=cursor.fetchall()[0][0]
+        dataH=cursor.fetchall()[0][0]
+        cursor.execute("SELECT COUNT(gameID) FROM stats WHERE homeTeam = ? OR awayTeam = ?", (awayTeam,awayTeam,))
+        dataA=cursor.fetchall()[0][0]
+        use = dataH>7 and dataA>7
         date = split[3]
         league = leaguesDict[split[4]]
-        if(today.lower() in date.lower() and data>7) or (tomorrow.lower() in date.lower() and data>7):
+        if(today.lower() in date.lower() and use) or (tomorrow.lower() in date.lower() and use):
         #if(today.lower() in date.lower() and int(gameweek)>7):
             predict(homeTeam,awayTeam,gameweek,date,league)
     bets.close()

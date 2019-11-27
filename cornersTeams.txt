@@ -293,13 +293,6 @@ Viking
 Bodø / Glimt
 Rosenborg
 Stabæk
-Helsingborg
-Norrköping
-Falkenberg
-Sirius
-Malmö FF
-Djurgården
-AFC Eskilstuna
 Genk
 Kortrijk
 Cercle Brugge
@@ -448,20 +441,6 @@ Ponte Preta
 América Mineiro
 RB Bragantino
 Londrina
-Puebla
-Atlas
-Atlético San Luis
-Pumas UNAM
-Pachuca
-León
-Morelia
-América
-Monterrey
-Necaxa
-Cruz Azul
-Toluca
-Santos Laguna
-Guadalajara
 Racing Club
 Unión
 Colón
@@ -498,9 +477,6 @@ Gamba Osaka
 Yokohama F. Marinos
 Shonan Bellmare
 Consadole Sapporo
-Omiya Ardija
-Fagiano Okayama
-Ryūkyū
 Maccabi Netanya
 Maccabi Tel Aviv
 Bnei Yehuda
@@ -522,15 +498,3 @@ Western United
 Perth Glory
 Brisbane Roar
 Newcastle Jets
-Vorskla
-Zorya
-Dnipro-1
-Olimpik Donetsk
-Kolos Kovalivka
-Mariupol'
-Oleksandria
-Shakhtar Donetsk
-Karpaty
-Dynamo Kyiv
-Desna
-Lviv

@@ -17,7 +17,7 @@ import datetime
 start = 3029045
 end = 3035103
 toCheck = "Premier League - Ukraine"
-leagueFile = open(toCheck + ".txt","w")
+leagueFile = open(toCheck + " - Links.txt","w")
 
 def get_proxies():
     url = 'https://free-proxy-list.net/'
