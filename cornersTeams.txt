@@ -21,7 +21,6 @@ Arsenal - Premier League - England
 Fylde
 Barnet
 Yeovil Town
-Chesterfield
 Woking
 Halifax Town
 Hartlepool United
@@ -50,9 +49,7 @@ Milan
 Ascoli
 Trapani
 Cittadella
-Spezia
 Crotone
-Cosenza
 Empoli
 Juve Stabia
 Perugia
@@ -170,7 +167,6 @@ Brest
 Toulouse
 Monaco
 Olympique Lyonnais
-Sochaux
 Caen
 Le Mans
 Lens
@@ -184,7 +180,6 @@ Paris FC
 Nancy
 Orléans
 Niort
-Troyes
 Gil Vicente
 Porto
 Sporting Braga
@@ -244,7 +239,6 @@ Cambuur
 NEC
 Eindhoven
 TOP Oss
-Ajax II
 Helmond Sport
 Dordrecht
 NAC Breda
@@ -286,13 +280,6 @@ Hobro
 AGF
 Lyngby
 AaB
-Odd
-Brann
-Vålerenga
-Viking
-Bodø / Glimt
-Rosenborg
-Stabæk
 Genk
 Kortrijk
 Cercle Brugge
@@ -425,7 +412,6 @@ Javor Ivanjica
 Radnički Niš
 Proleter Novi Sad
 Voždovac
-Bačka Topola
 Radnik Surdulica
 Napredak
 Santos
@@ -433,14 +419,6 @@ Atlético Mineiro
 Cruzeiro
 Fluminense
 Corinthians
-Athletico Paranaense
-Vitória
-São Bento
-Paraná
-Ponte Preta
-América Mineiro
-RB Bragantino
-Londrina
 Racing Club
 Unión
 Colón
@@ -452,19 +430,15 @@ Gimnasia La Plata
 Argentinos Juniors
 River Plate
 Estudiantes
-Aldosivi
 Newell's Old Boys
-Central Córdoba SdE
 Talleres de Córdoba
 Vélez Sarsfield
 Defensa y Justicia
-Independiente
 Boca Juniors
 Huracán
 Arsenal - Superliga - Argentina
 Banfield
 Atlético Tucumán
-Rosario Central
 Cerezo Osaka
 Kawasaki Frontale
 Tokyo

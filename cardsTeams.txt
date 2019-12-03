@@ -114,24 +114,18 @@ Boreham Wood
 Wrexham
 Barrow
 Altrincham
-York City
 Blyth Spartans
 Gloucester City
 Boston United
 Chester
 Brackley Town
-Alfreton Town
-Curzon Ashton
 Bradford (Park Avenue)
-Farsley Celtic
 Darlington
 Gateshead
 Southport
 Guiseley
 King's Lynn Town
-Hereford
 Spennymoor Town
-Kettering Town
 AFC Telford United
 Kidderminster Harriers
 Leamington
@@ -144,18 +138,14 @@ Hampton & Richmond
 Havant & Waterlooville
 Welling United
 Hemel Hempstead Town
-Hungerford Town
 Maidstone United
-Weymouth
 Oxford City
-Concord Rangers
 Slough Town
 Dorking Wanderers
 St Albans City
 Chippenham Town
 Tonbridge Angels
 Dulwich Hamlet
-Wealdstone
 Dartford
 Aberdeen
 Hearts
@@ -521,22 +511,6 @@ Hobro
 AGF
 Lyngby
 AaB
-Odd
-Brann
-Vålerenga
-Mjøndalen
-Ranheim
-Tromsø
-Sarpsborg 08
-Molde
-Strømsgodset
-Haugesund
-Viking
-Kristiansund
-Bodø / Glimt
-Rosenborg
-Stabæk
-Lillestrøm
 Genk
 Kortrijk
 Cercle Brugge
@@ -679,22 +653,12 @@ Spartak Trnava
 Sereď
 Zlaté Moravce
 DAC
-Crvena Zvezda
 Javor Ivanjica
 Radnički Niš
 Proleter Novi Sad
-Voždovac
 Bačka Topola
 Mladost Lučani
-Radnik Surdulica
 Spartak Subotica
-Rad Beograd
-Čukarički
-Napredak
-Vojvodina
-Mačva Šabac
-Inđija
-Partizan
 Grêmio
 Santos
 Atlético Mineiro
@@ -715,24 +679,6 @@ Bahia
 Corinthians
 Athletico Paranaense
 Vasco da Gama
-Guarani
-Botafogo SP
-Vitória
-São Bento
-Atlético GO
-Vila Nova
-Paraná
-Coritiba
-Ponte Preta
-Operário PR
-América Mineiro
-Criciúma
-Brasil de Pelotas
-RB Bragantino
-Sport Recife
-Oeste
-CRB
-Londrina
 Racing Club
 Unión
 Colón
@@ -757,22 +703,6 @@ Arsenal - Superliga - Argentina
 Banfield
 Atlético Tucumán
 Rosario Central
-Shandong Luneng
-Beijing Renhe
-Guangzhou Evergrande
-Tianjin Tianhai
-Shanghai Shenhua
-Shanghai SIPG
-Wuhan Zall
-Beijing Guoan
-Chongqing Dangdai Lifan
-Guangzhou R&F
-Shenzhen
-Hebei CFFC
-Henan Jianye
-Dalian Yifang
-Jiangsu Suning
-Tianjin Teda
 Cerezo Osaka
 Vissel Kobe
 Vegalta Sendai
@@ -791,20 +721,12 @@ Gamba Osaka
 Yokohama F. Marinos
 Shonan Bellmare
 Consadole Sapporo
-Hapoel Tel Aviv
 Maccabi Netanya
 Sektzia Nes Tziona
 Maccabi Tel Aviv
-Bnei Yehuda
 Ironi Kiryat Shmona
-Hapoel Kfar Saba
 Hapoel Haifa
-Maccabi Haifa
 Hapoel Ra'anana
-Beitar Jerusalem
-Hapoel Be'er Sheva
-Hapoel Hadera
-Ashdod
 Adelaide United
 Sydney
 Western Sydney Wanderers

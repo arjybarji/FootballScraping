@@ -7,6 +7,13 @@ def getLinks(start,end):
         leagueUrl = 'https://us.soccerway.com/matches/2018/08/10/england/premier-league/manchester-united-fc/leicester-city-fc/'
         file.write( leagueUrl +str(i)+'/' + "\n")
 
+def getLinksFromFile(fileq):
+    with open(fileq) as f:
+        content = f.readlines()
+    for c in content:
+        c.strip()
+        file.write( c)
+
 #Premier League
 getLinks(3029073,3029452)
 #English Lower Leagues

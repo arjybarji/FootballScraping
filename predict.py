@@ -1,6 +1,7 @@
 import sqlite3
 import datetime
 import time
+import cornersCardsTeams
 import winsound
 
 def insertIntoDatabase():
@@ -10,6 +11,7 @@ def insertIntoDatabase():
         content = f.readlines()
     content = [x.strip() for x in content]
     cursor = conn.cursor()
+    cursor.execute("DELETE FROM stats", ())
     for c in content:
         statsSplit = c.split(",")
         cursor.execute("SELECT * FROM stats WHERE gameID = ?", (statsSplit[-1],))
@@ -40,12 +42,36 @@ def asianCardHandicap(homeTeam,awayTeam,date,league):
     awayTotalTeamCards = (awayTeamHomeCards + awayTeamAwayCards)/2
     
     if((homeTeamHomeCards-awayTeamAwayCards)>=1 and (homeTotalTeamCards-awayTotalTeamCards)>=1):
-        print(homeTeam + " vs " + awayTeam)
+        print(homeTeam)
         bets.write(date + "," +homeTeam +",0.0 Asian Card Handicap," +  league + "\n")
     if((awayTeamAwayCards-homeTeamHomeCards)>=1 and (awayTotalTeamCards-homeTotalTeamCards)>=1):
-        print(homeTeam + " vs " + awayTeam)
+        print(awayTeam)
         bets.write(date + "," +awayTeam +",0.0 Asian Card Handicap," +  league + "\n")
+        
+def asianCardHandicapTop5(homeTeam,awayTeam,date,league):
+    database = 'allStats.db'
+    conn = sqlite3.connect(database)
+    cursor = conn.cursor()
     
+    cursor.execute("SELECT AVG(homeTeamCards) FROM stats WHERE homeTeam = ?", (homeTeam,))
+    homeTeamHomeCards=cursor.fetchall()[0][0]
+    cursor.execute("SELECT AVG(awayTeamCards) FROM stats WHERE awayTeam = ?", (homeTeam,))
+    homeTeamAwayCards=cursor.fetchall()[0][0]
+    homeTotalTeamCards = (homeTeamHomeCards + homeTeamAwayCards)/2
+    
+    cursor.execute("SELECT AVG(homeTeamCards) FROM stats WHERE homeTeam = ?", (awayTeam,))
+    awayTeamHomeCards=cursor.fetchall()[0][0]
+    cursor.execute("SELECT AVG(awayTeamCards) FROM stats WHERE awayTeam = ?", (awayTeam,))
+    awayTeamAwayCards=cursor.fetchall()[0][0]
+    awayTotalTeamCards = (awayTeamHomeCards + awayTeamAwayCards)/2
+    
+    if((homeTeamHomeCards-awayTeamAwayCards)>=0.75 and (homeTotalTeamCards-awayTotalTeamCards)>=0.75):
+        print(homeTeam)
+        top5.write(date + "," +homeTeam +",0.0 Asian Card Handicap," +  league + "\n")
+    if((awayTeamAwayCards-homeTeamHomeCards)>=0.75 and (awayTotalTeamCards-homeTotalTeamCards)>=0.75):
+        print(awayTeam)
+        top5.write(date + "," +awayTeam +",0.0 Asian Card Handicap," +  league + "\n")
+  
 def cornerMatchBet(homeTeam,awayTeam,date,league):
     database = 'allStats.db'
     conn = sqlite3.connect(database)
@@ -64,10 +90,10 @@ def cornerMatchBet(homeTeam,awayTeam,date,league):
     awayTotalTeamCorners = (awayTeamHomeCorners + awayTeamAwayCorners)/2
     
     if((homeTeamHomeCorners-awayTeamAwayCorners)>=2 and (homeTotalTeamCorners-awayTotalTeamCorners)>=2):
-        print(homeTeam + " vs " + awayTeam)
+        print(homeTeam)
         bets.write(date + "," +homeTeam + ",Corner Match Bet," +  league + "\n")
     if((awayTeamAwayCorners-homeTeamHomeCorners)>=2 and (awayTotalTeamCorners-homeTotalTeamCorners)>=2):
-        print(homeTeam + " vs " + awayTeam)
+        print(awayTeam)
         bets.write(date + "," +awayTeam + ",Corner Match Bet," +  league + "\n")
         
 def teamCards(homeTeam,awayTeam,date,league,num):
@@ -303,7 +329,7 @@ def BTTSStats(homeTeam,awayTeam,field,lower,upper,date,league):
         bets.write(date + "," +homeTeam + " vs " + awayTeam + ","+field.upper()+" No"+ "," + league +"\n")
     if(homeBTTSHomePercent >upper) and (homeBTTSTotal >upper) and (awayBTTSAwayPercent >upper) and (awayBTTSTotal >upper):
         print("BTTS Yes")
-        bets.write(date + "," +homeTeam + " vs " + awayTeam+field.upper()+" Yes" + ","+ league +"\n")
+        bets.write(date + "," +homeTeam + " vs " + awayTeam+","+field.upper()+" Yes" + ","+ league +"\n")
 
 def predict(homeTeam,awayTeam,gameweek,date,league):
 
@@ -319,7 +345,7 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
     teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.2,0.8,"0.5",date,league)
     teamPercentStats(homeTeam,awayTeam,"secondHalfTotalGoals",0.2,0.8,"1.5",date,league)
     
-    BTTSStats(homeTeam,awayTeam,"btts",0.2,0.8,date,league)
+    BTTSStats(homeTeam,awayTeam,"btts",0.25,0.75,date,league)
     
     if((homeTeam in cardsTeams) and (awayTeam in cardsTeams) and (league != "National League CHANGE")):
         #Asian Card Handicap Averages
@@ -332,17 +358,17 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
         teamPercentStats(homeTeam,awayTeam,"matchCards",0.2,0.8,"4.5",date,league)        
         #Over/Under 1.5 Team Cards H/A and Total
         teamCards(homeTeam,awayTeam,date,league,"1.5")
+        
+    if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
+        asianCardHandicapTop5(homeTeam,awayTeam,date,league)
+    
     if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
-        #Over/Under 8 Corners Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"8.5",date,league)
         #Over/Under 10 Corners Percent 80/20 H/A and Total
         teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"9.5",date,league)
         #Over/Under 10 Corners Percent 80/20 H/A and Total
         teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"10.5",date,league)
         #Over/Under 10 Corners Percent 80/20 H/A and Total
         teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"11.5",date,league)
-        #Over/Under 10 Corners Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"12.5",date,league)
         
         #Over/Under 4.5 Corners Percent 80/20 H/A and Total
         teamCorners(homeTeam,awayTeam,date,league,"3.5")
@@ -351,11 +377,14 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
             #If Team1 has 2 Less than Team2 Taken vs Conc H/A and Total
             #So City have 5.5 Avg Taken Home and 5.6 Taken Total where West Ham have 3.4 Taken Home and 3.5 Taken Total. City have Corner Match Bet
         cornerMatchBet(homeTeam,awayTeam,date,league)
-        
+      
 leaguesDict = dict()
+
 if __name__ == '__main__':
     start_time = time.time()
+    cornersCardsTeams.cornersCardsTeamsx()
     insertIntoDatabase()
+    top5 = open("top5ACH.csv","w",encoding="utf8")
     with open('fixturesv2.csv',encoding="utf8") as f:
         content = f.readlines()
     content = [x.strip() for x in content]
@@ -372,10 +401,15 @@ if __name__ == '__main__':
         leaguesT = f.readlines()
     leaguesT = [x.strip() for x in leaguesT]
     
+    with open('top5Teams.txt',encoding="utf8") as f:
+        top5Teams = f.readlines()
+    top5Teams = [x.strip() for x in top5Teams]
+    
     for l in leaguesT:
         leaguesDict.update({l.split(",")[0] : l.split(",")[1]})
 
     bets = open("bets.csv","w",encoding="utf8")
+
     today = datetime.date.today()
     tomorrow = datetime.date.today() + datetime.timedelta(days=30)
     tomorrow = tomorrow.strftime("%B")
@@ -395,11 +429,12 @@ if __name__ == '__main__':
         use = dataH>7 and dataA>7
         date = split[3]
         league = leaguesDict[split[4]]
-        if(today.lower() in date.lower() and use) or (tomorrow.lower() in date.lower() and use):
-        #if(today.lower() in date.lower() and int(gameweek)>7):
+        #if(today.lower() in date.lower() and use) or (tomorrow.lower() in date.lower() and use):
+        if(today.lower() in date.lower() and use):
+        #if(use):
             predict(homeTeam,awayTeam,gameweek,date,league)
     bets.close()
-    
+    top5.close()
     temp = []
     with open('bets.csv',encoding="utf8") as f:
         bets2 = f.readlines()

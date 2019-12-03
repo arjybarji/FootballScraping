@@ -14,9 +14,9 @@ from itertools import cycle
 import winsound
 import datetime
 
-start = 3029045
-end = 3035103
-toCheck = "Premier League - Ukraine"
+start = 3028914
+end = 3032887
+toCheck = "First League - Bulgaria"
 leagueFile = open(toCheck + " - Links.txt","w")
 
 def get_proxies():
