@@ -1,0 +1,11 @@
+System to show last games from a team by using SQL queries
+E.g. GameWeek - HomeTeam - AwayTeam - FIELD(MatchGoals, MatchCards etc)
+
+Ordered by Gameweek Ascending
+All Chelseas games Match Goals
+Or FH Goals
+"SELECT GameWeek , HomeTeam , AwayTeam , FHGoals WHERE HomeTeam = "Chelsea" or AwayTeam = "Chelsea"
+
+"SELECT GameWeek , HomeTeam , AwayTeam , FHGoals WHERE HomeTeam = "Chelsea"
+
+Show list of previous games

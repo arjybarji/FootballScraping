@@ -1,32 +1,32 @@
 Teams
-Arsenal - Premier League - England
-Brighton & Hove Albion
-Burnley
-Manchester City
-Leicester City
-Watford
-Manchester United
-Tottenham Hotspur
-Sheffield United
-Newcastle United
-Wolverhampton Wanderers
-West Ham United
-Chelsea
-Aston Villa
-Crystal Palace
 AFC Bournemouth
 Liverpool
+Aston Villa
+Leicester City
+Brighton & Hove Albion
+Wolverhampton Wanderers
 Everton
+Chelsea
+Manchester City
+Manchester United
+Newcastle United
 Southampton
 Norwich City
+Sheffield United
+Tottenham Hotspur
+Burnley
+Watford
+Crystal Palace
+West Ham United
+Arsenal - Premier League - England
 Sunderland
 Fleetwood Town
-Burton Albion
-Southend United
 Blackpool
 Bolton Wanderers
 AFC Wimbledon
 Bristol Rovers
+Southend United
+Burton Albion
 Lincoln City
 Coventry City
 Ipswich Town
@@ -44,7 +44,6 @@ Accrington Stanley
 Wycombe Wanderers
 Nottingham Forest
 Reading
-Stoke City
 Blackburn Rovers
 Derby County
 Cardiff City
@@ -54,6 +53,7 @@ Bristol City
 Huddersfield Town
 Leeds United
 Hull City
+Stoke City
 Luton Town
 Wigan Athletic
 Middlesbrough
@@ -92,8 +92,6 @@ Stevenage
 Crawley Town
 Chesterfield
 Yeovil Town
-Eastleigh
-Wrexham
 Barnet
 Fylde
 Barrow
@@ -103,6 +101,7 @@ Dagenham & Redbridge
 Maidenhead United
 Dover Athletic
 Boreham Wood
+Eastleigh
 Ebbsfleet United
 Harrogate Town
 Torquay United
@@ -112,71 +111,72 @@ Stockport County
 Chorley
 Woking
 Hartlepool United
+Wrexham
 Solihull Moors
 Halifax Town
 Altrincham
 AFC Telford United
-Farsley Celtic
-Brackley Town
 Blyth Spartans
-Boston United
-Hereford
-York City
-Kidderminster Harriers
-Gateshead
-Leamington
-Darlington
 Guiseley
+Kidderminster Harriers
+Farsley Celtic
 Bradford (Park Avenue)
 Curzon Ashton
+Hereford
+Darlington
 Chester
+Gateshead
 Alfreton Town
+Brackley Town
 Kettering Town
+York City
+Boston United
 King's Lynn Town
+Leamington
 Spennymoor Town
 Southport
 Gloucester City
 Havant & Waterlooville
 Slough Town
-Hungerford Town
-Tonbridge Angels
 Maidstone United
 Chippenham Town
 Wealdstone
 Eastbourne Borough
 Hemel Hempstead Town
 Weymouth
-Braintree Town
-Hampton & Richmond
 Bath City
 Chelmsford City
+Hungerford Town
 Concord Rangers
 Dorking Wanderers
 Dulwich Hamlet
 Dartford
 Oxford City
+Braintree Town
 St Albans City
+Hampton & Richmond
+Tonbridge Angels
 Billericay Town
 Welling United
 Hearts
 Celtic
-Aberdeen
-Rangers
 Hamilton Academical
+St. Mirren
+Hibernian
+Aberdeen
 Livingston
 Kilmarnock
-St. Johnstone
-Ross County
-Hibernian
-St. Mirren
 Motherwell
+Rangers
+Ross County
+St. Johnstone
 Ayr United
-Dunfermline Athletic
 Arbroath
 Greenock Morton
 Dundee United
 Dundee
 Alloa Athletic
+Dunfermline Athletic
 Inverness CT
 Queen of the South
 Partick Thistle
@@ -190,28 +190,28 @@ Peterhead
 Stranraer
 Raith Rovers
 Airdrieonians
-Stenhousemuir
-Elgin City
 Albion Rovers
 Cowdenbeath
 Queen's Park
+Elgin City
 Edinburgh City
 Cove Rangers
+Stenhousemuir
 Annan Athletic
 Stirling Albion
 Brechin City
-Cefn Druids
-Cardiff MU
-The New Saints
-Carmarthen Town
 Penybont
 Caernarfon Town
 Airbus UK
+Cefn Druids
 Connah's Quay
 Bala Town
 Barry Town United
+The New Saints
+Cardiff MU
 Aberystwyth Town
 Newtown
+Carmarthen Town
 Brescia
 Sassuolo
 Atalanta
@@ -254,16 +254,16 @@ Spezia
 Livorno
 Barcelona
 Real Madrid
-Getafe
-Levante
 Mallorca
 Real Betis
 Athletic Club
 Eibar
+Getafe
 Granada
 Deportivo Alavés
 Leganes
 Celta Vigo
+Levante
 Valencia
 Osasuna
 Sevilla
@@ -350,46 +350,46 @@ Meppen
 Preußen Münster
 Waldhof Mannheim
 Eintracht Braunschweig
+Monaco
 PSG
-Nantes
-Bordeaux
 Nîmes
-Saint-Etienne
-Nice
-Dijon
-Montpellier
-Amiens SC
-Reims
 Olympique Lyonnais
-Lille
+Nice
+Metz
+Montpellier
+Rennes
 Angers SCO
-Olympique Marseille
-Brest
+Reims
+Saint-Etienne
+Nantes
+Dijon
 Strasbourg
 Toulouse
-Monaco
-Metz
-Rennes
-Orléans
-Lorient
-Caen
+Olympique Marseille
+Bordeaux
+Amiens SC
+Lille
+Brest
 Nancy
-Auxerre
-Valenciennes
-Troyes
-Rodez
-Grenoble Foot 38
-Clermont
 Châteauroux
-Sochaux
-Le Havre
 Le Mans
-Lens
+Orléans
 Chambly
 Niort
-Ajaccio
-Paris FC
+Rodez
+Caen
 Guingamp
+Troyes
+Valenciennes
+Paris FC
+Ajaccio
+Lens
+Clermont
+Le Havre
+Lorient
+Auxerre
+Sochaux
+Grenoble Foot 38
 Toulon
 Boulogne
 Bourg-en-Bresse
@@ -408,15 +408,15 @@ Concarneau
 Dunkerque
 Villefranche
 Bastia-Borgo
-Vitória Setúbal
-Vitoria Guimaraes
 Famalicão
 Tondela
 Paços de Ferreira
+Vitória Setúbal
 Desportivo Aves
 Sporting Braga
 Belenenses
 Porto
+Vitoria Guimaraes
 Portimonense
 Rio Ave
 Gil Vicente
@@ -444,16 +444,16 @@ Mafra
 Estoril
 Varzim
 Sporting Covilhã
-Emmen
-PSV
 PEC Zwolle
 AZ
 Ajax
 Willem II
 ADO Den Haag
 Twente
+PSV
 Fortuna Sittard
 VVV
+Emmen
 Vitesse
 Feyenoord
 RKC Waalwijk
@@ -542,8 +542,8 @@ Opava
 Jablonec
 Dinamo Zagreb
 Rijeka
-Hajduk Split
 Inter Zaprešić
+Hajduk Split
 Istra 1961
 Varaždin
 Osijek
@@ -610,34 +610,34 @@ Konyaspor
 Gaziantep FK
 Denizlispor
 Istanbul Basaksehir
-Olympiakos Piraeus
-PAOK
-Panathinaikos
-Asteras Tripolis
 AEK Athens
 Panionios
+Asteras Tripolis
 Larissa
 Atromitos
 Aris
 Volos NFC
+Panathinaikos
 Panaitolikos
+Olympiakos Piraeus
+PAOK
 Xanthi
 Lamia
 OFI
-Botoşani
-Viitorul
-CFR Cluj
-Sepsi
-Universitatea Craiova
-Astra
-Academica Clinceni
-Hermannstadt
-Gaz Metan Mediaş
-Voluntari
-Dinamo Bucureşti
-Chindia Târgovişte
 Politehnica Iași
 FCSB
+Botoşani
+CFR Cluj
+Astra
+Universitatea Craiova
+Sepsi
+Academica Clinceni
+Voluntari
+Viitorul
+Hermannstadt
+Dinamo Bucureşti
+Gaz Metan Mediaş
+Chindia Târgovişte
 Senica
 Žilina
 Zemplín Michalovce
@@ -651,44 +651,47 @@ DAC
 Pohronie
 Sereď
 Javor Ivanjica
+Voždovac
 Radnički Niš
-Mačva Šabac
-Inđija
-Rad Beograd
-Vojvodina
-Radnik Surdulica
-Spartak Subotica
-Proleter Novi Sad
 Mladost Lučani
 Crvena Zvezda
-Voždovac
-Grêmio
-Cruzeiro
-Atlético Mineiro
-Botafogo
-Ceará
-Corinthians
-Palmeiras
-Goiás
-São Paulo
-Internacional
+Spartak Subotica
+Proleter Novi Sad
+Čukarički
+Bačka Topola
+Vojvodina
+Radnik Surdulica
+Inđija
+Rad Beograd
+Partizan
+Napredak
+Mačva Šabac
 Flamengo
 Avaí
-Fluminense
+Internacional
+Atlético Mineiro
+Cruzeiro
+Palmeiras
 Fortaleza
-Chapecoense
-CSA
 Bahia
-Vasco da Gama
-Athletico Paranaense
+Corinthians
+Fluminense
 Santos
+Vasco da Gama
+Chapecoense
+Botafogo
+Ceará
+Athletico Paranaense
+Goiás
+Grêmio
+CSA
+São Paulo
 Independiente
 Newell's Old Boys
 Arsenal - Superliga - Argentina
 Colón
 River Plate
 San Lorenzo
-Patronato
 Huracán
 Argentinos Juniors
 Estudiantes
@@ -704,6 +707,7 @@ Boca Juniors
 Aldosivi
 Talleres de Córdoba
 Unión
+Patronato
 Vélez Sarsfield
 Atlético Tucumán
 Consadole Sapporo
@@ -726,20 +730,18 @@ Oita Trinita
 Cerezo Osaka
 Ironi Kiryat Shmona
 Hapoel Be'er Sheva
+Hapoel Hadera
 Hapoel Tel Aviv
-Maccabi Tel Aviv
-Maccabi Netanya
-Sektzia Nes Tziona
-Hapoel Haifa
-Bnei Yehuda
-Hapoel Ra'anana
-Hapoel Kfar Saba
-Maccabi Haifa
 Ashdod
 Beitar Jerusalem
-Hapoel Hadera
-Melbourne City
-Perth Glory
+Maccabi Haifa
+Hapoel Ra'anana
+Hapoel Kfar Saba
+Hapoel Haifa
+Bnei Yehuda
+Sektzia Nes Tziona
+Maccabi Tel Aviv
+Maccabi Netanya
 Wellington Phoenix
 Western Sydney Wanderers
 Sydney
@@ -749,3 +751,5 @@ Melbourne Victory
 Adelaide United
 Newcastle Jets
 Central Coast Mariners
+Perth Glory
+Melbourne City

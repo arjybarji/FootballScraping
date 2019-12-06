@@ -653,12 +653,7 @@ Spartak Trnava
 Sereď
 Zlaté Moravce
 DAC
-Javor Ivanjica
-Radnički Niš
-Proleter Novi Sad
 Bačka Topola
-Mladost Lučani
-Spartak Subotica
 Grêmio
 Santos
 Atlético Mineiro
@@ -723,7 +718,6 @@ Shonan Bellmare
 Consadole Sapporo
 Maccabi Netanya
 Sektzia Nes Tziona
-Maccabi Tel Aviv
 Ironi Kiryat Shmona
 Hapoel Haifa
 Hapoel Ra'anana

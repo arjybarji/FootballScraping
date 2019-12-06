@@ -1,0 +1,11 @@
+Check last 5 form of teams
+If number of games played > 10 and home/away games >5 for each team
+    Run for teams
+
+Get Max Gameweek played
+count back last 5 gameweeks 
+count back last 5 home/away gameweeks
+
+ID
+
+Get stats

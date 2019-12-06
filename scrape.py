@@ -192,10 +192,10 @@ def parse(url):
                             soupC = BeautifulSoup(c.content, "html.parser")
 
                             cornerContainer = soupC.findAll('td', attrs = {'class' : 'legend left value'})
-                            homeCorners = cornerContainer[0].text.strip()
+                            homeCorners = cornerContainer[1].text.strip()
                             awayCornersConc = homeCorners
                             cornerContainer = soupC.findAll('td', attrs = {'class' : 'legend right value'})
-                            awayCorners = cornerContainer[0].text.strip()
+                            awayCorners = cornerContainer[1].text.strip()
                             homeCornersConc = awayCorners
                             matchCorners = int(homeCorners) + int(awayCorners)
 
