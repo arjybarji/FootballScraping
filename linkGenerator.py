@@ -69,7 +69,7 @@ getLinks(3040372,3040611)
 #Denmark
 getLinks(3026880,3027061)
 #Norway
-getLinks(2951376,2951615)
+#getLinks(2951376,2951615)
 #Sweden
 #getLinks(2947130,2947369)
 #Finland
@@ -96,6 +96,8 @@ getLinks(3048255,3048436)
 getLinks(3032576,3032707)
 #Serbia
 getLinks(3030015,3030254)
+#Isreal League 
+getLinks(3033612,3033793)
 #Brasil Serie A
 getLinks(2988916,2989295)
 #Brasil Serie B
@@ -112,8 +114,6 @@ getLinks(3002549,3002564)
 getLinks(3131532,3131556)
 #J2 League
 #getLinks(2972277,2972739)
-#Isreal League 
-getLinks(3033612,3033793)
 #A-League
 getLinks(3129271,3129413)
 #getLinks(,)

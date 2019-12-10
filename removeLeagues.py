@@ -5,7 +5,7 @@ with open("Statsv2.csv","r",encoding = "utf8") as f:
     content = f.readlines()
 content = [x.strip() for x in content]
 
-right = "Premier League - Ukraine"
+right = "Eliteserien - Norway"
 stats = open("newStats.csv","w",encoding = "utf8")
 leagueFile = open(right + " ending in "+str(now.year)+ " .csv","w",encoding = "utf8")
 

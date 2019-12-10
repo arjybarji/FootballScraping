@@ -109,7 +109,7 @@ leaguesT = [x.strip() for x in leaguesT]
 
 leaguesDict = dict()
 
-formBets = open("formBets.csv","w",encoding="utf8")
+
 
 for l in leaguesT:
     leaguesDict.update({l.split(",")[0] : l.split(",")[1]})

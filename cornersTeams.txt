@@ -25,7 +25,6 @@ Woking
 Halifax Town
 Hartlepool United
 Torquay United
-Boreham Wood
 Cagliari
 Brescia
 Fiorentina
@@ -67,7 +66,6 @@ Levante
 Athletic Club
 Barcelona
 Atletico Madrid
-Getafe
 Real Betis
 Real Valladolid
 Celta Vigo
@@ -75,7 +73,6 @@ Real Madrid
 Espanyol
 Sevilla
 Leganes
-Osasuna
 Mallorca
 Eibar
 Valencia
@@ -241,7 +238,6 @@ Eindhoven
 TOP Oss
 Helmond Sport
 Dordrecht
-NAC Breda
 PSV II
 Den Bosch
 AZ II
@@ -312,7 +308,6 @@ Bohemians 1905
 Opava
 Gorica
 Inter Zaprešić
-Lokomotiva Zagreb
 Hajduk Split
 Arka Gdynia
 Jagiellonia Białystok
@@ -326,10 +321,10 @@ Raków Częstochowa
 Korona Kielce
 Wisła Kraków
 Śląsk Wrocław
-Wisła Płock
-Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
+Wisła Płock
+Górnik Zabrze
 Zenit
 Tambov
 Spartak Moscow
@@ -362,8 +357,6 @@ Yeni Malatyaspor
 Istanbul Basaksehir
 Gençlerbirliği
 Rizespor
-Kasımpaşa
-Trabzonspor
 Kayserispor
 Alanyaspor
 Konyaspor
@@ -372,6 +365,8 @@ Denizlispor
 Galatasaray
 Göztepe
 Antalyaspor
+Kasımpaşa
+Trabzonspor
 AEK Athens
 Xanthi
 Aris
@@ -392,14 +387,14 @@ Universitatea Craiova
 Academica Clinceni
 Viitorul
 Dinamo Bucureşti
-Gaz Metan Mediaş
-Chindia Târgovişte
 FCSB
 Hermannstadt
 Voluntari
 Sepsi
 Astra
 Botoşani
+Chindia Târgovişte
+Gaz Metan Mediaş
 Zemplín Michalovce
 Žilina
 Senica
@@ -411,7 +406,6 @@ DAC
 Javor Ivanjica
 Radnički Niš
 Voždovac
-Radnik Surdulica
 Santos
 Atlético Mineiro
 Cruzeiro
@@ -432,12 +426,11 @@ Newell's Old Boys
 Talleres de Córdoba
 Vélez Sarsfield
 Defensa y Justicia
-Boca Juniors
-Huracán
 Arsenal - Superliga - Argentina
 Banfield
 Atlético Tucumán
-Cerezo Osaka
+Huracán
+Boca Juniors
 Kawasaki Frontale
 Tokyo
 Shimizu S-Pulse
@@ -447,8 +440,9 @@ Kashima Antlers
 Oita Trinita
 Gamba Osaka
 Yokohama F. Marinos
-Shonan Bellmare
+Cerezo Osaka
 Consadole Sapporo
+Shonan Bellmare
 Maccabi Netanya
 Maccabi Tel Aviv
 Bnei Yehuda

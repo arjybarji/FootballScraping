@@ -114,18 +114,24 @@ Boreham Wood
 Wrexham
 Barrow
 Altrincham
+York City
 Blyth Spartans
 Gloucester City
 Boston United
 Chester
 Brackley Town
+Alfreton Town
+Curzon Ashton
 Bradford (Park Avenue)
+Farsley Celtic
 Darlington
 Gateshead
 Southport
 Guiseley
 King's Lynn Town
+Hereford
 Spennymoor Town
+Kettering Town
 AFC Telford United
 Kidderminster Harriers
 Leamington
@@ -136,17 +142,15 @@ Eastbourne Borough
 Chelmsford City
 Hampton & Richmond
 Havant & Waterlooville
-Welling United
-Hemel Hempstead Town
+Hungerford Town
 Maidstone United
 Oxford City
+Concord Rangers
 Slough Town
-Dorking Wanderers
 St Albans City
 Chippenham Town
 Tonbridge Angels
-Dulwich Hamlet
-Dartford
+Wealdstone
 Aberdeen
 Hearts
 Celtic
@@ -191,8 +195,6 @@ Stirling Albion
 Queen's Park
 Aberystwyth Town
 Carmarthen Town
-Airbus UK
-Bala Town
 Newtown
 Cefn Druids
 Penybont
@@ -201,6 +203,8 @@ The New Saints
 Caernarfon Town
 Connah's Quay
 Cardiff MU
+Bala Town
+Airbus UK
 Cagliari
 Brescia
 Fiorentina
@@ -565,10 +569,10 @@ Raków Częstochowa
 Korona Kielce
 Wisła Kraków
 Śląsk Wrocław
-Wisła Płock
-Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
+Wisła Płock
+Górnik Zabrze
 Zenit
 Tambov
 Spartak Moscow
@@ -603,8 +607,6 @@ Yeni Malatyaspor
 Istanbul Basaksehir
 Gençlerbirliği
 Rizespor
-Kasımpaşa
-Trabzonspor
 Kayserispor
 Alanyaspor
 Konyaspor
@@ -613,6 +615,8 @@ Denizlispor
 Galatasaray
 Göztepe
 Antalyaspor
+Kasımpaşa
+Trabzonspor
 AEK Athens
 Xanthi
 Aris
@@ -633,26 +637,35 @@ Universitatea Craiova
 Academica Clinceni
 Viitorul
 Dinamo Bucureşti
-Gaz Metan Mediaş
-Chindia Târgovişte
 FCSB
 Hermannstadt
 Voluntari
 Sepsi
 Astra
 Botoşani
+Chindia Târgovişte
+Gaz Metan Mediaş
 Zemplín Michalovce
 Žilina
 Senica
 Trenčín
-Pohronie
-Slovan Bratislava
 Ružomberok
 Nitra
 Spartak Trnava
 Sereď
 Zlaté Moravce
 DAC
+Pohronie
+Slovan Bratislava
+Crvena Zvezda
+Radnički Niš
+Mladost Lučani
+Spartak Subotica
+Rad Beograd
+Napredak
+Vojvodina
+Mačva Šabac
+Partizan
 Bačka Topola
 Grêmio
 Santos
@@ -662,18 +675,18 @@ Ceará
 CSA
 Palmeiras
 Fortaleza
-São Paulo
-Botafogo
 Flamengo
 Cruzeiro
 Fluminense
 Goiás
-Chapecoense
-Internacional
 Bahia
 Corinthians
 Athletico Paranaense
 Vasco da Gama
+Internacional
+Botafogo
+São Paulo
+Chapecoense
 Racing Club
 Unión
 Colón
@@ -692,14 +705,12 @@ Talleres de Córdoba
 Vélez Sarsfield
 Defensa y Justicia
 Independiente
-Boca Juniors
-Huracán
 Arsenal - Superliga - Argentina
 Banfield
 Atlético Tucumán
 Rosario Central
-Cerezo Osaka
-Vissel Kobe
+Huracán
+Boca Juniors
 Vegalta Sendai
 Urawa Reds
 Kawasaki Frontale
@@ -714,13 +725,24 @@ Júbilo Iwata
 Matsumoto Yamaga
 Gamba Osaka
 Yokohama F. Marinos
-Shonan Bellmare
+Cerezo Osaka
+Vissel Kobe
 Consadole Sapporo
+Shonan Bellmare
+Hapoel Tel Aviv
 Maccabi Netanya
 Sektzia Nes Tziona
+Maccabi Tel Aviv
+Bnei Yehuda
 Ironi Kiryat Shmona
+Hapoel Kfar Saba
 Hapoel Haifa
+Maccabi Haifa
 Hapoel Ra'anana
+Beitar Jerusalem
+Hapoel Be'er Sheva
+Hapoel Hadera
+Ashdod
 Adelaide United
 Sydney
 Western Sydney Wanderers

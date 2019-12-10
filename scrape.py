@@ -180,9 +180,11 @@ def parse(url):
                             matchCards = homeTeamCards + awayTeamCards
                         except Exception as e:
                             print(e)
+                            print(url)
                             homeTeamCards = -1
                             awayTeamCards = -1
                             matchCards = -1
+                            
                         try:
                             iframe = soup.findAll('iframe')[-1]
                             iframeSrc = iframe['src']
