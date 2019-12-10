@@ -366,7 +366,7 @@ def getArrays(homeTeam,awayTeam,date,league):
     if(FHGoalsStats(last5HomeGames,teams) == "Over" and FHGoalsStats(last5AwayGames,teams) == "Over") and (FHGoalsStats(last5HomeHome,teams) == "Over" and FHGoalsStats(last5AwayAway,teams) == "Over"):
         if(teams in over05Teams):            
             print(homeTeam + " vs " + awayTeam + " Over 0.5/1.0")
-            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 0.5,1.0 FH Goal Line" + "," + league + "\n")
+            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 0.5/1.0 FH Goal Line" + "," + league + "\n")
         else:
             print(homeTeam + " vs " + awayTeam + " Over 1.0")
             formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 1.0 FH Goal Line" + "," + league + "\n")            

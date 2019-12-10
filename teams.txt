@@ -1,5 +1,4 @@
 Teams
-West Ham United
 Arsenal - Premier League - England
 Manchester City
 Burnley
@@ -17,15 +16,16 @@ Everton
 Sheffield United
 Aston Villa
 Southampton
+West Ham United
 Wolverhampton Wanderers
 Tottenham Hotspur
 Sunderland
 Fleetwood Town
-Gillingham
 AFC Wimbledon
 Doncaster Rovers
 Accrington Stanley
 Portsmouth
+Gillingham
 Ipswich Town
 Bristol Rovers
 Lincoln City
@@ -119,8 +119,6 @@ AFC Telford United
 Blyth Spartans
 Guiseley
 Kidderminster Harriers
-Leamington
-Spennymoor Town
 Alfreton Town
 Kettering Town
 Southport
@@ -130,9 +128,11 @@ Brackley Town
 Curzon Ashton
 Chester
 Farsley Celtic
+Leamington
 Gloucester City
 King's Lynn Town
 Hereford
+Spennymoor Town
 Bradford (Park Avenue)
 York City
 Darlington
@@ -214,11 +214,10 @@ Newtown
 Carmarthen Town
 Brescia
 Sassuolo
-Cagliari
-SPAL
 Bologna
 Atalanta
 Lecce
+Cagliari
 Lazio
 Fiorentina
 Internazionale
@@ -232,14 +231,15 @@ Milan
 Napoli
 Parma
 Roma
-Perugia
-Cosenza
+SPAL
 Ascoli
 Cittadella
 Chievo
 Juve Stabia
+Cosenza
 Pordenone
 Cremonese
+Perugia
 Frosinone
 Pescara
 Livorno
@@ -272,10 +272,8 @@ Real Sociedad
 Sevilla
 Villarreal
 Valencia
-Cádiz
 Elche
 Las Palmas
-Numancia
 Extremadura UD
 Málaga
 Fuenlabrada
@@ -284,19 +282,20 @@ Lugo
 Sporting Gijón
 Mirandés
 Huesca
+Numancia
 Girona
 Ponferradina
 Deportivo La Coruña
 Real Oviedo
+Cádiz
 Rayo Vallecano
 Albacete
 Tenerife
 Alcorcón
 Real Zaragoza
 Racing Santander
-Werder Bremen
-Paderborn
 Bayern Munich
+Werder Bremen
 Wolfsburg
 Borussia M'gladbach
 Hoffenheim
@@ -311,17 +310,18 @@ Schalke 04
 Eintracht Frankfurt
 Köln
 Bayer Leverkusen
+Paderborn
 Union Berlin
-Stuttgart
-Nürnberg
 Dynamo Dresden
 Sandhausen
-Wehen Wiesbaden
-Darmstadt 98
+Nürnberg
 Holstein Kiel
 Heidenheim
 Arminia Bielefeld
 St. Pauli
+Wehen Wiesbaden
+Darmstadt 98
+Stuttgart
 Bochum
 Hannover 96
 Erzgebirge Aue
@@ -330,11 +330,11 @@ Hamburger SV
 Osnabrück
 Karlsruher SC
 Greuther Fürth
-Meppen
-Preußen Münster
+Zwickau
 Waldhof Mannheim
 Eintracht Braunschweig
-Zwickau
+Meppen
+Preußen Münster
 Magdeburg
 Ingolstadt
 1860 München
@@ -352,20 +352,20 @@ Hansa Rostock
 Chemnitzer FC
 Monaco
 PSG
-Olympique Marseille
-Bordeaux
 Nîmes
 Nantes
 Saint-Etienne
 Olympique Lyonnais
 Rennes
 Angers SCO
+Bordeaux
 Strasbourg
 Toulouse
 Reims
 Lille
 Montpellier
 Metz
+Olympique Marseille
 Amiens SC
 Dijon
 Brest
@@ -410,14 +410,14 @@ Villefranche
 Bastia-Borgo
 Famalicão
 Tondela
-Vitoria Guimaraes
-Portimonense
-Rio Ave
-Gil Vicente
 Sporting CP
 Moreirense
+Gil Vicente
+Vitoria Guimaraes
 Santa Clara
 Porto
+Portimonense
+Rio Ave
 Benfica
 Sporting Braga
 Paços de Ferreira
@@ -428,10 +428,8 @@ Marítimo
 Boavista
 UD Oliveirense
 Academico Viseu
-Leixões
-Varzim
-Sporting Covilhã
 Benfica II
+Varzim
 Cova Piedade
 Porto II
 Chaves
@@ -439,8 +437,10 @@ Estoril
 Nacional
 Farense
 Feirense
+Sporting Covilhã
 Académica
 Vilafranquense
+Leixões
 Penafiel
 Casa Pia
 Mafra
@@ -466,7 +466,6 @@ Telstar
 AZ II
 Ajax II
 Roda JC
-Helmond Sport
 Cambuur
 Utrecht II
 Eindhoven
@@ -481,49 +480,50 @@ NEC
 Almere City
 TOP Oss
 Excelsior
+Helmond Sport
 Go Ahead Eagles
-Salzburg
-Swarovski Tirol
-Sturm Graz
-Rheindorf Altach
 LASK
+Sturm Graz
 Austria Wien
 Wolfsberger AC
 St. Pölten
+Rheindorf Altach
 Admira
 Rapid Wien
 Hartberg
+Salzburg
+Swarovski Tirol
 Mattersburg
-SønderjyskE
-Esbjerg
-Brøndby
-Midtjylland
 OB
 AaB
-Nordsjælland
 Copenhagen
+Midtjylland
 AGF
+Brøndby
 Hobro
+Nordsjælland
 Randers
+Esbjerg
 Horsens
+SønderjyskE
 Lyngby
 Silkeborg
-Anderlecht
-Sporting Charleroi
-Royal Excel Mouscron
-Standard Liège
-AS Eupen
-KV Oostende
 Club Brugge
 Mechelen
+Standard Liège
+Anderlecht
 Genk
 Waasland-Beveren
 Kortrijk
+Royal Excel Mouscron
+KV Oostende
 Gent
 Zulte-Waregem
 Sint-Truiden
+Sporting Charleroi
 Cercle Brugge
 Antwerp
+AS Eupen
 Slovan Liberec
 Karviná
 Sigma Olomouc
@@ -578,18 +578,18 @@ St. Gallen
 Zürich
 Antalyaspor
 Trabzonspor
-Kayserispor
-Rizespor
-Konyaspor
-Gaziantep FK
-Denizlispor
-Istanbul Basaksehir
 Sivasspor
 Fenerbahçe
+Denizlispor
+Rizespor
 Kasımpaşa
 Gençlerbirliği
 Göztepe
 Alanyaspor
+Istanbul Basaksehir
+Konyaspor
+Gaziantep FK
+Kayserispor
 Beşiktaş
 Yeni Malatyaspor
 Galatasaray
@@ -610,13 +610,13 @@ Panaitolikos
 PAOK
 Sepsi
 Academica Clinceni
-Voluntari
-Viitorul
 CFR Cluj
 Astra
 Botoşani
 Universitatea Craiova
+Voluntari
 Dinamo Bucureşti
+Viitorul
 FCSB
 Chindia Târgovişte
 Hermannstadt
@@ -636,39 +636,33 @@ Sereď
 Ružomberok
 Ironi Kiryat Shmona
 Hapoel Be'er Sheva
-Hapoel Hadera
-Hapoel Tel Aviv
-Maccabi Haifa
 Maccabi Netanya
+Hapoel Tel Aviv
 Maccabi Tel Aviv
 Sektzia Nes Tziona
 Bnei Yehuda
 Hapoel Haifa
 Hapoel Kfar Saba
 Hapoel Ra'anana
+Maccabi Haifa
 Beitar Jerusalem
 Ashdod
-Santos
-Flamengo
-Botafogo
-Ceará
+Hapoel Hadera
 Independiente
 Newell's Old Boys
 Arsenal - Superliga - Argentina
 Colón
 River Plate
-Argentinos Juniors
-Estudiantes
-Defensa y Justicia
-Godoy Cruz
-Patronato
-Vélez Sarsfield
 Boca Juniors
 San Lorenzo
+Estudiantes
 Racing Club
 Atlético Tucumán
 Gimnasia La Plata
+Vélez Sarsfield
 Banfield
+Patronato
+Defensa y Justicia
 Talleres de Córdoba
 Aldosivi
 Lanús
@@ -676,6 +670,8 @@ Central Córdoba SdE
 Rosario Central
 Huracán
 Unión
+Argentinos Juniors
+Godoy Cruz
 Brisbane Roar
 Western United
 Melbourne Victory
