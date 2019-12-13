@@ -583,7 +583,6 @@ if __name__ == '__main__':
     start_time = time.time()
     cornersCardsTeams.cornersCardsTeamsx()
     insertIntoDatabase()
-    top5 = open("top5ACH.csv","w",encoding="utf8")
     with open('fixturesv2.csv',encoding="utf8") as f:
         content = f.readlines()
     content = [x.strip() for x in content]
@@ -635,7 +634,6 @@ if __name__ == '__main__':
             predict(homeTeam,awayTeam,gameweek,date,league)
             getArrays(homeTeam,awayTeam,date,league)
     bets.close()
-    top5.close()
     temp = []
     with open('bets.csv',encoding="utf8") as f:
         bets2 = f.readlines()

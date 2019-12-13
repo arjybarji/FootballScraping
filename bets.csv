@@ -27,6 +27,7 @@
 28 December 2019,Leicester City,Over 3 Team Corners,Premier League
 14 December 2019,Sunderland vs Blackpool,Over 1.0 FH Goal Line,League One
 26 December 2019,Oxford United vs Lincoln City,Over 1.0 FH Goal Line,League One
+22 December 2019,Sheffield Wednesday vs Bristol City,Under 5 Match Cards,Championship
 29 December 2019,Sheffield Wednesday vs Cardiff City,Under 5 Match Cards,Championship
 28 December 2019,Fylde vs Stockport County,Under 5 Match Cards,National League
 17 December 2019,Altrincham vs AFC Telford United,Over 1.0 FH Goal Line,National League CHANGE
@@ -34,7 +35,6 @@
 26 December 2019,AFC Telford United vs Alfreton Town,Over 1.0 FH Goal Line,National League CHANGE
 28 December 2019,Alfreton Town vs King's Lynn Town,Over 1.0 FH Goal Line,National League CHANGE
 28 December 2019,Gloucester City vs AFC Telford United,Over 1.0 FH Goal Line,National League CHANGE
-11 December 2019,Havant & Waterlooville vs Slough Town,Over 1.0 FH Goal Line,National League CHANGE
 21 December 2019,Braintree Town vs Havant & Waterlooville,Over 2.5 Goals,National League CHANGE
 21 December 2019,Braintree Town vs Havant & Waterlooville,Over 1.0 FH Goal Line,National League CHANGE
 21 December 2019,Hampton & Richmond vs Slough Town,Over 1.0 FH Goal Line,National League CHANGE
@@ -44,7 +44,6 @@
 15 December 2019,Celtic vs Hibernian,Over 2.5 Goals,Scotland Premier
 26 December 2019,Aberdeen vs Livingston,Under 5 Match Cards,Scotland Premier
 26 December 2019,Ross County vs Motherwell,Over 1.0 FH Goal Line,Scotland Premier
-10 December 2019,Greenock Morton vs Dundee United,Under 5 Match Cards,Scotland Championship
 14 December 2019,Dunfermline Athletic,Under 2 Team Cards,Scotland Championship
 14 December 2019,Greenock Morton vs Queen of the South,Under 5 Match Cards,Scotland Championship
 14 December 2019,Partick Thistle vs Inverness CT,Under 5 Match Cards,Scotland Championship
@@ -129,7 +128,6 @@
 21 December 2019,Köln vs Werder Bremen,Over 1.0 FH Goal Line,Bundesliga
 21 December 2019,Köln vs Werder Bremen,Goal In Each Half,Bundesliga
 21 December 2019,Köln,Over 3 Team Corners,Bundesliga
-8 December 2019,Sandhausen,Over 3 Team Corners,2. Bundesliga
 15 December 2019,Nürnberg vs Holstein Kiel,Over 1.0 FH Goal Line,2. Bundesliga
 15 December 2019,Holstein Kiel,Over 3 Team Corners,2. Bundesliga
 16 December 2019,Stuttgart,Over 3 Team Corners,2. Bundesliga
@@ -166,6 +164,7 @@
 20 December 2019,Villefranche,Over 1 Team Cards,National 1
 15 December 2019,Vitoria Guimaraes,Over 3 Team Corners,Primeira Liga
 16 December 2019,Porto,Over 3 Team Corners,Primeira Liga
+16 December 2019,Porto,Corner Match Bet,Primeira Liga
 14 December 2019,Benfica,Over 3 Team Corners,Primeira Liga
 14 December 2019,Boavista,Over 1 Team Cards,Primeira Liga
 22 December 2019,Academico Viseu,Over 3 Team Corners,Segunda Liga
@@ -197,7 +196,6 @@
 13 December 2019,Cambuur vs Ajax II,Over 1.0 FH Goal Line,Eerste Divisie
 13 December 2019,MVV,0.0 Asian Card Handicap,Eerste Divisie
 13 December 2019,Volendam,Under 2 Team Cards,Eerste Divisie
-13 December 2019,Roda JC vs AZ II,BTTS Yes,Eerste Divisie
 20 December 2019,Volendam,Under 2 Team Cards,Eerste Divisie
 20 December 2019,NEC,Over 3 Team Corners,Eerste Divisie
 20 December 2019,Ajax II vs TOP Oss,Over 1.0 FH Goal Line,Eerste Divisie
@@ -212,7 +210,6 @@
 14 December 2019,Salzburg,Over 3 Team Corners,Austria
 15 December 2019,Swarovski Tirol vs Mattersburg,Over 2.5 Goals,Austria
 15 December 2019,Swarovski Tirol,Over 1 Team Cards,Austria
-9 December 2019,OB vs AaB,Over 1.0 FH Goal Line,Superliga
 13 December 2019,AaB vs Nordsjælland,Over 1.0 FH Goal Line,Superliga
 13 December 2019,Nordsjælland,Over 3 Team Corners,Superliga
 15 December 2019,Lyngby vs Silkeborg,Over 1.0 FH Goal Line,Superliga
@@ -234,7 +231,6 @@
 20 December 2019,Pogoń Szczecin vs Korona Kielce,Under 12 Corners,Ekstraklasa
 14 December 2019,Kasımpaşa,Over 3 Team Corners,Super-Lig
 16 December 2019,Istanbul Basaksehir,Corner Match Bet,Super-Lig
-20 December 2019,Antalyaspor,Corner Match Bet,Super-Lig
 21 December 2019,Kasımpaşa,Over 3 Team Corners,Super-Lig
 23 December 2019,Alanyaspor,Corner Match Bet,Super-Lig
 29 December 2019,Sivasspor,Corner Match Bet,Super-Lig

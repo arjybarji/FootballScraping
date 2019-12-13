@@ -43,27 +43,21 @@
 26 December 2019,Rochdale vs Fleetwood Town,Over 2.5 Goals,League One
 26 December 2019,Rochdale vs Fleetwood Town,Over 0.5/1.0 FH Goal Line,League One
 26 December 2019,Sunderland vs Bolton Wanderers,Over 0.5/1.0 FH Goal Line,League One
-10 December 2019,Stoke City vs Luton Town,Over 0.5/1.0 FH Goal Line,Championship
-10 December 2019,Stoke City vs Luton Town,Goal In Each Half,Championship
-11 December 2019,Swansea City vs Blackburn Rovers,Over 0.5/1.0 FH Goal Line,Championship
-14 December 2019,Barnsley vs Queens Park Rangers,Over 1.0 FH Goal Line,Championship
-14 December 2019,Barnsley vs Queens Park Rangers,Goal In Each Half,Championship
-13 December 2019,Charlton Athletic vs Hull City,Over 2.5 Goals,Championship
-13 December 2019,Charlton Athletic vs Hull City,Over 0.5/1.0 FH Goal Line,Championship
-13 December 2019,Charlton Athletic vs Hull City,Goal In Each Half,Championship
-14 December 2019,Swansea City vs Middlesbrough,Over 1.0 FH Goal Line,Championship
 21 December 2019,Hull City vs Birmingham City,Over 1.5 SH Goals,Championship
 21 December 2019,Millwall vs Barnsley,BTTS Yes,Championship
 21 December 2019,Millwall vs Barnsley,Over 1.5 SH Goals,Championship
 21 December 2019,Queens Park Rangers vs Charlton Athletic,Over 0.5/1.0 FH Goal Line,Championship
-21 December 2019,West Bromwich Albion vs Brentford,Over 0.5/1.0 FH Goal Line,Championship
-26 December 2019,Charlton Athletic vs Bristol City,Over 2.5 Goals,Championship
 26 December 2019,Hull City vs Nottingham Forest,Over 0.5/1.0 FH Goal Line,Championship
+26 December 2019,Hull City vs Nottingham Forest,Over 1.5 SH Goals,Championship
+26 December 2019,Leeds United vs Preston North End,BTTS No,Championship
+26 December 2019,Stoke City vs Sheffield Wednesday,Over 0.5/1.0 FH Goal Line,Championship
+26 December 2019,Stoke City vs Sheffield Wednesday,Goal In Each Half,Championship
+29 December 2019,Birmingham City vs Leeds United,Under 1.0 FH Goal Line,Championship
+29 December 2019,Bristol City vs Luton Town,Over 2.5 Goals,Championship
+30 December 2019,Derby County vs Charlton Athletic,Over 0.5/1.0 FH Goal Line,Championship
 29 December 2019,Fulham vs Stoke City,Over 0.5/1.0 FH Goal Line,Championship
 29 December 2019,Queens Park Rangers vs Hull City,Over 0.5/1.0 FH Goal Line,Championship
 29 December 2019,Queens Park Rangers vs Hull City,Goal In Each Half,Championship
-29 December 2019,Swansea City vs Barnsley,Over 1.0 FH Goal Line,Championship
-29 December 2019,West Bromwich Albion vs Middlesbrough,Over 1.0 FH Goal Line,Championship
 14 December 2019,Newport County vs Stevenage,Under 1.5 SH Goals,League Two
 21 December 2019,Macclesfield Town vs Plymouth Argyle,Under 1.5 SH Goals,League Two
 21 December 2019,Mansfield Town vs Northampton Town,Over 1.0 FH Goal Line,League Two
@@ -99,15 +93,14 @@
 21 December 2019,Chester vs AFC Telford United,Over 1.0 FH Goal Line,National League CHANGE
 21 December 2019,York City vs Darlington,Over 0.5/1.0 FH Goal Line,National League CHANGE
 26 December 2019,Darlington vs Spennymoor Town,Over 1.0 FH Goal Line,National League CHANGE
+26 December 2019,Guiseley vs Farsley Celtic,Over 1.5 SH Goals,National League CHANGE
 26 December 2019,King's Lynn Town vs Boston United,Over 2.5 Goals,National League CHANGE
 26 December 2019,Leamington vs Gloucester City,Over 1.0 FH Goal Line,National League CHANGE
 28 December 2019,Brackley Town vs Kidderminster Harriers,Over 0.5/1.0 FH Goal Line,National League CHANGE
 28 December 2019,Gloucester City vs AFC Telford United,BTTS Yes,National League CHANGE
 28 December 2019,Gloucester City vs AFC Telford United,Over 1.0 FH Goal Line,National League CHANGE
 28 December 2019,York City vs Guiseley,Over 0.5/1.0 FH Goal Line,National League CHANGE
-10 December 2019,Maidstone United vs Chippenham Town,Over 0.5/1.0 FH Goal Line,National League CHANGE
 21 December 2019,Braintree Town vs Havant & Waterlooville,Over 0.5/1.0 FH Goal Line,National League CHANGE
-21 December 2019,Chippenham Town vs Chelmsford City,Over 0.5/1.0 FH Goal Line,National League CHANGE
 21 December 2019,Dartford vs Concord Rangers,Over 1.0 FH Goal Line,National League CHANGE
 21 December 2019,Eastbourne Borough vs Bath City,Over 1.0 FH Goal Line,National League CHANGE
 26 December 2019,Chelmsford City vs Braintree Town,Over 2.5 Goals,National League CHANGE
@@ -129,6 +122,12 @@
 29 December 2019,Celtic vs Rangers,Over 0.5/1.0 FH Goal Line,Scotland Premier
 29 December 2019,Celtic vs Rangers,Goal In Each Half,Scotland Premier
 29 December 2019,Hearts vs Aberdeen,Over 0.5/1.0 FH Goal Line,Scotland Premier
+14 December 2019,Arbroath vs Dundee United,Over 0.5/1.0 FH Goal Line,Scotland Championship
+14 December 2019,Ayr United vs Alloa Athletic,Over 1.0 FH Goal Line,Scotland Championship
+21 December 2019,Dundee United vs Ayr United,Over 1.0 FH Goal Line,Scotland Championship
+21 December 2019,Queen of the South vs Arbroath,Over 0.5/1.0 FH Goal Line,Scotland Championship
+28 December 2019,Inverness CT vs Arbroath,Over 0.5/1.0 FH Goal Line,Scotland Championship
+28 December 2019,Greenock Morton vs Partick Thistle,BTTS Yes,Scotland Championship
 14 December 2019,Airdrieonians vs Peterhead,Over 0.5/1.0 FH Goal Line,Scotland League One
 21 December 2019,Stranraer vs Forfar Athletic,BTTS No,Scotland League One
 28 December 2019,Airdrieonians vs Falkirk,Over 0.5/1.0 FH Goal Line,Scotland League One
@@ -282,7 +281,6 @@
 21 December 2019,Willem II vs Fortuna Sittard,Over 1.0 FH Goal Line,Eredivisie
 22 December 2019,Groningen vs Emmen,Under 1.5 SH Goals,Eredivisie
 22 December 2019,Vitesse vs VVV,Over 1.0 FH Goal Line,Eredivisie
-13 December 2019,Cambuur vs Ajax II,Over 2.5 Goals,Eerste Divisie
 13 December 2019,Cambuur vs Ajax II,Over 1.0 FH Goal Line,Eerste Divisie
 13 December 2019,Cambuur vs Ajax II,Goal In Each Half,Eerste Divisie
 13 December 2019,PSV II vs Dordrecht,BTTS Yes,Eerste Divisie
@@ -291,11 +289,7 @@
 13 December 2019,Helmond Sport vs Go Ahead Eagles,Over 1.5 SH Goals,Eerste Divisie
 20 December 2019,Eindhoven vs NEC,Over 1.5 SH Goals,Eerste Divisie
 20 December 2019,Eindhoven vs NEC,Over 9 Match Corners,Eerste Divisie
-20 December 2019,Ajax II vs TOP Oss,Over 2.5 Goals,Eerste Divisie
 20 December 2019,Ajax II vs TOP Oss,Over 1.0 FH Goal Line,Eerste Divisie
-20 December 2019,Ajax II vs TOP Oss,Goal In Each Half,Eerste Divisie
-9 December 2019,OB vs AaB,Over 1.0 FH Goal Line,Superliga
-16 December 2019,Copenhagen vs OB,Over 1.0 FH Goal Line,Superliga
 15 December 2019,Brøndby vs Hobro,BTTS Yes,Superliga
 15 December 2019,Brøndby vs Hobro,Over 1.0 FH Goal Line,Superliga
 15 December 2019,Randers vs Esbjerg,Over 2.5 Goals,Superliga
@@ -321,6 +315,7 @@
 15 December 2019,Luzern vs Basel,Goal In Each Half,Swiss Super
 14 December 2019,Rizespor vs Kasımpaşa,Over 1.0 FH Goal Line,Super-Lig
 21 December 2019,Yeni Malatyaspor vs Rizespor,Over 0.5/1.0 FH Goal Line,Super-Lig
+20 December 2019,Antalyaspor vs Ankaragücü,Over 1.0 FH Goal Line,Super-Lig
 22 December 2019,Gençlerbirliği vs Sivasspor,Over 0.5/1.0 FH Goal Line,Super-Lig
 23 December 2019,Denizlispor vs Alanyaspor,Under 2.5 Goals,Super-Lig
 23 December 2019,Denizlispor vs Alanyaspor,Under 1.0 FH Goal Line,Super-Lig

@@ -163,21 +163,30 @@ def parse(url):
                         
                         try:
                             
+                            homeTeamCards = 0                       
                             homeTeamContainers = soup.findAll('div', attrs = {'class' : 'container left'})
-                            homeTeamStarting = homeTeamContainers[2]
-                            homeTeamBench = homeTeamContainers[3]
-                            homeTeamYellows = len(homeTeamStarting.findAll('img', attrs = {'src' : yellowCardLink })) + len(homeTeamBench.findAll('img', attrs = {'src' : yellowCardLink }))
-                            homeTeamReds = len(homeTeamStarting.findAll('img', attrs = {'src' : redCardLink })) + len(homeTeamBench.findAll('img', attrs = {'src' : redCardLink })) + len(homeTeamStarting.findAll('img', attrs = {'src' : red2YCardLink })) + len(homeTeamBench.findAll('img', attrs = {'src' : red2YCardLink }))
-                            homeTeamCards = homeTeamYellows + homeTeamReds
-
+                            homeTeamImgs = []
+                            for htcI in homeTeamContainers[2].findAll('img'):
+                                homeTeamImgs.append(htcI)
+                            for htcI in homeTeamContainers[3].findAll('img'):
+                                homeTeamImgs.append(htcI)
+                            for htc in homeTeamImgs:
+                                if("YC.png" in htc['src'] or "RC.png" in htc['src'] or "Y2C.png" in htc['src']):
+                                    homeTeamCards+=1
+        
+                            awayTeamCards = 0
                             awayTeamContainers = soup.findAll('div', attrs = {'class' : 'container right'})
-                            awayTeamStarting = awayTeamContainers[2]
-                            awayTeamBench = awayTeamContainers[3]
-                            awayTeamYellows = len(awayTeamStarting.findAll('img', attrs = {'src' : yellowCardLink })) + len(awayTeamBench.findAll('img', attrs = {'src' : yellowCardLink }))
-                            awayTeamReds = len(awayTeamStarting.findAll('img', attrs = {'src' : redCardLink })) + len(awayTeamBench.findAll('img', attrs = {'src' : redCardLink })) + len(awayTeamStarting.findAll('img', attrs = {'src' : red2YCardLink })) + len(awayTeamBench.findAll('img', attrs = {'src' : red2YCardLink }))
-                            awayTeamCards = awayTeamYellows + awayTeamReds
+                            awayTeamImgs = []
+                            for atcI in awayTeamContainers[2].findAll('img'):
+                                awayTeamImgs.append(atcI)
+                            for atcI in awayTeamContainers[3].findAll('img'):
+                                awayTeamImgs.append(atcI)
+                            for atc in awayTeamImgs:
+                                if("YC.png" in atc['src'] or "RC.png" in atc['src'] or "Y2C.png" in atc['src']):
+                                    awayTeamCards+=1
 
                             matchCards = homeTeamCards + awayTeamCards
+
                         except Exception as e:
                             print(e)
                             print(url)
@@ -249,8 +258,8 @@ if __name__ == '__main__':
             todo.append(c)
     print(len(proxies))
     if(len(proxies)>0 and len(yellowCardLink)>0 and len(redCardLink)>0 and len(red2YCardLink)>0):
-        #p = Pool(50)  # Pool tells how many at a time
-        p = Pool(30)  # Pool tells how many at a time
+        p = Pool(50)  # Pool tells how many at a time
+        #p = Pool(30)  # Pool tells how many at a time
         records = p.map(parse, todo)
         p.terminate()
         p.join()

@@ -44,28 +44,28 @@ Burton Albion
 Rochdale
 Nottingham Forest
 Reading
-Bristol City
-Millwall
-Charlton Athletic
-Huddersfield Town
-Leeds United
-Hull City
-Middlesbrough
-Preston North End
-Fulham
-Stoke City
-Luton Town
 Barnsley
-Birmingham City
 Queens Park Rangers
-Brentford
-Cardiff City
-Derby County
-Sheffield Wednesday
-Swansea City
-Blackburn Rovers
-Wigan Athletic
+Birmingham City
 West Bromwich Albion
+Brentford
+Fulham
+Bristol City
+Blackburn Rovers
+Charlton Athletic
+Hull City
+Derby County
+Millwall
+Leeds United
+Cardiff City
+Sheffield Wednesday
+Preston North End
+Luton Town
+Stoke City
+Swansea City
+Middlesbrough
+Wigan Athletic
+Huddersfield Town
 Carlisle United
 Grimsby Town
 Cheltenham Town
@@ -90,9 +90,8 @@ Swindon Town
 Oldham Athletic
 Walsall
 Macclesfield Town
-Chesterfield
-Yeovil Town
 Fylde
+Yeovil Town
 Aldershot Town
 Stockport County
 Boreham Wood
@@ -114,13 +113,13 @@ Barrow
 Sutton United
 Wrexham
 Torquay United
+Chesterfield
 Altrincham
 AFC Telford United
-Blyth Spartans
-Guiseley
-Kidderminster Harriers
 Alfreton Town
 Kettering Town
+Kidderminster Harriers
+Blyth Spartans
 Southport
 Boston United
 Gateshead
@@ -132,31 +131,32 @@ Leamington
 Gloucester City
 King's Lynn Town
 Hereford
+Guiseley
 Spennymoor Town
 Bradford (Park Avenue)
 York City
 Darlington
 Dulwich Hamlet
 Havant & Waterlooville
-Slough Town
-Maidstone United
-Chippenham Town
-Wealdstone
-Eastbourne Borough
-Hemel Hempstead Town
-Weymouth
 Billericay Town
 Oxford City
 Braintree Town
+Chippenham Town
 Chelmsford City
 Dartford
 Concord Rangers
+Eastbourne Borough
 Bath City
 Hampton & Richmond
+Slough Town
+Hemel Hempstead Town
 Tonbridge Angels
 Hungerford Town
+Maidstone United
 Dorking Wanderers
+Wealdstone
 Welling United
+Weymouth
 St Albans City
 Hearts
 Celtic
@@ -170,13 +170,13 @@ Motherwell
 Kilmarnock
 St. Mirren
 Livingston
-Ayr United
 Arbroath
-Greenock Morton
 Dundee United
+Ayr United
 Alloa Athletic
 Dundee
 Dunfermline Athletic
+Greenock Morton
 Queen of the South
 Partick Thistle
 Inverness CT
@@ -190,14 +190,14 @@ Montrose
 Clyde
 Stranraer
 East Fife
-Albion Rovers
-Cowdenbeath
 Annan Athletic
 Edinburgh City
 Brechin City
+Cowdenbeath
 Cove Rangers
 Stenhousemuir
 Elgin City
+Albion Rovers
 Queen's Park
 Stirling Albion
 Penybont
@@ -312,8 +312,6 @@ Köln
 Bayer Leverkusen
 Paderborn
 Union Berlin
-Dynamo Dresden
-Sandhausen
 Nürnberg
 Holstein Kiel
 Heidenheim
@@ -326,8 +324,10 @@ Bochum
 Hannover 96
 Erzgebirge Aue
 Jahn Regensburg
+Sandhausen
 Hamburger SV
 Osnabrück
+Dynamo Dresden
 Karlsruher SC
 Greuther Fürth
 Zwickau
@@ -408,21 +408,21 @@ Dunkerque
 Boulogne
 Villefranche
 Bastia-Borgo
-Famalicão
-Tondela
-Sporting CP
-Moreirense
 Gil Vicente
 Vitoria Guimaraes
 Santa Clara
+Sporting CP
 Porto
+Tondela
 Portimonense
 Rio Ave
 Benfica
+Famalicão
 Sporting Braga
 Paços de Ferreira
 Vitória Setúbal
 Desportivo Aves
+Moreirense
 Belenenses
 Marítimo
 Boavista
@@ -464,9 +464,8 @@ Heracles
 Utrecht
 Telstar
 AZ II
-Ajax II
-Roda JC
 Cambuur
+Ajax II
 Utrecht II
 Eindhoven
 Volendam
@@ -478,6 +477,7 @@ Dordrecht
 De Graafschap
 NEC
 Almere City
+Roda JC
 TOP Oss
 Excelsior
 Helmond Sport
@@ -494,13 +494,13 @@ Hartberg
 Salzburg
 Swarovski Tirol
 Mattersburg
-OB
-AaB
 Copenhagen
+OB
 Midtjylland
 AGF
 Brøndby
 Hobro
+AaB
 Nordsjælland
 Randers
 Esbjerg
@@ -576,16 +576,16 @@ Sion
 Neuchâtel Xamax
 St. Gallen
 Zürich
-Antalyaspor
-Trabzonspor
 Sivasspor
 Fenerbahçe
+Trabzonspor
 Denizlispor
 Rizespor
 Kasımpaşa
 Gençlerbirliği
 Göztepe
 Alanyaspor
+Antalyaspor
 Istanbul Basaksehir
 Konyaspor
 Gaziantep FK
@@ -608,14 +608,14 @@ Panathinaikos
 Lamia
 Panaitolikos
 PAOK
-Sepsi
-Academica Clinceni
 CFR Cluj
 Astra
+Academica Clinceni
 Botoşani
 Universitatea Craiova
 Voluntari
 Dinamo Bucureşti
+Sepsi
 Viitorul
 FCSB
 Chindia Târgovişte
@@ -650,8 +650,6 @@ Ashdod
 Hapoel Hadera
 Independiente
 Newell's Old Boys
-Arsenal - Superliga - Argentina
-Colón
 River Plate
 Boca Juniors
 San Lorenzo
@@ -664,16 +662,16 @@ Banfield
 Patronato
 Defensa y Justicia
 Talleres de Córdoba
+Arsenal - Superliga - Argentina
 Aldosivi
 Lanús
 Central Córdoba SdE
+Colón
 Rosario Central
 Huracán
 Unión
 Argentinos Juniors
 Godoy Cruz
-Brisbane Roar
-Western United
 Melbourne Victory
 Wellington Phoenix
 Sydney
@@ -682,4 +680,6 @@ Perth Glory
 Western Sydney Wanderers
 Newcastle Jets
 Melbourne City
+Western United
 Adelaide United
+Brisbane Roar

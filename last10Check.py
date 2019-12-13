@@ -26,12 +26,13 @@ def check(homeTeam,awayTeam,field):
     print(awayTeamLast5Away[-5:])
     
     
-homeTeam = "Rio Ave"
-awayTeam = "Gil Vicente"
-field = "firstHalfTotalGoals"
+homeTeam = "Rijeka"
+awayTeam = "Varaždin"
+#field = "firstHalfTotalGoals"
 #field = "btts"
-#field = "secondHalfTotalGoals"
+field = "secondHalfTotalGoals"
 #field = "firstHalfTotalGoals,secondHalfTotalGoals"
 #field = "matchCorners"
+#field = "matchCards"
 check(homeTeam,awayTeam,field)
 input()
