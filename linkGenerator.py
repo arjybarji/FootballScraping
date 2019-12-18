@@ -99,7 +99,7 @@ getLinks(3030015,3030254)
 #Isreal League 
 getLinks(3033612,3033793)
 #Brasil Serie A
-getLinks(2988916,2989295)
+#getLinks(2988916,2989295)
 #Brasil Serie B
 #getLinks(2987874,2988253)
 #LigaMx
@@ -109,9 +109,9 @@ getLinks(3070319,3070594)
 #China
 #getLinks(2979871,2980110)
 #J1 League
-getLinks(2972889,2973141)
-getLinks(3002549,3002564)
-getLinks(3131532,3131556)
+#getLinks(2972889,2973141)
+#getLinks(3002549,3002564)
+#getLinks(3131532,3131556)
 #J2 League
 #getLinks(2972277,2972739)
 #A-League

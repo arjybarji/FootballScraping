@@ -1,8 +1,9 @@
 import sqlite3
 
+database = 'allStats.db'
+conn = sqlite3.connect(database)
+
 def check(homeTeam,awayTeam,field):
-    database = 'allStats.db'
-    conn = sqlite3.connect(database)
     cursor = conn.cursor()
     
     cursor.execute("SELECT "+field+" FROM stats WHERE homeTeam = ? OR awayTeam = ?", (homeTeam,homeTeam,))
@@ -25,14 +26,44 @@ def check(homeTeam,awayTeam,field):
     print(awayTeam + " " + field + " Last 5 Away Games")
     print(awayTeamLast5Away[-5:])
     
-    
-homeTeam = "Rijeka"
-awayTeam = "Varaždin"
-#field = "firstHalfTotalGoals"
-#field = "btts"
-field = "secondHalfTotalGoals"
-#field = "firstHalfTotalGoals,secondHalfTotalGoals"
-#field = "matchCorners"
-#field = "matchCards"
+
+
+cursor = conn.cursor()
+cursor.execute("SELECT DISTINCT(league) FROM stats")
+leagues = dict()
+count = 0
+for l in cursor.fetchall():
+    leagues.update({count:l[0]})
+    count +=1
+
+for l in leagues:
+    print(str(l) + ". " + leagues[l])
+
+leagueChoice = leagues[int(input("Select League"))]
+print(leagueChoice)
+
+teams = dict()
+count = 0
+cursor = conn.cursor()
+cursor.execute("SELECT DISTINCT(homeTeam) FROM stats WHERE league = ? ORDER BY homeTeam ASC", (leagueChoice,))
+for t in cursor.fetchall():
+    teams.update({count:t[0]})
+    count +=1
+
+for t in teams:
+    print(str(t) + ". " + teams[t])
+
+teamChoice = input("Select Teams")
+homeTeam = teams[int(teamChoice.split(",")[0])]
+awayTeam = teams[int(teamChoice.split(",")[1])]
+
+choices = ["firstHalfTotalGoals","btts","secondHalfTotalGoals","firstHalfTotalGoals,secondHalfTotalGoals","matchCorners","matchCards","matchGoals"]
+count = 0
+for c in choices:
+    print(str(count) +". " + choices[count])
+    count+=1
+field = choices[int(input("Pick Field"))]
+
 check(homeTeam,awayTeam,field)
-input()
+
+

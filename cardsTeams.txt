@@ -142,15 +142,19 @@ Eastbourne Borough
 Chelmsford City
 Hampton & Richmond
 Havant & Waterlooville
-Hungerford Town
+Welling United
+Hemel Hempstead Town
 Maidstone United
 Oxford City
 Concord Rangers
 Slough Town
+Dorking Wanderers
 St Albans City
 Chippenham Town
 Tonbridge Angels
+Dulwich Hamlet
 Wealdstone
+Dartford
 Aberdeen
 Hearts
 Celtic
@@ -195,6 +199,8 @@ Stirling Albion
 Queen's Park
 Aberystwyth Town
 Carmarthen Town
+Airbus UK
+Bala Town
 Newtown
 Cefn Druids
 Penybont
@@ -203,8 +209,6 @@ The New Saints
 Caernarfon Town
 Connah's Quay
 Cardiff MU
-Bala Town
-Airbus UK
 Cagliari
 Brescia
 Fiorentina
@@ -547,16 +551,16 @@ Jablonec
 Bohemians 1905
 České Budějovice
 Opava
-Gorica
-Inter Zaprešić
-Osijek
-Slaven Koprivnica
 Dinamo Zagreb
 Lokomotiva Zagreb
 Rijeka
 Varaždin
 Hajduk Split
 Istra 1961
+Inter Zaprešić
+Slaven Koprivnica
+Gorica
+Osijek
 Arka Gdynia
 Jagiellonia Białystok
 Legia Warszawa
@@ -569,44 +573,44 @@ Raków Częstochowa
 Korona Kielce
 Wisła Kraków
 Śląsk Wrocław
-Zagłębie Lubin
-Cracovia Kraków
 Wisła Płock
 Górnik Zabrze
-Zenit
-Tambov
-Spartak Moscow
-Sochi
-Rostov
-Orenburg
-Lokomotiv Moscow
-Rubin Kazan
-Akhmat Grozny
-Krasnodar
-Arsenal Tula
-Dinamo Moscow
+Zagłębie Lubin
+Cracovia Kraków
 Krylya Sovetov
 CSKA Moscow
 Ural
 Ufa
+Orenburg
+Dinamo Moscow
+Rubin Kazan
+Lokomotiv Moscow
+Tambov
+Sochi
+Zenit
+Arsenal Tula
+Krasnodar
+Akhmat Grozny
+Spartak Moscow
+Rostov
 Sion
 Basel
-Thun
-Neuchâtel Xamax
 St. Gallen
 Luzern
 Young Boys
 Servette
 Zürich
 Lugano
+Thun
+Neuchâtel Xamax
 Sivasspor
 Beşiktaş
-Fenerbahçe
-Gaziantep FK
 Yeni Malatyaspor
 Istanbul Basaksehir
 Gençlerbirliği
 Rizespor
+Kasımpaşa
+Trabzonspor
 Kayserispor
 Alanyaspor
 Konyaspor
@@ -615,8 +619,8 @@ Denizlispor
 Galatasaray
 Göztepe
 Antalyaspor
-Kasımpaşa
-Trabzonspor
+Gaziantep FK
+Fenerbahçe
 AEK Athens
 Xanthi
 Aris
@@ -637,98 +641,42 @@ Universitatea Craiova
 Academica Clinceni
 Viitorul
 Dinamo Bucureşti
+Gaz Metan Mediaş
+Chindia Târgovişte
 FCSB
 Hermannstadt
 Voluntari
 Sepsi
 Astra
 Botoşani
-Chindia Târgovişte
-Gaz Metan Mediaş
 Zemplín Michalovce
 Žilina
-Senica
-Trenčín
+Pohronie
+Slovan Bratislava
 Ružomberok
 Nitra
 Spartak Trnava
 Sereď
 Zlaté Moravce
 DAC
-Pohronie
-Slovan Bratislava
-Crvena Zvezda
+Trenčín
+Senica
 Radnički Niš
-Mladost Lučani
-Spartak Subotica
-Rad Beograd
+Proleter Novi Sad
+Javor Ivanjica
+Partizan
+Mačva Šabac
+Inđija
 Napredak
 Vojvodina
-Mačva Šabac
-Partizan
+Rad Beograd
+Čukarički
+Radnik Surdulica
+Spartak Subotica
 Bačka Topola
-Grêmio
-Santos
-Atlético Mineiro
-Avaí
-Ceará
-CSA
-Palmeiras
-Fortaleza
-Flamengo
-Cruzeiro
-Fluminense
-Goiás
-Bahia
-Corinthians
-Athletico Paranaense
-Vasco da Gama
-Internacional
-Botafogo
-São Paulo
-Chapecoense
-Racing Club
-Unión
-Colón
-Patronato
-San Lorenzo
-Godoy Cruz
-Lanús
-Gimnasia La Plata
-Argentinos Juniors
-River Plate
-Estudiantes
-Aldosivi
-Newell's Old Boys
-Central Córdoba SdE
-Talleres de Córdoba
-Vélez Sarsfield
-Defensa y Justicia
-Independiente
-Arsenal - Superliga - Argentina
-Banfield
-Atlético Tucumán
-Rosario Central
-Huracán
-Boca Juniors
-Vegalta Sendai
-Urawa Reds
-Kawasaki Frontale
-Tokyo
-Sanfrecce Hiroshima
-Shimizu S-Pulse
-Sagan Tosu
-Nagoya Grampus
-Kashima Antlers
-Oita Trinita
-Júbilo Iwata
-Matsumoto Yamaga
-Gamba Osaka
-Yokohama F. Marinos
-Cerezo Osaka
-Vissel Kobe
-Consadole Sapporo
-Shonan Bellmare
+Mladost Lučani
+Voždovac
+Crvena Zvezda
 Hapoel Tel Aviv
 Maccabi Netanya
 Sektzia Nes Tziona
@@ -737,10 +685,36 @@ Bnei Yehuda
 Ironi Kiryat Shmona
 Hapoel Kfar Saba
 Hapoel Haifa
+Maccabi Haifa
 Hapoel Ra'anana
 Beitar Jerusalem
+Hapoel Be'er Sheva
 Hapoel Hadera
 Ashdod
+San Lorenzo
+Godoy Cruz
+Argentinos Juniors
+River Plate
+Talleres de Córdoba
+Vélez Sarsfield
+Defensa y Justicia
+Independiente
+Boca Juniors
+Huracán
+Arsenal - Superliga - Argentina
+Banfield
+Atlético Tucumán
+Rosario Central
+Aldosivi
+Racing Club
+Unión
+Gimnasia La Plata
+Estudiantes
+Lanús
+Patronato
+Newell's Old Boys
+Colón
+Central Córdoba SdE
 Adelaide United
 Sydney
 Western Sydney Wanderers

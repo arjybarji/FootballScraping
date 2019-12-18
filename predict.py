@@ -362,39 +362,40 @@ def getArrays(homeTeam,awayTeam,date,league):
         print(homeTeam + " vs " + awayTeam + " Under 2.5")
         formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under 2.5 Goals" + "," + league + "\n")
 
-    teams = homeTeam + "," + awayTeam
-    if(FHGoalsStats(last5HomeGames,teams) == "Over" and FHGoalsStats(last5AwayGames,teams) == "Over") and (FHGoalsStats(last5HomeHome,teams) == "Over" and FHGoalsStats(last5AwayAway,teams) == "Over"):
-        if(teams in over05Teams):            
-            print(homeTeam + " vs " + awayTeam + " Over 0.5/1.0")
-            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 0.5/1.0 FH Goal Line" + "," + league + "\n")
-        else:
-            print(homeTeam + " vs " + awayTeam + " Over 1.0")
-            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 1.0 FH Goal Line" + "," + league + "\n")            
-    if(FHGoalsStats(last5HomeGames,teams) == "Under" and FHGoalsStats(last5AwayGames,teams) == "Under") and (FHGoalsStats(last5HomeHome,teams) == "Under" and FHGoalsStats(last5AwayAway,teams) == "Under"):
-        print(homeTeam + " vs " + awayTeam + " Under 1.0")
-        formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under 1.0 FH Goal Line" + "," + league + "\n")        
-        
-    if(SHGoalsStats(last5HomeGames) == "Over" and SHGoalsStats(last5AwayGames) == "Over") and (SHGoalsStats(last5HomeHome) == "Over" and SHGoalsStats(last5AwayAway) == "Over"):
-        print(homeTeam + " vs " + awayTeam + " Over 1.5")
-        formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 1.5 SH Goals" + "," + league + "\n")
-    if(SHGoalsStats(last5HomeGames) == "Under" and SHGoalsStats(last5AwayGames) == "Under") and (SHGoalsStats(last5HomeHome) == "Under" and SHGoalsStats(last5AwayAway) == "Under"):
-        print(homeTeam + " vs " + awayTeam + " Under 1.5")
-        formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under 1.5 SH Goals" + "," + league + "\n")
+    if(league != "National League CHANGE"):
+        teams = homeTeam + "," + awayTeam
+        if(FHGoalsStats(last5HomeGames,teams) == "Over" and FHGoalsStats(last5AwayGames,teams) == "Over") and (FHGoalsStats(last5HomeHome,teams) == "Over" and FHGoalsStats(last5AwayAway,teams) == "Over"):
+            if(teams in over05Teams):            
+                print(homeTeam + " vs " + awayTeam + " Over 0.5/1.0")
+                formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 0.5/1.0 FH Goal Line" + "," + league + "\n")
+            else:
+                print(homeTeam + " vs " + awayTeam + " Over 1.0")
+                formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 1.0 FH Goal Line" + "," + league + "\n")            
+        if(FHGoalsStats(last5HomeGames,teams) == "Under" and FHGoalsStats(last5AwayGames,teams) == "Under") and (FHGoalsStats(last5HomeHome,teams) == "Under" and FHGoalsStats(last5AwayAway,teams) == "Under"):
+            print(homeTeam + " vs " + awayTeam + " Under 1.0")
+            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under 1.0 FH Goal Line" + "," + league + "\n")        
+            
+        if(SHGoalsStats(last5HomeGames) == "Over" and SHGoalsStats(last5AwayGames) == "Over") and (SHGoalsStats(last5HomeHome) == "Over" and SHGoalsStats(last5AwayAway) == "Over"):
+            print(homeTeam + " vs " + awayTeam + " Over 1.5")
+            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 1.5 SH Goals" + "," + league + "\n")
+        if(SHGoalsStats(last5HomeGames) == "Under" and SHGoalsStats(last5AwayGames) == "Under") and (SHGoalsStats(last5HomeHome) == "Under" and SHGoalsStats(last5AwayAway) == "Under"):
+            print(homeTeam + " vs " + awayTeam + " Under 1.5")
+            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under 1.5 SH Goals" + "," + league + "\n")
 
-    if(FHSHGoalStats(last5HomeGames) == "Over" and FHSHGoalStats(last5AwayGames) == "Over") and (FHSHGoalStats(last5HomeHome) == "Over" and FHSHGoalStats(last5AwayAway) == "Over"):
-        print(homeTeam + " vs " + awayTeam + " Goal Each Half")
-        formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Goal In Each Half" + "," + league + "\n")
-    if(FHSHGoalStats(last5HomeGames) == "Under" and FHSHGoalStats(last5AwayGames) == "Under") and (FHSHGoalStats(last5HomeHome) == "Under" and FHSHGoalStats(last5AwayAway) == "Under"):
-        print(homeTeam + " vs " + awayTeam + " Goal Each Half")
-        formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Goal In Each Half" + "," + league + "\n")
-    
-    if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
-        cornerBetsForm(homeTeam,awayTeam,10.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
-        cornerBetsForm(homeTeam,awayTeam,9.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
-    
-    if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
+        if(FHSHGoalStats(last5HomeGames) == "Over" and FHSHGoalStats(last5AwayGames) == "Over") and (FHSHGoalStats(last5HomeHome) == "Over" and FHSHGoalStats(last5AwayAway) == "Over"):
+            print(homeTeam + " vs " + awayTeam + " Goal Each Half")
+            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Goal In Each Half" + "," + league + "\n")
+        if(FHSHGoalStats(last5HomeGames) == "Under" and FHSHGoalStats(last5AwayGames) == "Under") and (FHSHGoalStats(last5HomeHome) == "Under" and FHSHGoalStats(last5AwayAway) == "Under"):
+            print(homeTeam + " vs " + awayTeam + " Goal Each Half")
+            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Goal In Each Half" + "," + league + "\n")
+        
+    #    if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
         cardBetsForm(homeTeam,awayTeam,3.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
         cardBetsForm(homeTeam,awayTeam,4.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+
+#    if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
+    cornerBetsForm(homeTeam,awayTeam,10.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+    cornerBetsForm(homeTeam,awayTeam,9.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
 
 def cornerBetsForm(homeTeam,awayTeam,num,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway):
     if(CornerStats(last5HomeGames,num) == "Over" and CornerStats(last5AwayGames,num) == "Over") and (CornerStats(last5HomeHome,num) == "Over" and CornerStats(last5AwayAway,num) == "Over"):
@@ -507,7 +508,10 @@ def CornerStats(games,number):
         for id in games:
             cursor = conn.cursor()
             cursor.execute("SELECT matchCorners FROM stats WHERE gameID = ?", (str(id[0]),))
-            if cursor.fetchall()[0][0] >number:
+            fetch = cursor.fetchall()[0][0]
+            if fetch == -1:
+                return False
+            if fetch > number:
                 count+=1
         if((count/len(games))>=.8):
             return "Over"
@@ -522,7 +526,10 @@ def CardsStats(games,number):
         for id in games:
             cursor = conn.cursor()
             cursor.execute("SELECT matchCards FROM stats WHERE gameID = ?", (str(id[0]),))
-            if cursor.fetchall()[0][0] >number:
+            fetch = cursor.fetchall()[0][0]
+            if fetch == -1:
+                return False
+            if fetch > number:
                 count+=1
         if((count/len(games))>=.8):
             return "Over"
