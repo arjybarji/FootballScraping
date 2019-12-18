@@ -22,6 +22,11 @@ def getArrays(homeTeam,awayTeam,date,league):
     cursor.execute("SELECT gameID FROM stats WHERE awayTeam = ?", (awayTeam,))
     last5AwayAway=cursor.fetchall()[-5:] 
     
+    if(e2or3Goals(last5HomeGames) == "Yes" and e2or3Goals(last5AwayGames) == "Yes") and (e2or3Goals(last5HomeHome) == "Yes" and e2or3Goals(last5AwayAway) == "Yes"):
+        print(homeTeam + " vs " + awayTeam + " 2 or 3 Match Goals")
+        formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "2 or 3 Match Goals" + "," + league + "\n")
+    
+    '''
     if(BTTSStats(last5HomeGames) == "Yes" and BTTSStats(last5AwayGames) == "Yes") and (BTTSStats(last5HomeHome) == "Yes" and BTTSStats(last5AwayAway) == "Yes"):
         print(homeTeam + " vs " + awayTeam + " BTTS Yes")
         formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "BTTS Yes" + "," + league + "\n")
@@ -67,6 +72,7 @@ def getArrays(homeTeam,awayTeam,date,league):
     
     cardBetsForm(homeTeam,awayTeam,3.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
     cardBetsForm(homeTeam,awayTeam,4.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+    '''
 
 def cornerBetsForm(homeTeam,awayTeam,num,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway):
     if(CornerStats(last5HomeGames,num) == "Over" and CornerStats(last5AwayGames,num) == "Over") and (CornerStats(last5HomeHome,num) == "Over" and CornerStats(last5AwayAway,num) == "Over"):
@@ -111,6 +117,20 @@ def GoalsStats(games):
             return "Over"
         if((count/len(games))<=0.2):
             return "Under"
+    else:
+        return False
+        
+def e2or3Goals(games):
+    if(len(games)==5):
+        count = 0
+        for id in games:
+            cursor = conn.cursor()
+            cursor.execute("SELECT matchGoals FROM stats WHERE gameID = ?", (str(id[0]),))
+            fetch = cursor.fetchall()[0][0]
+            if fetch == 2 or fetch == 3:
+                count+=1
+        if((count/len(games))>=0.6):
+            return "Yes"
     else:
         return False
         
@@ -232,6 +252,7 @@ todayYD = str(int(today.strftime("%d"))-1)
 todayD = today.strftime("%d")
 todayM = today.strftime("%B")
 
+
 start_time = time.time()
 
 for c in content:
@@ -240,8 +261,8 @@ for c in content:
     awayTeam = split[1]
     date = split[3]
     league = leaguesDict[split[4]]
-    if(todayD.lower() in date.lower() and todayM.lower() in date.lower() or todayYD.lower() in date.lower() and todayM.lower() in date.lower()):
-    #if(today.lower() in date.lower()) or (tomorrow.lower() in date.lower()):
+    #if(todayD.lower() in date.lower() and todayM.lower() in date.lower() or todayYD.lower() in date.lower() and todayM.lower() in date.lower()):
+    if(todayM.lower() in date.lower()):
         getArrays(homeTeam,awayTeam,date,league)
 
 print("--- %s minutes ---" % ((time.time() - start_time)/60))

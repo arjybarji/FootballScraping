@@ -355,6 +355,10 @@ def getArrays(homeTeam,awayTeam,date,league):
         print(homeTeam + " vs " + awayTeam + " BTTS No")
         formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "BTTS No" + "," + league + "\n")        
 
+    if(e2or3Goals(last5HomeGames) == "Yes" and e2or3Goals(last5AwayGames) == "Yes") and (e2or3Goals(last5HomeHome) == "Yes" and e2or3Goals(last5AwayAway) == "Yes"):
+        print(homeTeam + " vs " + awayTeam + " 2 or 3 Goals")
+        twothree.write(date + ","+ homeTeam + " vs " + awayTeam + "," + league + "," + "2 or 3 Goals" + "\n")
+        
     if(GoalsStats(last5HomeGames) == "Over" and GoalsStats(last5AwayGames) == "Over") and (GoalsStats(last5HomeHome) == "Over" and GoalsStats(last5AwayAway) == "Over"):
         print(homeTeam + " vs " + awayTeam + " Over 2.5")
         formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 2.5 Goals" + "," + league + "\n")
@@ -538,6 +542,20 @@ def CardsStats(games,number):
     else:
         return False
         
+def e2or3Goals(games):
+    if(len(games)==5):
+        count = 0
+        for id in games:
+            cursor = conn.cursor()
+            cursor.execute("SELECT matchGoals FROM stats WHERE gameID = ?", (str(id[0]),))
+            fetch = cursor.fetchall()[0][0]
+            if fetch == 2 or fetch == 3:
+                count+=1
+        if((count/len(games))>=0.6):
+            return "Yes"
+    else:
+        return False
+        
 def predict(homeTeam,awayTeam,gameweek,date,league):
 
     print(homeTeam + "," + awayTeam + "," + date)
@@ -615,6 +633,7 @@ if __name__ == '__main__':
 
     bets = open("bets.csv","w",encoding="utf8")
     formBets = open("formBets.csv","w",encoding="utf8")
+    twothree  = open("2or3.csv","w",encoding="utf8")
 
     today = datetime.date.today()
     tomorrow = datetime.date.today() + datetime.timedelta(days=30)
