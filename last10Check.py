@@ -6,22 +6,22 @@ conn = sqlite3.connect(database)
 def check(homeTeam,awayTeam,field):
     cursor = conn.cursor()
     
-    cursor.execute("SELECT "+field+" FROM stats WHERE homeTeam = ? OR awayTeam = ?", (homeTeam,homeTeam,))
+    cursor.execute("SELECT "+field+" FROM stats WHERE homeTeam = ? OR awayTeam = ? ORDER BY CAST(gameweek AS INT) ASC", (homeTeam,homeTeam,))
     homeTeamLast5=cursor.fetchall()
     print(homeTeam + " " + field + " Last 5 Games")
     print(homeTeamLast5[-5:])
     
-    cursor.execute("SELECT "+field+" FROM stats WHERE homeTeam = ?", (homeTeam,))
+    cursor.execute("SELECT "+field+" FROM stats WHERE homeTeam = ? ORDER BY CAST(gameweek AS INT) ASC", (homeTeam,))
     homeTeamLast5Home=cursor.fetchall()
     print(homeTeam + " " + field + " Last 5 Home Games")
     print(homeTeamLast5Home[-5:])
     
-    cursor.execute("SELECT "+field+" FROM stats WHERE homeTeam = ? OR awayTeam = ?", (awayTeam,awayTeam,))
+    cursor.execute("SELECT "+field+" FROM stats WHERE homeTeam = ? OR awayTeam = ? ORDER BY CAST(gameweek AS INT) ASC", (awayTeam,awayTeam,))
     awayTeamLast5=cursor.fetchall()
     print(awayTeam + " " + field + " Last 5 Games")
     print(awayTeamLast5[-5:])
     
-    cursor.execute("SELECT "+field+" FROM stats WHERE awayTeam = ?", (awayTeam,))
+    cursor.execute("SELECT "+field+" FROM stats WHERE awayTeam = ? ORDER BY CAST(gameweek AS INT) ASC", (awayTeam,))
     awayTeamLast5Away=cursor.fetchall()
     print(awayTeam + " " + field + " Last 5 Away Games")
     print(awayTeamLast5Away[-5:])

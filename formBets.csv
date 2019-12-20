@@ -79,7 +79,6 @@
 26 December 2019,King's Lynn Town vs Boston United,Over 2.5 Goals,National League CHANGE
 28 December 2019,Gloucester City vs AFC Telford United,BTTS Yes,National League CHANGE
 26 December 2019,Chelmsford City vs Braintree Town,Over 2.5 Goals,National League CHANGE
-18 December 2019,Hearts vs Celtic,Over 0.5/1.0 FH Goal Line,Scotland Premier
 21 December 2019,Celtic vs Aberdeen,Under 5 Match Cards,Scotland Premier
 21 December 2019,Hamilton Academical vs Hearts,Under 1.5 SH Goals,Scotland Premier
 26 December 2019,Aberdeen vs Livingston,Under 5 Match Cards,Scotland Premier
@@ -105,19 +104,14 @@
 20 December 2019,Aberystwyth Town vs Barry Town United,Over 1.0 FH Goal Line,Wales
 21 December 2019,Carmarthen Town vs Caernarfon Town,Over 1.0 FH Goal Line,Wales
 26 December 2019,Carmarthen Town vs Penybont,Over 1.0 FH Goal Line,Wales
+30 December 2019,Bala Town vs Caernarfon Town,Over 1.0 FH Goal Line,Wales
 30 December 2019,Aberystwyth Town vs Newtown,Over 1.0 FH Goal Line,Wales
-18 December 2019,Brescia vs Sassuolo,Over 3 Match Cards,Serie A
-16 December 2019,Cagliari vs Lazio,BTTS Yes,Serie A
-16 December 2019,Cagliari vs Lazio,Over 0.5/1.0 FH Goal Line,Serie A
-16 December 2019,Cagliari vs Lazio,Over 3 Match Cards,Serie A
 22 December 2019,Atalanta vs Milan,Over 3 Match Cards,Serie A
 22 December 2019,Atalanta vs Milan,Over 4 Match Cards,Serie A
 20 December 2019,Fiorentina vs Roma,Under 1.0 FH Goal Line,Serie A
 20 December 2019,Fiorentina vs Roma,Over 3 Match Cards,Serie A
 22 December 2019,Lecce vs Bologna,Over 3 Match Cards,Serie A
 22 December 2019,Lecce vs Bologna,Over 4 Match Cards,Serie A
-18 December 2019,Sampdoria vs Juventus,Over 3 Match Cards,Serie A
-18 December 2019,Sampdoria vs Juventus,Over 4 Match Cards,Serie A
 22 December 2019,Sassuolo vs Napoli,BTTS Yes,Serie A
 22 December 2019,Sassuolo vs Napoli,Over 0.5/1.0 FH Goal Line,Serie A
 22 December 2019,Sassuolo vs Napoli,Over 3 Match Cards,Serie A
@@ -132,8 +126,6 @@
 22 December 2019,Pisa vs Cosenza,Over 1.0 FH Goal Line,Serie B
 22 December 2019,Pisa vs Cosenza,Over 3 Match Cards,Serie B
 22 December 2019,Pisa vs Cosenza,Over 4 Match Cards,Serie B
-20 December 2019,Spezia vs Cremonese,Under 2.5 Goals,Serie B
-20 December 2019,Spezia vs Cremonese,Over 3 Match Cards,Serie B
 26 December 2019,Cosenza vs Empoli,Over 1.0 FH Goal Line,Serie B
 26 December 2019,Cremonese vs Juve Stabia,Over 3 Match Cards,Serie B
 26 December 2019,Cremonese vs Juve Stabia,Over 4 Match Cards,Serie B
@@ -154,8 +146,6 @@
 22 December 2019,Levante vs Celta Vigo,Over 4 Match Cards,La Liga
 21 December 2019,Mallorca vs Sevilla,Over 1.0 FH Goal Line,La Liga
 21 December 2019,Villarreal vs Getafe,Under 1.0 FH Goal Line,La Liga
-15 December 2019,Rayo Vallecano vs Albacete,Under 1.5 SH Goals,Spain Segunda
-15 December 2019,Rayo Vallecano vs Albacete,Over 3 Match Cards,Spain Segunda
 21 December 2019,Albacete vs Elche,Over 3 Match Cards,Spain Segunda
 22 December 2019,Alcorcón vs Fuenlabrada,Over 3 Match Cards,Spain Segunda
 22 December 2019,Almería vs Ponferradina,Over 3 Match Cards,Spain Segunda
@@ -167,17 +157,9 @@
 21 December 2019,Racing Santander vs Real Oviedo,Goal In Each Half,Spain Segunda
 21 December 2019,Racing Santander vs Real Oviedo,Over 3 Match Cards,Spain Segunda
 21 December 2019,Sporting Gijón vs Extremadura UD,Over 3 Match Cards,Spain Segunda
-17 December 2019,Borussia Dortmund vs RB Leipzig,Over 2.5 Goals,Bundesliga
-17 December 2019,Borussia Dortmund vs RB Leipzig,Under 5 Match Cards,Bundesliga
-18 December 2019,Bayer Leverkusen vs Hertha BSC,Over 0.5/1.0 FH Goal Line,Bundesliga
-18 December 2019,Borussia M'gladbach vs Paderborn,Over 1.0 FH Goal Line,Bundesliga
-18 December 2019,Wolfsburg vs Schalke 04,Over 3 Match Cards,Bundesliga
-17 December 2019,Werder Bremen vs Mainz 05,Over 1.0 FH Goal Line,Bundesliga
 21 December 2019,RB Leipzig vs Augsburg,Over 1.0 FH Goal Line,Bundesliga
 20 December 2019,Hoffenheim vs Borussia Dortmund,Over 0.5/1.0 FH Goal Line,Bundesliga
 22 December 2019,Fortuna Dusseldorf vs Union Berlin,Over 0.5/1.0 FH Goal Line,Bundesliga
-21 December 2019,Hertha BSC vs Borussia M'gladbach,Over 1.0 FH Goal Line,Bundesliga
-21 December 2019,Mainz 05 vs Bayer Leverkusen,Over 1.0 FH Goal Line,Bundesliga
 21 December 2019,Mainz 05 vs Bayer Leverkusen,Over 3 Match Cards,Bundesliga
 21 December 2019,Köln vs Werder Bremen,Over 0.5/1.0 FH Goal Line,Bundesliga
 21 December 2019,Köln vs Werder Bremen,Goal In Each Half,Bundesliga
@@ -192,8 +174,8 @@
 22 December 2019,Sandhausen vs Holstein Kiel,BTTS Yes,2. Bundesliga
 22 December 2019,Sandhausen vs Holstein Kiel,Over 1.0 FH Goal Line,2. Bundesliga
 20 December 2019,Karlsruher SC vs Wehen Wiesbaden,Over 0.5/1.0 FH Goal Line,2. Bundesliga
-16 December 2019,Ingolstadt vs 1860 München,Over 1.0 FH Goal Line,3. Liga
 22 December 2019,Ingolstadt vs Carl Zeiss Jena,Over 1.0 FH Goal Line,3. Liga
+22 December 2019,Ingolstadt vs Carl Zeiss Jena,Goal In Each Half,3. Liga
 21 December 2019,Preußen Münster vs 1860 München,BTTS Yes,3. Liga
 21 December 2019,Preußen Münster vs 1860 München,Over 0.5/1.0 FH Goal Line,3. Liga
 21 December 2019,Preußen Münster vs 1860 München,Goal In Each Half,3. Liga
@@ -210,14 +192,12 @@
 20 December 2019,Le Puy Foot vs Villefranche,Over 3 Match Cards,National 1
 20 December 2019,Quevilly Rouen vs Toulon,Over 0.5/1.0 FH Goal Line,National 1
 20 December 2019,Cholet vs Dunkerque,Over 0.5/1.0 FH Goal Line,National 1
-16 December 2019,Santa Clara vs Sporting CP,Over 3 Match Cards,Primeira Liga
-16 December 2019,Santa Clara vs Sporting CP,Over 4 Match Cards,Primeira Liga
 22 December 2019,UD Oliveirense vs Academico Viseu,Over 3 Match Cards,Segunda Liga
 28 December 2019,Académica vs UD Oliveirense,Over 3 Match Cards,Segunda Liga
-13 December 2019,Heerenveen vs Willem II,Over 0.5/1.0 FH Goal Line,Eredivisie
 21 December 2019,Willem II vs Fortuna Sittard,Over 1.0 FH Goal Line,Eredivisie
 22 December 2019,Ajax vs ADO Den Haag,Over 1.0 FH Goal Line,Eredivisie
 22 December 2019,Groningen vs Emmen,Under 1.5 SH Goals,Eredivisie
+22 December 2019,Telstar vs AZ II,Over 0.5/1.0 FH Goal Line,Eerste Divisie
 20 December 2019,Volendam vs De Graafschap,BTTS Yes,Eerste Divisie
 21 December 2019,NAC Breda vs Dordrecht,Over 0.5/1.0 FH Goal Line,Eerste Divisie
 21 December 2019,NAC Breda vs Dordrecht,Under 5 Match Cards,Eerste Divisie
@@ -239,48 +219,37 @@
 26 December 2019,Royal Excel Mouscron vs Mechelen,Under 5 Match Cards,Belgium Pro
 27 December 2019,Sporting Charleroi vs KV Oostende,Under 5 Match Cards,Belgium Pro
 26 December 2019,Waasland-Beveren vs Sint-Truiden,Over 0.5/1.0 FH Goal Line,Belgium Pro
-20 December 2019,Pogoń Szczecin vs Korona Kielce,Under 11 Match Corners,Ekstraklasa
-23 December 2019,Konyaspor vs Trabzonspor,Under 11 Match Corners,Super-Lig
+21 December 2019,Lechia Gdańsk vs Raków Częstochowa,Over 0.5/1.0 FH Goal Line,Ekstraklasa
 21 December 2019,Göztepe vs Galatasaray,Over 3 Match Cards,Super-Lig
+22 December 2019,Gençlerbirliği vs Sivasspor,Over 0.5/1.0 FH Goal Line,Super-Lig
 22 December 2019,Fenerbahçe vs Beşiktaş,Over 3 Match Cards,Super-Lig
-21 December 2019,Kasımpaşa vs Gaziantep FK,Over 3 Match Cards,Super-Lig
+23 December 2019,Denizlispor vs Alanyaspor,Under 1.0 FH Goal Line,Super-Lig
 29 December 2019,Sivasspor vs Göztepe,Over 3 Match Cards,Super-Lig
-29 December 2019,Alanyaspor vs Konyaspor,Under 11 Match Corners,Super-Lig
 29 December 2019,Gaziantep FK vs Yeni Malatyaspor,Over 3 Match Cards,Super-Lig
+29 December 2019,Rizespor vs Fenerbahçe,Over 3 Match Cards,Super-Lig
 28 December 2019,Galatasaray vs Antalyaspor,Over 3 Match Cards,Super-Lig
-18 December 2019,Xanthi vs Panaitolikos,BTTS No,Hellas Liga
-18 December 2019,Xanthi vs Panaitolikos,Over 3 Match Cards,Hellas Liga
-18 December 2019,Xanthi vs Panaitolikos,Over 4 Match Cards,Hellas Liga
-19 December 2019,Aris vs Volos NFC,Over 3 Match Cards,Hellas Liga
-19 December 2019,Aris vs Volos NFC,Over 4 Match Cards,Hellas Liga
-18 December 2019,OFI vs Panathinaikos,Over 3 Match Cards,Hellas Liga
-18 December 2019,OFI vs Panathinaikos,Over 4 Match Cards,Hellas Liga
 21 December 2019,Asteras Tripolis vs Xanthi,Over 3 Match Cards,Hellas Liga
-22 December 2019,Panathinaikos vs Aris,Over 3 Match Cards,Hellas Liga
-22 December 2019,Panathinaikos vs Aris,Over 4 Match Cards,Hellas Liga
 22 December 2019,Panaitolikos vs OFI,Over 3 Match Cards,Hellas Liga
 22 December 2019,Panaitolikos vs OFI,Over 4 Match Cards,Hellas Liga
-23 December 2019,PAOK vs Atromitos,Over 3 Match Cards,Hellas Liga
-23 December 2019,PAOK vs Atromitos,Over 4 Match Cards,Hellas Liga
-21 December 2019,Lamia vs AEK Athens,Under 2.5 Goals,Hellas Liga
-15 December 2019,Chindia Târgovişte vs Hermannstadt,Under 11 Match Corners,Romania Liga
-21 December 2019,Voluntari vs CFR Cluj,Over 2.5 Goals,Romania Liga
-19 December 2019,Botoşani vs Dinamo Bucureşti,Over 3 Match Cards,Romania Liga
-19 December 2019,Botoşani vs Dinamo Bucureşti,Over 4 Match Cards,Romania Liga
-21 December 2019,Hermannstadt vs Politehnica Iași,Under 1.0 FH Goal Line,Romania Liga
+22 December 2019,Panaitolikos vs OFI,Under 11 Match Corners,Hellas Liga
+22 December 2019,Sepsi vs Chindia Târgovişte,Over 3 Match Cards,Romania Liga
+20 December 2019,Gaz Metan Mediaş vs Viitorul,Over 3 Match Cards,Romania Liga
+21 December 2019,Hermannstadt vs Politehnica Iași,Over 3 Match Cards,Romania Liga
+21 December 2019,Hermannstadt vs Politehnica Iași,Over 4 Match Cards,Romania Liga
 25 December 2019,Hapoel Tel Aviv vs Ashdod,Over 0.5/1.0 FH Goal Line,Isreal
 25 December 2019,Hapoel Tel Aviv vs Ashdod,Over 3 Match Cards,Isreal
 24 December 2019,Hapoel Hadera vs Hapoel Be'er Sheva,Over 3 Match Cards,Isreal
 24 December 2019,Hapoel Kfar Saba vs Ironi Kiryat Shmona,Over 3 Match Cards,Isreal
 24 December 2019,Bnei Yehuda vs Maccabi Tel Aviv,Over 0.5/1.0 FH Goal Line,Isreal
 29 December 2019,Maccabi Netanya vs Bnei Yehuda,Under 11 Match Corners,Isreal
-28 December 2019,Ironi Kiryat Shmona vs Maccabi Haifa,Under 1.5 SH Goals,Isreal
+28 December 2019,Ironi Kiryat Shmona vs Maccabi Haifa,Over 0.5/1.0 FH Goal Line,Isreal
 28 December 2019,Ironi Kiryat Shmona vs Maccabi Haifa,Over 3 Match Cards,Isreal
-28 December 2019,Ironi Kiryat Shmona vs Maccabi Haifa,Over 4 Match Cards,Isreal
 30 December 2019,Hapoel Haifa vs Beitar Jerusalem,Over 0.5/1.0 FH Goal Line,Isreal
 30 December 2019,Hapoel Haifa vs Beitar Jerusalem,Over 3 Match Cards,Isreal
-30 December 2019,Hapoel Haifa vs Beitar Jerusalem,Over 4 Match Cards,Isreal
+28 December 2019,Hapoel Ra'anana vs Hapoel Hadera,Under 2.5 Goals,Isreal
+28 December 2019,Hapoel Ra'anana vs Hapoel Hadera,Under 1.5 SH Goals,Isreal
 28 December 2019,Hapoel Be'er Sheva vs Ashdod,Over 0.5/1.0 FH Goal Line,Isreal
 28 December 2019,Hapoel Be'er Sheva vs Ashdod,Over 3 Match Cards,Isreal
+27 December 2019,Adelaide United vs Western Sydney Wanderers,Under 1.0 FH Goal Line,A-League
 28 December 2019,Western United vs Wellington Phoenix,Over 3 Match Cards,A-League
 29 December 2019,Sydney vs Melbourne City,Over 1.0 FH Goal Line,A-League

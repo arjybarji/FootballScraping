@@ -336,16 +336,16 @@ def BTTSStatsTotal(homeTeam,awayTeam,field,lower,upper,date,league):
 def getArrays(homeTeam,awayTeam,date,league): 
     cursor = conn.cursor()
     
-    cursor.execute("SELECT gameID FROM stats WHERE homeTeam = ? OR awayTeam = ?", (homeTeam,homeTeam,))
+    cursor.execute("SELECT gameID FROM stats WHERE homeTeam = ? OR awayTeam = ? ORDER BY CAST(gameweek AS INT) ASC", (homeTeam,homeTeam,))
     last5HomeGames=cursor.fetchall()[-5:]
     
-    cursor.execute("SELECT gameID FROM stats WHERE homeTeam = ?", (homeTeam,))
+    cursor.execute("SELECT gameID FROM stats WHERE homeTeam = ? ORDER BY CAST(gameweek AS INT) ASC", (homeTeam,))
     last5HomeHome=cursor.fetchall()[-5:]
     
-    cursor.execute("SELECT gameID FROM stats WHERE homeTeam = ? OR awayTeam = ?", (awayTeam,awayTeam,))
+    cursor.execute("SELECT gameID FROM stats WHERE homeTeam = ? OR awayTeam = ? ORDER BY CAST(gameweek AS INT) ASC", (awayTeam,awayTeam,))
     last5AwayGames=cursor.fetchall()[-5:]
     
-    cursor.execute("SELECT gameID FROM stats WHERE awayTeam = ?", (awayTeam,))
+    cursor.execute("SELECT gameID FROM stats WHERE awayTeam = ? ORDER BY CAST(gameweek AS INT) ASC", (awayTeam,))
     last5AwayAway=cursor.fetchall()[-5:] 
     
     if(BTTSStats(last5HomeGames) == "Yes" and BTTSStats(last5AwayGames) == "Yes") and (BTTSStats(last5HomeHome) == "Yes" and BTTSStats(last5AwayAway) == "Yes"):

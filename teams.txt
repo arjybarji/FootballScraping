@@ -136,11 +136,10 @@ Spennymoor Town
 Bradford (Park Avenue)
 York City
 Darlington
-Dulwich Hamlet
-Havant & Waterlooville
 Billericay Town
 Oxford City
 Braintree Town
+Havant & Waterlooville
 Chippenham Town
 Chelmsford City
 Dartford
@@ -152,19 +151,20 @@ Slough Town
 Hemel Hempstead Town
 Tonbridge Angels
 Hungerford Town
+Dulwich Hamlet
 Maidstone United
 Dorking Wanderers
 Wealdstone
 Welling United
 Weymouth
 St Albans City
-Hearts
-Celtic
 Rangers
 Ross County
 St. Johnstone
+Celtic
 Aberdeen
 Hamilton Academical
+Hearts
 Hibernian
 Kilmarnock
 Motherwell
@@ -202,36 +202,36 @@ Stirling Albion
 Edinburgh City
 Penybont
 Caernarfon Town
-Bala Town
 Aberystwyth Town
 Barry Town United
 Connah's Quay
+Bala Town
 Airbus UK
 Cefn Druids
 Carmarthen Town
 Newtown
 The New Saints
 Cardiff MU
-Brescia
-Sassuolo
-Cagliari
-Lazio
 Atalanta
 Milan
 Fiorentina
 Roma
 Internazionale
 Genoa
+Lazio
 Hellas Verona
 Lecce
 Bologna
 Parma
-Sampdoria
-Juventus
+Brescia
+Sassuolo
 Napoli
 Torino
 SPAL
 Udinese
+Cagliari
+Juventus
+Sampdoria
 Benevento
 Frosinone
 Cittadella
@@ -250,10 +250,9 @@ Pisa
 Cosenza
 Pordenone
 Ascoli
-Spezia
 Cremonese
+Spezia
 Barcelona
-Real Madrid
 Deportivo Alavés
 Real Betis
 Atletico Madrid
@@ -267,12 +266,12 @@ Mallorca
 Sevilla
 Osasuna
 Real Sociedad
+Real Madrid
 Athletic Club
 Villarreal
 Getafe
 Real Valladolid
 Valencia
-Rayo Vallecano
 Albacete
 Elche
 Alcorcón
@@ -288,30 +287,31 @@ Mirandés
 Huesca
 Real Zaragoza
 Las Palmas
+Rayo Vallecano
 Málaga
 Lugo
 Racing Santander
 Real Oviedo
 Sporting Gijón
 Extremadura UD
-Borussia Dortmund
-RB Leipzig
-Bayer Leverkusen
-Hertha BSC
-Borussia M'gladbach
-Paderborn
-Wolfsburg
-Schalke 04
-Eintracht Frankfurt
-Köln
-Werder Bremen
-Mainz 05
-Freiburg
 Bayern Munich
+Wolfsburg
+RB Leipzig
 Augsburg
 Hoffenheim
+Borussia Dortmund
 Fortuna Dusseldorf
 Union Berlin
+Hertha BSC
+Borussia M'gladbach
+Mainz 05
+Bayer Leverkusen
+Schalke 04
+Freiburg
+Köln
+Werder Bremen
+Paderborn
+Eintracht Frankfurt
 Hannover 96
 Stuttgart
 Nürnberg
@@ -330,8 +330,6 @@ Sandhausen
 Holstein Kiel
 Karlsruher SC
 Wehen Wiesbaden
-Ingolstadt
-1860 München
 Waldhof Mannheim
 Chemnitzer FC
 Hallescher FC
@@ -342,8 +340,10 @@ Unterhaching
 Kaiserslautern
 Sonnenhof Großaspach
 MSV Duisburg
+Ingolstadt
 Carl Zeiss Jena
 Preußen Münster
+1860 München
 Eintracht Braunschweig
 Magdeburg
 Zwickau
@@ -390,13 +390,13 @@ Auxerre
 Nancy
 Caen
 Clermont
+Gazélec Ajaccio
 Béziers
 Red Star
 Boulogne
 Pau
 Bastia-Borgo
 Laval
-Gazélec Ajaccio
 Concarneau
 Le Puy Foot
 Villefranche
@@ -408,13 +408,12 @@ Cholet
 Dunkerque
 Avranches
 Créteil
-Santa Clara
-Sporting CP
 Famalicão
 Vitória Setúbal
 Paços de Ferreira
 Moreirense
 Desportivo Aves
+Santa Clara
 Belenenses
 Sporting Braga
 Boavista
@@ -425,34 +424,35 @@ Vitoria Guimaraes
 Benfica
 Rio Ave
 Marítimo
+Sporting CP
 Porto
 UD Oliveirense
 Academico Viseu
-Sporting Covilhã
-Académica
 Chaves
 Vilafranquense
 Feirense
 Casa Pia
+Académica
 Leixões
 Cova Piedade
 Penafiel
 Estoril
+Sporting Covilhã
 Benfica II
 Mafra
 Nacional
 Farense
 Porto II
 Varzim
-Heerenveen
-Willem II
 RKC Waalwijk
 Twente
+Heerenveen
 Heracles
 Sparta Rotterdam
 AZ
 PSV
 PEC Zwolle
+Willem II
 Fortuna Sittard
 Ajax
 ADO Den Haag
@@ -482,6 +482,18 @@ Almere City
 Roda JC
 Utrecht II
 Go Ahead Eagles
+Salzburg
+LASK
+Wolfsberger AC
+Hartberg
+Sturm Graz
+Mattersburg
+St. Pölten
+Admira
+Rapid Wien
+Swarovski Tirol
+Rheindorf Altach
+Austria Wien
 SønderjyskE
 Hobro
 Midtjylland
@@ -528,28 +540,24 @@ Jablonec
 Příbram
 České Budějovice
 Mladá Boleslav
-Dinamo Zagreb
-Rijeka
 Inter Zaprešić
 Istra 1961
 Varaždin
 Hajduk Split
 Lokomotiva Zagreb
+Rijeka
 Slaven Koprivnica
+Dinamo Zagreb
 Gorica
 Osijek
-Korona Kielce
 Cracovia Kraków
 Śląsk Wrocław
 Górnik Zabrze
 Jagiellonia Białystok
-Lech Poznań
-Arka Gdynia
 Lechia Gdańsk
 Raków Częstochowa
-ŁKS Łódź
-Wisła Kraków
 Pogoń Szczecin
+Korona Kielce
 Wisła Płock
 Piast Gliwice
 Zagłębie Lubin
@@ -582,34 +590,34 @@ Kayserispor
 Istanbul Basaksehir
 Denizlispor
 Alanyaspor
-AEK Athens
+Larissa
+Panionios
 Asteras Tripolis
 Xanthi
-Panaitolikos
-Aris
 Volos NFC
+Olympiakos Piraeus
+Panathinaikos
+Aris
+Panaitolikos
+OFI
+PAOK
 Atromitos
 Lamia
-Olympiakos Piraeus
-Larissa
-OFI
-Panathinaikos
-Panionios
-PAOK
-CFR Cluj
-Astra
-Chindia Târgovişte
-Hermannstadt
+AEK Athens
 Voluntari
-Academica Clinceni
-Botoşani
-Dinamo Bucureşti
+CFR Cluj
 FCSB
 Universitatea Craiova
 Sepsi
+Chindia Târgovişte
 Gaz Metan Mediaş
 Viitorul
+Hermannstadt
 Politehnica Iași
+Academica Clinceni
+Dinamo Bucureşti
+Astra
+Botoşani
 Trenčín
 Zemplín Michalovce
 DAC
@@ -660,8 +668,24 @@ Huracán
 Unión
 Argentinos Juniors
 Godoy Cruz
-Western Sydney Wanderers
-Western United
+Aswan
+El Geish
+Zamalek
+Smouha
+Al Masry
+Pyramids
+El Gouna
+Wadi Degla
+ENPPI
+Al Ahly
+Al Ittihad
+Al Mokawloon
+Ismaily
+Haras El Hodood
+Tanta
+El Entag El Harby
+Masr
+Misr Lel Makasa
 Wellington Phoenix
 Sydney
 Melbourne City
@@ -670,4 +694,6 @@ Perth Glory
 Newcastle Jets
 Central Coast Mariners
 Adelaide United
+Western Sydney Wanderers
+Western United
 Brisbane Roar

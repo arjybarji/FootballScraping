@@ -114,6 +114,8 @@ getLinks(3070319,3070594)
 #getLinks(3131532,3131556)
 #J2 League
 #getLinks(2972277,2972739)
+#Egpyt
+getLinks(3172275,3172580)
 #A-League
 getLinks(3129271,3129413)
 #getLinks(,)
