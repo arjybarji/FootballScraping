@@ -46,8 +46,6 @@ Nottingham Forest
 Reading
 Blackburn Rovers
 Wigan Athletic
-Cardiff City
-Preston North End
 Fulham
 Leeds United
 Huddersfield Town
@@ -66,6 +64,8 @@ Sheffield Wednesday
 Bristol City
 West Bromwich Albion
 Brentford
+Cardiff City
+Preston North End
 Bradford City
 Salford City
 Cambridge United
@@ -100,8 +100,6 @@ Bromley
 Eastleigh
 Chorley
 Dover Athletic
-Ebbsfleet United
-Woking
 Halifax Town
 Notts County
 Hartlepool United
@@ -114,6 +112,8 @@ Sutton United
 Wrexham
 Torquay United
 Chesterfield
+Ebbsfleet United
+Woking
 Altrincham
 Blyth Spartans
 Boston United
@@ -154,10 +154,10 @@ Hungerford Town
 Dulwich Hamlet
 Maidstone United
 Dorking Wanderers
-Wealdstone
-Welling United
 Weymouth
 St Albans City
+Wealdstone
+Welling United
 Rangers
 Ross County
 St. Johnstone
@@ -256,14 +256,10 @@ Barcelona
 Deportivo Alavés
 Real Betis
 Atletico Madrid
-Eibar
-Granada
 Leganes
 Espanyol
 Levante
 Celta Vigo
-Mallorca
-Sevilla
 Osasuna
 Real Sociedad
 Real Madrid
@@ -272,6 +268,10 @@ Villarreal
 Getafe
 Real Valladolid
 Valencia
+Granada
+Mallorca
+Sevilla
+Eibar
 Albacete
 Elche
 Alcorcón
@@ -312,8 +312,6 @@ Köln
 Werder Bremen
 Paderborn
 Eintracht Frankfurt
-Hannover 96
-Stuttgart
 Nürnberg
 Dynamo Dresden
 Heidenheim
@@ -324,32 +322,34 @@ Darmstadt 98
 Hamburger SV
 Bochum
 Jahn Regensburg
-Erzgebirge Aue
-Greuther Fürth
 Sandhausen
 Holstein Kiel
 Karlsruher SC
 Wehen Wiesbaden
-Waldhof Mannheim
-Chemnitzer FC
+Stuttgart
+Hannover 96
+Greuther Fürth
+Erzgebirge Aue
 Hallescher FC
 Uerdingen
 Bayern München II
 Würzburger Kickers
-Unterhaching
-Kaiserslautern
-Sonnenhof Großaspach
-MSV Duisburg
 Ingolstadt
 Carl Zeiss Jena
-Preußen Münster
-1860 München
-Eintracht Braunschweig
-Magdeburg
 Zwickau
 Meppen
-Viktoria Köln
+Magdeburg
+1860 München
+Eintracht Braunschweig
+Preußen Münster
+MSV Duisburg
+Kaiserslautern
+Sonnenhof Großaspach
+Unterhaching
 Hansa Rostock
+Chemnitzer FC
+Viktoria Köln
+Waldhof Mannheim
 Monaco
 PSG
 Montpellier
@@ -378,36 +378,36 @@ Orléans
 Sochaux
 Lens
 Niort
-Le Havre
-Chambly
-Châteauroux
-Guingamp
-Grenoble Foot 38
-Rodez
 Troyes
 Ajaccio
 Auxerre
 Nancy
-Caen
+Chambly
+Rodez
+Châteauroux
+Guingamp
+Grenoble Foot 38
 Clermont
+Caen
+Le Havre
 Gazélec Ajaccio
 Béziers
-Red Star
-Boulogne
-Pau
-Bastia-Borgo
-Laval
-Concarneau
-Le Puy Foot
-Villefranche
-Lyon Duchère
 Bourg-en-Bresse
-Quevilly Rouen
+Pau
+Lyon Duchère
 Toulon
-Cholet
-Dunkerque
+Red Star
+Laval
+Boulogne
 Avranches
+Concarneau
+Bastia-Borgo
 Créteil
+Le Puy Foot
+Dunkerque
+Quevilly Rouen
+Villefranche
+Cholet
 Famalicão
 Vitória Setúbal
 Paços de Ferreira
@@ -470,18 +470,18 @@ NAC Breda
 Dordrecht
 MVV
 Helmond Sport
-Eindhoven
-NEC
 Den Bosch
 PSV II
 Excelsior
 Cambuur
+Go Ahead Eagles
+Almere City
+Utrecht II
+NEC
+Roda JC
+Eindhoven
 Ajax II
 TOP Oss
-Almere City
-Roda JC
-Utrecht II
-Go Ahead Eagles
 Salzburg
 LASK
 Wolfsberger AC
@@ -550,8 +550,6 @@ Slaven Koprivnica
 Dinamo Zagreb
 Gorica
 Osijek
-Cracovia Kraków
-Śląsk Wrocław
 Górnik Zabrze
 Jagiellonia Białystok
 Lechia Gdańsk
@@ -578,8 +576,6 @@ Konyaspor
 Trabzonspor
 Göztepe
 Galatasaray
-Antalyaspor
-Ankaragücü
 Gençlerbirliği
 Sivasspor
 Fenerbahçe
@@ -590,6 +586,26 @@ Kayserispor
 Istanbul Basaksehir
 Denizlispor
 Alanyaspor
+Ankaragücü
+Antalyaspor
+Osmanlıspor
+İstanbulspor
+Fatih Karagümrük
+Keçiörengücü
+Giresunspor
+Altınordu
+Menemenspor
+Bursaspor
+BB Erzurumspor
+Altay
+Eskişehirspor
+Balıkesirspor
+Akhisarspor
+Boluspor
+Ümraniyespor
+Hatayspor
+Adanaspor
+Adana Demirspor
 Larissa
 Panionios
 Asteras Tripolis
@@ -610,14 +626,14 @@ FCSB
 Universitatea Craiova
 Sepsi
 Chindia Târgovişte
-Gaz Metan Mediaş
-Viitorul
-Hermannstadt
-Politehnica Iași
 Academica Clinceni
 Dinamo Bucureşti
 Astra
 Botoşani
+Gaz Metan Mediaş
+Hermannstadt
+Politehnica Iași
+Viitorul
 Trenčín
 Zemplín Michalovce
 DAC
@@ -670,8 +686,6 @@ Argentinos Juniors
 Godoy Cruz
 Aswan
 El Geish
-Zamalek
-Smouha
 Al Masry
 Pyramids
 El Gouna
@@ -682,18 +696,20 @@ Al Ittihad
 Al Mokawloon
 Ismaily
 Haras El Hodood
+Smouha
 Tanta
 El Entag El Harby
+Zamalek
 Masr
 Misr Lel Makasa
-Wellington Phoenix
-Sydney
-Melbourne City
-Melbourne Victory
 Perth Glory
 Newcastle Jets
 Central Coast Mariners
 Adelaide United
 Western Sydney Wanderers
 Western United
+Wellington Phoenix
 Brisbane Roar
+Sydney
+Melbourne City
+Melbourne Victory

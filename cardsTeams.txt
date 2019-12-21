@@ -387,22 +387,7 @@ Nancy
 Orléans
 Niort
 Troyes
-Bourg-en-Bresse
-Quevilly Rouen
-Pau
-Cholet
-Toulon
-Béziers
-Laval
-Le Puy Foot
 Concarneau
-Avranches
-Créteil
-Bastia-Borgo
-Dunkerque
-Lyon Duchère
-Villefranche
-Boulogne
 Gil Vicente
 Porto
 Sporting Braga
@@ -740,3 +725,21 @@ Smouha
 Al Ahly
 Zamalek
 Al Ittihad
+Altay
+Ümraniyespor
+Adana Demirspor
+Balıkesirspor
+Akhisarspor
+Adanaspor
+Giresunspor
+Menemenspor
+BB Erzurumspor
+İstanbulspor
+Hatayspor
+Eskişehirspor
+Bursaspor
+Keçiörengücü
+Osmanlıspor
+Altınordu
+Boluspor
+Fatih Karagümrük
