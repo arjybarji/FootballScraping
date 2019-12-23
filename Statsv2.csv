@@ -6755,3 +6755,241 @@ Altınordu,Bursaspor,15,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,4,5,5,4,4,5,9,1. Lig - Tur
 Hatayspor,Adanaspor,16,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,4,7,6,1,1,6,7,1. Lig - Turkey,3083312
 Gaz Metan Mediaş,Viitorul,22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,3,6,6,3,9,Liga I - Romania,3048407
 Zamalek,Smouha,9,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,11,5,5,11,16,Premier League - Egypt,3172348
+AFC Bournemouth,Burnley,18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,4,5,5,4,9,Premier League - England,3029243
+Brighton & Hove Albion,Sheffield United,18,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,4,3,3,4,7,Premier League - England,3029245
+Newcastle United,Crystal Palace,18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,0,2,4,5,5,4,9,Premier League - England,3029248
+Norwich City,Wolverhampton Wanderers,18,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,4,6,3,11,11,3,14,Premier League - England,3029249
+Watford,Manchester United,18,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,1,4,3,5,5,3,8,Premier League - England,3029251
+Blackpool,Shrewsbury Town,22,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,3,5,-1,-1,-1,-1,-1,League One - England,3035381
+Bristol Rovers,Peterborough United,22,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,League One - England,3035383
+Burton Albion,Rochdale,22,3,1,4,y,2,1,1,2,3,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,League One - England,3035384
+Doncaster Rovers,Accrington Stanley,22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,0,1,-1,-1,-1,-1,-1,League One - England,3035387
+Gillingham,Milton Keynes Dons,22,3,1,4,y,2,0,0,2,2,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,League One - England,3035388
+Oxford United,Wycombe Wanderers,22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,5,9,-1,-1,-1,-1,-1,League One - England,3035389
+Portsmouth,Ipswich Town,22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,7,10,-1,-1,-1,-1,-1,League One - England,3035390
+Fulham,Leeds United,23,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,4,7,-1,-1,-1,-1,-1,Championship - England,3036074
+Huddersfield Town,Nottingham Forest,23,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,3,6,-1,-1,-1,-1,-1,Championship - England,3036078
+Hull City,Birmingham City,23,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036082
+Luton Town,Swansea City,23,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036085
+Queens Park Rangers,Charlton Athletic,23,2,2,4,y,1,0,0,1,1,1,2,2,1,3,3,4,7,-1,-1,-1,-1,-1,Championship - England,3036093
+Sheffield Wednesday,Bristol City,23,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,8,1,1,8,9,Championship - England,3036099
+West Bromwich Albion,Brentford,23,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036103
+Bradford City,Salford City,22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,League Two - England,3036301
+Cambridge United,Leyton Orient,22,2,3,5,y,0,3,3,0,3,2,0,0,2,2,4,7,11,-1,-1,-1,-1,-1,League Two - England,3036303
+Colchester United,Carlisle United,22,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,2,2,-1,-1,-1,-1,-1,League Two - England,3036305
+Forest Green Rovers,Swindon Town,22,2,2,4,y,0,2,2,0,2,2,0,0,2,2,1,1,2,-1,-1,-1,-1,-1,League Two - England,3036309
+Mansfield Town,Northampton Town,22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,5,4,9,-1,-1,-1,-1,-1,League Two - England,3036316
+Oldham Athletic,Crawley Town,22,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,League Two - England,3036320
+Port Vale,Cheltenham Town,22,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,League Two - England,3036321
+Stevenage,Crewe Alexandra,22,1,5,6,y,0,2,2,0,2,1,3,3,1,4,2,0,2,-1,-1,-1,-1,-1,League Two - England,3036323
+Bromley,Eastleigh,26,2,3,5,y,1,2,2,1,3,1,1,1,1,2,0,1,1,-1,-1,-1,-1,-1,National League - England,3054182
+Halifax Town,Notts County,26,2,4,6,y,1,0,0,1,1,1,4,4,1,5,3,1,4,3,4,4,3,7,National League - England,3054185
+Torquay United,Chesterfield,26,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,4,7,16,3,3,16,19,National League - England,3054190
+Blyth Spartans,Southport,21,1,4,5,y,0,3,3,0,3,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054709
+Chester,AFC Telford United,21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054712
+Farsley Celtic,Leamington,21,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054713
+Chippenham Town,Chelmsford City,21,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055171
+Eastbourne Borough,Bath City,21,1,2,3,y,1,0,0,1,1,0,2,2,0,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055173
+Hemel Hempstead Town,Tonbridge Angels,21,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055175
+Maidstone United,Dorking Wanderers,21,2,3,5,y,2,1,1,2,3,0,2,2,0,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055177
+Weymouth,St Albans City,21,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055179
+Hamilton Academical,Hearts,19,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,4,7,-1,-1,-1,-1,-1,Premiership - Scotland,3038470
+Livingston,Ross County,19,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,0,1,-1,-1,-1,-1,-1,Premiership - Scotland,3038473
+Dundee United,Ayr United,18,4,0,4,n,1,0,0,1,1,3,0,0,3,3,1,3,4,-1,-1,-1,-1,-1,Championship - Scotland,3038645
+Peterhead,East Fife,18,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,0,1,-1,-1,-1,-1,-1,League One - Scotland,3038268
+Raith Rovers,Dumbarton,18,0,2,2,n,0,2,2,0,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,League One - Scotland,3038269
+Stranraer,Forfar Athletic,18,2,4,6,y,0,2,2,0,2,2,2,2,2,4,3,1,4,-1,-1,-1,-1,-1,League One - Scotland,3038270
+Cowdenbeath,Stenhousemuir,17,3,1,4,y,2,1,1,2,3,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,League Two - Scotland,3038820
+Elgin City,Brechin City,17,3,1,4,y,1,0,0,1,1,2,1,1,2,3,3,3,6,-1,-1,-1,-1,-1,League Two - Scotland,3038821
+Penybont,Newtown,18,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,2,4,-1,-1,-1,-1,-1,Premier League - Wales,3042904
+The New Saints,Cardiff MU,18,1,2,3,y,1,2,2,1,3,0,0,0,0,0,1,4,5,6,3,3,6,9,Premier League - Wales,3042905
+Internazionale,Genoa,17,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,4,5,6,3,3,6,9,Serie A - Italy,3111862
+Lecce,Bologna,17,2,3,5,y,0,1,1,0,1,2,2,2,2,4,3,3,6,6,2,2,6,8,Serie A - Italy,3111864
+Cittadella,Chievo,17,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,3,5,8,2,2,8,10,Serie B - Italy,3122704
+Crotone,Livorno,17,2,1,3,y,2,1,1,2,3,0,0,0,0,0,5,3,8,7,3,3,7,10,Serie B - Italy,3122705
+Juve Stabia,Venezia,17,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,0,3,3,8,8,3,11,Serie B - Italy,3122707
+Perugia,Virtus Entella,17,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,3,7,7,9,9,7,16,Serie B - Italy,3122708
+Pordenone,Ascoli,17,2,1,3,y,2,0,0,2,2,0,1,1,0,1,3,4,7,3,5,5,3,8,Serie B - Italy,3122711
+Barcelona,Deportivo Alavés,18,4,1,5,y,2,0,0,2,2,2,1,1,2,3,2,4,6,3,4,4,3,7,La Liga - Spain,3058980
+Leganes,Espanyol,18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,6,7,1,5,5,1,6,La Liga - Spain,3058983
+Levante,Celta Vigo,18,3,1,4,y,0,1,1,0,1,3,0,0,3,3,3,6,9,8,7,7,8,15,La Liga - Spain,3058984
+Osasuna,Real Sociedad,18,3,4,7,y,1,3,3,1,4,2,1,1,2,3,7,2,9,8,3,3,8,11,La Liga - Spain,3058986
+Real Madrid,Athletic Club,18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,6,4,4,6,10,La Liga - Spain,3058987
+Alcorcón,Fuenlabrada,21,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,3,8,6,6,6,6,12,Segunda División - Spain,3060134
+Almería,Ponferradina,21,2,3,5,y,1,0,0,1,1,1,3,3,1,4,4,1,5,7,2,2,7,9,Segunda División - Spain,3060135
+Deportivo La Coruña,Tenerife,21,2,1,3,y,1,0,0,1,1,1,1,1,1,2,4,1,5,2,3,3,2,5,Segunda División - Spain,3060137
+Huesca,Real Zaragoza,21,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,6,9,5,5,5,5,10,Segunda División - Spain,3060139
+Sporting Gijón,Extremadura UD,21,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,4,2,2,4,6,Segunda División - Spain,3060143
+Hoffenheim,Borussia Dortmund,17,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,1,1,0,8,8,0,8,Bundesliga - Germany,3047166
+Schalke 04,Freiburg,17,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,1,2,7,5,5,7,12,Bundesliga - Germany,3047170
+Köln,Werder Bremen,17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,4,5,1,7,7,1,8,Bundesliga - Germany,3047171
+Paderborn,Eintracht Frankfurt,17,2,1,3,y,2,0,0,2,2,0,1,1,0,1,3,2,5,3,8,8,3,11,Bundesliga - Germany,3047172
+Hannover 96,Stuttgart,18,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,3,4,8,4,4,8,12,2. Bundesliga - Germany,3047480
+Heidenheim,Osnabrück,18,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,3,4,6,7,7,6,13,2. Bundesliga - Germany,3047482
+Waldhof Mannheim,Chemnitzer FC,20,4,3,7,y,2,3,3,2,5,2,0,0,2,2,5,4,9,6,3,3,6,9,3. Liga - Germany,3053328
+Hallescher FC,Uerdingen,20,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,4,3,3,4,7,3. Liga - Germany,3053329
+Unterhaching,Kaiserslautern,20,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,4,6,6,7,7,6,13,3. Liga - Germany,3053331
+Sonnenhof Großaspach,MSV Duisburg,20,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,0,2,4,7,7,4,11,3. Liga - Germany,3053332
+Ingolstadt,Carl Zeiss Jena,20,5,1,6,y,2,0,0,2,2,3,1,1,3,4,2,6,8,3,5,5,3,8,3. Liga - Germany,3053333
+Preußen Münster,1860 München,20,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,4,8,3,3,3,3,6,3. Liga - Germany,3053334
+Eintracht Braunschweig,Magdeburg,20,2,2,4,y,0,0,0,0,0,2,2,2,2,4,4,2,6,11,2,2,11,13,3. Liga - Germany,3053335
+Zwickau,Meppen,20,2,2,4,y,2,0,0,2,2,0,2,2,0,2,3,1,4,7,15,15,7,22,3. Liga - Germany,3053336
+Montpellier,Brest,19,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,1,2,3,2,2,3,5,Ligue 1 - France,3030727
+Dijon,Metz,19,2,2,4,y,2,1,1,2,3,0,1,1,0,1,2,3,5,3,5,5,3,8,Ligue 1 - France,3030728
+Rennes,Bordeaux,19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,3,3,2,8,8,2,10,Ligue 1 - France,3030729
+Strasbourg,Saint-Etienne,19,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,2,5,2,7,7,2,9,Ligue 1 - France,3030730
+Reims,Olympique Lyonnais,19,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,3,5,4,4,4,4,8,Ligue 1 - France,3030732
+Nantes,Angers SCO,19,1,2,3,y,1,0,0,1,1,0,2,2,0,2,1,0,1,5,4,4,5,9,Ligue 1 - France,3030733
+Nice,Toulouse,19,3,0,3,n,3,0,0,3,3,0,0,0,0,0,1,4,5,12,4,4,12,16,Ligue 1 - France,3030734
+PSG,Amiens SC,19,4,1,5,y,1,0,0,1,1,3,1,1,3,4,0,1,1,7,3,3,7,10,Ligue 1 - France,3030735
+Olympique Marseille,Nîmes,19,3,1,4,y,0,0,0,0,0,3,1,1,3,4,3,2,5,7,4,4,7,11,Ligue 1 - France,3030736
+Valenciennes,Lorient,19,3,0,3,n,1,0,0,1,1,2,0,0,2,2,3,4,7,2,6,6,2,8,Ligue 2 - France,3031196
+Paris FC,Le Mans,19,0,3,3,n,0,0,0,0,0,0,3,3,0,3,4,3,7,4,2,2,4,6,Ligue 2 - France,3031197
+Orléans,Sochaux,19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,5,6,6,5,11,Ligue 2 - France,3031198
+Lens,Niort,19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,5,5,5,5,10,Ligue 2 - France,3031199
+Auxerre,Nancy,19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,3,6,9,4,4,9,13,Ligue 2 - France,3031204
+UD Oliveirense,Academico Viseu,11,2,0,2,n,1,0,0,1,1,1,0,0,1,1,4,3,7,4,6,6,4,10,Segunda Liga - Portugal,3065179
+RKC Waalwijk,Twente,18,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,1,2,3,3,3,3,6,Eredivisie - Netherlands,3032206
+Heerenveen,Heracles,18,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,1,2,4,6,6,4,10,Eredivisie - Netherlands,3032207
+Sparta Rotterdam,AZ,18,3,0,3,n,2,0,0,2,2,1,0,0,1,1,4,3,7,4,7,7,4,11,Eredivisie - Netherlands,3032208
+Ajax,ADO Den Haag,18,6,1,7,y,4,0,0,4,4,2,1,1,2,3,3,5,8,6,5,5,6,11,Eredivisie - Netherlands,3032211
+Utrecht,Feyenoord,18,1,2,3,y,1,1,1,1,2,0,1,1,0,1,4,1,5,8,3,3,8,11,Eredivisie - Netherlands,3032212
+Groningen,Emmen,18,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,4,5,11,3,3,11,14,Eredivisie - Netherlands,3032213
+Vitesse,VVV,18,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,2,4,6,2,2,6,8,Eredivisie - Netherlands,3032214
+Telstar,AZ II,20,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,1,2,-1,-1,-1,-1,-1,Eerste Divisie - Netherlands,3031678
+NAC Breda,Dordrecht,20,3,0,3,n,0,0,0,0,0,3,0,0,3,3,0,0,0,5,3,3,5,8,Eerste Divisie - Netherlands,3031864
+MVV,Helmond Sport,20,4,1,5,y,2,0,0,2,2,2,1,1,2,3,0,1,1,6,5,5,6,11,Eerste Divisie - Netherlands,3031865
+Den Bosch,PSV II,20,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,0,1,4,6,6,4,10,Eerste Divisie - Netherlands,3031867
+Excelsior,Cambuur,20,1,3,4,y,0,2,2,0,2,1,1,1,1,2,5,1,6,5,3,3,5,8,Eerste Divisie - Netherlands,3031868
+Anderlecht,Genk,20,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,6,5,5,6,11,First Division A - Belgium,3050293
+Gent,Club Brugge,20,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,1,5,3,3,3,3,6,First Division A - Belgium,3050294
+Royal Excel Mouscron,Sporting Charleroi,20,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,2,7,4,7,7,4,11,First Division A - Belgium,3050295
+AS Eupen,Kortrijk,20,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,2,3,2,2,2,2,4,First Division A - Belgium,3050296
+Mechelen,KV Oostende,20,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,1,4,5,6,6,5,11,First Division A - Belgium,3050298
+Sint-Truiden,Antwerp,20,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,7,5,5,7,12,First Division A - Belgium,3050300
+Górnik Zabrze,Jagiellonia Białystok,20,3,0,3,n,1,0,0,1,1,2,0,0,2,2,3,5,8,3,13,13,3,16,Ekstraklasa - Poland,3025853
+Lechia Gdańsk,Raków Częstochowa,20,0,3,3,n,0,0,0,0,0,0,3,3,0,3,4,0,4,5,2,2,5,7,Ekstraklasa - Poland,3025855
+Pogoń Szczecin,Korona Kielce,20,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,6,4,4,6,10,Ekstraklasa - Poland,3025857
+Wisła Płock,Piast Gliwice,20,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,2,3,3,2,2,3,5,Ekstraklasa - Poland,3025858
+Zagłębie Lubin,Legia Warszawa,20,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,3,6,6,3,3,6,9,Ekstraklasa - Poland,3025859
+Yeni Malatyaspor,Rizespor,16,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,3,5,6,4,4,6,10,Süper Lig - Turkey,3081912
+Göztepe,Galatasaray,16,2,1,3,y,1,1,1,1,2,1,0,0,1,1,4,2,6,2,5,5,2,7,Süper Lig - Turkey,3081914
+Fenerbahçe,Beşiktaş,16,3,1,4,y,2,1,1,2,3,1,0,0,1,1,2,3,5,9,5,5,9,14,Süper Lig - Turkey,3081917
+Kasımpaşa,Gaziantep FK,16,3,4,7,y,1,4,4,1,5,2,0,0,2,2,4,2,6,8,3,3,8,11,Süper Lig - Turkey,3081918
+Kayserispor,Istanbul Basaksehir,16,1,4,5,y,1,2,2,1,3,0,2,2,0,2,3,2,5,6,7,7,6,13,Süper Lig - Turkey,3081919
+Osmanlıspor,İstanbulspor,16,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,2,5,6,7,7,6,13,1. Lig - Turkey,3083304
+BB Erzurumspor,Altay,16,1,3,4,y,1,2,2,1,3,0,1,1,0,1,7,2,9,9,3,3,9,12,1. Lig - Turkey,3083308
+Eskişehirspor,Balıkesirspor,16,1,2,3,y,1,1,1,1,2,0,1,1,0,1,3,3,6,7,7,7,7,14,1. Lig - Turkey,3083310
+Akhisarspor,Boluspor,16,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,1,4,2,2,2,2,4,1. Lig - Turkey,3083311
+Larissa,Panionios,16,2,0,2,n,2,0,0,2,2,0,0,0,0,0,5,2,7,8,5,5,8,13,Super League 1 - Greece,3051974
+Panathinaikos,Aris,16,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,10,7,7,10,17,Super League 1 - Greece,3051977
+Voluntari,CFR Cluj,22,0,4,4,n,0,3,3,0,3,0,1,1,0,1,1,0,1,2,3,3,2,5,Liga I - Romania,3048402
+FCSB,Universitatea Craiova,22,2,0,2,n,2,0,0,2,2,0,0,0,0,0,4,3,7,4,5,5,4,9,Liga I - Romania,3048405
+Sepsi,Chindia Târgovişte,22,3,1,4,y,1,1,1,1,2,2,0,0,2,2,2,4,6,6,6,6,6,12,Liga I - Romania,3048406
+Hermannstadt,Politehnica Iași,22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,3,6,6,4,4,6,10,Liga I - Romania,3048408
+Wadi Degla,ENPPI,9,2,3,5,y,2,0,0,2,2,0,3,3,0,3,0,4,4,1,3,3,1,4,Premier League - Egypt,3172355
+Central Coast Mariners,Adelaide United,11,2,1,3,y,2,0,0,2,2,0,1,1,0,1,3,1,4,2,9,9,2,11,A-League - Australia,3129324
+Bolton Wanderers,Southend United,22,3,2,5,y,2,1,1,2,3,1,1,1,1,2,2,0,2,-1,-1,-1,-1,-1,League One - England,3035382
+Coventry City,Lincoln City,22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,League One - England,3035386
+Cardiff City,Preston North End,23,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,1,3,3,1,4,Championship - England,3036071
+Reading,Derby County,23,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,8,10,-1,-1,-1,-1,-1,Championship - England,3036096
+Morecambe,Newport County,22,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,1,2,-1,-1,-1,-1,-1,League Two - England,3036318
+Fylde,Sutton United,17,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,0,2,1,2,2,1,3,National League - England,3054071
+Fylde,Yeovil Town,26,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,3,4,5,7,7,5,12,National League - England,3054179
+Aldershot Town,Stockport County,26,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,1,1,5,6,6,5,11,National League - England,3054180
+Chorley,Dover Athletic,26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,5,4,4,5,9,National League - England,3054183
+Hartlepool United,Dagenham & Redbridge,26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,11,3,3,11,14,National League - England,3054186
+Maidenhead United,Barnet,26,1,4,5,y,1,2,2,1,3,0,2,2,0,2,3,4,7,2,3,3,2,5,National League - England,3054187
+Altrincham,Kidderminster Harriers,21,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054708
+Spennymoor Town,Bradford (Park Avenue),21,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054716
+Dartford,Concord Rangers,21,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055172
+Celtic,Aberdeen,19,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,Premiership - Scotland,3038469
+Kilmarnock,Motherwell,19,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,-1,-1,-1,-1,-1,Premiership - Scotland,3038472
+St. Johnstone,St. Mirren,19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,-1,-1,-1,-1,-1,Premiership - Scotland,3038474
+Alloa Athletic,Greenock Morton,18,0,2,2,n,0,0,0,0,0,0,2,2,0,2,0,2,2,-1,-1,-1,-1,-1,Championship - Scotland,3038644
+Inverness CT,Dunfermline Athletic,18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - Scotland,3038646
+Queen of the South,Arbroath,18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - Scotland,3038648
+Clyde,Airdrieonians,18,3,1,4,y,2,1,1,2,3,1,0,0,1,1,1,0,1,-1,-1,-1,-1,-1,League One - Scotland,3038266
+Montrose,Falkirk,18,2,3,5,y,0,1,1,0,1,2,2,2,2,4,1,2,3,-1,-1,-1,-1,-1,League One - Scotland,3038267
+Stirling Albion,Edinburgh City,17,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,2,4,-1,-1,-1,-1,-1,League Two - Scotland,3038823
+Udinese,Cagliari,17,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,4,7,2,1,1,2,3,Serie A - Italy,3111869
+Empoli,Salernitana,17,1,1,2,y,1,1,1,1,2,0,0,0,0,0,4,4,8,5,5,5,5,10,Serie B - Italy,3122706
+Mallorca,Sevilla,18,0,2,2,n,0,1,1,0,1,0,1,1,0,1,5,3,8,3,6,6,3,9,La Liga - Spain,3058985
+Albacete,Elche,21,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,3,6,10,7,7,10,17,Segunda División - Spain,3060133
+Erzgebirge Aue,Greuther Fürth,18,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,4,5,2,4,4,2,6,2. Bundesliga - Germany,3047486
+Troyes,Ajaccio,19,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,5,7,8,7,7,8,15,Ligue 2 - France,3031203
+Sint-Truiden,Genk,9,3,3,6,y,0,1,1,0,1,3,2,2,3,5,6,1,7,10,13,13,10,23,First Division A - Belgium,3050210
+Radnik Surdulica,Partizan,6,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,1,4,0,4,4,0,4,Super Liga - Serbia,3030057
+Crvena Zvezda,Čukarički,6,3,1,4,y,1,1,1,1,2,2,0,0,2,2,2,3,5,7,3,3,7,10,Super Liga - Serbia,3030060
+Proleter Novi Sad,Radnički Niš,16,1,1,2,y,0,1,1,0,1,1,0,0,1,1,7,1,8,3,9,9,3,12,Super Liga - Serbia,3030136
+Everton,Arsenal - Premier League - England,18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,5,4,4,5,9,Premier League - England,3029246
+Middlesbrough,Stoke City,23,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,4,6,4,2,2,4,6,Championship - England,3036088
+Grimsby Town,Scunthorpe United,22,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,5,7,-1,-1,-1,-1,-1,League Two - England,3036312
+Aberystwyth Town,Barry Town United,18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,5,3,8,-1,-1,-1,-1,-1,Premier League - Wales,3042900
+Atalanta,Milan,17,5,0,5,n,1,0,0,1,1,4,0,0,4,4,2,4,6,5,2,2,5,7,Serie A - Italy,3111860
+Benevento,Frosinone,17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,6,6,4,3,3,4,7,Serie B - Italy,3122703
+Hertha BSC,Borussia M'gladbach,17,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,1,7,7,1,8,Bundesliga - Germany,3047168
+Monaco,Lille,19,5,1,6,y,2,1,1,2,3,3,0,0,3,3,6,1,7,5,6,6,5,11,Ligue 1 - France,3030731
+Willem II,Fortuna Sittard,18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,3,4,7,Eredivisie - Netherlands,3032210
+Cercle Brugge,Zulte-Waregem,20,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,2,3,6,6,6,6,12,First Division A - Belgium,3050297
+Asteras Tripolis,Xanthi,16,5,0,5,n,2,0,0,2,2,3,0,0,3,3,0,3,3,4,1,1,4,5,Super League 1 - Greece,3051975
+Al Masry,Pyramids,9,1,1,2,y,0,1,1,0,1,1,0,0,1,1,5,2,7,4,7,7,4,11,Premier League - Egypt,3172349
+El Gouna,El Geish,9,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,3,5,2,4,4,2,6,Premier League - Egypt,3172353
+Hibernian,Rangers,19,0,3,3,n,0,2,2,0,2,0,1,1,0,1,6,1,7,2,5,5,2,7,Premiership - Scotland,3038471
+Connah's Quay,Bala Town,18,2,1,3,y,0,1,1,0,1,2,0,0,2,2,4,3,7,-1,-1,-1,-1,-1,Premier League - Wales,3042901
+Fiorentina,Roma,17,1,4,5,y,1,2,2,1,3,0,2,2,0,2,4,3,7,5,4,4,5,9,Serie A - Italy,3111861
+Nürnberg,Dynamo Dresden,18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,4,7,7,5,5,7,12,2. Bundesliga - Germany,3047481
+Karlsruher SC,Wehen Wiesbaden,18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,3,5,8,1,1,8,9,2. Bundesliga - Germany,3047488
+Volendam,De Graafschap,20,3,3,6,y,2,2,2,2,4,1,1,1,1,2,1,0,1,5,4,4,5,9,Eerste Divisie - Netherlands,3031863
+Aston Villa,Southampton,18,1,3,4,y,0,2,2,0,2,1,1,1,1,2,2,1,3,7,5,5,7,12,Premier League - England,3029244
+Manchester City,Leicester City,18,3,1,4,y,2,1,1,2,3,1,0,0,1,1,2,2,4,6,0,0,6,6,Premier League - England,3029247
+Rotherham United,Fleetwood Town,22,2,2,4,y,0,1,1,0,1,2,1,1,2,3,3,1,4,-1,-1,-1,-1,-1,League One - England,3035391
+Tranmere Rovers,AFC Wimbledon,22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,0,2,-1,-1,-1,-1,-1,League One - England,3035392
+Millwall,Barnsley,23,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,4,6,8,3,3,8,11,Championship - England,3036091
+Exeter City,Walsall,22,3,3,6,y,2,3,3,2,5,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,League Two - England,3036307
+Boreham Wood,Harrogate Town,26,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,1,1,6,3,3,6,9,National League - England,3054181
+Sutton United,Wrexham,26,3,1,4,y,2,0,0,2,2,1,1,1,1,2,2,0,2,2,5,5,2,7,National League - England,3054189
+Alfreton Town,Kettering Town,21,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054707
+Brackley Town,Curzon Ashton,21,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054711
+Hereford,Guiseley,21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054715
+York City,Darlington,21,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054717
+Braintree Town,Havant & Waterlooville,21,3,3,6,y,1,1,1,1,2,2,2,2,2,4,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055170
+Hungerford Town,Dulwich Hamlet,21,1,4,5,y,0,0,0,0,0,1,4,4,1,5,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055176
+Partick Thistle,Dundee,18,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - Scotland,3038647
+Albion Rovers,Annan Athletic,17,4,2,6,y,2,0,0,2,2,2,2,2,2,4,3,1,4,-1,-1,-1,-1,-1,League Two - Scotland,3038819
+Airbus UK,Cefn Druids,18,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Premier League - Wales,3042902
+Carmarthen Town,Caernarfon Town,18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,-1,-1,-1,-1,-1,Premier League - Wales,3042903
+Torino,SPAL,17,1,2,3,y,1,1,1,1,2,0,1,1,0,1,4,4,8,10,3,3,10,13,Serie A - Italy,3111868
+Cádiz,Numancia,21,2,4,6,y,1,1,1,1,2,1,3,3,1,4,6,1,7,10,3,3,10,13,Segunda División - Spain,3060136
+Las Palmas,Rayo Vallecano,21,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,3,6,3,4,4,3,7,Segunda División - Spain,3060140
+Málaga,Lugo,21,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,4,9,5,3,3,5,8,Segunda División - Spain,3060141
+Racing Santander,Real Oviedo,21,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,6,8,9,2,2,9,11,Segunda División - Spain,3060142
+Bayern Munich,Wolfsburg,17,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,2,4,12,6,6,12,18,Bundesliga - Germany,3047164
+RB Leipzig,Augsburg,17,3,1,4,y,0,1,1,0,1,3,0,0,3,3,1,3,4,11,4,4,11,15,Bundesliga - Germany,3047165
+Mainz 05,Bayer Leverkusen,17,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,2,2,6,6,6,6,12,Bundesliga - Germany,3047169
+St. Pauli,Arminia Bielefeld,18,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,0,1,5,5,5,5,10,2. Bundesliga - Germany,3047483
+Darmstadt 98,Hamburger SV,18,2,2,4,y,1,2,2,1,3,1,0,0,1,1,0,1,1,2,4,4,2,6,2. Bundesliga - Germany,3047484
+Leixões,Cova Piedade,14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,6,4,4,6,10,Segunda Liga - Portugal,3065202
+PSV,PEC Zwolle,18,4,1,5,y,2,1,1,2,3,2,0,0,2,2,1,4,5,7,3,3,7,10,Eredivisie - Netherlands,3032209
+Waasland-Beveren,Standard Liège,20,2,1,3,y,0,1,1,0,1,2,0,0,2,2,6,2,8,3,0,0,3,3,First Division A - Belgium,3050299
+Lamia,AEK Athens,16,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,5,6,5,6,6,5,11,Super League 1 - Greece,3051980
+Perth Glory,Newcastle Jets,11,6,2,8,y,2,1,1,2,3,4,1,1,4,5,0,2,2,6,2,2,6,8,A-League - Australia,3129323
+Tottenham Hotspur,Chelsea,18,0,2,2,n,0,2,2,0,2,0,0,0,0,0,5,3,8,3,5,5,3,8,Premier League - England,3029250
+Parma,Brescia,17,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,2,5,9,5,5,9,14,Serie A - Italy,3111865
+Sassuolo,Napoli,17,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,2,4,7,11,11,7,18,Serie A - Italy,3111867
+Pescara,Trapani,17,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,6,3,3,6,9,Serie B - Italy,3122709
+Pisa,Cosenza,17,1,3,4,y,0,3,3,0,3,1,0,0,1,1,5,3,8,1,8,8,1,9,Serie B - Italy,3122710
+Real Betis,Atletico Madrid,18,1,2,3,y,0,0,0,0,0,1,2,2,1,3,4,3,7,5,3,3,5,8,La Liga - Spain,3058981
+Girona,Mirandés,21,0,3,3,n,0,1,1,0,1,0,2,2,0,2,1,2,3,7,4,4,7,11,Segunda División - Spain,3060138
+Fortuna Dusseldorf,Union Berlin,17,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,4,6,7,5,5,7,12,Bundesliga - Germany,3047167
+Bochum,Jahn Regensburg,18,2,3,5,y,1,2,2,1,3,1,1,1,1,2,1,3,4,11,6,6,11,17,2. Bundesliga - Germany,3047485
+Sandhausen,Holstein Kiel,18,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,1,2,11,3,3,11,14,2. Bundesliga - Germany,3047487
+Bayern München II,Würzburger Kickers,20,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,1,5,4,13,13,4,17,3. Liga - Germany,3053330
+Gençlerbirliği,Sivasspor,16,2,2,4,y,0,1,1,0,1,2,1,1,2,3,3,2,5,8,7,7,8,15,Süper Lig - Turkey,3081916
+Fatih Karagümrük,Keçiörengücü,16,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,1,2,13,7,7,13,20,1. Lig - Turkey,3083305
+Menemenspor,Bursaspor,16,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,1,3,7,4,4,7,11,1. Lig - Turkey,3083307
+Volos NFC,Olympiakos Piraeus,16,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,0,3,4,10,10,4,14,Super League 1 - Greece,3051976
+Panaitolikos,OFI,16,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,4,5,3,7,7,3,10,Super League 1 - Greece,3051978
+Villarreal,Getafe,18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,5,7,2,5,5,2,7,La Liga - Spain,3058988
+Real Valladolid,Valencia,18,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,3,3,5,4,4,5,9,La Liga - Spain,3058989
+Queen's Park,Cove Rangers,17,1,3,4,y,0,2,2,0,2,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,League Two - Scotland,3038822

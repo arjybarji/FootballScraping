@@ -89,6 +89,7 @@ def parse(url):
                 dds = soup.findAll('dd')
                 dts = soup.findAll('dt')
                 date = dds[1].text.strip()
+#                date = str(datetime.strptime(date, '%d %B %Y'))
                 league = dds[0].text.strip()
                 #print(soup.findAll('div', attrs = {'class' : 'block  clearfix block_competition_left_tree-wrapper'}))
                 country = dds[0].find('a')['href'].split("/")[2].strip().capitalize()
