@@ -304,9 +304,9 @@ Jablonec
 Bohemians 1905
 České Budějovice
 Opava
-Hajduk Split
-Inter Zaprešić
 Gorica
+Inter Zaprešić
+Hajduk Split
 Arka Gdynia
 Jagiellonia Białystok
 Legia Warszawa
@@ -323,32 +323,34 @@ Wisła Płock
 Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
+Zenit
+Tambov
+Spartak Moscow
+Sochi
+Rostov
+Orenburg
+Lokomotiv Moscow
+Rubin Kazan
+Akhmat Grozny
+Krasnodar
+Arsenal Tula
+Dinamo Moscow
 Krylya Sovetov
 CSKA Moscow
 Ural
 Ufa
-Orenburg
-Dinamo Moscow
-Rubin Kazan
-Lokomotiv Moscow
-Tambov
-Sochi
-Zenit
-Arsenal Tula
-Krasnodar
-Akhmat Grozny
-Spartak Moscow
-Rostov
 Sion
 Basel
+Thun
+Neuchâtel Xamax
 Luzern
 Servette
 Zürich
 Lugano
-Thun
-Neuchâtel Xamax
 Sivasspor
 Beşiktaş
+Fenerbahçe
+Gaziantep FK
 Yeni Malatyaspor
 Istanbul Basaksehir
 Gençlerbirliği
@@ -363,8 +365,24 @@ Denizlispor
 Galatasaray
 Göztepe
 Antalyaspor
-Gaziantep FK
-Fenerbahçe
+Altay
+Ümraniyespor
+Adana Demirspor
+Balıkesirspor
+Osmanlıspor
+Boluspor
+BB Erzurumspor
+İstanbulspor
+Eskişehirspor
+Keçiörengücü
+Akhisarspor
+Adanaspor
+Fatih Karagümrük
+Bursaspor
+Hatayspor
+Altınordu
+Giresunspor
+Menemenspor
 AEK Athens
 Xanthi
 Aris
@@ -395,14 +413,14 @@ Astra
 Botoşani
 Zemplín Michalovce
 Žilina
+Senica
+Trenčín
 Ružomberok
 Spartak Trnava
 Sereď
 DAC
-Trenčín
-Senica
-Radnički Niš
 Javor Ivanjica
+Radnički Niš
 Voždovac
 Maccabi Netanya
 Maccabi Tel Aviv
@@ -414,10 +432,18 @@ Hapoel Ra'anana
 Hapoel Be'er Sheva
 Hapoel Hadera
 Ashdod
+Racing Club
+Unión
+Colón
+Patronato
 San Lorenzo
 Godoy Cruz
+Lanús
+Gimnasia La Plata
 Argentinos Juniors
 River Plate
+Estudiantes
+Newell's Old Boys
 Talleres de Córdoba
 Vélez Sarsfield
 Defensa y Justicia
@@ -426,14 +452,16 @@ Huracán
 Arsenal - Superliga - Argentina
 Banfield
 Atlético Tucumán
-Racing Club
-Unión
-Gimnasia La Plata
-Estudiantes
-Lanús
-Patronato
-Newell's Old Boys
-Colón
+El Geish
+El Gouna
+Pyramids
+ENPPI
+El Entag El Harby
+Masr
+Tanta
+Haras El Hodood
+Zamalek
+Al Ittihad
 Adelaide United
 Sydney
 Western Sydney Wanderers
@@ -445,31 +473,3 @@ Western United
 Perth Glory
 Brisbane Roar
 Newcastle Jets
-El Geish
-El Gouna
-Pyramids
-ENPPI
-El Entag El Harby
-Masr
-Tanta
-Haras El Hodood
-Zamalek
-Al Ittihad
-Altay
-Ümraniyespor
-Adana Demirspor
-Balıkesirspor
-Akhisarspor
-Adanaspor
-Giresunspor
-Menemenspor
-BB Erzurumspor
-İstanbulspor
-Hatayspor
-Eskişehirspor
-Bursaspor
-Keçiörengücü
-Osmanlıspor
-Altınordu
-Boluspor
-Fatih Karagümrük

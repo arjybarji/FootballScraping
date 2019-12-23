@@ -138,9 +138,6 @@ Southport
 Chester
 Billericay Town
 Wealdstone
-Oxford City
-Hampton & Richmond
-Slough Town
 Bath City
 Chippenham Town
 Chelmsford City
@@ -149,9 +146,12 @@ Concord Rangers
 Dorking Wanderers
 Eastbourne Borough
 Dulwich Hamlet
+Hampton & Richmond
 Havant & Waterlooville
 Weymouth
+Oxford City
 Hungerford Town
+Slough Town
 St Albans City
 Hemel Hempstead Town
 Tonbridge Angels
@@ -560,10 +560,6 @@ Young Boys
 Basel
 Zürich
 Luzern
-Konyaspor
-Trabzonspor
-Denizlispor
-Alanyaspor
 Sivasspor
 Göztepe
 Istanbul Basaksehir
@@ -571,6 +567,10 @@ Kasımpaşa
 Beşiktaş
 Gençlerbirliği
 Ankaragücü
+Denizlispor
+Alanyaspor
+Konyaspor
+Trabzonspor
 Kayserispor
 Gaziantep FK
 Yeni Malatyaspor
@@ -578,9 +578,8 @@ Rizespor
 Fenerbahçe
 Galatasaray
 Antalyaspor
-Giresunspor
-Altınordu
 Altay
+Giresunspor
 Boluspor
 Eskişehirspor
 Ümraniyespor
@@ -595,14 +594,15 @@ Balıkesirspor
 Osmanlıspor
 İstanbulspor
 Adana Demirspor
+Altınordu
 Menemenspor
-PAOK
-Atromitos
 AEK Athens
 Panaitolikos
 Xanthi
 Larissa
 Aris
+PAOK
+Atromitos
 Asteras Tripolis
 Olympiakos Piraeus
 Panathinaikos
@@ -676,8 +676,6 @@ Argentinos Juniors
 Godoy Cruz
 Aswan
 El Geish
-Al Ahly
-Al Ittihad
 ENPPI
 Haras El Hodood
 Smouha
@@ -691,7 +689,9 @@ Wadi Degla
 Masr
 Misr Lel Makasa
 Ismaily
+Al Ittihad
 Al Mokawloon
+Al Ahly
 Adelaide United
 Western Sydney Wanderers
 Western United

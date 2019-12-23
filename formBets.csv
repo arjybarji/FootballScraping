@@ -9,11 +9,11 @@
 28 December 2019,Norwich City vs Tottenham Hotspur,Over 1.0 FH Goal Line,Premier League
 28 December 2019,Norwich City vs Tottenham Hotspur,Goal In Each Half,Premier League
 26 December 2019,Oxford United vs Lincoln City,BTTS No,League One
-26 December 2019,Rochdale vs Fleetwood Town,Over 2.5 Goals,League One
 26 December 2019,Rochdale vs Fleetwood Town,Over 0.5/1.0 FH Goal Line,League One
-26 December 2019,Shrewsbury Town vs Rotherham United,Over 3 Match Cards,League One
-26 December 2019,Sunderland vs Bolton Wanderers,Over 0.5/1.0 FH Goal Line,League One
-29 December 2019,Accrington Stanley vs Burton Albion,Over 0.5/1.0 FH Goal Line,League One
+26 December 2019,Sunderland vs Bolton Wanderers,Over 1.0 FH Goal Line,League One
+26 December 2019,Sunderland vs Bolton Wanderers,Under 5 Match Cards,League One
+29 December 2019,Accrington Stanley vs Burton Albion,Over 1.0 FH Goal Line,League One
+29 December 2019,Lincoln City vs Ipswich Town,Under 1.5 SH Goals,League One
 29 December 2019,Lincoln City vs Ipswich Town,Over 3 Match Cards,League One
 26 December 2019,Blackburn Rovers vs Birmingham City,Under 5 Match Cards,Championship
 26 December 2019,Hull City vs Nottingham Forest,Over 0.5/1.0 FH Goal Line,Championship
@@ -52,8 +52,6 @@
 28 December 2019,Halifax Town vs Chesterfield,Goal In Each Half,National League
 28 December 2019,Maidenhead United vs Wrexham,Under 5 Match Cards,National League
 28 December 2019,Solihull Moors vs Notts County,Over 1.0 FH Goal Line,National League
-28 December 2019,Sutton United vs Yeovil Town,Over 0.5/1.0 FH Goal Line,National League
-28 December 2019,Sutton United vs Yeovil Town,Goal In Each Half,National League
 26 December 2019,King's Lynn Town vs Boston United,Over 2.5 Goals,National League CHANGE
 26 December 2019,Chelmsford City vs Braintree Town,Over 2.5 Goals,National League CHANGE
 28 December 2019,Billericay Town vs Chelmsford City,BTTS Yes,National League CHANGE
@@ -86,13 +84,10 @@
 26 December 2019,Club Brugge vs Zulte-Waregem,Under 1.5 SH Goals,Belgium Pro
 26 December 2019,Standard Liège vs Gent,Over 0.5/1.0 FH Goal Line,Belgium Pro
 27 December 2019,Sporting Charleroi vs KV Oostende,Under 5 Match Cards,Belgium Pro
-23 December 2019,Denizlispor vs Alanyaspor,Under 1.0 FH Goal Line,Super-Lig
 29 December 2019,Sivasspor vs Göztepe,Over 3 Match Cards,Super-Lig
 29 December 2019,Gaziantep FK vs Yeni Malatyaspor,Over 3 Match Cards,Super-Lig
 29 December 2019,Rizespor vs Fenerbahçe,Over 3 Match Cards,Super-Lig
 28 December 2019,Galatasaray vs Antalyaspor,Over 3 Match Cards,Super-Lig
-23 December 2019,Giresunspor vs Altınordu,Over 3 Match Cards,Turkey 2
-29 December 2019,Altay vs Giresunspor,Over 3 Match Cards,Turkey 2
 28 December 2019,Ümraniyespor vs BB Erzurumspor,Over 3 Match Cards,Turkey 2
 27 December 2019,Adanaspor vs Fatih Karagümrük,Over 3 Match Cards,Turkey 2
 29 December 2019,Keçiörengücü vs Akhisarspor,Over 3 Match Cards,Turkey 2
