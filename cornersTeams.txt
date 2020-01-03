@@ -18,12 +18,9 @@ Manchester United
 Chelsea
 Newcastle United
 Arsenal - Premier League - England
-Fylde
-Barnet
 Yeovil Town
 Woking
 Halifax Town
-Hartlepool United
 Torquay United
 Cagliari
 Brescia
@@ -452,12 +449,10 @@ Huracán
 Arsenal - Superliga - Argentina
 Banfield
 Atlético Tucumán
-El Geish
 El Gouna
 Pyramids
 ENPPI
 El Entag El Harby
-Masr
 Tanta
 Haras El Hodood
 Zamalek

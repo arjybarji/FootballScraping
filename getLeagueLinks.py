@@ -14,9 +14,9 @@ from itertools import cycle
 import winsound
 import datetime
 
-start = 3028914
-end = 3032887
-toCheck = "First League - Bulgaria"
+start = 3052167
+end = 3052896
+toCheck = "1. Division - Cyprus"
 leagueFile = open(toCheck + " - Links.txt","w")
 
 def get_proxies():
@@ -73,6 +73,7 @@ def check(value):
             league = dds[0].text.strip()
             country = dds[0].find('a')['href'].split("/")[2].strip().capitalize()
             league = league + " - " + country
+            print(league)
             print(end - value)
             if(league == toCheck):
                 return(gameURL)
@@ -86,14 +87,17 @@ if __name__ == '__main__':
     todo = range(start,end+1)
     if(len(proxies)>0):
         #p = Pool(50)  # Pool tells how many at a time
-        p = Pool(30)  # Pool tells how many at a time
+        p = Pool(20)  # Pool tells how many at a time
         records = p.map(check, todo)
         p.terminate()
         p.join()
+        count = 0
         for r in records:
             if r is not None:
                 print(r)
                 leagueFile.write(r + "\n")
+                count+=1
+    print("Count:" +str(count))
     duration = 1000  # milliseconds
     freq = 440  # Hz
     winsound.Beep(freq, duration)    

@@ -87,6 +87,8 @@ def parse(url):
                 if(len(teams)!=3):
                     print(teams)
                 middle = teams[1].text.strip()
+                if(middle.lower() == "postponed"):
+                    return None
                 dds = soup.findAll('dd')
                 dts = soup.findAll('dt')
                 date = dds[1].text.strip()
@@ -161,8 +163,6 @@ def parse(url):
                             matchCards = homeTeamCards + awayTeamCards
 
                         except Exception as e:
-                            print(e)
-                            print(url)
                             homeTeamCards = -1
                             awayTeamCards = -1
                             matchCards = -1
@@ -228,7 +228,7 @@ if __name__ == '__main__':
             todo.append(c)
     print(len(proxies))
     if(len(proxies)>0):
-        p = Pool(50)  # Pool tells how many at a time
+        p = Pool(80)  # Pool tells how many at a time
         #p = Pool(30)  # Pool tells how many at a time
         records = p.map(parse, todo)
         p.terminate()

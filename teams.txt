@@ -1,217 +1,217 @@
 Teams
-AFC Bournemouth
-Arsenal - Premier League - England
-Aston Villa
-Norwich City
-Chelsea
-Southampton
-Crystal Palace
 West Ham United
-Everton
-Burnley
-Leicester City
 Liverpool
-Manchester United
-Newcastle United
 Sheffield United
+AFC Bournemouth
 Watford
-Tottenham Hotspur
-Brighton & Hove Albion
-Wolverhampton Wanderers
+Aston Villa
 Manchester City
+Chelsea
+Burnley
+Crystal Palace
+Arsenal - Premier League - England
+Everton
+Brighton & Hove Albion
+Leicester City
+Southampton
+Manchester United
+Norwich City
+Tottenham Hotspur
+Wolverhampton Wanderers
+Newcastle United
 Sunderland
 Fleetwood Town
 Doncaster Rovers
 Shrewsbury Town
 Portsmouth
 Blackpool
-Accrington Stanley
-Bristol Rovers
-AFC Wimbledon
-Burton Albion
-Tranmere Rovers
-Ipswich Town
-Gillingham
-Oxford United
-Lincoln City
-Peterborough United
-Wycombe Wanderers
-Rochdale
-Rotherham United
-Southend United
-Milton Keynes Dons
 Bolton Wanderers
+Lincoln City
+Bristol Rovers
+Burton Albion
 Coventry City
+Milton Keynes Dons
+Ipswich Town
+Accrington Stanley
+Oxford United
+Rotherham United
+Peterborough United
+Gillingham
+AFC Wimbledon
+Rochdale
+Southend United
+Tranmere Rovers
+Wycombe Wanderers
 Nottingham Forest
 Reading
-Blackburn Rovers
-Wigan Athletic
-Barnsley
-West Bromwich Albion
-Birmingham City
-Brentford
-Swansea City
-Cardiff City
-Millwall
-Charlton Athletic
-Bristol City
-Hull City
-Leeds United
-Preston North End
-Luton Town
-Fulham
-Middlesbrough
-Huddersfield Town
-Queens Park Rangers
-Stoke City
-Sheffield Wednesday
 Derby County
+Barnsley
+Swansea City
+Charlton Athletic
+Huddersfield Town
+Blackburn Rovers
+Preston North End
+Brentford
+Queens Park Rangers
+Cardiff City
+West Bromwich Albion
+Hull City
+Fulham
+Leeds United
+Sheffield Wednesday
+Luton Town
+Birmingham City
+Middlesbrough
+Stoke City
+Millwall
+Wigan Athletic
+Bristol City
 Colchester United
 Bradford City
 Stevenage
 Oldham Athletic
-Carlisle United
-Cheltenham Town
+Macclesfield Town
 Plymouth Argyle
+Cheltenham Town
 Crawley Town
+Forest Green Rovers
+Leyton Orient
 Northampton Town
+Cambridge United
+Mansfield Town
+Grimsby Town
+Morecambe
+Port Vale
+Salford City
+Walsall
+Scunthorpe United
+Swindon Town
+Carlisle United
 Exeter City
 Newport County
-Leyton Orient
-Macclesfield Town
-Grimsby Town
-Mansfield Town
-Port Vale
-Morecambe
-Salford City
 Crewe Alexandra
-Scunthorpe United
-Walsall
-Forest Green Rovers
-Swindon Town
-Cambridge United
 Barnet
-Boreham Wood
-Barrow
-Fylde
-Chesterfield
-Solihull Moors
-Dagenham & Redbridge
-Ebbsfleet United
-Dover Athletic
-Bromley
-Eastleigh
-Aldershot Town
-Harrogate Town
-Hartlepool United
-Notts County
-Maidenhead United
-Stockport County
 Halifax Town
-Woking
+Barrow
+Ebbsfleet United
+Chesterfield
 Sutton United
-Wrexham
-Chorley
-Yeovil Town
+Dagenham & Redbridge
 Torquay United
+Dover Athletic
+Hartlepool United
+Harrogate Town
+Maidenhead United
+Notts County
+Bromley
+Stockport County
+Boreham Wood
+Woking
+Chorley
+Wrexham
+Aldershot Town
+Yeovil Town
+Solihull Moors
+Fylde
+Eastleigh
+Guiseley
+Darlington
 Altrincham
 Blyth Spartans
 Boston United
 Brackley Town
 AFC Telford United
-Alfreton Town
 Bradford (Park Avenue)
-York City
 Curzon Ashton
-Darlington
-Spennymoor Town
-Gateshead
-Guiseley
-Farsley Celtic
-Kettering Town
-Kidderminster Harriers
-Hereford
-King's Lynn Town
-Leamington
+Alfreton Town
 Gloucester City
-Southport
+Gateshead
+Hereford
 Chester
+Kettering Town
+Farsley Celtic
+Kidderminster Harriers
+King's Lynn Town
+Spennymoor Town
+Leamington
+Southport
+York City
 Billericay Town
 Wealdstone
 Bath City
-Chippenham Town
 Chelmsford City
-Braintree Town
-Concord Rangers
-Dorking Wanderers
-Eastbourne Borough
-Dulwich Hamlet
-Hampton & Richmond
-Havant & Waterlooville
-Weymouth
-Oxford City
-Hungerford Town
-Slough Town
-St Albans City
 Hemel Hempstead Town
-Tonbridge Angels
-Maidstone United
-Welling United
+Concord Rangers
+Hampton & Richmond
+Dorking Wanderers
 Dartford
+Dulwich Hamlet
+Braintree Town
+Havant & Waterlooville
+Maidstone United
+Oxford City
+Slough Town
+Eastbourne Borough
+St Albans City
+Hungerford Town
+Tonbridge Angels
+Chippenham Town
+Welling United
+Weymouth
 Rangers
 Ross County
 St. Johnstone
 Celtic
 Aberdeen
-Livingston
-Hamilton Academical
-Hearts
-Hibernian
-Kilmarnock
 Motherwell
+Hibernian
+Hamilton Academical
+Kilmarnock
+Livingston
 St. Mirren
+Hearts
+Alloa Athletic
+Partick Thistle
+Arbroath
+Greenock Morton
+Dundee
+Inverness CT
+Dunfermline Athletic
 Ayr United
 Queen of the South
 Dundee United
-Dundee
-Dunfermline Athletic
-Alloa Athletic
-Inverness CT
-Arbroath
-Greenock Morton
-Partick Thistle
 Airdrieonians
+Forfar Athletic
+Clyde
+Stranraer
 Falkirk
 Dumbarton
-Stranraer
+Montrose
 East Fife
 Raith Rovers
-Forfar Athletic
-Montrose
 Peterhead
-Clyde
-Annan Athletic
-Queen's Park
-Brechin City
 Albion Rovers
+Stirling Albion
+Brechin City
 Cove Rangers
+Cowdenbeath
+Annan Athletic
 Elgin City
 Edinburgh City
-Cowdenbeath
+Queen's Park
 Stenhousemuir
-Stirling Albion
 Penybont
 Caernarfon Town
+Aberystwyth Town
+Carmarthen Town
+Airbus UK
+Cefn Druids
+Connah's Quay
 Barry Town United
+Newtown
+The New Saints
 Cardiff MU
 Bala Town
-Carmarthen Town
-Cefn Druids
-The New Saints
-Connah's Quay
-Airbus UK
-Newtown
-Aberystwyth Town
 Lazio
 Hellas Verona
 Atalanta
@@ -232,26 +232,26 @@ Internazionale
 Roma
 Torino
 SPAL
+Trapani
 Ascoli
-Pisa
-Chievo
-Benevento
+Spezia
+Cittadella
 Cosenza
-Empoli
-Cremonese
-Juve Stabia
-Frosinone
 Crotone
-Livorno
+Juve Stabia
+Empoli
+Chievo
+Perugia
+Benevento
+Pisa
+Frosinone
+Pordenone
 Pescara
 Salernitana
-Pordenone
-Trapani
-Perugia
+Cremonese
 Venezia
-Cittadella
+Livorno
 Virtus Entella
-Spezia
 Deportivo Alavés
 Real Betis
 Atletico Madrid
@@ -392,6 +392,7 @@ Niort
 Le Havre
 Gazélec Ajaccio
 Béziers
+Concarneau
 Bourg-en-Bresse
 Pau
 Lyon Duchère
@@ -400,7 +401,6 @@ Red Star
 Laval
 Boulogne
 Avranches
-Concarneau
 Bastia-Borgo
 Créteil
 Le Puy Foot
@@ -426,23 +426,23 @@ Rio Ave
 Marítimo
 Sporting CP
 Porto
-Chaves
-Vilafranquense
-Feirense
-Casa Pia
-Académica
-UD Oliveirense
-Penafiel
-Estoril
-Sporting Covilhã
-Benfica II
-Mafra
-Academico Viseu
 Leixões
+Penafiel
+UD Oliveirense
+Mafra
 Cova Piedade
+Chaves
+Academico Viseu
 Nacional
+Estoril
+Feirense
 Farense
+Benfica II
 Porto II
+Académica
+Casa Pia
+Sporting Covilhã
+Vilafranquense
 Varzim
 Fortuna Sittard
 Vitesse
@@ -508,22 +508,22 @@ Esbjerg
 Copenhagen
 Silkeborg
 AaB
+Anderlecht
 Club Brugge
-Zulte-Waregem
-Standard Liège
 Gent
-Genk
-AS Eupen
-Kortrijk
-Cercle Brugge
 Royal Excel Mouscron
-Mechelen
+AS Eupen
 Sporting Charleroi
 KV Oostende
-Antwerp
-Anderlecht
 Waasland-Beveren
+Zulte-Waregem
+Genk
+Cercle Brugge
+Antwerp
+Mechelen
+Standard Liège
 Sint-Truiden
+Kortrijk
 Sparta Praha
 Slovan Liberec
 Slovácko
@@ -550,6 +550,38 @@ Slaven Koprivnica
 Dinamo Zagreb
 Gorica
 Osijek
+Arka Gdynia
+Cracovia Kraków
+Korona Kielce
+Górnik Zabrze
+Lech Poznań
+Raków Częstochowa
+Legia Warszawa
+ŁKS Łódź
+Piast Gliwice
+Zagłębie Lubin
+Śląsk Wrocław
+Lechia Gdańsk
+Wisła Kraków
+Jagiellonia Białystok
+Wisła Płock
+Pogoń Szczecin
+Zenit
+Ufa
+Sochi
+Ural
+Lokomotiv Moscow
+Krasnodar
+Tambov
+Rubin Kazan
+CSKA Moscow
+Dinamo Moscow
+Spartak Moscow
+Akhmat Grozny
+Rostov
+Arsenal Tula
+Krylya Sovetov
+Orenburg
 Neuchâtel Xamax
 Servette
 St. Gallen
@@ -560,42 +592,6 @@ Young Boys
 Basel
 Zürich
 Luzern
-Sivasspor
-Göztepe
-Istanbul Basaksehir
-Kasımpaşa
-Beşiktaş
-Gençlerbirliği
-Ankaragücü
-Denizlispor
-Alanyaspor
-Konyaspor
-Trabzonspor
-Kayserispor
-Gaziantep FK
-Yeni Malatyaspor
-Rizespor
-Fenerbahçe
-Galatasaray
-Antalyaspor
-Altay
-Giresunspor
-Boluspor
-Eskişehirspor
-Ümraniyespor
-BB Erzurumspor
-Bursaspor
-Hatayspor
-Adanaspor
-Fatih Karagümrük
-Keçiörengücü
-Akhisarspor
-Balıkesirspor
-Osmanlıspor
-İstanbulspor
-Adana Demirspor
-Altınordu
-Menemenspor
 AEK Athens
 Panaitolikos
 Xanthi
@@ -636,20 +632,20 @@ Spartak Trnava
 Slovan Bratislava
 Sereď
 Ružomberok
+Beitar Jerusalem
+Sektzia Nes Tziona
 Ironi Kiryat Shmona
 Hapoel Be'er Sheva
 Hapoel Tel Aviv
 Ashdod
-Hapoel Hadera
-Beitar Jerusalem
 Hapoel Ra'anana
-Maccabi Haifa
+Hapoel Hadera
 Hapoel Haifa
-Hapoel Kfar Saba
-Bnei Yehuda
+Maccabi Haifa
 Maccabi Tel Aviv
-Sektzia Nes Tziona
+Hapoel Kfar Saba
 Maccabi Netanya
+Bnei Yehuda
 Independiente
 River Plate
 Boca Juniors
@@ -674,32 +670,32 @@ Huracán
 Unión
 Argentinos Juniors
 Godoy Cruz
-Aswan
-El Geish
-ENPPI
-Haras El Hodood
-Smouha
-El Gouna
-Tanta
-Al Masry
-El Entag El Harby
 Zamalek
-Pyramids
+Aswan
+Al Masry
+Smouha
 Wadi Degla
-Masr
-Misr Lel Makasa
-Ismaily
-Al Ittihad
-Al Mokawloon
+El Geish
 Al Ahly
-Adelaide United
-Western Sydney Wanderers
+Masr
+Al Mokawloon
+Misr Lel Makasa
+El Gouna
+ENPPI
+Al Ittihad
+Tanta
+Haras El Hodood
+El Entag El Harby
+Pyramids
+Ismaily
+Melbourne City
 Western United
 Wellington Phoenix
-Newcastle Jets
-Brisbane Roar
-Sydney
-Melbourne City
 Central Coast Mariners
-Perth Glory
+Sydney
+Adelaide United
 Melbourne Victory
+Newcastle Jets
+Western Sydney Wanderers
+Brisbane Roar
+Perth Glory

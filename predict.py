@@ -389,13 +389,13 @@ def getArrays(homeTeam,awayTeam,date,league):
             print(homeTeam + " vs " + awayTeam + " Goal Each Half")
             formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Goal In Each Half" + "," + league + "\n")
         
-    #    if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
+    if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
         cardBetsForm(homeTeam,awayTeam,3.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
         cardBetsForm(homeTeam,awayTeam,4.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
 
-#    if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
-    cornerBetsForm(homeTeam,awayTeam,10.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
-    cornerBetsForm(homeTeam,awayTeam,9.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+    if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
+        cornerBetsForm(homeTeam,awayTeam,10.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+        cornerBetsForm(homeTeam,awayTeam,9.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
 
 def cornerBetsForm(homeTeam,awayTeam,num,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway):
     if(CornerStats(last5HomeGames,num) == "Over" and CornerStats(last5AwayGames,num) == "Over") and (CornerStats(last5HomeHome,num) == "Over" and CornerStats(last5AwayAway,num) == "Over"):
@@ -478,8 +478,6 @@ def FHGoalsStats(games,teams):
             over05Teams.append(teams)
         if((countpoint5/len(games))>=.8):
             return "Over"
-        if((countpoint5/len(games))<=0.2):
-            return "Under"
         if((countonepoint5/len(games))>=.8):
             return "Over"
         if((countonepoint5/len(games))<=0.2):
@@ -495,9 +493,9 @@ def SHGoalsStats(games):
             cursor.execute("SELECT secondHalfTotalGoals FROM stats WHERE gameID = ?", (str(id[0]),))
             if cursor.fetchall()[0][0] >1.5:
                 count+=1
-        if((count/len(games))>=.8):
+        if((count/len(games))>=1):
             return "Over"
-        if((count/len(games))<=0.2):
+        if((count/len(games))<=0):
             return "Under"
     else:
         return False
@@ -556,7 +554,7 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
     
     goalInEachHalf(homeTeam,awayTeam,date,league)
     
-    if((homeTeam in cardsTeams) and (awayTeam in cardsTeams) and (league != "National League CHANGE")):
+    if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
         #Asian Card Handicap Averages
             #If team1 has 1 cards less than 2 avg H/A and Total
         asianCardHandicap(homeTeam,awayTeam,date,league)
@@ -567,15 +565,6 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
         teamPercentStats(homeTeam,awayTeam,"matchCards",0.2,0.8,"4.5",date,league)        
         #Over/Under 1.5 Team Cards H/A and Total
         teamCards(homeTeam,awayTeam,date,league,"1.5")
-
-    
-    if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
-        #Over/Under 10 Corners Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"9.5",date,league)
-        #Over/Under 10 Corners Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"10.5",date,league)
-        #Over/Under 10 Corners Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"11.5",date,league)
         
         #Over/Under 4.5 Corners Percent 80/20 H/A and Total
         teamCorners(homeTeam,awayTeam,date,league,"3.5")
@@ -584,6 +573,15 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
             #If Team1 has 2 Less than Team2 Taken vs Conc H/A and Total
             #So City have 5.5 Avg Taken Home and 5.6 Taken Total where West Ham have 3.4 Taken Home and 3.5 Taken Total. City have Corner Match Bet
         cornerMatchBet(homeTeam,awayTeam,date,league)
+    
+    if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
+        #Over/Under 10 Corners Percent 80/20 H/A and Total
+        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"9.5",date,league)
+        #Over/Under 10 Corners Percent 80/20 H/A and Total
+        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"10.5",date,league)
+        #Over/Under 10 Corners Percent 80/20 H/A and Total
+        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"11.5",date,league)
+
       
 leaguesDict = dict()
 
