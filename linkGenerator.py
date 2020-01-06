@@ -105,7 +105,10 @@ getLinks(3033612,3033793)
 #Brasil Serie B
 #getLinks(2987874,2988253)
 #LigaMx
-#getLinks(3040957,3041127)
+#Apertura
+getLinks(3040957,3041127)
+#Clausera
+getLinks(3195272,3195424)
 #Argentina
 getLinks(3070319,3070594)
 #China

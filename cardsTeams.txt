@@ -654,19 +654,13 @@ Mačva Šabac
 Inđija
 Partizan
 Hapoel Tel Aviv
-Maccabi Netanya
 Sektzia Nes Tziona
 Maccabi Tel Aviv
 Bnei Yehuda
-Ironi Kiryat Shmona
-Hapoel Kfar Saba
 Hapoel Haifa
 Maccabi Haifa
-Hapoel Ra'anana
-Beitar Jerusalem
 Hapoel Be'er Sheva
 Hapoel Hadera
-Ashdod
 Racing Club
 Unión
 Colón
@@ -720,3 +714,22 @@ Western United
 Perth Glory
 Brisbane Roar
 Newcastle Jets
+Puebla
+Tijuana
+Atlas
+Juárez
+América
+Monterrey
+Santos Laguna
+Guadalajara
+León
+Cruz Azul
+Toluca
+Atlético San Luis
+Tigres UANL
+Querétaro
+Necaxa
+Veracruz
+Pachuca
+Morelia
+Pumas UNAM
