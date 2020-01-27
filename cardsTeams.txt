@@ -350,14 +350,12 @@ Quevilly Rouen
 Pau
 Cholet
 Toulon
-Béziers
 Laval
 Le Puy Foot
 Concarneau
 Avranches
 Créteil
 Bastia-Borgo
-Dunkerque
 Lyon Duchère
 Villefranche
 Boulogne
@@ -653,14 +651,11 @@ Vojvodina
 Mačva Šabac
 Inđija
 Partizan
-Hapoel Tel Aviv
-Sektzia Nes Tziona
 Maccabi Tel Aviv
 Bnei Yehuda
 Hapoel Haifa
 Maccabi Haifa
 Hapoel Be'er Sheva
-Hapoel Hadera
 Racing Club
 Unión
 Colón
@@ -733,3 +728,38 @@ Veracruz
 Pachuca
 Morelia
 Pumas UNAM
+Blooming
+Santa Cruz
+Aurora
+Real Potosí
+Guabirá
+Always Ready
+Bolívar
+Atlético Palmaflor
+Royal Pari
+Oriente Petrolero
+Nacional Potosí
+Jorge Wilstermann
+The Strongest
+Quevilly-Rouen
+San José
+Millonarios
+Deportivo Pasto
+Atlético Nacional
+Deportivo Pereira
+América de Cali
+Alianza Petrolera
+Patriotas Boyacá
+Cúcuta Deportivo
+Junior
+La Equidad
+Rionegro
+Jaguares de Córdoba
+Envigado
+Boyacá Chicó
+Atlético Bucaramanga
+Deportivo Cali
+Deportes Tolima
+Independiente Medellín
+Once Caldas
+Santa Fe

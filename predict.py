@@ -44,10 +44,10 @@ def asianCardHandicap(homeTeam,awayTeam,date,league):
     
     if((homeTeamHomeCards-awayTeamAwayCards)>=1 and (homeTotalTeamCards-awayTotalTeamCards)>=1):
         print(homeTeam)
-        bets.write(date + "," +homeTeam +",0.0 Asian Card Handicap," +  league + "\n")
+        bets.write(date + "," +homeTeam +",0.0 Asian Card Handicap," +  league + "," + "N/A" + "\n")
     if((awayTeamAwayCards-homeTeamHomeCards)>=1 and (awayTotalTeamCards-homeTotalTeamCards)>=1):
         print(awayTeam)
-        bets.write(date + "," +awayTeam +",0.0 Asian Card Handicap," +  league + "\n")
+        bets.write(date + "," +awayTeam +",0.0 Asian Card Handicap," +  league + "," + "N/A" + "\n")
   
 def cornerMatchBet(homeTeam,awayTeam,date,league):
     database = 'allStats.db'
@@ -68,10 +68,10 @@ def cornerMatchBet(homeTeam,awayTeam,date,league):
     
     if((homeTeamHomeCorners-awayTeamAwayCorners)>=4 and (homeTotalTeamCorners-awayTotalTeamCorners)>=4):
         print(homeTeam)
-        bets.write(date + "," +homeTeam + ",Corner Match Bet," +  league + "\n")
+        bets.write(date + "," +homeTeam + ",Corner Match Bet," +  league +  "," + "N/A" +"\n")
     if((awayTeamAwayCorners-homeTeamHomeCorners)>=4 and (awayTotalTeamCorners-homeTotalTeamCorners)>=4):
         print(awayTeam)
-        bets.write(date + "," +awayTeam + ",Corner Match Bet," +  league + "\n")
+        bets.write(date + "," +awayTeam + ",Corner Match Bet," +  league + "," + "N/A" + "\n")
         
 def teamCards(homeTeam,awayTeam,date,league,num):
     database = 'allStats.db'
@@ -92,12 +92,12 @@ def teamCards(homeTeam,awayTeam,date,league,num):
     homeTeamTotalCornerCount = homeTeamCountHomeCorners + homeTeamCountAwayCorners
     homeTeamPercentTotal = homeTeamTotalCornerCount/homeTeamTotalCount
     
-    if(homeTeamPercentHome > .85 and homeTeamPercentTotal > .85):
+    if(homeTeamPercentHome > .9 and homeTeamPercentTotal > .9):
         print(homeTeam)
-        bets.write(date + "," +homeTeam + ",Over "+str(int(float(num)-0.5))+" Team Cards," +  league + "\n")
-    if(homeTeamPercentHome < .15 and homeTeamPercentTotal < .15):
+        bets.write(date + "," +homeTeam + ",Over "+str(int(float(num)-0.5))+" Team Cards," +  league + "," + "N/A" + "\n")
+    if(homeTeamPercentHome < .1 and homeTeamPercentTotal < .1):
         print(homeTeam)
-        bets.write(date + "," +homeTeam + ",Under "+str(int(float(num)+0.5))+" Team Cards," +  league + "\n")
+        bets.write(date + "," +homeTeam + ",Under "+str(int(float(num)+0.5))+" Team Cards," +  league + "," + "N/A" + "\n")
     
     cursor.execute("SELECT COUNT(awayTeamCards) FROM stats WHERE awayTeam = ? AND awayTeamCards >"+num, (awayTeam,))
     awayTeamCountHomeCorners=cursor.fetchall()[0][0]
@@ -113,12 +113,12 @@ def teamCards(homeTeam,awayTeam,date,league,num):
     awayTeamTotalCornerCount = awayTeamCountHomeCorners + awayTeamCountAwayCorners
     awayTeamPercentTotal = awayTeamTotalCornerCount/awayTeamTotalCount
     
-    if(awayTeamPercentHome > .85 and awayTeamPercentTotal > .85):
+    if(awayTeamPercentHome > .9 and awayTeamPercentTotal > .9):
         print(awayTeam)
-        bets.write(date + "," + awayTeam + ",Over "+str(int(float(num)-0.5))+" Team Cards," + league + "\n")
-    if(awayTeamPercentHome < .15 and awayTeamPercentTotal < .15):
+        bets.write(date + "," + awayTeam + ",Over "+str(int(float(num)-0.5))+" Team Cards," + league + "," + "N/A" +"\n")
+    if(awayTeamPercentHome < .1 and awayTeamPercentTotal < .1):
         print(awayTeam)
-        bets.write(date + "," + awayTeam + ",Under "+str(int(float(num)+0.5))+" Team Cards," + league + "\n")
+        bets.write(date + "," + awayTeam + ",Under "+str(int(float(num)+0.5))+" Team Cards," + league + "," + "N/A" + "\n")
 
 def teamCorners(homeTeam,awayTeam,date,league,num):
     database = 'allStats.db'
@@ -141,10 +141,10 @@ def teamCorners(homeTeam,awayTeam,date,league,num):
     
     if(homeTeamPercentHome > .9 and homeTeamPercentTotal > .9):
         print(homeTeam)
-        bets.write(date + "," +homeTeam + ",Over "+str(int(float(num)-0.5))+" Team Corners," + league + "\n")
+        bets.write(date + "," +homeTeam + ",Over "+str(int(float(num)-0.5))+" Team Corners," + league + "," + "N/A"+ "\n")
     if(homeTeamPercentHome < .1 and homeTeamPercentTotal < .1):
         print(homeTeam)
-        bets.write(date + "," +homeTeam + ",Under "+str(int(float(num)-0.5))+" Team Corners," + league + "\n")
+        bets.write(date + "," +homeTeam + ",Under "+str(int(float(num)-0.5))+" Team Corners," + league + "," + "N/A"+"\n")
     
     cursor.execute("SELECT COUNT(awayCorners) FROM stats WHERE awayTeam = ? AND awayCorners > "+num, (awayTeam,))
     awayTeamCountHomeCorners=cursor.fetchall()[0][0]
@@ -162,10 +162,10 @@ def teamCorners(homeTeam,awayTeam,date,league,num):
     
     if(awayTeamPercentHome > .85 and awayTeamPercentTotal > .85):
         print(awayTeam)
-        bets.write(date + "," +awayTeam + ",Over "+str(int(float(num)-0.5))+" Team Corners," +league + "\n")
+        bets.write(date + "," +awayTeam + ",Over "+str(int(float(num)-0.5))+" Team Corners," +league + "," + "N/A"+"\n")
     if(awayTeamPercentHome < .15 and awayTeamPercentTotal < .15):
         print(awayTeam)
-        bets.write(date + "," +awayTeam + ",Under "+str(int(float(num)-0.5))+" Team Corners," + league + "\n")   
+        bets.write(date + "," +awayTeam + ",Under "+str(int(float(num)-0.5))+" Team Corners," + league + "," + "N/A"+"\n")   
 
 def checkAvgGoals(homeTeam,awayTeam,field,lower,upper,bet,date,league):
     database = 'allStats.db'
@@ -195,8 +195,9 @@ def checkAvgGoals(homeTeam,awayTeam,field,lower,upper,bet,date,league):
         if(field == "matchGoals"):
             field = "Goals"         
         if(field == "firstHalfTotalGoals"):
-            field = "FH Goal Line"            
-        bets.write(date + "," +homeTeam + " vs " + awayTeam + "," + "Under " +bet + " " + field+"," + league + "\n")
+            field = "FH Goal Line"
+            bet = "1.0/1.5" 
+        bets.write(date + "," +homeTeam + " vs " + awayTeam + "," + "Under " +bet + " " + field+"," + league + "," + "Averages" + "\n")
         print("Under "+bet)
     if(homeGoals >upper )and (awayGoals >upper) and (homeTotalGoals >upper) and (awayTotalGoals >upper):
         if(field != "matchGoals" and field !="SH Goals"and field !="firstHalfTotalGoals"):
@@ -204,8 +205,9 @@ def checkAvgGoals(homeTeam,awayTeam,field,lower,upper,bet,date,league):
         if(field == "matchGoals"):
             field = "Goals"
         if(field == "firstHalfTotalGoals"):
-            field = "FH Goal Line"   
-        bets.write(date + "," +homeTeam + " vs " + awayTeam + "," + "Over " +bet+ " " + field+ "," +league +"\n")
+            field = "FH Goal Line"
+            bet = "0.5/1.0"
+        bets.write(date + "," +homeTeam + " vs " + awayTeam + "," + "Over " +bet+ " " + field+ "," +league +"," + "Averages" + "\n")
         print("Over "+bet)
         
     
@@ -235,25 +237,30 @@ def teamPercentStats(homeTeam,awayTeam,field,lower,upper,bet,date,league):
     teamHomeCount=cursor.fetchall()[0][0]
     awayTeamTotalOver = (teamHomeOver + teamAwayOver)/(teamHomeCount+teamAwayCount) 
     
-    
     if(field == "firstHalfTotalGoals"):
         field = "FH Goal Line"
+        function = "Percent"
     if(field == "secondHalfTotalGoals"):
         field = "SH Goals"
+        function = "Percent"
     if(field == "matchCards"):
         field = "Match Cards"
+        function = "N/A"
     if(field == "matchCorners"):
         field = "Corners"
+        function = "N/A"
     if(bet == "1"):
         bet = "1.0"
 
     if(homeTeamHomeOver <lower) and (awayTeamAwayOver <lower) and (homeTeamTotalOver <lower) and (awayTeamTotalOver <lower):
         if(field != "matchGoals" and field !="SH Goals"):
             bet = str(int(float(bet)+0.5))
-            
+        if(field == "FH Goal Line"):
+            bet = "1.0/1.5"
         if(field == "matchGoals"):
-            field = "Goals"
-        bets.write(date + "," +homeTeam + " vs " + awayTeam + ","  + "Under " +bet + " " + field + "," + league + "\n")
+            field = "Goals" 
+            function = "Percent"
+        bets.write(date + "," +homeTeam + " vs " + awayTeam + ","  + "Under " +bet + " " + field + "," + league + "," + function + "\n")
         print("Under "+bet)
     if(homeTeamHomeOver >upper )and (awayTeamAwayOver >upper) and (homeTeamTotalOver >upper) and (awayTeamTotalOver >upper):
         if(field != "matchGoals" and field !="SH Goals"):
@@ -262,9 +269,10 @@ def teamPercentStats(homeTeam,awayTeam,field,lower,upper,bet,date,league):
                 bet = "1.0"
         if(field == "matchGoals"):
             field = "Goals"
-        if(field == "FH Goal Line" and bet == 2.0):
-            bet = "1.0,1.5"
-        bets.write(date + "," +homeTeam + " vs " + awayTeam + "," + "Over " +bet+ " " + field+ "," +league + "\n")
+            function = "Percent"
+        if(field == "FH Goal Line"):
+            bet = "0.5/1.0"
+        bets.write(date + "," +homeTeam + " vs " + awayTeam + "," + "Over " +bet+ " " + field+ "," +league +"," + function +"\n")
         print("Over "+bet)
 
 def goalInEachHalf(homeTeam,awayTeam,date,league):
@@ -373,7 +381,7 @@ def getArrays(homeTeam,awayTeam,date,league):
                 formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 1.0 FH Goal Line" + "," + league + "\n")            
         if(FHGoalsStats(last5HomeGames,teams) == "Under" and FHGoalsStats(last5AwayGames,teams) == "Under") and (FHGoalsStats(last5HomeHome,teams) == "Under" and FHGoalsStats(last5AwayAway,teams) == "Under"):
             print(homeTeam + " vs " + awayTeam + " Under 1.0")
-            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under 1.0 FH Goal Line" + "," + league + "\n")        
+            formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under 1.0/1.5 FH Goal Line" + "," + league + "\n")        
             
         if(SHGoalsStats(last5HomeGames) == "Over" and SHGoalsStats(last5AwayGames) == "Over") and (SHGoalsStats(last5HomeHome) == "Over" and SHGoalsStats(last5AwayAway) == "Over"):
             print(homeTeam + " vs " + awayTeam + " Over 1.5")
@@ -474,7 +482,7 @@ def FHGoalsStats(games,teams):
                 countpoint5+=1
             if val >1.5:
                 countonepoint5+=1              
-        if((countpoint5/len(games))>=.8) and ((countonepoint5/len(games))<=0.2):
+        if((countpoint5/len(games))>=.8) and ((countonepoint5/len(games))<=0.4):
             over05Teams.append(teams)
         if((countpoint5/len(games))>=.8):
             return "Over"
@@ -541,18 +549,18 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
 
     print(homeTeam + "," + awayTeam + "," + date)
     checkAvgGoals(homeTeam,awayTeam,"matchGoals",1.8,3.2,"2.5",date,league)
-    checkAvgGoals(homeTeam,awayTeam,"firstHalfTotalGoals",0.65,1.35,"1.0",date,league)
-    checkAvgGoals(homeTeam,awayTeam,"secondHalfTotalGoals",0.8,2.2,"1.5",date,league) 
-    
     teamPercentStats(homeTeam,awayTeam,"matchGoals",0.25,0.75,"2.5",date,league)
-    #teamPercentStats(homeTeam,awayTeam,"matchGoals",0.25,0.75,"3.5",date,league)
-    teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.2,0.8,"0.5",date,league)
-    teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.2,0.8,"0.5",date,league)
-    teamPercentStats(homeTeam,awayTeam,"secondHalfTotalGoals",0.2,0.8,"1.5",date,league)
-    
+
     BTTSStatsTotal(homeTeam,awayTeam,"btts",0.25,0.75,date,league)
     
     goalInEachHalf(homeTeam,awayTeam,date,league)
+    
+    if(league != "National League CHANGE"):
+        checkAvgGoals(homeTeam,awayTeam,"firstHalfTotalGoals",0.65,1.35,"1.0",date,league)
+        checkAvgGoals(homeTeam,awayTeam,"secondHalfTotalGoals",0.8,2.2,"1.5",date,league)
+        teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.2,0.8,"0.5",date,league)
+        teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.2,0.8,"1.5",date,league)
+        teamPercentStats(homeTeam,awayTeam,"secondHalfTotalGoals",0.2,0.8,"1.5",date,league)
     
     if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
         #Asian Card Handicap Averages
@@ -576,11 +584,11 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
     
     if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
         #Over/Under 10 Corners Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"9.5",date,league)
+        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.1,0.9,"9.5",date,league)
         #Over/Under 10 Corners Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"10.5",date,league)
+        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.1,0.9,"10.5",date,league)
         #Over/Under 10 Corners Percent 80/20 H/A and Total
-        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.2,0.8,"11.5",date,league)
+        teamPercentStats(homeTeam,awayTeam,"matchCorners",0.1,0.9,"11.5",date,league)
 
       
 leaguesDict = dict()

@@ -7650,3 +7650,758 @@ Ashdod,Hapoel Ra'anana,2020-01-05,3,0,3,n,1,0,0,1,1,2,0,0,2,2,-1,-1,-1,2,6,6,2,8
 Al Ahly,Masr,2020-01-05,3,1,4,y,1,0,0,1,1,2,1,1,2,3,2,2,4,5,2,2,5,7,Premier League - Egypt,3172374
 Al Mokawloon,Misr Lel Makasa,2020-01-05,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,1,2,5,4,4,5,9,Premier League - Egypt,3172375
 Tanta,Zamalek,2020-01-05,2,3,5,y,1,1,1,1,2,1,2,2,1,3,1,2,3,5,6,6,5,11,Premier League - Egypt,3172379
+Doncaster Rovers,Shrewsbury Town,2020-01-07,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,League One - England,3035339
+Boston United,Curzon Ashton,2020-01-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054686
+Billericay Town,Wealdstone,2020-01-07,3,1,4,y,1,0,0,1,1,2,1,1,2,3,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055092
+Juventus,Cagliari,2020-01-06,4,0,4,n,0,0,0,0,0,4,0,0,4,4,1,1,2,3,2,2,3,5,Serie A - Italy,3111874
+Napoli,Internazionale,2020-01-06,1,3,4,y,1,2,2,1,3,0,1,1,0,1,0,5,5,3,4,4,3,7,Serie A - Italy,3111877
+Real Zaragoza,Sporting Gijón,2020-01-07,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,3,5,2,4,4,2,6,Segunda División - Spain,3060154
+Bnei Yehuda,Sektzia Nes Tziona,2020-01-06,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,2,4,6,3,3,6,9,Ligat ha'Al - Israel,3033730
+Aswan,El Gouna,2020-01-07,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,2,5,1,3,3,1,4,Premier League - Egypt,3172376
+ENPPI,Al Ittihad,2020-01-08,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,1,3,4,Premier League - Egypt,3172377
+Smouha,Wadi Degla,2020-01-08,2,3,5,y,1,1,1,1,2,1,2,2,1,3,1,0,1,4,4,4,4,8,Premier League - Egypt,3172378
+El Entag El Harby,Al Masry,2020-01-07,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,1,4,5,6,6,5,11,Premier League - Egypt,3172381
+Pyramids,Ismaily,2020-01-07,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,5,5,5,5,10,Premier League - Egypt,3172382
+Atalanta,Parma,2020-01-06,5,0,5,n,3,0,0,3,3,2,0,0,2,2,2,4,6,2,2,2,2,4,Serie A - Italy,3111870
+Bologna,Fiorentina,2020-01-06,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,4,6,14,2,2,14,16,Serie A - Italy,3111871
+Lecce,Udinese,2020-01-06,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,7,8,8,7,15,Serie A - Italy,3111875
+Milan,Sampdoria,2020-01-06,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,5,6,7,5,5,7,12,Serie A - Italy,3111876
+Maccabi Haifa,Maccabi Tel Aviv,2020-01-06,3,4,7,y,0,1,1,0,1,3,3,3,3,6,1,5,6,8,6,6,8,14,Ligat ha'Al - Israel,3033728
+Hartlepool United,Eastleigh,2020-01-07,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,1,1,5,3,3,5,8,National League - England,3054162
+Altrincham,Blyth Spartans,2020-01-07,3,1,4,y,1,0,0,1,1,2,1,1,2,3,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054663
+El Geish,Haras El Hodood,2020-01-08,0,3,3,n,0,2,2,0,2,0,1,1,0,1,0,3,3,10,6,6,10,16,Premier League - Egypt,3172380
+AFC Bournemouth,Watford,2020-01-12,0,3,3,n,0,1,1,0,1,0,2,2,0,2,1,1,2,5,5,5,5,10,Premier League - England,3029283
+Aston Villa,Manchester City,2020-01-12,1,6,7,y,0,4,4,0,4,1,2,2,1,3,2,1,3,2,4,4,2,6,Premier League - England,3029284
+Chelsea,Burnley,2020-01-11,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,3,3,10,3,3,10,13,Premier League - England,3029285
+Crystal Palace,Arsenal - Premier League - England,2020-01-11,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,4,6,1,4,4,1,5,Premier League - England,3029286
+Everton,Brighton & Hove Albion,2020-01-11,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,1,3,4,3,3,4,7,Premier League - England,3029287
+Leicester City,Southampton,2020-01-11,1,2,3,y,1,1,1,1,2,0,1,1,0,1,0,3,3,2,4,4,2,6,Premier League - England,3029288
+Manchester United,Norwich City,2020-01-11,4,0,4,n,1,0,0,1,1,3,0,0,3,3,0,0,0,4,2,2,4,6,Premier League - England,3029289
+Sheffield United,West Ham United,2020-01-10,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,0,1,7,3,3,7,10,Premier League - England,3029290
+Wolverhampton Wanderers,Newcastle United,2020-01-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,3,3,5,2,2,5,7,Premier League - England,3029292
+Bristol Rovers,Doncaster Rovers,2020-01-11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,1,3,-1,-1,-1,-1,-1,League One - England,3035482
+Burton Albion,Fleetwood Town,2020-01-11,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,3,3,-1,-1,-1,-1,-1,League One - England,3035484
+Coventry City,Milton Keynes Dons,2020-01-11,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,League One - England,3035486
+Ipswich Town,Accrington Stanley,2020-01-11,4,1,5,y,3,0,0,3,3,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,League One - England,3035488
+Oxford United,Rotherham United,2020-01-11,1,3,4,y,0,3,3,0,3,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,League One - England,3035490
+Peterborough United,Gillingham,2020-01-11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,League One - England,3035492
+Portsmouth,AFC Wimbledon,2020-01-11,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,4,5,-1,-1,-1,-1,-1,League One - England,3035494
+Southend United,Tranmere Rovers,2020-01-11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,5,6,-1,-1,-1,-1,-1,League One - England,3035500
+Sunderland,Wycombe Wanderers,2020-01-11,4,0,4,n,3,0,0,3,3,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,League One - England,3035502
+Barnsley,Huddersfield Town,2020-01-11,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,5,7,-1,-1,-1,-1,-1,Championship - England,3036185
+Blackburn Rovers,Preston North End,2020-01-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,0,2,-1,-1,-1,-1,-1,Championship - England,3036187
+Brentford,Queens Park Rangers,2020-01-11,3,1,4,y,3,0,0,3,3,0,1,1,0,1,0,5,5,8,0,0,8,8,Championship - England,3036189
+Cardiff City,Swansea City,2020-01-12,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,2,6,4,8,8,4,12,Championship - England,3036191
+Charlton Athletic,West Bromwich Albion,2020-01-11,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,6,8,5,5,5,5,10,Championship - England,3036193
+Hull City,Fulham,2020-01-11,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,4,5,-1,-1,-1,-1,-1,Championship - England,3036195
+Reading,Nottingham Forest,2020-01-11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,2,6,-1,-1,-1,-1,-1,Championship - England,3036203
+Stoke City,Millwall,2020-01-11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036205
+Wigan Athletic,Bristol City,2020-01-11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036207
+Carlisle United,Plymouth Argyle,2020-01-11,0,3,3,n,0,1,1,0,1,0,2,2,0,2,2,1,3,-1,-1,-1,-1,-1,League Two - England,3036416
+Cheltenham Town,Walsall,2020-01-11,3,1,4,y,1,0,0,1,1,2,1,1,2,3,2,1,3,-1,-1,-1,-1,-1,League Two - England,3036418
+Crawley Town,Bradford City,2020-01-11,2,1,3,y,2,0,0,2,2,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,League Two - England,3036421
+Exeter City,Cambridge United,2020-01-11,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,0,1,-1,-1,-1,-1,-1,League Two - England,3036423
+Leyton Orient,Grimsby Town,2020-01-11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,3,6,-1,-1,-1,-1,-1,League Two - England,3036425
+Macclesfield Town,Oldham Athletic,2020-01-11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,League Two - England,3036426
+Mansfield Town,Forest Green Rovers,2020-01-11,3,4,7,y,2,1,1,2,3,1,3,3,1,4,0,2,2,-1,-1,-1,-1,-1,League Two - England,3036428
+Scunthorpe United,Newport County,2020-01-11,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,3,5,-1,-1,-1,-1,-1,League Two - England,3036433
+Stevenage,Port Vale,2020-01-11,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,League Two - England,3036435
+Swindon Town,Crewe Alexandra,2020-01-11,3,1,4,y,1,0,0,1,1,2,1,1,2,3,2,0,2,-1,-1,-1,-1,-1,League Two - England,3036437
+Dover Athletic,Hartlepool United,2020-01-11,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,1,3,13,2,2,13,15,National League - England,3054231
+Altrincham,Guiseley,2020-01-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054763
+Blyth Spartans,Curzon Ashton,2020-01-11,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054764
+Hereford,Bradford (Park Avenue),2020-01-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054770
+Spennymoor Town,Kettering Town,2020-01-11,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054771
+Billericay Town,Slough Town,2020-01-11,2,2,4,y,1,1,1,1,2,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055224
+Braintree Town,Tonbridge Angels,2020-01-11,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055225
+Dartford,Oxford City,2020-01-11,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055227
+Eastbourne Borough,St Albans City,2020-01-11,3,3,6,y,1,1,1,1,2,2,2,2,2,4,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055228
+Hemel Hempstead Town,Havant & Waterlooville,2020-01-11,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055230
+Weymouth,Dulwich Hamlet,2020-01-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055234
+Greenock Morton,Dunfermline Athletic,2020-01-11,3,2,5,y,1,1,1,1,2,2,1,1,2,3,2,3,5,-1,-1,-1,-1,-1,Championship - Scotland,3038662
+Annan Athletic,Elgin City,2020-01-11,0,4,4,n,0,1,1,0,1,0,3,3,0,3,3,0,3,-1,-1,-1,-1,-1,League Two - Scotland,3038834
+Stenhousemuir,Brechin City,2020-01-11,2,2,4,y,0,1,1,0,1,2,1,1,2,3,0,1,1,-1,-1,-1,-1,-1,League Two - Scotland,3038837
+Caernarfon Town,Aberystwyth Town,2020-01-10,0,3,3,n,0,1,1,0,1,0,2,2,0,2,4,0,4,-1,-1,-1,-1,-1,Premier League - Wales,3042918
+Cefn Druids,Penybont,2020-01-11,2,3,5,y,1,1,1,1,2,1,2,2,1,3,4,3,7,1,4,4,1,5,Premier League - Wales,3042920
+Cardiff MU,Bala Town,2020-01-11,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,4,5,5,4,9,Premier League - Wales,3042923
+Cagliari,Milan,2020-01-11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,1,4,3,6,6,3,9,Serie A - Italy,3111880
+Fiorentina,SPAL,2020-01-12,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,3,4,4,3,7,Serie A - Italy,3111881
+Internazionale,Atalanta,2020-01-11,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,4,6,0,4,4,0,4,Serie A - Italy,3111883
+Lazio,Napoli,2020-01-11,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,6,6,6,6,12,Serie A - Italy,3111884
+Torino,Bologna,2020-01-12,1,0,1,n,1,0,0,1,1,0,0,0,0,0,5,3,8,3,9,9,3,12,Serie A - Italy,3111888
+Udinese,Sassuolo,2020-01-12,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,0,0,6,11,11,6,17,Serie A - Italy,3111889
+Toulouse,Brest,2020-01-11,2,5,7,y,2,1,1,2,3,0,4,4,0,4,1,0,1,5,6,6,5,11,Ligue 1 - France,3030737
+Angers SCO,Nice,2020-01-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,3,4,7,2,2,7,9,Ligue 1 - France,3030740
+Rennes,Olympique Marseille,2020-01-10,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,5,7,4,1,1,4,5,Ligue 1 - France,3030741
+Dijon,Lille,2020-01-12,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,4,7,2,7,7,2,9,Ligue 1 - France,3030744
+PSG,Monaco,2020-01-12,3,3,6,y,3,2,2,3,5,0,1,1,0,1,0,3,3,7,7,7,7,14,Ligue 1 - France,3030745
+Saint-Etienne,Nantes,2020-01-12,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,1,3,2,1,1,2,3,Ligue 1 - France,3030746
+Sochaux,Paris FC,2020-01-10,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,4,5,3,3,3,3,6,Ligue 2 - France,3031206
+Chambly,Orléans,2020-01-10,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,3,6,4,5,5,4,9,Ligue 2 - France,3031208
+Rodez,Châteauroux,2020-01-10,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,5,7,5,1,1,5,6,Ligue 2 - France,3031209
+Ajaccio,Grenoble Foot 38,2020-01-10,3,1,4,y,1,1,1,1,2,2,0,0,2,2,2,1,3,3,3,3,3,6,Ligue 2 - France,3031211
+Clermont,Troyes,2020-01-10,3,2,5,y,2,1,1,2,3,1,1,1,1,2,4,4,8,5,7,7,5,12,Ligue 2 - France,3031212
+Nancy,Valenciennes,2020-01-10,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,3,4,5,4,4,5,9,Ligue 2 - France,3031214
+Niort,Le Havre,2020-01-10,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,1,4,5,5,5,5,10,Ligue 2 - France,3031215
+Pau,Lyon Duchère,2020-01-10,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,4,6,2,1,1,2,3,National 1 - France,3073301
+Toulon,Red Star,2020-01-10,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,4,5,5,4,9,National 1 - France,3073302
+Avranches,Gazélec Ajaccio,2020-01-10,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,National 1 - France,3073304
+Concarneau,Bastia-Borgo,2020-01-10,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,2,2,2,2,4,National 1 - France,3073305
+Créteil,Le Puy Foot,2020-01-10,0,2,2,n,0,2,2,0,2,0,0,0,0,0,0,3,3,7,0,0,7,7,National 1 - France,3073306
+Dunkerque,Quevilly Rouen,2020-01-10,3,2,5,y,3,0,0,3,3,0,2,2,0,2,3,3,6,5,5,5,5,10,National 1 - France,3073307
+Villefranche,Cholet,2020-01-10,3,2,5,y,0,1,1,0,1,3,1,1,3,4,4,6,10,6,3,3,6,9,National 1 - France,3073308
+Gil Vicente,Belenenses,2020-01-12,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,5,5,5,5,10,Primeira Liga - Portugal,3064779
+Sporting Braga,Tondela,2020-01-12,2,1,3,y,0,1,1,0,1,2,0,0,2,2,4,3,7,9,1,1,9,10,Primeira Liga - Portugal,3064780
+Santa Clara,Rio Ave,2020-01-10,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,3,4,4,3,7,Primeira Liga - Portugal,3064781
+Moreirense,Porto,2020-01-10,2,4,6,y,2,2,2,2,4,0,2,2,0,2,2,4,6,4,7,7,4,11,Primeira Liga - Portugal,3064782
+Portimonense,Paços de Ferreira,2020-01-11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,3,4,4,3,7,Primeira Liga - Portugal,3064785
+Benfica,Desportivo Aves,2020-01-10,2,1,3,y,0,1,1,0,1,2,0,0,2,2,4,2,6,18,2,2,18,20,Primeira Liga - Portugal,3064786
+Marítimo,Vitoria Guimaraes,2020-01-12,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,3,16,16,3,19,Primeira Liga - Portugal,3064787
+Chaves,Leixões,2020-01-11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,3,4,4,3,7,Segunda Liga - Portugal,3065216
+Nacional,UD Oliveirense,2020-01-12,0,0,0,n,0,0,0,0,0,0,0,0,0,0,5,2,7,9,3,3,9,12,Segunda Liga - Portugal,3065217
+Feirense,Porto II,2020-01-11,1,0,1,n,1,0,0,1,1,0,0,0,0,0,6,1,7,3,11,11,3,14,Segunda Liga - Portugal,3065218
+Benfica II,Casa Pia,2020-01-11,4,0,4,n,1,0,0,1,1,3,0,0,3,3,0,1,1,4,2,2,4,6,Segunda Liga - Portugal,3065219
+Académica,Cova Piedade,2020-01-12,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,2,2,4,4,4,4,8,Segunda Liga - Portugal,3065220
+Penafiel,Farense,2020-01-12,3,0,3,n,0,0,0,0,0,3,0,0,3,3,2,1,3,4,5,5,4,9,Segunda Liga - Portugal,3065221
+Mafra,Vilafranquense,2020-01-12,1,1,2,y,1,0,0,1,1,0,1,1,0,1,4,2,6,7,6,6,7,13,Segunda Liga - Portugal,3065222
+Sporting Covilhã,Estoril,2020-01-11,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,5,2,2,5,7,Segunda Liga - Portugal,3065223
+Cambuur,Volendam,2020-01-10,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,0,0,13,4,4,13,17,Eerste Divisie - Netherlands,3031873
+Dordrecht,Excelsior,2020-01-10,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,4,6,4,6,6,4,10,Eerste Divisie - Netherlands,3031874
+Go Ahead Eagles,Almere City,2020-01-12,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,10,1,1,10,11,Eerste Divisie - Netherlands,3031875
+De Graafschap,Utrecht II,2020-01-10,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,3,6,13,0,0,13,13,Eerste Divisie - Netherlands,3031876
+NEC,Den Bosch,2020-01-12,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,2,5,6,4,4,6,10,Eerste Divisie - Netherlands,3031877
+Telstar,Eindhoven,2020-01-10,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,0,2,-1,-1,-1,-1,-1,Eerste Divisie - Netherlands,3031879
+Helmond Sport,NAC Breda,2020-01-10,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,2,3,3,2,5,Eerste Divisie - Netherlands,3031880
+Larissa,Aris,2020-01-11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,6,4,4,6,10,Super League 1 - Greece,3051988
+Panathinaikos,Panionios,2020-01-12,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,2,3,6,2,2,6,8,Super League 1 - Greece,3051991
+Panaitolikos,Atromitos,2020-01-11,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,4,4,4,4,8,Super League 1 - Greece,3051992
+Bnei Yehuda,Hapoel Tel Aviv,2020-01-12,1,2,3,y,1,1,1,1,2,0,1,1,0,1,0,3,3,2,6,6,2,8,Ligat ha'Al - Israel,3033731
+Sektzia Nes Tziona,Hapoel Kfar Saba,2020-01-12,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,2,2,10,3,3,10,13,Ligat ha'Al - Israel,3033732
+Maccabi Netanya,Maccabi Haifa,2020-01-11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,1,2,7,7,7,7,14,Ligat ha'Al - Israel,3033733
+Ironi Kiryat Shmona,Hapoel Hadera,2020-01-11,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,4,5,8,2,2,8,10,Ligat ha'Al - Israel,3033735
+Morelia,Toluca,2020-01-11,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,1,3,15,4,4,15,19,Liga MX - Mexico,3195273
+León,Querétaro,2020-01-12,3,1,4,y,2,1,1,2,3,1,0,0,1,1,1,2,3,3,5,5,3,8,Liga MX - Mexico,3195276
+Tigres UANL,Atlético San Luis,2020-01-12,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,4,6,6,4,10,Liga MX - Mexico,3195277
+Pumas UNAM,Pachuca,2020-01-12,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,2,3,2,5,5,2,7,Liga MX - Mexico,3195278
+Misr Lel Makasa,ENPPI,2020-01-12,1,1,2,y,1,1,1,1,2,0,0,0,0,0,4,0,4,6,4,4,6,10,Premier League - Egypt,3172389
+Masr,Al Mokawloon,2020-01-11,1,3,4,y,0,3,3,0,3,1,0,0,1,1,2,3,5,5,5,5,5,10,Premier League - Egypt,3172391
+Newcastle Jets,Sydney,2020-01-10,1,2,3,y,1,2,2,1,3,0,0,0,0,0,4,0,4,1,4,4,1,5,A-League - Australia,3129335
+Wellington Phoenix,Western Sydney Wanderers,2020-01-11,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,3,3,3,6,6,3,9,A-League - Australia,3129336
+Brisbane Roar,Melbourne City,2020-01-11,2,2,4,y,2,1,1,2,3,0,1,1,0,1,2,1,3,2,4,4,2,6,A-League - Australia,3129337
+Perth Glory,Adelaide United,2020-01-11,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,0,0,5,10,10,5,15,A-League - Australia,3129338
+Central Coast Mariners,Melbourne Victory,2020-01-12,3,2,5,y,1,1,1,1,2,2,1,1,2,3,2,3,5,10,5,5,10,15,A-League - Australia,3129339
+Newtown,The New Saints,2020-01-10,0,2,2,n,0,0,0,0,0,0,2,2,0,2,6,3,9,2,9,9,2,11,Premier League - Wales,3042922
+Le Mans,Auxerre,2020-01-10,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,2,6,5,2,2,5,7,Ligue 2 - France,3031207
+Bourg-en-Bresse,Béziers,2020-01-10,2,2,4,y,2,0,0,2,2,0,2,2,0,2,4,1,5,10,3,3,10,13,National 1 - France,3073300
+Laval,Boulogne,2020-01-10,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,2,5,1,4,4,1,5,National 1 - France,3073303
+Varzim,Academico Viseu,2020-01-10,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,1,6,4,2,2,4,6,Segunda Liga - Portugal,3065224
+Tottenham Hotspur,Liverpool,2020-01-11,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,2,2,4,3,3,4,7,Premier League - England,3029291
+Rochdale,Bolton Wanderers,2020-01-11,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,League One - England,3035496
+Shrewsbury Town,Lincoln City,2020-01-11,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,0,2,-1,-1,-1,-1,-1,League One - England,3035498
+Leeds United,Sheffield Wednesday,2020-01-11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036197
+Luton Town,Birmingham City,2020-01-11,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,5,6,-1,-1,-1,-1,-1,Championship - England,3036199
+Middlesbrough,Derby County,2020-01-11,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036201
+Morecambe,Colchester United,2020-01-11,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,5,6,-1,-1,-1,-1,-1,League Two - England,3036430
+Salford City,Northampton Town,2020-01-11,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,4,6,-1,-1,-1,-1,-1,League Two - England,3036431
+York City,AFC Telford United,2020-01-11,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054772
+Partick Thistle,Dundee United,2020-01-11,1,4,5,y,0,2,2,0,2,1,2,2,1,3,1,1,2,-1,-1,-1,-1,-1,Championship - Scotland,3038663
+East Fife,Airdrieonians,2020-01-11,2,2,4,y,1,2,2,1,3,1,0,0,1,1,2,0,2,-1,-1,-1,-1,-1,League One - Scotland,3038282
+Forfar Athletic,Raith Rovers,2020-01-11,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,League One - Scotland,3038283
+Peterhead,Falkirk,2020-01-11,1,3,4,y,1,2,2,1,3,0,1,1,0,1,3,2,5,-1,-1,-1,-1,-1,League One - Scotland,3038284
+Edinburgh City,Queen's Park,2020-01-11,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,0,2,-1,-1,-1,-1,-1,League Two - Scotland,3038836
+Carmarthen Town,Airbus UK,2020-01-11,2,2,4,y,2,1,1,2,3,0,1,1,0,1,0,2,2,-1,-1,-1,-1,-1,Premier League - Wales,3042919
+Connah's Quay,Barry Town United,2020-01-11,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,0,1,-1,-1,-1,-1,-1,Premier League - Wales,3042921
+Amiens SC,Montpellier,2020-01-11,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,1,3,4,1,1,4,5,Ligue 1 - France,3030738
+Bordeaux,Olympique Lyonnais,2020-01-11,1,2,3,y,1,0,0,1,1,0,2,2,0,2,1,3,4,5,4,4,5,9,Ligue 1 - France,3030739
+Nîmes,Reims,2020-01-11,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,5,6,5,3,3,5,8,Ligue 1 - France,3030742
+Metz,Strasbourg,2020-01-11,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,1,6,6,1,7,Ligue 1 - France,3030743
+Vitória Setúbal,Sporting CP,2020-01-11,1,3,4,y,0,2,2,0,2,1,1,1,1,2,3,3,6,3,5,5,3,8,Primeira Liga - Portugal,3064783
+Boavista,Famalicão,2020-01-11,0,1,1,n,0,0,0,0,0,0,1,1,0,1,6,5,11,8,5,5,8,13,Primeira Liga - Portugal,3064784
+Volos NFC,Xanthi,2020-01-11,1,3,4,y,0,1,1,0,1,1,2,2,1,3,3,2,5,2,2,2,2,4,Super League 1 - Greece,3051990
+Hapoel Haifa,Ashdod,2020-01-11,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,3,5,5,3,8,Ligat ha'Al - Israel,3033736
+Hapoel Ra'anana,Hapoel Be'er Sheva,2020-01-11,2,1,3,y,0,0,0,0,0,2,1,1,2,3,6,2,8,3,5,5,3,8,Ligat ha'Al - Israel,3033737
+Tijuana,Santos Laguna,2020-01-11,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,4,4,2,4,4,2,6,Liga MX - Mexico,3195272
+Hellas Verona,Genoa,2020-01-12,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,6,9,4,2,2,4,6,Serie A - Italy,3111882
+Roma,Juventus,2020-01-12,1,2,3,y,0,2,2,0,2,1,0,0,1,1,6,3,9,13,2,2,13,15,Serie A - Italy,3111886
+Sampdoria,Brescia,2020-01-12,5,1,6,y,2,1,1,2,3,3,0,0,3,3,2,3,5,4,2,2,4,6,Serie A - Italy,3111887
+Roda JC,MVV,2020-01-12,2,2,4,y,0,0,0,0,0,2,2,2,2,4,0,1,1,7,7,7,7,14,Eerste Divisie - Netherlands,3031878
+Asteras Tripolis,OFI,2020-01-12,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,3,5,8,3,3,8,11,Super League 1 - Greece,3051989
+PAOK,AEK Athens,2020-01-12,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,4,6,9,4,4,9,13,Super League 1 - Greece,3051993
+Lamia,Olympiakos Piraeus,2020-01-12,0,4,4,n,0,1,1,0,1,0,3,3,0,3,2,3,5,2,10,10,2,12,Super League 1 - Greece,3051994
+Cruz Azul,Atlas,2020-01-12,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,1,2,2,5,5,2,7,Liga MX - Mexico,3195274
+Guadalajara,Juárez,2020-01-12,2,0,2,n,2,0,0,2,2,0,0,0,0,0,3,2,5,10,1,1,10,11,Liga MX - Mexico,3195275
+Ismaily,El Geish,2020-01-12,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,3,4,7,5,5,7,12,Premier League - Egypt,3172383
+Haras El Hodood,Smouha,2020-01-12,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,4,4,8,Premier League - Egypt,3172387
+Stevenage,Oldham Athletic,2020-01-14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,League Two - England,3036229
+Morecambe,Port Vale,2020-01-14,2,1,3,y,2,0,0,2,2,0,1,1,0,1,1,1,2,-1,-1,-1,-1,-1,League Two - England,3036405
+Maidstone United,Hemel Hempstead Town,2020-01-14,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055152
+Parma,Lecce,2020-01-13,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,1,5,6,5,5,6,11,Serie A - Italy,3111885
+Albacete,Fuenlabrada,2020-01-14,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,3,8,2,5,5,2,7,Segunda División - Spain,3060155
+Cádiz,Mirandés,2020-01-15,3,3,6,y,1,1,1,1,2,2,2,2,2,4,0,1,1,6,2,2,6,8,Segunda División - Spain,3060158
+Huesca,Tenerife,2020-01-15,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,3,4,1,5,5,1,6,Segunda División - Spain,3060161
+Las Palmas,Real Zaragoza,2020-01-14,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,0,3,4,6,6,4,10,Segunda División - Spain,3060162
+Málaga,Ponferradina,2020-01-14,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,2,2,2,2,4,Segunda División - Spain,3060163
+Rayo Vallecano,Lugo,2020-01-15,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,5,1,1,5,6,Segunda División - Spain,3060164
+Sporting Gijón,Elche,2020-01-14,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,5,7,7,5,12,Segunda División - Spain,3060165
+Monaco,PSG,2020-01-15,1,4,5,y,0,2,2,0,2,1,2,2,1,3,2,2,4,3,5,5,3,8,Ligue 1 - France,3030689
+Amiens SC,Reims,2020-01-15,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,3,4,2,1,1,2,3,Ligue 1 - France,3030701
+Lorient,Caen,2020-01-13,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,2,4,8,5,5,8,13,Ligue 2 - France,3031213
+PSV II,Ajax II,2020-01-13,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,3,7,7,3,10,Eerste Divisie - Netherlands,3031881
+AZ II,TOP Oss,2020-01-13,3,1,4,y,1,0,0,1,1,2,1,1,2,3,3,2,5,2,9,9,2,11,Eerste Divisie - Netherlands,3031882
+Maccabi Tel Aviv,Beitar Jerusalem,2020-01-13,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,4,5,5,2,2,5,7,Ligat ha'Al - Israel,3033734
+Al Ahly,Tanta,2020-01-15,5,0,5,n,1,0,0,1,1,4,0,0,4,4,0,1,1,1,0,0,1,1,Premier League - Egypt,3172384
+El Gouna,Zamalek,2020-01-15,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,5,5,5,5,10,Premier League - Egypt,3172388
+Wadi Degla,El Entag El Harby,2020-01-13,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,2,4,8,6,6,8,14,Premier League - Egypt,3172390
+Burton Albion,Milton Keynes Dons,2020-01-14,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,League One - England,3035459
+Alcorcón,Numancia,2020-01-15,2,2,4,y,0,0,0,0,0,2,2,2,2,4,3,2,5,4,6,6,4,10,Segunda División - Spain,3060156
+Arsenal - Premier League - England,Sheffield United,2020-01-18,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,2,3,4,5,5,4,9,Premier League - England,3029293
+Brighton & Hove Albion,Aston Villa,2020-01-18,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,3,6,3,4,4,3,7,Premier League - England,3029294
+Burnley,Leicester City,2020-01-19,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,0,1,4,5,5,4,9,Premier League - England,3029295
+Newcastle United,Chelsea,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,1,10,10,1,11,Premier League - England,3029298
+Oxford United,Ipswich Town,2020-01-14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,League One - England,3035341
+AFC Wimbledon,Peterborough United,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,League One - England,3035504
+Doncaster Rovers,Coventry City,2020-01-18,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,League One - England,3035512
+Fleetwood Town,Shrewsbury Town,2020-01-18,2,2,4,y,0,1,1,0,1,2,1,1,2,3,0,1,1,-1,-1,-1,-1,-1,League One - England,3035515
+Milton Keynes Dons,Sunderland,2020-01-18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,-1,-1,-1,-1,-1,League One - England,3035521
+Rotherham United,Bristol Rovers,2020-01-18,3,0,3,n,0,0,0,0,0,3,0,0,3,3,1,2,3,-1,-1,-1,-1,-1,League One - England,3035524
+Tranmere Rovers,Ipswich Town,2020-01-18,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,2,5,-1,-1,-1,-1,-1,League One - England,3035526
+Birmingham City,Cardiff City,2020-01-18,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,3,4,8,6,6,8,14,Championship - England,3036210
+Bristol City,Barnsley,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036212
+Fulham,Middlesbrough,2020-01-17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,3,8,8,3,11,Championship - England,3036216
+Huddersfield Town,Brentford,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036219
+Nottingham Forest,Luton Town,2020-01-19,3,1,4,y,1,1,1,1,2,2,0,0,2,2,0,3,3,12,2,2,12,14,Championship - England,3036222
+Queens Park Rangers,Leeds United,2020-01-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,4,8,4,11,11,4,15,Championship - England,3036226
+Sheffield Wednesday,Blackburn Rovers,2020-01-18,0,5,5,n,0,3,3,0,3,0,2,2,0,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036228
+Swansea City,Wigan Athletic,2020-01-18,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036230
+Bradford City,Scunthorpe United,2020-01-18,2,2,4,y,2,1,1,2,3,0,1,1,0,1,2,3,5,-1,-1,-1,-1,-1,League Two - England,3036439
+Cambridge United,Stevenage,2020-01-18,0,4,4,n,0,1,1,0,1,0,3,3,0,3,3,0,3,-1,-1,-1,-1,-1,League Two - England,3036441
+Grimsby Town,Exeter City,2020-01-18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,-1,-1,-1,-1,-1,League Two - England,3036450
+Newport County,Swindon Town,2020-01-18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,League Two - England,3036452
+Oldham Athletic,Carlisle United,2020-01-18,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,League Two - England,3036458
+Port Vale,Leyton Orient,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,4,4,-1,-1,-1,-1,-1,League Two - England,3036462
+Fylde,Torquay United,2020-01-18,2,3,5,y,1,2,2,1,3,1,1,1,1,2,2,3,5,3,2,2,3,5,National League - England,3054239
+Barrow,Bromley,2020-01-18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,1,1,11,2,2,11,13,National League - England,3054242
+Eastleigh,Chesterfield,2020-01-18,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,1,3,14,6,6,14,20,National League - England,3054243
+Ebbsfleet United,Harrogate Town,2020-01-18,0,2,2,n,0,1,1,0,1,0,1,1,0,1,5,1,6,-1,-1,-1,-1,-1,National League - England,3054244
+Halifax Town,Maidenhead United,2020-01-18,5,2,7,y,1,1,1,1,2,4,1,1,4,5,4,2,6,6,6,6,6,12,National League - England,3054245
+Notts County,Dover Athletic,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,4,6,5,2,2,5,7,National League - England,3054246
+Solihull Moors,Boreham Wood,2020-01-18,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,0,1,6,1,1,6,7,National League - England,3054247
+Wrexham,Woking,2020-01-18,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,4,5,6,5,5,6,11,National League - England,3054249
+Yeovil Town,Hartlepool United,2020-01-18,2,2,4,y,2,1,1,2,3,0,1,1,0,1,4,2,6,4,4,4,4,8,National League - England,3054250
+Bradford (Park Avenue),Brackley Town,2020-01-18,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054774
+Curzon Ashton,Farsley Celtic,2020-01-18,4,0,4,n,2,0,0,2,2,2,0,0,2,2,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3054775
+Gateshead,Altrincham,2020-01-18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054777
+Kidderminster Harriers,Spennymoor Town,2020-01-18,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054780
+King's Lynn Town,York City,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054781
+Leamington,Chester,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3054782
+Chippenham Town,Hemel Hempstead Town,2020-01-07,2,2,4,y,2,1,1,2,3,0,1,1,0,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055094
+Bath City,Hemel Hempstead Town,2020-01-18,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055235
+Concord Rangers,Weymouth,2020-01-18,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055237
+Dorking Wanderers,Billericay Town,2020-01-18,4,4,8,y,1,2,2,1,3,3,2,2,3,5,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055238
+Dulwich Hamlet,Chippenham Town,2020-01-18,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055239
+Oxford City,Braintree Town,2020-01-18,1,4,5,y,0,0,0,0,0,1,4,4,1,5,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3055241
+Slough Town,Dartford,2020-01-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3055242
+Elgin City,Stenhousemuir,2020-01-18,2,3,5,y,0,2,2,0,2,2,1,1,2,3,3,2,5,-1,-1,-1,-1,-1,League Two - Scotland,3038843
+Brescia,Cagliari,2020-01-19,2,2,4,y,1,1,1,1,2,1,1,1,1,2,5,4,9,2,7,7,2,9,Serie A - Italy,3111890
+Bologna,Hellas Verona,2020-01-19,1,1,2,y,1,0,0,1,1,0,1,1,0,1,6,2,8,3,8,8,3,11,Serie A - Italy,3111892
+Genoa,Roma,2020-01-19,1,3,4,y,1,2,2,1,3,0,1,1,0,1,2,3,5,7,3,3,7,10,Serie A - Italy,3111895
+Milan,Udinese,2020-01-19,3,2,5,y,0,1,1,0,1,3,1,1,3,4,4,1,5,9,3,3,9,12,Serie A - Italy,3111899
+Cremonese,Venezia,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,5,7,7,5,12,Serie B - Italy,3122741
+Levante,Deportivo Alavés,2020-01-18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,7,6,6,7,13,La Liga - Spain,3059005
+Mallorca,Valencia,2020-01-19,4,1,5,y,3,0,0,3,3,1,1,1,1,2,4,4,8,1,6,6,1,7,La Liga - Spain,3059006
+Almería,Real Oviedo,2020-01-16,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,0,3,5,1,1,5,6,Segunda División - Spain,3060157
+Fuenlabrada,Málaga,2020-01-17,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,4,6,5,0,0,5,5,Segunda División - Spain,3060169
+Numancia,Sporting Gijón,2020-01-18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,3,4,2,5,5,2,7,Segunda División - Spain,3060172
+Racing Santander,Las Palmas,2020-01-19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,0,3,2,9,9,2,11,Segunda División - Spain,3060175
+Tenerife,Girona,2020-01-19,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,1,5,2,2,2,2,4,Segunda División - Spain,3060176
+Desportivo Aves,Portimonense,2020-01-18,3,0,3,n,0,0,0,0,0,3,0,0,3,3,3,3,6,5,7,7,5,12,Primeira Liga - Portugal,3064789
+Belenenses,Vitória Setúbal,2020-01-18,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,5,7,9,3,3,9,12,Primeira Liga - Portugal,3064790
+Sporting CP,Benfica,2020-01-17,0,2,2,n,0,0,0,0,0,0,2,2,0,2,4,4,8,6,3,3,6,9,Primeira Liga - Portugal,3064792
+Rio Ave,Boavista,2020-01-19,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,4,5,4,5,5,4,9,Primeira Liga - Portugal,3064793
+Porto,Sporting Braga,2020-01-17,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,6,11,10,5,5,10,15,Primeira Liga - Portugal,3064794
+Vitoria Guimaraes,Santa Clara,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,5,8,5,4,4,5,9,Primeira Liga - Portugal,3064795
+Tondela,Moreirense,2020-01-18,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,3,4,2,2,2,2,4,Primeira Liga - Portugal,3064796
+Estoril,Académica,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,1,5,10,1,1,10,11,Segunda Liga - Portugal,3065225
+Academico Viseu,Chaves,2020-01-19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,5,6,6,5,11,Segunda Liga - Portugal,3065227
+Cova Piedade,Nacional,2020-01-19,3,1,4,y,1,1,1,1,2,2,0,0,2,2,1,4,5,3,9,9,3,12,Segunda Liga - Portugal,3065228
+Feyenoord,Heerenveen,2020-01-18,3,1,4,y,3,1,1,3,4,0,0,0,0,0,2,2,4,6,3,3,6,9,Eredivisie - Netherlands,3032217
+VVV,PSV,2020-01-19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,4,8,8,4,12,Eredivisie - Netherlands,3032220
+Emmen,Heracles,2020-01-19,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,5,3,3,5,8,Eredivisie - Netherlands,3032222
+ADO Den Haag,RKC Waalwijk,2020-01-19,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,2,5,5,2,7,Eredivisie - Netherlands,3032223
+Excelsior,Telstar,2020-01-17,3,3,6,y,0,1,1,0,1,3,2,2,3,5,1,1,2,7,2,2,7,9,Eerste Divisie - Netherlands,3031886
+TOP Oss,Cambuur,2020-01-17,3,2,5,y,2,2,2,2,4,1,0,0,1,1,3,3,6,7,6,6,7,13,Eerste Divisie - Netherlands,3031887
+MVV,NEC,2020-01-17,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,4,13,13,4,17,Eerste Divisie - Netherlands,3031889
+Den Bosch,Go Ahead Eagles,2020-01-19,2,3,5,y,2,1,1,2,3,0,2,2,0,2,0,1,1,2,3,3,2,5,Eerste Divisie - Netherlands,3031890
+AS Eupen,Sporting Charleroi,2020-01-18,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,2,3,3,7,7,3,10,First Division A - Belgium,3050311
+Zulte-Waregem,Genk,2020-01-19,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,2,2,6,4,4,6,10,First Division A - Belgium,3050313
+Cercle Brugge,Antwerp,2020-01-19,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,4,6,10,1,1,10,11,First Division A - Belgium,3050314
+Trabzonspor,Kasımpaşa,2020-01-19,6,0,6,n,3,0,0,3,3,3,0,0,3,3,1,4,5,5,2,2,5,7,Süper Lig - Turkey,3081934
+Alanyaspor,Kayserispor,2020-01-18,5,1,6,y,1,0,0,1,1,4,1,1,4,5,0,3,3,2,2,2,2,4,Süper Lig - Turkey,3081935
+Ankaragücü,Konyaspor,2020-01-17,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,1,1,4,4,4,4,8,Süper Lig - Turkey,3081936
+Ümraniyespor,Altay,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,4,5,4,4,4,4,8,1. Lig - Turkey,3083322
+Keçiörengücü,Eskişehirspor,2020-01-19,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,3,5,8,1,1,8,9,1. Lig - Turkey,3083326
+AEK Athens,Larissa,2020-01-19,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,2,3,11,3,3,11,14,Super League 1 - Greece,3051995
+Xanthi,Panathinaikos,2020-01-19,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,7,11,2,8,8,2,10,Super League 1 - Greece,3051996
+Atromitos,Volos NFC,2020-01-19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,11,4,4,11,15,Super League 1 - Greece,3051997
+Olympiakos Piraeus,Aris,2020-01-19,4,2,6,y,3,1,1,3,4,1,1,1,1,2,2,4,6,5,3,3,5,8,Super League 1 - Greece,3051998
+Panaitolikos,Lamia,2020-01-18,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,1,3,10,1,1,10,11,Super League 1 - Greece,3051999
+Panionios,OFI,2020-01-18,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,3,8,6,6,6,6,12,Super League 1 - Greece,3052000
+Maccabi Haifa,Sektzia Nes Tziona,2020-01-18,4,0,4,n,0,0,0,0,0,4,0,0,4,4,1,2,3,12,0,0,12,12,Ligat ha'Al - Israel,3033743
+Juárez,Pumas UNAM,2020-01-17,4,4,8,y,3,2,2,3,5,1,2,2,1,3,2,3,5,3,8,8,3,11,Liga MX - Mexico,3195281
+Atlético San Luis,Cruz Azul,2020-01-18,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,2,4,3,5,5,3,8,Liga MX - Mexico,3195282
+Atlas,Puebla,2020-01-18,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,5,6,5,4,4,5,9,Liga MX - Mexico,3195283
+Monterrey,Morelia,2020-01-19,2,2,4,y,1,1,1,1,2,1,1,1,1,2,0,3,3,7,3,3,7,10,Liga MX - Mexico,3195284
+Pachuca,Guadalajara,2020-01-19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,3,7,13,1,1,13,14,Liga MX - Mexico,3195285
+América,Tigres UANL,2020-01-19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,5,1,1,5,6,Liga MX - Mexico,3195286
+Toluca,Necaxa,2020-01-19,2,3,5,y,2,1,1,2,3,0,2,2,0,2,0,3,3,7,7,7,7,14,Liga MX - Mexico,3195287
+Santos Laguna,León,2020-01-20,3,2,5,y,0,1,1,0,1,3,1,1,3,4,0,0,0,4,1,1,4,5,Liga MX - Mexico,3195289
+Al Masry,Aswan,2020-01-16,2,2,4,y,1,1,1,1,2,1,1,1,1,2,1,2,3,3,4,4,3,7,Premier League - Egypt,3172385
+Al Ittihad,Pyramids,2020-01-16,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,3,4,2,11,11,2,13,Premier League - Egypt,3172386
+Smouha,Ismaily,2020-01-18,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,2,4,3,2,2,3,5,Premier League - Egypt,3172396
+El Entag El Harby,Haras El Hodood,2020-01-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,0,3,8,7,7,8,15,Premier League - Egypt,3172399
+Brisbane Roar,Wellington Phoenix,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,6,12,12,6,18,A-League - Australia,3129341
+Melbourne City,Newcastle Jets,2020-01-18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,1,1,6,9,9,6,15,A-League - Australia,3129342
+Western United,Central Coast Mariners,2020-01-19,3,0,3,n,3,0,0,3,3,0,0,0,0,0,1,3,4,1,9,9,1,10,A-League - Australia,3129343
+Western Sydney Wanderers,Perth Glory,2020-01-19,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,1,1,7,2,2,7,9,A-League - Australia,3129344
+Norwich City,AFC Bournemouth,2020-01-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,3,6,4,5,5,4,9,Premier League - England,3029299
+Southampton,Wolverhampton Wanderers,2020-01-18,2,3,5,y,2,0,0,2,2,0,3,3,0,3,2,1,3,1,3,3,1,4,Premier League - England,3029300
+Lincoln City,Bolton Wanderers,2020-01-14,5,1,6,y,1,0,0,1,1,4,1,1,4,5,1,1,2,-1,-1,-1,-1,-1,League One - England,3035314
+Millwall,Reading,2020-01-18,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036220
+Northampton Town,Morecambe,2020-01-18,4,1,5,y,2,0,0,2,2,2,1,1,2,3,0,0,0,-1,-1,-1,-1,-1,League Two - England,3036455
+Plymouth Argyle,Mansfield Town,2020-01-18,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,2,3,-1,-1,-1,-1,-1,League Two - England,3036461
+Darlington,Alfreton Town,2020-01-18,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054776
+Wealdstone,Welling United,2020-01-11,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055178
+Welling United,Hungerford Town,2020-01-18,3,2,5,y,2,1,1,2,3,1,1,1,1,2,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3055245
+Cove Rangers,Cowdenbeath,2020-01-18,3,1,4,y,2,0,0,2,2,1,1,1,1,2,2,7,9,-1,-1,-1,-1,-1,League Two - Scotland,3038842
+Aberystwyth Town,Penybont,2020-01-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,5,0,5,-1,-1,-1,-1,-1,Premier League - Wales,3042924
+Cardiff MU,Caernarfon Town,2020-01-18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,3,5,3,4,4,3,7,Premier League - Wales,3042927
+Newtown,Airbus UK,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,3,7,7,3,10,Premier League - Wales,3042928
+The New Saints,Connah's Quay,2020-01-18,2,1,3,y,1,1,1,1,2,1,0,0,1,1,5,3,8,4,3,3,4,7,Premier League - Wales,3042929
+Napoli,Fiorentina,2020-01-18,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,1,3,4,5,5,4,9,Serie A - Italy,3111891
+Lecce,Internazionale,2020-01-19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,3,14,14,3,17,Serie A - Italy,3111893
+Lazio,Sampdoria,2020-01-18,5,1,6,y,3,0,0,3,3,2,1,1,2,3,1,3,4,6,4,4,6,10,Serie A - Italy,3111896
+Sassuolo,Torino,2020-01-18,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,4,6,13,6,6,13,19,Serie A - Italy,3111898
+Benevento,Pisa,2020-01-19,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,4,7,8,2,2,8,10,Serie B - Italy,3122738
+Livorno,Virtus Entella,2020-01-18,4,4,8,y,3,1,1,3,4,1,3,3,1,4,4,5,9,3,2,2,3,5,Serie B - Italy,3122742
+Real Betis,Real Sociedad,2020-01-19,3,0,3,n,2,0,0,2,2,1,0,0,1,1,3,1,4,6,2,2,6,8,La Liga - Spain,3059002
+Eibar,Atletico Madrid,2020-01-18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,2,3,6,7,7,6,13,La Liga - Spain,3059003
+Leganes,Getafe,2020-01-17,0,3,3,n,0,3,3,0,3,0,0,0,0,0,6,3,9,4,4,4,4,8,La Liga - Spain,3059004
+Osasuna,Real Valladolid,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,9,1,1,9,10,La Liga - Spain,3059007
+Villarreal,Espanyol,2020-01-19,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,4,5,4,4,4,4,8,La Liga - Spain,3059009
+Deportivo La Coruña,Racing Santander,2020-01-16,2,1,3,y,1,1,1,1,2,1,0,0,1,1,6,1,7,5,7,7,5,12,Segunda División - Spain,3060159
+Elche,Alcorcón,2020-01-19,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,4,6,8,2,2,8,10,Segunda División - Spain,3060167
+Extremadura UD,Almería,2020-01-19,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,4,6,9,5,5,9,14,Segunda División - Spain,3060168
+Lugo,Albacete,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,4,8,3,11,11,3,14,Segunda División - Spain,3060170
+Ponferradina,Rayo Vallecano,2020-01-18,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,4,8,4,2,2,4,6,Segunda División - Spain,3060173
+RB Leipzig,Union Berlin,2020-01-18,3,1,4,y,0,1,1,0,1,3,0,0,3,3,1,3,4,4,4,4,4,8,Bundesliga - Germany,3047173
+Hoffenheim,Eintracht Frankfurt,2020-01-18,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,2,4,8,6,6,8,14,Bundesliga - Germany,3047174
+Fortuna Dusseldorf,Werder Bremen,2020-01-18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,5,9,6,4,4,6,10,Bundesliga - Germany,3047175
+Mainz 05,Freiburg,2020-01-18,1,2,3,y,0,2,2,0,2,1,0,0,1,1,4,2,6,7,5,5,7,12,Bundesliga - Germany,3047177
+Schalke 04,Borussia M'gladbach,2020-01-17,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,4,7,8,8,8,8,16,Bundesliga - Germany,3047178
+Augsburg,Borussia Dortmund,2020-01-18,3,5,8,y,1,0,0,1,1,2,5,5,2,7,0,1,1,2,6,6,2,8,Bundesliga - Germany,3047179
+Köln,Wolfsburg,2020-01-18,3,1,4,y,2,0,0,2,2,1,1,1,1,2,3,3,6,8,5,5,8,13,Bundesliga - Germany,3047180
+Nîmes,Rennes,2020-01-15,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,3,2,2,3,5,Ligue 1 - France,3030658
+Gazélec Ajaccio,Béziers,2020-01-17,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,-1,-1,-1,-1,-1,National 1 - France,3073283
+Paços de Ferreira,Gil Vicente,2020-01-19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,7,4,4,7,11,Primeira Liga - Portugal,3064791
+UD Oliveirense,Feirense,2020-01-18,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,4,7,8,5,5,8,13,Segunda Liga - Portugal,3065229
+Vilafranquense,Penafiel,2020-01-19,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,2,4,2,2,2,2,4,Segunda Liga - Portugal,3065232
+Fortuna Sittard,Vitesse,2020-01-18,1,3,4,y,0,2,2,0,2,1,1,1,1,2,2,2,4,3,5,5,3,8,Eredivisie - Netherlands,3032215
+Twente,Groningen,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,5,1,1,5,6,Eredivisie - Netherlands,3032216
+PEC Zwolle,Utrecht,2020-01-17,3,3,6,y,1,1,1,1,2,2,2,2,2,4,2,4,6,5,5,5,5,10,Eredivisie - Netherlands,3032218
+AZ,Willem II,2020-01-18,1,3,4,y,1,0,0,1,1,0,3,3,0,3,2,1,3,5,3,3,5,8,Eredivisie - Netherlands,3032219
+Volendam,PSV II,2020-01-17,4,2,6,y,1,1,1,1,2,3,1,1,3,4,2,2,4,4,2,2,4,6,Eerste Divisie - Netherlands,3031883
+Eindhoven,Helmond Sport,2020-01-17,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,6,4,4,6,10,Eerste Divisie - Netherlands,3031885
+Gent,Royal Excel Mouscron,2020-01-18,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,2,3,0,5,5,0,5,First Division A - Belgium,3050310
+Gaziantep FK,Fenerbahçe,2020-01-18,0,2,2,n,0,0,0,0,0,0,2,2,0,2,5,5,10,4,3,3,4,7,Süper Lig - Turkey,3081931
+Athletic Club,Celta Vigo,2020-01-19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,3,7,13,0,0,13,13,La Liga - Spain,3059000
+Hertha BSC,Bayern Munich,2020-01-19,0,4,4,n,0,0,0,0,0,0,4,4,0,4,3,1,4,0,4,4,0,4,Bundesliga - Germany,3047176
+Girona,Extremadura UD,2020-01-16,3,1,4,y,2,0,0,2,2,1,1,1,1,2,4,3,7,6,2,2,6,8,Segunda División - Spain,3060160
+Frosinone,Pordenone,2020-01-17,2,2,4,y,1,1,1,1,2,1,1,1,1,2,5,1,6,2,6,6,2,8,Serie B - Italy,3122739
+NAC Breda,AZ II,2020-01-17,3,1,4,y,0,0,0,0,0,3,1,1,3,4,4,1,5,7,3,3,7,10,Eerste Divisie - Netherlands,3031884
+Almere City,De Graafschap,2020-01-17,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,3,3,2,5,5,2,7,Eerste Divisie - Netherlands,3031888
+Mechelen,Standard Liège,2020-01-17,2,3,5,y,0,1,1,0,1,2,2,2,2,4,0,4,4,6,10,10,6,16,First Division A - Belgium,3050315
+Menemenspor,Giresunspor,2020-01-17,0,3,3,n,0,1,1,0,1,0,2,2,0,2,1,2,3,5,10,10,5,15,1. Lig - Turkey,3083330
+Adelaide United,Melbourne Victory,2020-01-17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,8,4,4,8,12,A-League - Australia,3129340
+Manchester City,Crystal Palace,2020-01-18,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,2,3,14,2,2,14,16,Premier League - England,3029297
+Watford,Tottenham Hotspur,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,3,3,3,3,6,Premier League - England,3029301
+West Ham United,Everton,2020-01-18,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,0,1,7,6,6,7,13,Premier League - England,3029302
+Accrington Stanley,Southend United,2020-01-18,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,League One - England,3035506
+Gillingham,Oxford United,2020-01-18,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,League One - England,3035517
+Bolton Wanderers,Portsmouth,2020-01-18,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,League One - England,3035508
+Lincoln City,Blackpool,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,0,1,-1,-1,-1,-1,-1,League One - England,3035519
+Wycombe Wanderers,Rochdale,2020-01-18,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,League One - England,3035527
+Derby County,Hull City,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036214
+Preston North End,Charlton Athletic,2020-01-18,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036224
+Colchester United,Macclesfield Town,2020-01-18,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,3,5,-1,-1,-1,-1,-1,League Two - England,3036443
+Crewe Alexandra,Cheltenham Town,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,3,3,-1,-1,-1,-1,-1,League Two - England,3036445
+Forest Green Rovers,Salford City,2020-01-18,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,6,7,-1,-1,-1,-1,-1,League Two - England,3036448
+Walsall,Crawley Town,2020-01-18,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,3,3,-1,-1,-1,-1,-1,League Two - England,3036464
+Aldershot Town,Chorley,2020-01-18,3,3,6,y,2,2,2,2,4,1,1,1,1,2,2,2,4,6,4,4,6,10,National League - England,3054240
+Stockport County,Sutton United,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,3,10,13,National League - England,3054248
+Guiseley,Gloucester City,2020-01-18,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054778
+Southport,Boston United,2020-01-18,1,3,4,y,0,1,1,0,1,1,2,2,1,3,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054783
+Chelmsford City,Eastbourne Borough,2020-01-18,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055236
+Havant & Waterlooville,Wealdstone,2020-01-18,2,4,6,y,1,1,1,1,2,1,3,3,1,4,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3055240
+St Albans City,Maidstone United,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3055243
+Annan Athletic,Stirling Albion,2020-01-18,2,3,5,y,0,1,1,0,1,2,2,2,2,4,1,2,3,-1,-1,-1,-1,-1,League Two - Scotland,3038840
+Bala Town,Cefn Druids,2020-01-18,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,1,1,-1,-1,-1,-1,-1,Premier League - Wales,3042925
+Barry Town United,Carmarthen Town,2020-01-18,7,1,8,y,5,1,1,5,6,2,0,0,2,2,2,1,3,7,0,0,7,7,Premier League - Wales,3042926
+Trapani,Ascoli,2020-01-18,3,1,4,y,1,1,1,1,2,2,0,0,2,2,4,4,8,5,5,5,5,10,Serie B - Italy,3122733
+Juve Stabia,Empoli,2020-01-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,3,4,6,4,4,6,10,Serie B - Italy,3122736
+Chievo,Perugia,2020-01-18,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,4,8,5,4,4,5,9,Serie B - Italy,3122737
+Real Madrid,Sevilla,2020-01-18,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,1,4,2,4,4,2,6,La Liga - Spain,3059008
+Guingamp,Lens,2020-01-18,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,2,5,7,2,2,7,9,Ligue 2 - France,3031210
+Porto II,Benfica II,2020-01-18,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,4,6,7,6,6,7,13,Segunda Liga - Portugal,3065230
+Leixões,Mafra,2020-01-18,0,2,2,n,0,1,1,0,1,0,1,1,0,1,5,2,7,8,8,8,8,16,Segunda Liga - Portugal,3065226
+KV Oostende,Waasland-Beveren,2020-01-18,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,1,2,10,0,0,10,10,First Division A - Belgium,3050312
+Sint-Truiden,Kortrijk,2020-01-18,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,2,2,5,5,5,5,10,First Division A - Belgium,3050316
+Istanbul Basaksehir,Yeni Malatyaspor,2020-01-18,4,1,5,y,4,0,0,4,4,0,1,1,0,1,2,4,6,4,5,5,4,9,Süper Lig - Turkey,3081932
+Adanaspor,Akhisarspor,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,3,3,4,10,10,4,14,1. Lig - Turkey,3083327
+Altınordu,Hatayspor,2020-01-18,2,2,4,y,2,1,1,2,3,0,1,1,0,1,1,3,4,4,7,7,4,11,1. Lig - Turkey,3083329
+Ashdod,Ironi Kiryat Shmona,2020-01-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,9,4,4,9,13,Ligat ha'Al - Israel,3033740
+Hapoel Hadera,Maccabi Tel Aviv,2020-01-18,0,3,3,n,0,1,1,0,1,0,2,2,0,2,2,2,4,2,9,9,2,11,Ligat ha'Al - Israel,3033741
+ENPPI,Masr,2020-01-18,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,5,7,2,6,6,2,8,Premier League - Egypt,3172395
+Liverpool,Manchester United,2020-01-19,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,3,4,11,5,5,11,16,Premier League - England,3029296
+Juventus,Parma,2020-01-19,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,1,1,10,6,6,10,16,Serie A - Italy,3111894
+Spezia,Cittadella,2020-01-19,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,1,2,1,2,2,1,3,Serie B - Italy,3122734
+Pescara,Salernitana,2020-01-19,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,4,6,5,5,5,5,10,Serie B - Italy,3122740
+Barcelona,Granada,2020-01-19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,4,4,7,0,0,7,7,La Liga - Spain,3059001
+Deportivo La Coruña,Cádiz,2020-01-19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,0,4,4,0,4,Segunda División - Spain,3060166
+Real Oviedo,Huesca,2020-01-19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,3,6,5,4,4,5,9,Segunda División - Spain,3060174
+Paderborn,Bayer Leverkusen,2020-01-19,1,4,5,y,0,3,3,0,3,1,1,1,1,2,3,1,4,6,4,4,6,10,Bundesliga - Germany,3047181
+Famalicão,Marítimo,2020-01-19,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,5,8,6,2,2,6,8,Primeira Liga - Portugal,3064788
+Farense,Sporting Covilhã,2020-01-19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,1,5,4,2,2,4,6,Segunda Liga - Portugal,3065231
+Casa Pia,Varzim,2020-01-19,2,2,4,y,0,1,1,0,1,2,1,1,2,3,2,2,4,1,7,7,1,8,Segunda Liga - Portugal,3065233
+Ajax,Sparta Rotterdam,2020-01-19,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,1,2,9,4,4,9,13,Eredivisie - Netherlands,3032221
+Anderlecht,Club Brugge,2020-01-19,1,2,3,y,1,1,1,1,2,0,1,1,0,1,0,2,2,3,3,3,3,6,First Division A - Belgium,3050309
+Beşiktaş,Sivasspor,2020-01-19,1,2,3,y,1,2,2,1,3,0,0,0,0,0,2,7,9,14,5,5,14,19,Süper Lig - Turkey,3081930
+Galatasaray,Denizlispor,2020-01-19,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,4,5,5,9,9,5,14,Süper Lig - Turkey,3081937
+Antalyaspor,Göztepe,2020-01-19,0,3,3,n,0,3,3,0,3,0,0,0,0,0,4,2,6,9,5,5,9,14,Süper Lig - Turkey,3081938
+Boluspor,Osmanlıspor,2020-01-19,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,2,5,5,2,2,5,7,1. Lig - Turkey,3083324
+İstanbulspor,BB Erzurumspor,2020-01-19,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,4,10,10,4,14,1. Lig - Turkey,3083325
+Bursaspor,Fatih Karagümrük,2020-01-19,2,1,3,y,1,0,0,1,1,1,1,1,1,2,4,7,11,9,5,5,9,14,1. Lig - Turkey,3083328
+PAOK,Asteras Tripolis,2020-01-19,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,3,4,6,3,3,6,9,Super League 1 - Greece,3052001
+Hapoel Tel Aviv,Hapoel Ra'anana,2020-01-19,3,1,4,y,1,1,1,1,2,2,0,0,2,2,-1,-1,-1,8,4,4,8,12,Ligat ha'Al - Israel,3033738
+Querétaro,Tijuana,2020-01-19,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,1,2,5,6,6,5,11,Liga MX - Mexico,3195288
+Independiente,River Plate,2020-01-19,1,2,3,y,0,1,1,0,1,1,1,1,1,2,4,6,10,4,2,2,4,6,Superliga - Argentina,3070478
+Al Mokawloon,Al Ahly,2020-01-19,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,3,5,3,6,6,3,9,Premier League - Egypt,3172393
+AFC Bournemouth,Brighton & Hove Albion,2020-01-21,3,1,4,y,2,0,0,2,2,1,1,1,1,2,1,1,2,5,8,8,5,13,Premier League - England,3029303
+Aston Villa,Watford,2020-01-21,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,2,4,6,3,3,6,9,Premier League - England,3029304
+Everton,Newcastle United,2020-01-21,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,1,2,6,4,4,6,10,Premier League - England,3029305
+Leicester City,West Ham United,2020-01-22,4,1,5,y,2,0,0,2,2,2,1,1,2,3,1,1,2,7,8,8,7,15,Premier League - England,3029306
+Manchester United,Burnley,2020-01-22,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,2,2,5,2,2,5,7,Premier League - England,3029307
+Sheffield United,Manchester City,2020-01-21,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,3,7,5,13,13,5,18,Premier League - England,3029308
+Wolverhampton Wanderers,Liverpool,2020-01-23,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,1,1,2,4,4,2,6,Premier League - England,3029309
+Crystal Palace,Southampton,2020-01-21,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,0,8,8,0,8,Premier League - England,3029311
+Peterborough United,Wycombe Wanderers,2020-01-21,4,0,4,n,2,0,0,2,2,2,0,0,2,2,3,2,5,-1,-1,-1,-1,-1,League One - England,3035467
+Nottingham Forest,Reading,2020-01-22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035725
+West Bromwich Albion,Stoke City,2020-01-20,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,7,1,1,7,8,Championship - England,3036232
+Barnsley,Preston North End,2020-01-21,0,3,3,n,0,3,3,0,3,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036234
+Charlton Athletic,Fulham,2020-01-22,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036244
+Middlesbrough,Birmingham City,2020-01-21,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036252
+Macclesfield Town,Crewe Alexandra,2020-01-21,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,League Two - England,3036266
+Leyton Orient,Northampton Town,2020-01-21,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,5,7,-1,-1,-1,-1,-1,League Two - England,3036400
+Guiseley,Darlington,2020-01-21,1,2,3,y,1,2,2,1,3,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054647
+Boston United,Brackley Town,2020-01-21,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054664
+Aberdeen,Motherwell,2020-01-22,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Premiership - Scotland,3038487
+Rangers,St. Mirren,2020-01-22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Premiership - Scotland,3038491
+Béziers,Dunkerque,2020-01-23,1,2,3,y,0,1,1,0,1,1,1,1,1,2,-1,-1,-1,5,6,6,5,11,National 1 - France,3073309
+Utrecht II,Roda JC,2020-01-20,2,1,3,y,0,1,1,0,1,2,0,0,2,2,4,2,6,8,7,7,8,15,Eerste Divisie - Netherlands,3031891
+Rizespor,Gençlerbirliği,2020-01-20,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,1,2,4,0,0,4,4,Süper Lig - Turkey,3081933
+Larissa,Panaitolikos,2020-01-22,2,2,4,y,0,1,1,0,1,2,1,1,2,3,4,5,9,8,5,5,8,13,Super League 1 - Greece,3052002
+Aris,Xanthi,2020-01-23,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,4,7,4,2,2,4,6,Super League 1 - Greece,3052003
+Asteras Tripolis,Panionios,2020-01-23,2,0,2,n,1,0,0,1,1,1,0,0,1,1,6,1,7,7,5,5,7,12,Super League 1 - Greece,3052004
+Volos NFC,AEK Athens,2020-01-22,1,3,4,y,0,2,2,0,2,1,1,1,1,2,3,2,5,3,5,5,3,8,Super League 1 - Greece,3052005
+OFI,Olympiakos Piraeus,2020-01-22,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,4,5,5,4,4,5,9,Super League 1 - Greece,3052006
+Panathinaikos,Atromitos,2020-01-22,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,2,2,9,3,3,9,12,Super League 1 - Greece,3052007
+Lamia,PAOK,2020-01-23,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,4,7,3,1,1,3,4,Super League 1 - Greece,3052008
+Hapoel Be'er Sheva,Hapoel Haifa,2020-01-20,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,6,4,4,6,10,Ligat ha'Al - Israel,3033739
+Hapoel Kfar Saba,Bnei Yehuda,2020-01-20,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,3,7,7,3,10,Ligat ha'Al - Israel,3033744
+Tanta,El Gouna,2020-01-21,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,2,8,8,2,10,Premier League - Egypt,3172397
+Wellington Phoenix,Newcastle Jets,2020-01-24,2,1,3,y,0,0,0,0,0,2,1,1,2,3,1,1,2,6,12,12,6,18,A-League - Australia,3129345
+Melbourne Victory,Sydney,2020-01-24,0,3,3,n,0,1,1,0,1,0,2,2,0,2,4,3,7,6,3,3,6,9,A-League - Australia,3129346
+Atalanta,SPAL,2020-01-20,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,3,5,8,4,4,8,12,Serie A - Italy,3111897
+Cosenza,Crotone,2020-01-20,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,9,2,2,9,11,Serie B - Italy,3122735
+Ajax II,Dordrecht,2020-01-20,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,3,3,4,0,0,4,4,Eerste Divisie - Netherlands,3031892
+Beitar Jerusalem,Maccabi Netanya,2020-01-20,3,1,4,y,1,1,1,1,2,2,0,0,2,2,3,3,6,6,2,2,6,8,Ligat ha'Al - Israel,3033742
+Aswan,Wadi Degla,2020-01-20,1,3,4,y,0,3,3,0,3,1,0,0,1,1,2,1,3,6,6,6,6,12,Premier League - Egypt,3172394
+Chelsea,Arsenal - Premier League - England,2020-01-21,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,2,4,17,5,5,17,22,Premier League - England,3029310
+Colchester United,Bradford City,2020-01-21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,2,6,-1,-1,-1,-1,-1,League Two - England,3036209
+Leamington,Gateshead,2020-01-21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054650
+Alloa Athletic,Arbroath,2020-01-21,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - Scotland,3038659
+Pyramids,Misr Lel Makasa,2020-01-21,3,1,4,y,2,0,0,2,2,1,1,1,1,2,3,1,4,5,5,5,5,10,Premier League - Egypt,3172400
+Tottenham Hotspur,Norwich City,2020-01-22,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,1,1,7,3,3,7,10,Premier League - England,3029312
+Hibernian,Hamilton Academical,2020-01-22,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,3,3,-1,-1,-1,-1,-1,Premiership - Scotland,3038488
+Kilmarnock,Celtic,2020-01-22,1,3,4,y,0,1,1,0,1,1,2,2,1,3,1,2,3,-1,-1,-1,-1,-1,Premiership - Scotland,3038489
+Livingston,St. Johnstone,2020-01-22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Premiership - Scotland,3038490
+Ross County,Hearts,2020-01-22,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Premiership - Scotland,3038492
+Dulwich Hamlet,Havant & Waterlooville,2020-01-21,1,3,4,y,0,0,0,0,0,1,3,3,1,4,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055097
+Blooming,Santa Cruz,2020-01-22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,5,8,10,6,6,10,16,Primera División - Bolivia,3212693
+Aurora,Real Potosí,2020-01-22,4,0,4,n,1,0,0,1,1,3,0,0,3,3,2,3,5,-1,-1,-1,-1,-1,Primera División - Bolivia,3212694
+Guabirá,Always Ready,2020-01-22,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,2,5,7,4,4,7,11,Primera División - Bolivia,3212695
+Bolívar,Atlético Palmaflor,2020-01-22,3,1,4,y,2,0,0,2,2,1,1,1,1,2,2,3,5,16,5,5,16,21,Primera División - Bolivia,3212696
+Royal Pari,Oriente Petrolero,2020-01-23,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,1,5,2,9,9,2,11,Primera División - Bolivia,3212697
+Nacional Potosí,Jorge Wilstermann,2020-01-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,0,2,4,6,6,4,10,Primera División - Bolivia,3212698
+Bristol Rovers,Fleetwood Town,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,League One - England,3035532
+Burton Albion,Accrington Stanley,2020-01-25,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,3,6,-1,-1,-1,-1,-1,League One - England,3035534
+Peterborough United,Rotherham United,2020-01-25,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,League One - England,3035542
+Sunderland,Doncaster Rovers,2020-01-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,League One - England,3035552
+Stoke City,Swansea City,2020-01-25,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036256
+Carlisle United,Walsall,2020-01-25,2,1,3,y,2,0,0,2,2,0,1,1,0,1,3,0,3,-1,-1,-1,-1,-1,League Two - England,3036466
+Leyton Orient,Newport County,2020-01-25,2,1,3,y,0,0,0,0,0,2,1,1,2,3,1,2,3,-1,-1,-1,-1,-1,League Two - England,3036474
+Mansfield Town,Bradford City,2020-01-25,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,League Two - England,3036478
+Morecambe,Cambridge United,2020-01-25,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,2,5,-1,-1,-1,-1,-1,League Two - England,3036480
+Salford City,Oldham Athletic,2020-01-25,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,3,4,-1,-1,-1,-1,-1,League Two - England,3036482
+Scunthorpe United,Crewe Alexandra,2020-01-25,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,0,1,-1,-1,-1,-1,-1,League Two - England,3036484
+Stevenage,Plymouth Argyle,2020-01-25,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,1,1,-1,-1,-1,-1,-1,League Two - England,3036486
+Swindon Town,Port Vale,2020-01-25,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,4,5,-1,-1,-1,-1,-1,League Two - England,3036488
+Boreham Wood,Barrow,2020-01-25,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,National League - England,3054251
+Chesterfield,Fylde,2020-01-25,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,0,0,5,6,6,5,11,National League - England,3054253
+Chorley,Halifax Town,2020-01-25,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,4,3,3,4,7,National League - England,3054254
+Dagenham & Redbridge,Notts County,2020-01-25,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,-1,-1,-1,-1,-1,National League - England,3054255
+Harrogate Town,Wrexham,2020-01-25,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,14,7,7,14,21,National League - England,3054257
+Hartlepool United,Stockport County,2020-01-25,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,1,1,4,10,10,4,14,National League - England,3054258
+Maidenhead United,Eastleigh,2020-01-25,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,4,4,-1,-1,-1,-1,-1,National League - England,3054259
+Sutton United,Solihull Moors,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,4,5,-1,-1,-1,-1,-1,National League - England,3054260
+Woking,Yeovil Town,2020-01-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,2,5,-1,-1,-1,-1,-1,National League - England,3054262
+Altrincham,Bradford (Park Avenue),2020-01-25,2,0,2,n,2,0,0,2,2,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3054785
+Blyth Spartans,King's Lynn Town,2020-01-25,0,3,3,n,0,2,2,0,2,0,1,1,0,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054786
+Boston United,Kidderminster Harriers,2020-01-25,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054787
+Brackley Town,Guiseley,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3054788
+Chester,Darlington,2020-01-25,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054789
+Farsley Celtic,AFC Telford United,2020-01-25,1,1,2,y,0,1,1,0,1,1,0,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3054790
+Gloucester City,Southport,2020-01-25,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054791
+Hereford,Curzon Ashton,2020-01-25,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054792
+York City,Kettering Town,2020-01-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3054794
+Billericay Town,Tonbridge Angels,2020-01-25,3,3,6,y,0,0,0,0,0,3,3,3,3,6,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055246
+Braintree Town,Slough Town,2020-01-25,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055247
+Eastbourne Borough,Concord Rangers,2020-01-25,2,2,4,y,1,1,1,1,2,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055250
+Hemel Hempstead Town,Welling United,2020-01-25,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055252
+Hungerford Town,Chelmsford City,2020-01-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055253
+Maidstone United,Oxford City,2020-01-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3055254
+Wealdstone,Bath City,2020-01-25,7,0,7,n,3,0,0,3,3,4,0,0,4,4,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3055255
+Weymouth,Dorking Wanderers,2020-01-25,2,1,3,y,1,1,1,1,2,1,0,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,National League N / S - England,3055256
+Celtic,Ross County,2020-01-25,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,0,1,-1,-1,-1,-1,-1,Premiership - Scotland,3038493
+Hamilton Academical,Livingston,2020-01-25,2,4,6,y,1,2,2,1,3,1,2,2,1,3,1,1,2,-1,-1,-1,-1,-1,Premiership - Scotland,3038494
+Hearts,Rangers,2020-01-26,2,1,3,y,0,0,0,0,0,2,1,1,2,3,1,2,3,4,6,6,4,10,Premiership - Scotland,3038495
+Motherwell,Hibernian,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,5,6,-1,-1,-1,-1,-1,Premiership - Scotland,3038496
+St. Johnstone,Kilmarnock,2020-01-25,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,Premiership - Scotland,3038497
+St. Mirren,Aberdeen,2020-01-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,2,11,11,2,13,Premiership - Scotland,3038498
+Arbroath,Partick Thistle,2020-01-25,2,1,3,y,2,0,0,2,2,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,Championship - Scotland,3038664
+Ayr United,Inverness CT,2020-01-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,Championship - Scotland,3038665
+Dundee United,Greenock Morton,2020-01-25,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,Championship - Scotland,3038666
+Dunfermline Athletic,Dundee,2020-01-24,2,0,2,n,2,0,0,2,2,0,0,0,0,0,2,2,4,9,4,4,9,13,Championship - Scotland,3038667
+Queen of the South,Alloa Athletic,2020-01-25,2,3,5,y,0,2,2,0,2,2,1,1,2,3,0,1,1,-1,-1,-1,-1,-1,Championship - Scotland,3038668
+Airdrieonians,Stranraer,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,League One - Scotland,3038286
+Peterhead,Dumbarton,2020-01-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,League One - Scotland,3038289
+Raith Rovers,Montrose,2020-01-25,4,3,7,y,3,0,0,3,3,1,3,3,1,4,2,4,6,-1,-1,-1,-1,-1,League One - Scotland,3038290
+Stenhousemuir,Edinburgh City,2020-01-25,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,2,4,-1,-1,-1,-1,-1,League Two - Scotland,3038847
+Stirling Albion,Elgin City,2020-01-25,1,2,3,y,0,1,1,0,1,1,1,1,1,2,4,2,6,-1,-1,-1,-1,-1,League Two - Scotland,3038848
+Internazionale,Cagliari,2020-01-26,1,1,2,y,1,0,0,1,1,0,1,1,0,1,6,0,6,4,6,6,4,10,Serie A - Italy,3111902
+Fiorentina,Genoa,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,3,7,7,6,6,7,13,Serie A - Italy,3111903
+Napoli,Juventus,2020-01-26,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,5,7,3,2,2,3,5,Serie A - Italy,3111904
+Sampdoria,Sassuolo,2020-01-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,2,6,6,3,3,6,9,Serie A - Italy,3111908
+Parma,Udinese,2020-01-26,2,0,2,n,2,0,0,2,2,0,0,0,0,0,2,3,5,5,11,11,5,16,Serie A - Italy,3111909
+Empoli,Chievo,2020-01-24,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,5,10,3,3,3,3,6,Serie B - Italy,3122744
+Virtus Entella,Cremonese,2020-01-25,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,4,6,4,7,7,4,11,Serie B - Italy,3122746
+Ascoli,Frosinone,2020-01-26,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,5,2,2,5,7,Serie B - Italy,3122747
+Celta Vigo,Eibar,2020-01-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,6,3,3,6,9,La Liga - Spain,3059012
+Sevilla,Granada,2020-01-25,2,0,2,n,2,0,0,2,2,0,0,0,0,0,4,1,5,3,6,6,3,9,La Liga - Spain,3059017
+Valencia,Barcelona,2020-01-25,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,2,0,0,2,2,La Liga - Spain,3059018
+Real Valladolid,Real Madrid,2020-01-26,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,3,5,5,3,8,La Liga - Spain,3059019
+Albacete,Deportivo La Coruña,2020-01-26,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,4,7,11,2,2,11,13,Segunda División - Spain,3060177
+Alcorcón,Ponferradina,2020-01-26,3,1,4,y,2,0,0,2,2,1,1,1,1,2,2,3,5,5,4,4,5,9,Segunda División - Spain,3060178
+Cádiz,Racing Santander,2020-01-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,4,8,7,1,1,7,8,Segunda División - Spain,3060180
+Huesca,Lugo,2020-01-25,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,2,4,12,0,0,12,12,Segunda División - Spain,3060182
+Las Palmas,Tenerife,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,5,8,7,2,2,7,9,Segunda División - Spain,3060183
+Rayo Vallecano,Extremadura UD,2020-01-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,4,7,7,3,3,7,10,Segunda División - Spain,3060185
+Sporting Gijón,Fuenlabrada,2020-01-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,2,6,3,8,8,3,11,Segunda División - Spain,3060186
+Real Zaragoza,Numancia,2020-01-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,1,5,4,2,2,4,6,Segunda División - Spain,3060187
+Bayern Munich,Schalke 04,2020-01-25,5,0,5,n,2,0,0,2,2,3,0,0,3,3,0,0,0,9,2,2,9,11,Bundesliga - Germany,3047182
+Borussia Dortmund,Köln,2020-01-24,5,1,6,y,2,0,0,2,2,3,1,1,3,4,1,1,2,1,3,3,1,4,Bundesliga - Germany,3047183
+Bayer Leverkusen,Fortuna Dusseldorf,2020-01-26,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,3,3,8,5,5,8,13,Bundesliga - Germany,3047184
+Borussia M'gladbach,Mainz 05,2020-01-25,3,1,4,y,1,1,1,1,2,2,0,0,2,2,1,3,4,6,3,3,6,9,Bundesliga - Germany,3047185
+Wolfsburg,Hertha BSC,2020-01-25,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,1,1,9,4,4,9,13,Bundesliga - Germany,3047186
+Werder Bremen,Hoffenheim,2020-01-26,0,3,3,n,0,0,0,0,0,0,3,3,0,3,2,2,4,7,4,4,7,11,Bundesliga - Germany,3047188
+Union Berlin,Augsburg,2020-01-25,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,1,5,4,5,5,4,9,Bundesliga - Germany,3047190
+Magdeburg,Zwickau,2020-01-25,1,2,3,y,1,0,0,1,1,0,2,2,0,2,1,2,3,4,2,2,4,6,3. Liga - Germany,3053338
+Würzburger Kickers,Unterhaching,2020-01-25,1,2,3,y,0,0,0,0,0,1,2,2,1,3,3,3,6,13,2,2,13,15,3. Liga - Germany,3053343
+Meppen,Waldhof Mannheim,2020-01-25,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,5,7,6,1,1,6,7,3. Liga - Germany,3053347
+Brest,Amiens SC,2020-01-25,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,3,5,2,7,7,2,9,Ligue 1 - France,3030747
+Olympique Marseille,Angers SCO,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,4,2,2,4,6,Ligue 1 - France,3030749
+Montpellier,Dijon,2020-01-25,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,3,0,0,3,3,Ligue 1 - France,3030750
+Reims,Metz,2020-01-25,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,1,2,11,1,1,11,12,Ligue 1 - France,3030751
+Nantes,Bordeaux,2020-01-26,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,0,2,2,0,2,Ligue 1 - France,3030752
+Nice,Rennes,2020-01-24,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,9,8,8,9,17,Ligue 1 - France,3030753
+Olympique Lyonnais,Toulouse,2020-01-26,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,1,1,8,2,2,8,10,Ligue 1 - France,3030754
+Lille,PSG,2020-01-26,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,1,4,6,3,3,6,9,Ligue 1 - France,3030755
+Paris FC,Rodez,2020-01-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,4,8,10,6,6,10,16,Ligue 2 - France,3031216
+Auxerre,Sochaux,2020-01-24,2,1,3,y,1,1,1,1,2,1,0,0,1,1,4,2,6,9,2,2,9,11,Ligue 2 - France,3031218
+Grenoble Foot 38,Chambly,2020-01-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,5,5,5,5,10,Ligue 2 - France,3031219
+Châteauroux,Niort,2020-01-24,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,3,5,11,3,3,11,14,Ligue 2 - France,3031220
+Lens,Clermont,2020-01-25,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,4,3,3,4,7,Ligue 2 - France,3031222
+Lorient,Nancy,2020-01-24,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,3,3,10,3,3,10,13,Ligue 2 - France,3031223
+Orléans,Guingamp,2020-01-24,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,1,2,6,9,9,6,15,Ligue 2 - France,3031224
+Boulogne,Créteil,2020-01-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,6,2,2,6,8,National 1 - France,3073310
+Gazélec Ajaccio,Toulon,2020-01-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,0,2,7,1,1,7,8,National 1 - France,3073312
+Le Puy Foot,Concarneau,2020-01-24,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,4,5,12,2,2,12,14,National 1 - France,3073313
+Lyon Duchère,Villefranche,2020-01-24,2,2,4,y,1,1,1,1,2,1,1,1,1,2,4,4,8,3,0,0,3,3,National 1 - France,3073314
+Red Star,Bourg-en-Bresse,2020-01-24,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,3,4,4,6,6,4,10,National 1 - France,3073316
+Tondela,Vitória Setúbal,2020-01-26,0,3,3,n,0,2,2,0,2,0,1,1,0,1,1,2,3,11,2,2,11,13,Primeira Liga - Portugal,3064800
+Famalicão,Santa Clara,2020-01-26,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,4,6,12,7,7,12,19,Primeira Liga - Portugal,3064801
+Paços de Ferreira,Benfica,2020-01-26,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,2,5,6,7,7,6,13,Primeira Liga - Portugal,3064802
+Desportivo Aves,Boavista,2020-01-26,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,5,9,4,4,4,4,8,Primeira Liga - Portugal,3064803
+Belenenses,Portimonense,2020-01-26,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,2,3,2,6,6,2,8,Primeira Liga - Portugal,3064804
+Vilafranquense,Feirense,2020-01-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,1,4,5,4,4,5,9,Segunda Liga - Portugal,3065234
+Leixões,Académica,2020-01-26,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,3,8,1,3,3,1,4,Segunda Liga - Portugal,3065235
+Porto II,Sporting Covilhã,2020-01-26,4,2,6,y,1,1,1,1,2,3,1,1,3,4,3,4,7,4,1,1,4,5,Segunda Liga - Portugal,3065236
+Academico Viseu,Penafiel,2020-01-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,2,6,5,3,3,5,8,Segunda Liga - Portugal,3065237
+Casa Pia,Farense,2020-01-26,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,1,3,7,7,7,7,14,Segunda Liga - Portugal,3065238
+UD Oliveirense,Varzim,2020-01-26,4,0,4,n,1,0,0,1,1,3,0,0,3,3,5,5,10,3,3,3,3,6,Segunda Liga - Portugal,3065241
+Cova Piedade,Mafra,2020-01-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,0,1,4,7,7,4,11,Segunda Liga - Portugal,3065242
+Utrecht,ADO Den Haag,2020-01-24,4,0,4,n,1,0,0,1,1,3,0,0,3,3,0,3,3,11,6,6,11,17,Eredivisie - Netherlands,3032224
+Heerenveen,AZ,2020-01-25,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,1,2,2,8,8,2,10,Eredivisie - Netherlands,3032225
+RKC Waalwijk,VVV,2020-01-25,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,2,4,3,5,5,3,8,Eredivisie - Netherlands,3032226
+Heracles,Feyenoord,2020-01-25,2,3,5,y,1,0,0,1,1,1,3,3,1,4,1,0,1,7,9,9,7,16,Eredivisie - Netherlands,3032227
+Sparta Rotterdam,Fortuna Sittard,2020-01-25,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,2,3,11,1,1,11,12,Eredivisie - Netherlands,3032228
+Vitesse,Emmen,2020-01-26,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,9,3,3,9,12,Eredivisie - Netherlands,3032229
+Groningen,Ajax,2020-01-26,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,4,6,4,5,5,4,9,Eredivisie - Netherlands,3032230
+Cambuur,Utrecht II,2020-01-24,3,1,4,y,1,1,1,1,2,2,0,0,2,2,1,1,2,11,2,2,11,13,Eerste Divisie - Netherlands,3031893
+Dordrecht,Eindhoven,2020-01-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,3,3,6,4,4,6,10,Eerste Divisie - Netherlands,3031894
+De Graafschap,MVV,2020-01-24,3,2,5,y,2,1,1,2,3,1,1,1,1,2,0,1,1,8,5,5,8,13,Eerste Divisie - Netherlands,3031896
+NEC,Ajax II,2020-01-24,3,3,6,y,0,1,1,0,1,3,2,2,3,5,5,1,6,5,7,7,5,12,Eerste Divisie - Netherlands,3031897
+Roda JC,Volendam,2020-01-24,2,3,5,y,0,1,1,0,1,2,2,2,2,4,1,2,3,5,8,8,5,13,Eerste Divisie - Netherlands,3031898
+Telstar,TOP Oss,2020-01-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Eerste Divisie - Netherlands,3031899
+Helmond Sport,Den Bosch,2020-01-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,7,1,1,7,8,Eerste Divisie - Netherlands,3031900
+Standard Liège,KV Oostende,2020-01-24,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,2,2,5,6,6,5,11,First Division A - Belgium,3050317
+Gent,Genk,2020-01-25,4,1,5,y,1,1,1,1,2,3,0,0,3,3,0,1,1,7,6,6,7,13,First Division A - Belgium,3050318
+Kortrijk,Club Brugge,2020-01-26,2,2,4,y,1,2,2,1,3,1,0,0,1,1,5,1,6,3,4,4,3,7,First Division A - Belgium,3050319
+Royal Excel Mouscron,Sint-Truiden,2020-01-25,1,3,4,y,0,1,1,0,1,1,2,2,1,3,1,2,3,3,1,1,3,4,First Division A - Belgium,3050320
+Antwerp,Zulte-Waregem,2020-01-26,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,4,4,5,1,1,5,6,First Division A - Belgium,3050323
+Waasland-Beveren,AS Eupen,2020-01-25,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,2,5,7,4,4,7,11,First Division A - Belgium,3050324
+Neuchâtel Xamax,Servette,2020-01-25,1,2,3,y,0,2,2,0,2,1,0,0,1,1,4,2,6,5,2,2,5,7,Super League - Switzerland,3037905
+St. Gallen,Lugano,2020-01-26,3,1,4,y,0,1,1,0,1,3,0,0,3,3,2,1,3,7,2,2,7,9,Super League - Switzerland,3037906
+Zürich,Luzern,2020-01-25,2,3,5,y,1,3,3,1,4,1,0,0,1,1,5,3,8,9,3,3,9,12,Super League - Switzerland,3037909
+Gençlerbirliği,Gaziantep FK,2020-01-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,10,2,2,10,12,Süper Lig - Turkey,3081939
+Kasımpaşa,Alanyaspor,2020-01-25,1,2,3,y,0,1,1,0,1,1,1,1,1,2,4,1,5,4,7,7,4,11,Süper Lig - Turkey,3081942
+Fenerbahçe,Istanbul Basaksehir,2020-01-25,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,1,1,6,7,7,6,13,Süper Lig - Turkey,3081943
+Denizlispor,Antalyaspor,2020-01-26,0,3,3,n,0,2,2,0,2,0,1,1,0,1,2,2,4,8,4,4,8,12,Süper Lig - Turkey,3081947
+Balıkesirspor,Adana Demirspor,2020-01-20,1,6,7,y,0,4,4,0,4,1,2,2,1,3,4,0,4,1,6,6,1,7,1. Lig - Turkey,3083323
+BB Erzurumspor,Balıkesirspor,2020-01-26,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,4,5,7,1,1,7,8,1. Lig - Turkey,3083331
+Akhisarspor,Bursaspor,2020-01-24,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,7,9,8,0,0,8,8,1. Lig - Turkey,3083333
+Adana Demirspor,Boluspor,2020-01-26,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,2,4,3,3,3,3,6,1. Lig - Turkey,3083335
+Altay,İstanbulspor,2020-01-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,1,3,3,1,4,1. Lig - Turkey,3083336
+Giresunspor,Ümraniyespor,2020-01-25,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,1,3,3,2,2,3,5,1. Lig - Turkey,3083337
+Osmanlıspor,Keçiörengücü,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,5,2,7,1,3,3,1,4,1. Lig - Turkey,3083338
+Hatayspor,Menemenspor,2020-01-26,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,6,9,4,5,5,4,9,1. Lig - Turkey,3083339
+Larissa,Panathinaikos,2020-01-25,0,2,2,n,0,1,1,0,1,0,1,1,0,1,5,1,6,1,5,5,1,6,Super League 1 - Greece,3052010
+Xanthi,OFI,2020-01-26,2,2,4,y,0,1,1,0,1,2,1,1,2,3,5,5,10,1,2,2,1,3,Super League 1 - Greece,3052011
+Panionios,Atromitos,2020-01-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,3,7,9,0,0,9,9,Super League 1 - Greece,3052013
+Beitar Jerusalem,Sektzia Nes Tziona,2020-01-26,1,0,1,n,1,0,0,1,1,0,0,0,0,0,-1,-1,-1,6,0,0,6,6,Ligat ha'Al - Israel,3033656
+Maccabi Netanya,Hapoel Hadera,2020-01-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,-1,-1,-1,5,4,4,5,9,Ligat ha'Al - Israel,3033748
+Maccabi Tel Aviv,Ashdod,2020-01-25,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,3,4,10,3,3,10,13,Ligat ha'Al - Israel,3033749
+Hapoel Haifa,Hapoel Ra'anana,2020-01-25,2,2,4,y,0,2,2,0,2,2,0,0,2,2,5,2,7,10,2,2,10,12,Ligat ha'Al - Israel,3033751
+Tijuana,América,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,3,3,6,Liga MX - Mexico,3195291
+Cruz Azul,Santos Laguna,2020-01-26,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,3,5,3,8,8,3,11,Liga MX - Mexico,3195292
+León,Pachuca,2020-01-26,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,3,5,8,3,3,8,11,Liga MX - Mexico,3195294
+Juárez,Morelia,2020-01-27,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,3,4,6,4,4,6,10,Liga MX - Mexico,3195298
+Boca Juniors,Independiente,2020-01-27,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,5,8,7,4,4,7,11,Superliga - Argentina,3070511
+Gimnasia La Plata,Vélez Sarsfield,2020-01-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,6,3,3,6,9,Superliga - Argentina,3070514
+Aldosivi,Lanús,2020-01-24,2,0,2,n,1,0,0,1,1,1,0,0,1,1,5,2,7,0,4,4,0,4,Superliga - Argentina,3070518
+Rosario Central,Huracán,2020-01-25,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,4,7,4,1,1,4,5,Superliga - Argentina,3070520
+Unión,Argentinos Juniors,2020-01-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,6,7,2,6,6,2,8,Superliga - Argentina,3070521
+Godoy Cruz,River Plate,2020-01-26,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,0,3,4,10,10,4,14,Superliga - Argentina,3070522
+Always Ready,Aurora,2020-01-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,7,2,9,7,1,1,7,8,Primera División - Bolivia,3212700
+Atlético Palmaflor,Royal Pari,2020-01-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,4,4,-1,-1,-1,-1,-1,Primera División - Bolivia,3212701
+Real Potosí,Blooming,2020-01-26,1,3,4,y,0,1,1,0,1,1,2,2,1,3,1,3,4,12,2,2,12,14,Primera División - Bolivia,3212703
+Jorge Wilstermann,Guabirá,2020-01-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,7,0,0,7,7,Primera División - Bolivia,3212704
+Oriente Petrolero,Nacional Potosí,2020-01-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,7,2,2,7,9,Primera División - Bolivia,3212705
+Santa Cruz,The Strongest,2020-01-27,3,2,5,y,2,1,1,2,3,1,1,1,1,2,4,2,6,5,8,8,5,13,Primera División - Bolivia,3212706
+Al Mokawloon,Tanta,2020-01-26,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,0,1,5,4,4,5,9,Premier League - Egypt,3172403
+Melbourne City,Perth Glory,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,4,7,7,4,11,A-League - Australia,3129348
+Brescia,Milan,2020-01-24,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,7,3,3,7,10,Serie A - Italy,3111907
+Osasuna,Levante,2020-01-24,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,3,6,5,5,5,5,10,La Liga - Spain,3059015
+Hansa Rostock,Hallescher FC,2020-01-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,0,0,5,10,10,5,15,3. Liga - Germany,3053345
+Caen,Ajaccio,2020-01-24,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,3,9,9,3,12,Ligue 2 - France,3031217
+Valenciennes,Le Mans,2020-01-24,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,4,3,3,4,7,Ligue 2 - France,3031225
+Quevilly-Rouen,Pau,2020-01-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,2,4,4,2,6,National 1 - France,3073315
+Cholet,Laval,2020-01-24,2,2,4,y,1,2,2,1,3,1,0,0,1,1,2,3,5,2,3,3,2,5,National 1 - France,3073317
+Ipswich Town,Lincoln City,2020-01-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,2,5,-1,-1,-1,-1,-1,League One - England,3035538
+Rochdale,Gillingham,2020-01-25,2,2,4,y,1,1,1,1,2,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,League One - England,3035546
+Crawley Town,Grimsby Town,2020-01-25,3,2,5,y,1,2,2,1,3,2,0,0,2,2,2,0,2,-1,-1,-1,-1,-1,League Two - England,3036470
+Exeter City,Colchester United,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,-1,-1,-1,-1,-1,League Two - England,3036472
+Macclesfield Town,Forest Green Rovers,2020-01-25,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,0,2,-1,-1,-1,-1,-1,League Two - England,3036476
+Bromley,Barnet,2020-01-25,1,2,3,y,1,1,1,1,2,0,1,1,0,1,0,0,0,6,5,5,6,11,National League - England,3054252
+Dover Athletic,Aldershot Town,2020-01-25,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,3,4,4,1,1,4,5,National League - England,3054256
+Torquay United,Ebbsfleet United,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,4,4,4,4,8,National League - England,3054261
+Spennymoor Town,Leamington,2020-01-25,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054793
+Chippenham Town,Havant & Waterlooville,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055248
+Dartford,Dulwich Hamlet,2020-01-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055249
+Hampton & Richmond,St Albans City,2020-01-25,2,1,3,y,2,1,1,2,3,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055251
+Clyde,East Fife,2020-01-25,2,1,3,y,0,0,0,0,0,2,1,1,2,3,1,1,2,-1,-1,-1,-1,-1,League One - Scotland,3038287
+Falkirk,Forfar Athletic,2020-01-25,6,0,6,n,1,0,0,1,1,5,0,0,5,5,0,2,2,-1,-1,-1,-1,-1,League One - Scotland,3038288
+Cove Rangers,Annan Athletic,2020-01-25,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,League Two - Scotland,3038844
+Cowdenbeath,Brechin City,2020-01-25,3,2,5,y,2,0,0,2,2,1,2,2,1,3,0,2,2,-1,-1,-1,-1,-1,League Two - Scotland,3038845
+Torino,Atalanta,2020-01-25,0,7,7,n,0,3,3,0,3,0,4,4,0,4,4,2,6,4,12,12,4,16,Serie A - Italy,3111900
+SPAL,Bologna,2020-01-25,1,3,4,y,1,1,1,1,2,0,2,2,0,2,4,3,7,5,9,9,5,14,Serie A - Italy,3111901
+Cittadella,Benevento,2020-01-25,1,2,3,y,0,0,0,0,0,1,2,2,1,3,6,3,9,2,6,6,2,8,Serie B - Italy,3122743
+Salernitana,Cosenza,2020-01-25,2,1,3,y,2,1,1,2,3,0,0,0,0,0,2,2,4,3,6,6,3,9,Serie B - Italy,3122745
+Pisa,Juve Stabia,2020-01-25,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,2,6,8,6,6,8,14,Serie B - Italy,3122748
+Pordenone,Pescara,2020-01-25,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,2,5,4,3,3,4,7,Serie B - Italy,3122750
+Deportivo Alavés,Villarreal,2020-01-25,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,1,3,7,4,4,7,11,La Liga - Spain,3059010
+Espanyol,Athletic Club,2020-01-25,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,1,4,2,3,3,2,5,La Liga - Spain,3059013
+Eintracht Frankfurt,RB Leipzig,2020-01-25,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,2,3,4,6,6,4,10,Bundesliga - Germany,3047187
+Freiburg,Paderborn,2020-01-25,0,2,2,n,0,0,0,0,0,0,2,2,0,2,4,3,7,6,6,6,6,12,Bundesliga - Germany,3047189
+MSV Duisburg,Ingolstadt,2020-01-25,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,6,3,3,6,9,3. Liga - Germany,3053341
+Chemnitzer FC,Viktoria Köln,2020-01-25,2,2,4,y,2,2,2,2,4,0,0,0,0,0,3,3,6,5,3,3,5,8,3. Liga - Germany,3053346
+Monaco,Strasbourg,2020-01-25,1,3,4,y,0,1,1,0,1,1,2,2,1,3,1,0,1,5,5,5,5,10,Ligue 1 - France,3030748
+Saint-Etienne,Nîmes,2020-01-25,2,1,3,y,2,1,1,2,3,0,0,0,0,0,3,2,5,6,5,5,6,11,Ligue 1 - France,3030756
+Kayserispor,Ankaragücü,2020-01-25,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,6,11,12,3,3,12,15,Süper Lig - Turkey,3081941
+Hapoel Kfar Saba,Hapoel Tel Aviv,2020-01-25,1,2,3,y,1,1,1,1,2,0,1,1,0,1,5,3,8,1,5,5,1,6,Ligat ha'Al - Israel,3033745
+Puebla,Querétaro,2020-01-25,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,3,5,7,4,4,7,11,Liga MX - Mexico,3195290
+San Lorenzo,Estudiantes,2020-01-25,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,4,8,5,2,2,5,7,Superliga - Argentina,3070512
+Arsenal - Superliga - Argentina,Newell's Old Boys,2020-01-25,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,1,2,6,10,10,6,16,Superliga - Argentina,3070517
+Central Córdoba SdE,Colón,2020-01-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,4,4,4,4,8,Superliga - Argentina,3070519
+Central Coast Mariners,Brisbane Roar,2020-01-25,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,1,1,5,4,4,5,9,A-League - Australia,3129347
+Roma,Lazio,2020-01-26,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,4,6,7,1,1,7,8,Serie A - Italy,3111905
+Hellas Verona,Lecce,2020-01-26,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,3,5,5,0,0,5,5,Serie A - Italy,3111906
+Crotone,Spezia,2020-01-26,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,4,9,6,8,8,6,14,Serie B - Italy,3122751
+Venezia,Trapani,2020-01-26,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,3,5,2,5,5,2,7,Serie B - Italy,3122752
+Atletico Madrid,Leganes,2020-01-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,6,7,7,6,6,7,13,La Liga - Spain,3059011
+Getafe,Real Betis,2020-01-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,6,8,8,4,4,8,12,La Liga - Spain,3059014
+Real Sociedad,Mallorca,2020-01-26,3,0,3,n,0,0,0,0,0,3,0,0,3,3,0,2,2,7,3,3,7,10,La Liga - Spain,3059016
+Almería,Elche,2020-01-26,0,2,2,n,0,0,0,0,0,0,2,2,0,2,4,5,9,6,2,2,6,8,Segunda División - Spain,3060179
+Girona,Real Oviedo,2020-01-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,4,5,5,3,3,5,8,Segunda División - Spain,3060181
+Málaga,Mirandés,2020-01-26,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,2,4,7,4,4,7,11,Segunda División - Spain,3060184
+1860 München,Eintracht Braunschweig,2020-01-26,4,1,5,y,2,1,1,2,3,2,0,0,2,2,0,2,2,8,2,2,8,10,3. Liga - Germany,3053339
+Uerdingen,Bayern München II,2020-01-26,0,3,3,n,0,2,2,0,2,0,1,1,0,1,5,2,7,1,7,7,1,8,3. Liga - Germany,3053344
+Chaves,Nacional,2020-01-26,0,2,2,n,0,1,1,0,1,0,1,1,0,1,4,5,9,10,2,2,10,12,Segunda Liga - Portugal,3065239
+Willem II,PEC Zwolle,2020-01-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,3,6,6,4,4,6,10,Eredivisie - Netherlands,3032231
+PSV,Twente,2020-01-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,2,6,5,6,6,5,11,Eredivisie - Netherlands,3032232
+Go Ahead Eagles,NAC Breda,2020-01-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,4,4,3,2,2,3,5,Eerste Divisie - Netherlands,3031895
+Cercle Brugge,Anderlecht,2020-01-26,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,2,5,11,4,4,11,15,First Division A - Belgium,3050321
+Thun,Sion,2020-01-26,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,1,3,3,5,5,3,8,Super League - Switzerland,3037907
+Young Boys,Basel,2020-01-26,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,5,6,1,5,5,1,6,Super League - Switzerland,3037908
+Konyaspor,Galatasaray,2020-01-26,0,3,3,n,0,2,2,0,2,0,1,1,0,1,0,2,2,8,6,6,8,14,Süper Lig - Turkey,3081940
+Göztepe,Beşiktaş,2020-01-26,2,1,3,y,2,1,1,2,3,0,0,0,0,0,4,4,8,5,4,4,5,9,Süper Lig - Turkey,3081945
+Eskişehirspor,Adanaspor,2020-01-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,5,6,4,4,4,4,8,1. Lig - Turkey,3083334
+AEK Athens,Olympiakos Piraeus,2020-01-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,3,8,8,3,11,Super League 1 - Greece,3052009
+Panaitolikos,Aris,2020-01-26,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,2,3,7,6,6,7,13,Super League 1 - Greece,3052012
+Tigres UANL,Atlas,2020-01-26,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,2,3,9,2,2,9,11,Liga MX - Mexico,3195293
+Guadalajara,Toluca,2020-01-26,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,3,5,4,7,7,4,11,Liga MX - Mexico,3195295
+Pumas UNAM,Monterrey,2020-01-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,2,2,18,5,5,18,23,Liga MX - Mexico,3195296
+Racing Club,Atlético Tucumán,2020-01-26,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,4,4,4,4,8,Superliga - Argentina,3070513
+Banfield,Patronato,2020-01-26,3,3,6,y,0,1,1,0,1,3,2,2,3,5,2,1,3,4,4,4,4,8,Superliga - Argentina,3070515
+Defensa y Justicia,Talleres de Córdoba,2020-01-26,4,1,5,y,1,0,0,1,1,3,1,1,3,4,3,2,5,4,7,7,4,11,Superliga - Argentina,3070516
+San José,Bolívar,2020-01-26,2,5,7,y,2,3,3,2,5,0,2,2,0,2,2,1,3,4,5,5,4,9,Primera División - Bolivia,3212702
+Western United,Adelaide United,2020-01-26,3,4,7,y,2,3,3,2,5,1,1,1,1,2,1,1,2,5,6,6,5,11,A-League - Australia,3129349
+Millonarios,Deportivo Pasto,2020-01-27,1,2,3,y,0,2,2,0,2,1,0,0,1,1,2,3,5,6,4,4,6,10,Primera A - Colombia,3206261
+Atlético Nacional,Deportivo Pereira,2020-01-26,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,3,6,-1,-1,-1,-1,-1,Primera A - Colombia,3206262
+América de Cali,Alianza Petrolera,2020-01-26,3,1,4,y,2,1,1,2,3,1,0,0,1,1,2,1,3,1,5,5,1,6,Primera A - Colombia,3206263
+Patriotas Boyacá,Cúcuta Deportivo,2020-01-26,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,1,2,3,2,2,3,5,Primera A - Colombia,3206264
+Junior,La Equidad,2020-01-26,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,4,7,-1,-1,-1,-1,-1,Primera A - Colombia,3206265
+Rionegro,Jaguares de Córdoba,2020-01-25,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,1,3,1,5,5,1,6,Primera A - Colombia,3206266
+Envigado,Boyacá Chicó,2020-01-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,5,1,1,5,6,Primera A - Colombia,3206267
+Atlético Bucaramanga,Deportivo Cali,2020-01-25,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,4,7,9,4,4,9,13,Primera A - Colombia,3206268
+Deportes Tolima,Independiente Medellín,2020-01-24,2,2,4,y,1,2,2,1,3,1,0,0,1,1,5,1,6,7,3,3,7,10,Primera A - Colombia,3206269
+Once Caldas,Santa Fe,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,3,6,6,5,5,6,11,Primera A - Colombia,3206270
