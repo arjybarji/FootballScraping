@@ -229,7 +229,7 @@ if __name__ == '__main__':
     print(len(proxies))
     if(len(proxies)>0):
         p = Pool(80)  # Pool tells how many at a time
-        #p = Pool(30)  # Pool tells how many at a time
+        #p = Pool(50)  # Pool tells how many at a time
         records = p.map(parse, todo)
         p.terminate()
         p.join()

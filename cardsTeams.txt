@@ -346,7 +346,7 @@ Orléans
 Niort
 Troyes
 Bourg-en-Bresse
-Quevilly Rouen
+Quevilly-Rouen
 Pau
 Cholet
 Toulon
@@ -651,11 +651,8 @@ Vojvodina
 Mačva Šabac
 Inđija
 Partizan
-Maccabi Tel Aviv
 Bnei Yehuda
 Hapoel Haifa
-Maccabi Haifa
-Hapoel Be'er Sheva
 Racing Club
 Unión
 Colón
@@ -684,12 +681,10 @@ El Geish
 Al Mokawloon
 El Gouna
 Ismaily
-Pyramids
 ENPPI
 Aswan
 Misr Lel Makasa
 El Entag El Harby
-Masr
 Wadi Degla
 Tanta
 Al Masry
@@ -741,7 +736,6 @@ Oriente Petrolero
 Nacional Potosí
 Jorge Wilstermann
 The Strongest
-Quevilly-Rouen
 San José
 Millonarios
 Deportivo Pasto
@@ -763,3 +757,4 @@ Deportes Tolima
 Independiente Medellín
 Once Caldas
 Santa Fe
+Independiente Santa Fe

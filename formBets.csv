@@ -1,19 +1,456 @@
-29 January 2020,West Ham United vs Liverpool,Over 0.5/1.0 FH Goal Line,Premier League
-28 January 2020,AFC Wimbledon vs Burton Albion,Over 0.5/1.0 FH Goal Line,League One
-28 January 2020,Plymouth Argyle vs Crawley Town,BTTS Yes,League Two
-28 January 2020,Ebbsfleet United vs Woking,Over 0.5/1.0 FH Goal Line,National League
-28 January 2020,Jahn Regensburg vs Hannover 96,Over 0.5/1.0 FH Goal Line,2. Bundesliga
-31 January 2020,Avranches vs Le Puy Foot,Over 0.5/1.0 FH Goal Line,National 1
-31 January 2020,Créteil vs Cholet,Over 0.5/1.0 FH Goal Line,National 1
-27 January 2020,Vitoria Guimaraes vs Rio Ave,BTTS No,Primeira Liga
-27 January 2020,Vitoria Guimaraes vs Rio Ave,Under 2.5 Goals,Primeira Liga
-31 January 2020,AZ vs RKC Waalwijk,Over 0.5/1.0 FH Goal Line,Eredivisie
-31 January 2020,NEC vs Cambuur,Over 0.5/1.0 FH Goal Line,Eerste Divisie
-31 January 2020,Almere City vs Telstar,Over 0.5/1.0 FH Goal Line,Eerste Divisie
-31 January 2020,Almere City vs Telstar,Goal In Each Half,Eerste Divisie
-31 January 2020,Universitatea Craiova vs Gaz Metan Mediaş,Under 11 Match Corners,Romania Liga
-30 January 2020,Independiente vs Rosario Central,Under 1.0/1.5 FH Goal Line,Argentina
-29 January 2020,Newell's Old Boys vs San Lorenzo,Over 0.5/1.0 FH Goal Line,Argentina
-30 January 2020,Ismaily vs El Entag El Harby,Under 2.5 Goals,Egypt
-30 January 2020,Ismaily vs El Entag El Harby,Under 1.0/1.5 FH Goal Line,Egypt
-29 January 2020,Al Masry vs El Gouna,Over 0.5/1.0 FH Goal Line,Egypt
+8 February 2020,Brighton & Hove Albion vs Watford,Over 0.5/1.0 FH Goal Line,Premier League
+8 February 2020,Brighton & Hove Albion vs Watford,Under 11 Match Corners,Premier League
+15 February 2020,Norwich City vs Liverpool,Over 0.5/1.0 FH Goal Line,Premier League
+15 February 2020,Southampton vs Burnley,Under 5 Match Cards,Premier League
+14 February 2020,Wolverhampton Wanderers vs Leicester City,BTTS Yes,Premier League
+14 February 2020,Wolverhampton Wanderers vs Leicester City,Over 0.5/1.0 FH Goal Line,Premier League
+14 February 2020,Wolverhampton Wanderers vs Leicester City,Under 11 Match Corners,Premier League
+23 February 2020,Arsenal - Premier League - England vs Everton,Over 0.5/1.0 FH Goal Line,Premier League
+24 February 2020,Liverpool vs West Ham United,Under 4 Match Cards,Premier League
+24 February 2020,Liverpool vs West Ham United,Under 5 Match Cards,Premier League
+23 February 2020,Manchester United vs Watford,Over 0.5/1.0 FH Goal Line,Premier League
+23 February 2020,Manchester United vs Watford,Under 11 Match Corners,Premier League
+22 February 2020,Southampton vs Aston Villa,Over 0.5/1.0 FH Goal Line,Premier League
+29 February 2020,Newcastle United vs Burnley,Under 4 Match Cards,Premier League
+29 February 2020,Newcastle United vs Burnley,Under 5 Match Cards,Premier League
+28 February 2020,Norwich City vs Leicester City,Over 0.5/1.0 FH Goal Line,Premier League
+28 February 2020,Norwich City vs Leicester City,Under 11 Match Corners,Premier League
+29 February 2020,West Ham United vs Southampton,Over 0.5/1.0 FH Goal Line,Premier League
+29 February 2020,West Ham United vs Southampton,Under 4 Match Cards,Premier League
+29 February 2020,West Ham United vs Southampton,Under 5 Match Cards,Premier League
+25 February 2020,Coventry City vs Rotherham United,Over 0.5/1.0 FH Goal Line,League One
+18 February 2020,Oxford United vs AFC Wimbledon,Over 0.5/1.0 FH Goal Line,League One
+8 February 2020,Coventry City vs Bolton Wanderers,Over 0.5/1.0 FH Goal Line,League One
+11 February 2020,Burton Albion vs Oxford United,Over 0.5/1.0 FH Goal Line,League One
+11 February 2020,Coventry City vs Portsmouth,Over 0.5/1.0 FH Goal Line,League One
+15 February 2020,Oxford United vs Sunderland,Under 1.5 SH Goals,League One
+22 February 2020,AFC Wimbledon vs Blackpool,BTTS Yes,League One
+22 February 2020,AFC Wimbledon vs Blackpool,Over 0.5/1.0 FH Goal Line,League One
+22 February 2020,Accrington Stanley vs Rotherham United,Over 0.5/1.0 FH Goal Line,League One
+22 February 2020,Rochdale vs Coventry City,Over 0.5/1.0 FH Goal Line,League One
+29 February 2020,Gillingham vs AFC Wimbledon,Over 0.5/1.0 FH Goal Line,League One
+8 February 2020,Brentford vs Middlesbrough,Over 0.5/1.0 FH Goal Line,Championship
+8 February 2020,Luton Town vs Cardiff City,BTTS Yes,Championship
+8 February 2020,Reading vs Hull City,Under 1.0/1.5 FH Goal Line,Championship
+11 February 2020,Barnsley vs Birmingham City,Over 0.5/1.0 FH Goal Line,Championship
+15 February 2020,Birmingham City vs Brentford,Over 0.5/1.0 FH Goal Line,Championship
+15 February 2020,Charlton Athletic vs Blackburn Rovers,Over 0.5/1.0 FH Goal Line,Championship
+22 February 2020,Barnsley vs Middlesbrough,Over 0.5/1.0 FH Goal Line,Championship
+22 February 2020,Brentford vs Blackburn Rovers,Over 0.5/1.0 FH Goal Line,Championship
+22 February 2020,Charlton Athletic vs Luton Town,Over 0.5/1.0 FH Goal Line,Championship
+25 February 2020,West Bromwich Albion vs Preston North End,Over 0.5/1.0 FH Goal Line,Championship
+29 February 2020,Fulham vs Preston North End,Over 0.5/1.0 FH Goal Line,Championship
+29 February 2020,Queens Park Rangers vs Birmingham City,Over 0.5/1.0 FH Goal Line,Championship
+8 February 2020,Forest Green Rovers vs Walsall,Over 0.5/1.0 FH Goal Line,League Two
+8 February 2020,Morecambe vs Mansfield Town,BTTS Yes,League Two
+8 February 2020,Salford City vs Crawley Town,BTTS Yes,League Two
+8 February 2020,Salford City vs Crawley Town,Over 0.5/1.0 FH Goal Line,League Two
+11 February 2020,Crewe Alexandra vs Crawley Town,Over 0.5/1.0 FH Goal Line,League Two
+11 February 2020,Newport County vs Walsall,Over 0.5/1.0 FH Goal Line,League Two
+11 February 2020,Northampton Town vs Swindon Town,Over 0.5/1.0 FH Goal Line,League Two
+11 February 2020,Salford City vs Plymouth Argyle,Over 0.5/1.0 FH Goal Line,League Two
+15 February 2020,Crawley Town vs Carlisle United,BTTS Yes,League Two
+15 February 2020,Crawley Town vs Carlisle United,Over 2.5 Goals,League Two
+15 February 2020,Oldham Athletic vs Forest Green Rovers,Over 0.5/1.0 FH Goal Line,League Two
+15 February 2020,Plymouth Argyle vs Crewe Alexandra,Over 0.5/1.0 FH Goal Line,League Two
+15 February 2020,Swindon Town vs Scunthorpe United,Over 2.5 Goals,League Two
+15 February 2020,Swindon Town vs Scunthorpe United,Over 0.5/1.0 FH Goal Line,League Two
+22 February 2020,Cheltenham Town vs Mansfield Town,Over 0.5/1.0 FH Goal Line,League Two
+22 February 2020,Cheltenham Town vs Mansfield Town,Goal In Each Half,League Two
+22 February 2020,Crewe Alexandra vs Macclesfield Town,Over 0.5/1.0 FH Goal Line,League Two
+22 February 2020,Newport County vs Bradford City,Over 0.5/1.0 FH Goal Line,League Two
+22 February 2020,Scunthorpe United vs Forest Green Rovers,BTTS Yes,League Two
+22 February 2020,Scunthorpe United vs Forest Green Rovers,Over 0.5/1.0 FH Goal Line,League Two
+22 February 2020,Scunthorpe United vs Forest Green Rovers,Goal In Each Half,League Two
+29 February 2020,Oldham Athletic vs Newport County,Over 0.5/1.0 FH Goal Line,League Two
+18 February 2020,Barrow vs Dover Athletic,Under 1.0/1.5 FH Goal Line,National League
+8 February 2020,Dagenham & Redbridge vs Stockport County,Under 1.0/1.5 FH Goal Line,National League
+8 February 2020,Hartlepool United vs Aldershot Town,Under 1.0/1.5 FH Goal Line,National League
+15 February 2020,Barrow vs Dagenham & Redbridge,Under 1.0/1.5 FH Goal Line,National League
+15 February 2020,Solihull Moors vs Hartlepool United,Under 1.0/1.5 FH Goal Line,National League
+22 February 2020,Boreham Wood vs Yeovil Town,Over 0.5/1.0 FH Goal Line,National League
+22 February 2020,Hartlepool United vs Notts County,Under 1.0/1.5 FH Goal Line,National League
+29 February 2020,Barnet vs Barrow,Under 1.0/1.5 FH Goal Line,National League
+29 February 2020,Solihull Moors vs Dover Athletic,Under 1.0/1.5 FH Goal Line,National League
+25 February 2020,Kettering Town vs Brackley Town,Under 2.5 Goals,National League CHANGE
+15 February 2020,Tonbridge Angels vs Hungerford Town,Over 2.5 Goals,National League CHANGE
+29 February 2020,Eastbourne Borough vs Billericay Town,BTTS Yes,National League CHANGE
+15 February 2020,Arbroath vs Queen of the South,Over 0.5/1.0 FH Goal Line,Scotland Championship
+22 February 2020,Arbroath vs Ayr United,Over 0.5/1.0 FH Goal Line,Scotland Championship
+22 February 2020,Greenock Morton vs Alloa Athletic,BTTS Yes,Scotland Championship
+22 February 2020,Greenock Morton vs Alloa Athletic,Over 1.0 FH Goal Line,Scotland Championship
+22 February 2020,Partick Thistle vs Dunfermline Athletic,Over 0.5/1.0 FH Goal Line,Scotland Championship
+22 February 2020,Queen of the South vs Dundee,Over 0.5/1.0 FH Goal Line,Scotland Championship
+22 February 2020,Falkirk vs Montrose,Over 0.5/1.0 FH Goal Line,Scotland League One
+22 February 2020,Raith Rovers vs Clyde,Over 0.5/1.0 FH Goal Line,Scotland League One
+8 February 2020,Albion Rovers vs Brechin City,Over 2.5 Goals,Scotland League Two
+8 February 2020,Albion Rovers vs Brechin City,Over 0.5/1.0 FH Goal Line,Scotland League Two
+8 February 2020,Elgin City vs Cove Rangers,Over 0.5/1.0 FH Goal Line,Scotland League Two
+8 February 2020,Elgin City vs Cove Rangers,Goal In Each Half,Scotland League Two
+15 February 2020,Brechin City vs Annan Athletic,Over 0.5/1.0 FH Goal Line,Scotland League Two
+15 February 2020,Brechin City vs Annan Athletic,Goal In Each Half,Scotland League Two
+15 February 2020,Cowdenbeath vs Stirling Albion,Over 0.5/1.0 FH Goal Line,Scotland League Two
+15 February 2020,Queen's Park vs Elgin City,Over 0.5/1.0 FH Goal Line,Scotland League Two
+15 February 2020,Queen's Park vs Elgin City,Goal In Each Half,Scotland League Two
+15 February 2020,Stenhousemuir vs Albion Rovers,Over 2.5 Goals,Scotland League Two
+22 February 2020,Annan Athletic vs Albion Rovers,Over 2.5 Goals,Scotland League Two
+29 February 2020,Albion Rovers vs Elgin City,Over 0.5/1.0 FH Goal Line,Scotland League Two
+29 February 2020,Brechin City vs Stirling Albion,Over 0.5/1.0 FH Goal Line,Scotland League Two
+29 February 2020,Queen's Park vs Annan Athletic,Over 0.5/1.0 FH Goal Line,Scotland League Two
+29 February 2020,Queen's Park vs Annan Athletic,Goal In Each Half,Scotland League Two
+29 February 2020,Stenhousemuir vs Cove Rangers,Over 0.5/1.0 FH Goal Line,Scotland League Two
+29 February 2020,Stenhousemuir vs Cove Rangers,Goal In Each Half,Scotland League Two
+5 February 2020,Lazio vs Hellas Verona,Over 0.5/1.0 FH Goal Line,Serie A
+5 February 2020,Lazio vs Hellas Verona,Over 3 Match Cards,Serie A
+1 February 2020,Bologna vs Brescia,Over 3 Match Cards,Serie A
+1 February 2020,Bologna vs Brescia,Over 4 Match Cards,Serie A
+2 February 2020,Milan vs Hellas Verona,Over 3 Match Cards,Serie A
+3 February 2020,Sampdoria vs Napoli,Over 3 Match Cards,Serie A
+1 February 2020,Cagliari vs Parma,Over 3 Match Cards,Serie A
+1 February 2020,Sassuolo vs Roma,Over 3 Match Cards,Serie A
+2 February 2020,Lazio vs SPAL,Over 0.5/1.0 FH Goal Line,Serie A
+7 February 2020,Roma vs Bologna,Over 0.5/1.0 FH Goal Line,Serie A
+7 February 2020,Roma vs Bologna,Over 3 Match Cards,Serie A
+9 February 2020,Genoa vs Cagliari,Over 3 Match Cards,Serie A
+9 February 2020,Genoa vs Cagliari,Under 11 Match Corners,Serie A
+9 February 2020,Parma vs Lazio,Over 3 Match Cards,Serie A
+9 February 2020,Napoli vs Lecce,Over 3 Match Cards,Serie A
+9 February 2020,Internazionale vs Milan,Over 3 Match Cards,Serie A
+8 February 2020,Torino vs Sampdoria,Over 3 Match Cards,Serie A
+15 February 2020,Bologna vs Genoa,Over 0.5/1.0 FH Goal Line,Serie A
+15 February 2020,Bologna vs Genoa,Over 3 Match Cards,Serie A
+15 February 2020,Bologna vs Genoa,Over 4 Match Cards,Serie A
+16 February 2020,Udinese vs Hellas Verona,Over 0.5/1.0 FH Goal Line,Serie A
+16 February 2020,Lazio vs Internazionale,Over 3 Match Cards,Serie A
+16 February 2020,Cagliari vs Napoli,Over 3 Match Cards,Serie A
+16 February 2020,Sassuolo vs Parma,Over 3 Match Cards,Serie A
+15 February 2020,Atalanta vs Roma,Over 3 Match Cards,Serie A
+15 February 2020,Atalanta vs Roma,Over 4 Match Cards,Serie A
+17 February 2020,Milan vs Torino,Over 3 Match Cards,Serie A
+17 February 2020,Milan vs Torino,Over 4 Match Cards,Serie A
+23 February 2020,Hellas Verona vs Cagliari,Over 3 Match Cards,Serie A
+23 February 2020,Genoa vs Lazio,Over 3 Match Cards,Serie A
+23 February 2020,Roma vs Lecce,Over 3 Match Cards,Serie A
+22 February 2020,Fiorentina vs Milan,Under 1.0/1.5 FH Goal Line,Serie A
+21 February 2020,Brescia vs Napoli,Over 3 Match Cards,Serie A
+23 February 2020,Torino vs Parma,Over 3 Match Cards,Serie A
+23 February 2020,Internazionale vs Sampdoria,Over 3 Match Cards,Serie A
+23 February 2020,Atalanta vs Sassuolo,Over 3 Match Cards,Serie A
+22 February 2020,Bologna vs Udinese,Over 0.5/1.0 FH Goal Line,Serie A
+29 February 2020,Lazio vs Bologna,Over 0.5/1.0 FH Goal Line,Serie A
+29 February 2020,Lazio vs Bologna,Over 3 Match Cards,Serie A
+29 February 2020,Napoli vs Torino,Over 3 Match Cards,Serie A
+2 February 2020,Benevento vs Salernitana,Over 0.5/1.0 FH Goal Line,Serie B
+9 February 2020,Cosenza vs Benevento,Over 0.5/1.0 FH Goal Line,Serie B
+9 February 2020,Pisa vs Chievo,Under 2.5 Goals,Serie B
+8 February 2020,Cittadella vs Empoli,Over 0.5/1.0 FH Goal Line,Serie B
+8 February 2020,Pordenone vs Livorno,Under 11 Match Corners,Serie B
+10 February 2020,Salernitana vs Trapani,Over 0.5/1.0 FH Goal Line,Serie B
+15 February 2020,Livorno vs Cosenza,Over 0.5/1.0 FH Goal Line,Serie B
+15 February 2020,Benevento vs Pordenone,Over 0.5/1.0 FH Goal Line,Serie B
+23 February 2020,Pordenone vs Chievo,Under 11 Match Corners,Serie B
+23 February 2020,Pordenone vs Chievo,Under 10 Match Corners,Serie B
+24 February 2020,Perugia vs Empoli,Over 0.5/1.0 FH Goal Line,Serie B
+23 February 2020,Salernitana vs Livorno,Over 0.5/1.0 FH Goal Line,Serie B
+22 February 2020,Pisa vs Venezia,Under 2.5 Goals,Serie B
+29 February 2020,Venezia vs Cosenza,Over 0.5/1.0 FH Goal Line,Serie B
+29 February 2020,Chievo vs Livorno,Under 11 Match Corners,Serie B
+29 February 2020,Empoli vs Pordenone,Over 0.5/1.0 FH Goal Line,Serie B
+2 February 2020,Athletic Club vs Getafe,Over 3 Match Cards,La Liga
+2 February 2020,Barcelona vs Levante,Over 3 Match Cards,La Liga
+2 February 2020,Leganes vs Real Sociedad,Over 0.5/1.0 FH Goal Line,La Liga
+8 February 2020,Atletico Madrid vs Granada,Over 3 Match Cards,La Liga
+9 February 2020,Celta Vigo vs Sevilla,Over 3 Match Cards,La Liga
+9 February 2020,Espanyol vs Mallorca,Under 11 Match Corners,La Liga
+8 February 2020,Levante vs Leganes,Over 3 Match Cards,La Liga
+8 February 2020,Levante vs Leganes,Over 4 Match Cards,La Liga
+9 February 2020,Osasuna vs Real Madrid,Over 3 Match Cards,La Liga
+16 February 2020,Athletic Club vs Osasuna,Under 1.0/1.5 FH Goal Line,La Liga
+16 February 2020,Athletic Club vs Osasuna,Over 3 Match Cards,La Liga
+15 February 2020,Barcelona vs Getafe,Over 3 Match Cards,La Liga
+14 February 2020,Granada vs Real Valladolid,Over 3 Match Cards,La Liga
+16 February 2020,Leganes vs Real Betis,Over 3 Match Cards,La Liga
+15 February 2020,Valencia vs Atletico Madrid,Under 1.0/1.5 FH Goal Line,La Liga
+21 February 2020,Real Betis vs Mallorca,Under 11 Match Corners,La Liga
+22 February 2020,Celta Vigo vs Leganes,Over 3 Match Cards,La Liga
+23 February 2020,Getafe vs Sevilla,Over 3 Match Cards,La Liga
+22 February 2020,Levante vs Real Madrid,Under 1.0/1.5 FH Goal Line,La Liga
+22 February 2020,Levante vs Real Madrid,Over 3 Match Cards,La Liga
+23 February 2020,Osasuna vs Granada,Over 3 Match Cards,La Liga
+23 February 2020,Real Valladolid vs Espanyol,Over 3 Match Cards,La Liga
+2 February 2020,Cádiz vs Real Zaragoza,Under 11 Match Corners,Spain Segunda
+1 February 2020,Elche vs Málaga,Under 2.5 Goals,Spain Segunda
+1 February 2020,Ponferradina vs Huesca,Under 11 Match Corners,Spain Segunda
+8 February 2020,Las Palmas vs Cádiz,Under 11 Match Corners,Spain Segunda
+8 February 2020,Real Zaragoza vs Fuenlabrada,Under 2.5 Goals,Spain Segunda
+16 February 2020,Tenerife vs Rayo Vallecano,Under 11 Match Corners,Spain Segunda
+16 February 2020,Tenerife vs Rayo Vallecano,Under 10 Match Corners,Spain Segunda
+9 February 2020,Bayern Munich vs RB Leipzig,Over 2.5 Goals,Bundesliga
+9 February 2020,Bayern Munich vs RB Leipzig,Under 5 Match Cards,Bundesliga
+8 February 2020,Werder Bremen vs Union Berlin,Over 3 Match Cards,Bundesliga
+8 February 2020,Hertha BSC vs Mainz 05,Under 5 Match Cards,Bundesliga
+8 February 2020,Schalke 04 vs Paderborn,Over 9 Match Corners,Bundesliga
+16 February 2020,Mainz 05 vs Schalke 04,Under 5 Match Cards,Bundesliga
+15 February 2020,Augsburg vs Freiburg,Over 2.5 Goals,Bundesliga
+15 February 2020,Augsburg vs Freiburg,Over 0.5/1.0 FH Goal Line,Bundesliga
+15 February 2020,Augsburg vs Freiburg,Goal In Each Half,Bundesliga
+21 February 2020,Bayern Munich vs Paderborn,Over 9 Match Corners,Bundesliga
+29 February 2020,Borussia Dortmund vs Freiburg,Over 2.5 Goals,Bundesliga
+29 February 2020,Borussia Dortmund vs Freiburg,Over 0.5/1.0 FH Goal Line,Bundesliga
+29 February 2020,Borussia Dortmund vs Freiburg,Goal In Each Half,Bundesliga
+29 February 2020,Hoffenheim vs Bayern Munich,Over 2.5 Goals,Bundesliga
+28 February 2020,Fortuna Dusseldorf vs Hertha BSC,Under 1.0/1.5 FH Goal Line,Bundesliga
+29 February 2020,Mainz 05 vs Paderborn,Over 9 Match Corners,Bundesliga
+2 February 2020,Nürnberg vs Sandhausen,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+3 February 2020,Bochum vs Hamburger SV,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+10 February 2020,Holstein Kiel vs St. Pauli,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+9 February 2020,Greuther Fürth vs Hannover 96,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+15 February 2020,Hannover 96 vs Hamburger SV,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+16 February 2020,Darmstadt 98 vs Sandhausen,BTTS Yes,2. Bundesliga
+16 February 2020,Darmstadt 98 vs Sandhausen,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+17 February 2020,Bochum vs Stuttgart,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+16 February 2020,Karlsruher SC vs Osnabrück,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+22 February 2020,Dynamo Dresden vs Bochum,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+29 February 2020,Greuther Fürth vs Stuttgart,Over 0.5/1.0 FH Goal Line,2. Bundesliga
+1 February 2020,Meppen vs Chemnitzer FC,BTTS Yes,3. Liga
+1 February 2020,Meppen vs Chemnitzer FC,Over 0.5/1.0 FH Goal Line,3. Liga
+10 February 2020,Carl Zeiss Jena vs Zwickau,Over 2.5 Goals,3. Liga
+10 February 2020,Carl Zeiss Jena vs Zwickau,Over 0.5/1.0 FH Goal Line,3. Liga
+8 February 2020,Magdeburg vs Meppen,Over 0.5/1.0 FH Goal Line,3. Liga
+8 February 2020,1860 München vs Waldhof Mannheim,Over 0.5/1.0 FH Goal Line,3. Liga
+15 February 2020,Magdeburg vs Chemnitzer FC,Over 0.5/1.0 FH Goal Line,3. Liga
+15 February 2020,Meppen vs 1860 München,Over 0.5/1.0 FH Goal Line,3. Liga
+15 February 2020,Sonnenhof Großaspach vs Hansa Rostock,Over 0.5/1.0 FH Goal Line,3. Liga
+23 February 2020,1860 München vs Magdeburg,Over 0.5/1.0 FH Goal Line,3. Liga
+22 February 2020,Carl Zeiss Jena vs Meppen,Over 0.5/1.0 FH Goal Line,3. Liga
+22 February 2020,MSV Duisburg vs Waldhof Mannheim,Over 0.5/1.0 FH Goal Line,3. Liga
+29 February 2020,1860 München vs Chemnitzer FC,BTTS Yes,3. Liga
+29 February 2020,1860 München vs Chemnitzer FC,Over 0.5/1.0 FH Goal Line,3. Liga
+29 February 2020,Magdeburg vs Carl Zeiss Jena,Over 0.5/1.0 FH Goal Line,3. Liga
+28 February 2020,Unterhaching vs Bayern München II,Over 0.5/1.0 FH Goal Line,3. Liga
+5 February 2020,Toulouse vs Strasbourg,Over 0.5/1.0 FH Goal Line,Ligue 1
+5 February 2020,Montpellier vs Metz,Over 0.5/1.0 FH Goal Line,Ligue 1
+9 February 2020,PSG vs Olympique Lyonnais,Over 0.5/1.0 FH Goal Line,Ligue 1
+9 February 2020,Montpellier vs Saint-Etienne,Over 2.5 Goals,Ligue 1
+9 February 2020,Montpellier vs Saint-Etienne,Over 0.5/1.0 FH Goal Line,Ligue 1
+9 February 2020,Montpellier vs Saint-Etienne,Goal In Each Half,Ligue 1
+9 February 2020,Strasbourg vs Reims,Over 0.5/1.0 FH Goal Line,Ligue 1
+15 February 2020,Monaco vs Montpellier,Over 2.5 Goals,Ligue 1
+15 February 2020,Monaco vs Montpellier,Over 0.5/1.0 FH Goal Line,Ligue 1
+15 February 2020,Lille vs Olympique Marseille,Under 11 Match Corners,Ligue 1
+16 February 2020,Reims vs Rennes,Under 2.5 Goals,Ligue 1
+21 February 2020,Metz vs Olympique Lyonnais,Over 0.5/1.0 FH Goal Line,Ligue 1
+22 February 2020,Lille vs Toulouse,Over 0.5/1.0 FH Goal Line,Ligue 1
+23 February 2020,Saint-Etienne vs Reims,Over 0.5/1.0 FH Goal Line,Ligue 1
+22 February 2020,Olympique Marseille vs Nantes,Under 1.0/1.5 FH Goal Line,Ligue 1
+22 February 2020,Strasbourg vs Amiens SC,Under 11 Match Corners,Ligue 1
+29 February 2020,Monaco vs Reims,Over 0.5/1.0 FH Goal Line,Ligue 1
+29 February 2020,Montpellier vs Strasbourg,Over 0.5/1.0 FH Goal Line,Ligue 1
+29 February 2020,Montpellier vs Strasbourg,Under 11 Match Corners,Ligue 1
+7 February 2020,Troyes vs Châteauroux,Over 0.5/1.0 FH Goal Line,Ligue 2
+14 February 2020,Le Mans vs Rodez,Under 1.0/1.5 FH Goal Line,Ligue 2
+14 February 2020,Paris FC vs Le Havre,Under 11 Match Corners,Ligue 2
+22 February 2020,Lens vs Caen,Under 1.0/1.5 FH Goal Line,Ligue 2
+28 February 2020,Châteauroux vs Le Havre,Over 0.5/1.0 FH Goal Line,Ligue 2
+28 February 2020,Paris FC vs Lens,Under 1.0/1.5 FH Goal Line,Ligue 2
+11 February 2020,Gazélec Ajaccio vs Concarneau,Under 2.5 Goals,National 1
+7 February 2020,Béziers vs Villefranche,Over 0.5/1.0 FH Goal Line,National 1
+7 February 2020,Red Star vs Pau,Under 1.0/1.5 FH Goal Line,National 1
+7 February 2020,Cholet vs Concarneau,Over 0.5/1.0 FH Goal Line,National 1
+14 February 2020,Avranches vs Cholet,Over 0.5/1.0 FH Goal Line,National 1
+14 February 2020,Avranches vs Cholet,Goal In Each Half,National 1
+21 February 2020,Lyon Duchère vs Avranches,Over 0.5/1.0 FH Goal Line,National 1
+8 February 2020,Porto vs Benfica,Over 0.5/1.0 FH Goal Line,Primeira Liga
+7 February 2020,Paços de Ferreira vs Boavista,BTTS No,Primeira Liga
+7 February 2020,Paços de Ferreira vs Boavista,Under 2.5 Goals,Primeira Liga
+9 February 2020,Moreirense vs Vitória Setúbal,Over 0.5/1.0 FH Goal Line,Primeira Liga
+15 February 2020,Benfica vs Sporting Braga,Over 0.5/1.0 FH Goal Line,Primeira Liga
+21 February 2020,Desportivo Aves vs Vitoria Guimaraes,Over 9 Match Corners,Primeira Liga
+8 February 2020,Academico Viseu vs Feirense,Under 2.5 Goals,Segunda Liga
+9 February 2020,UD Oliveirense vs Benfica II,Over 0.5/1.0 FH Goal Line,Segunda Liga
+9 February 2020,UD Oliveirense vs Benfica II,Goal In Each Half,Segunda Liga
+8 February 2020,Cova Piedade vs Penafiel,Under 1.0/1.5 FH Goal Line,Segunda Liga
+15 February 2020,Casa Pia vs Porto II,Over 0.5/1.0 FH Goal Line,Segunda Liga
+15 February 2020,Feirense vs Leixões,Under 2.5 Goals,Segunda Liga
+23 February 2020,Chaves vs Feirense,Under 2.5 Goals,Segunda Liga
+23 February 2020,UD Oliveirense vs Casa Pia,Over 0.5/1.0 FH Goal Line,Segunda Liga
+2 February 2020,VVV vs Utrecht,Over 0.5/1.0 FH Goal Line,Eredivisie
+7 February 2020,Heracles vs Fortuna Sittard,Over 0.5/1.0 FH Goal Line,Eredivisie
+8 February 2020,Heerenveen vs VVV,Over 0.5/1.0 FH Goal Line,Eredivisie
+8 February 2020,RKC Waalwijk vs PEC Zwolle,Over 0.5/1.0 FH Goal Line,Eredivisie
+9 February 2020,Sparta Rotterdam vs ADO Den Haag,Over 0.5/1.0 FH Goal Line,Eredivisie
+9 February 2020,AZ vs Feyenoord,Over 0.5/1.0 FH Goal Line,Eredivisie
+15 February 2020,Fortuna Sittard vs Emmen,Over 0.5/1.0 FH Goal Line,Eredivisie
+16 February 2020,Ajax vs RKC Waalwijk,Over 0.5/1.0 FH Goal Line,Eredivisie
+16 February 2020,Ajax vs RKC Waalwijk,Goal In Each Half,Eredivisie
+16 February 2020,PEC Zwolle vs Feyenoord,Over 0.5/1.0 FH Goal Line,Eredivisie
+21 February 2020,RKC Waalwijk vs Sparta Rotterdam,Over 0.5/1.0 FH Goal Line,Eredivisie
+23 February 2020,AZ vs PEC Zwolle,Over 0.5/1.0 FH Goal Line,Eredivisie
+22 February 2020,Feyenoord vs Fortuna Sittard,Over 0.5/1.0 FH Goal Line,Eredivisie
+22 February 2020,Heerenveen vs ADO Den Haag,Over 0.5/1.0 FH Goal Line,Eredivisie
+29 February 2020,VVV vs Fortuna Sittard,Over 0.5/1.0 FH Goal Line,Eredivisie
+10 February 2020,AZ II vs Volendam,BTTS Yes,Eerste Divisie
+10 February 2020,AZ II vs Volendam,Over 2.5 Goals,Eerste Divisie
+10 February 2020,AZ II vs Volendam,Over 0.5/1.0 FH Goal Line,Eerste Divisie
+10 February 2020,AZ II vs Volendam,Goal In Each Half,Eerste Divisie
+14 February 2020,Volendam vs Telstar,Over 0.5/1.0 FH Goal Line,Eerste Divisie
+14 February 2020,Volendam vs Telstar,Goal In Each Half,Eerste Divisie
+14 February 2020,Excelsior vs AZ II,BTTS Yes,Eerste Divisie
+14 February 2020,Excelsior vs AZ II,Over 2.5 Goals,Eerste Divisie
+14 February 2020,Excelsior vs AZ II,Over 0.5/1.0 FH Goal Line,Eerste Divisie
+14 February 2020,Excelsior vs AZ II,Goal In Each Half,Eerste Divisie
+14 February 2020,NEC vs Helmond Sport,Under 1.0/1.5 FH Goal Line,Eerste Divisie
+21 February 2020,Excelsior vs Den Bosch,Over 0.5/1.0 FH Goal Line,Eerste Divisie
+24 February 2020,Utrecht II vs Volendam,BTTS Yes,Eerste Divisie
+24 February 2020,Utrecht II vs Volendam,Over 2.5 Goals,Eerste Divisie
+24 February 2020,Utrecht II vs Volendam,Over 0.5/1.0 FH Goal Line,Eerste Divisie
+24 February 2020,Utrecht II vs Volendam,Goal In Each Half,Eerste Divisie
+28 February 2020,Cambuur vs PSV II,BTTS Yes,Eerste Divisie
+28 February 2020,Cambuur vs PSV II,Over 2.5 Goals,Eerste Divisie
+28 February 2020,De Graafschap vs AZ II,BTTS Yes,Eerste Divisie
+28 February 2020,De Graafschap vs AZ II,Over 0.5/1.0 FH Goal Line,Eerste Divisie
+28 February 2020,De Graafschap vs AZ II,Goal In Each Half,Eerste Divisie
+28 February 2020,NEC vs NAC Breda,Under 1.0/1.5 FH Goal Line,Eerste Divisie
+16 February 2020,Sturm Graz vs Mattersburg,BTTS Yes,Austria
+16 February 2020,Sturm Graz vs Mattersburg,Over 2.5 Goals,Austria
+16 February 2020,Rapid Wien vs Swarovski Tirol,Over 0.5/1.0 FH Goal Line,Austria
+15 February 2020,Rheindorf Altach vs Austria Wien,Over 0.5/1.0 FH Goal Line,Austria
+23 February 2020,Austria Wien vs Salzburg,Over 0.5/1.0 FH Goal Line,Austria
+23 February 2020,Austria Wien vs Salzburg,Goal In Each Half,Austria
+22 February 2020,Mattersburg vs Rheindorf Altach,Over 2.5 Goals,Austria
+22 February 2020,Admira vs Sturm Graz,Under 11 Match Corners,Austria
+23 February 2020,Hartberg vs Rapid Wien,Over 2.5 Goals,Austria
+23 February 2020,Hartberg vs Rapid Wien,Over 1.0 FH Goal Line,Austria
+23 February 2020,Hartberg vs Rapid Wien,Goal In Each Half,Austria
+23 February 2020,Wacker Innsbruck vs Vorwärts Steyr,BTTS Yes,Austria 2
+21 February 2020,Amstetten vs Liefering,BTTS Yes,Austria 2
+21 February 2020,Amstetten vs Liefering,Over 0.5/1.0 FH Goal Line,Austria 2
+21 February 2020,Horn vs Austria Wien II,BTTS Yes,Austria 2
+21 February 2020,Horn vs Austria Wien II,Over 0.5/1.0 FH Goal Line,Austria 2
+21 February 2020,Horn vs Austria Wien II,Goal In Each Half,Austria 2
+28 February 2020,Ried vs Austria Lustenau,Over 0.5/1.0 FH Goal Line,Austria 2
+29 February 2020,Blau-Weiß Linz vs Grazer AK,BTTS Yes,Austria 2
+28 February 2020,Austria Wien II vs Amstetten,BTTS Yes,Austria 2
+16 February 2020,SønderjyskE vs Hobro,BTTS Yes,Superliga
+16 February 2020,SønderjyskE vs Hobro,Over 0.5/1.0 FH Goal Line,Superliga
+16 February 2020,SønderjyskE vs Hobro,Over 9 Match Corners,Superliga
+17 February 2020,Midtjylland vs Lyngby,BTTS Yes,Superliga
+17 February 2020,Midtjylland vs Lyngby,Under 11 Match Corners,Superliga
+16 February 2020,OB vs Brøndby,Over 2.5 Goals,Superliga
+16 February 2020,OB vs Brøndby,Over 0.5/1.0 FH Goal Line,Superliga
+16 February 2020,AGF vs Randers,Over 2.5 Goals,Superliga
+14 February 2020,Esbjerg vs Copenhagen,BTTS Yes,Superliga
+14 February 2020,Esbjerg vs Copenhagen,Over 2.5 Goals,Superliga
+23 February 2020,Randers vs OB,Over 0.5/1.0 FH Goal Line,Superliga
+23 February 2020,Lyngby vs Esbjerg,Over 0.5/1.0 FH Goal Line,Superliga
+23 February 2020,Silkeborg vs Copenhagen,BTTS Yes,Superliga
+23 February 2020,Silkeborg vs Copenhagen,Over 2.5 Goals,Superliga
+23 February 2020,Silkeborg vs Copenhagen,Over 0.5/1.0 FH Goal Line,Superliga
+28 February 2020,AGF vs Hobro,BTTS Yes,Superliga
+28 February 2020,AGF vs Hobro,Over 0.5/1.0 FH Goal Line,Superliga
+1 February 2020,AS Eupen vs Cercle Brugge,Over 0.5/1.0 FH Goal Line,Belgium Pro
+2 February 2020,Zulte-Waregem vs Waasland-Beveren,Over 0.5/1.0 FH Goal Line,Belgium Pro
+2 February 2020,Zulte-Waregem vs Waasland-Beveren,Under 11 Match Corners,Belgium Pro
+8 February 2020,Sporting Charleroi vs Zulte-Waregem,Under 11 Match Corners,Belgium Pro
+15 February 2020,Club Brugge vs Waasland-Beveren,Under 11 Match Corners,Belgium Pro
+16 February 2020,Zulte-Waregem vs Royal Excel Mouscron,Over 0.5/1.0 FH Goal Line,Belgium Pro
+16 February 2020,Zulte-Waregem vs Royal Excel Mouscron,Under 11 Match Corners,Belgium Pro
+22 February 2020,Royal Excel Mouscron vs Cercle Brugge,Over 0.5/1.0 FH Goal Line,Belgium Pro
+29 February 2020,AS Eupen vs Royal Excel Mouscron,Over 0.5/1.0 FH Goal Line,Belgium Pro
+15 February 2020,Sparta Praha vs Slovan Liberec,Over 0.5/1.0 FH Goal Line,Czech Liga
+14 February 2020,České Budějovice vs Mladá Boleslav,Over 0.5/1.0 FH Goal Line,Czech Liga
+22 February 2020,Mladá Boleslav vs Slovácko,Over 0.5/1.0 FH Goal Line,Czech Liga
+29 February 2020,Bohemians 1905 vs Karviná,Under 1.0/1.5 FH Goal Line,Czech Liga
+29 February 2020,Opava vs Sigma Olomouc,Over 9 Match Corners,Czech Liga
+9 February 2020,Rijeka vs Slaven Koprivnica,Over 0.5/1.0 FH Goal Line,Croatia Premier
+15 February 2020,Slaven Koprivnica vs Hajduk Split,Over 0.5/1.0 FH Goal Line,Croatia Premier
+23 February 2020,Istra 1961 vs Slaven Koprivnica,Over 0.5/1.0 FH Goal Line,Croatia Premier
+21 February 2020,Varaždin vs Lokomotiva Zagreb,Under 1.0/1.5 FH Goal Line,Croatia Premier
+8 February 2020,Korona Kielce vs Górnik Zabrze,Over 0.5/1.0 FH Goal Line,Ekstraklasa
+9 February 2020,Wisła Płock vs Pogoń Szczecin,Over 0.5/1.0 FH Goal Line,Ekstraklasa
+16 February 2020,Jagiellonia Białystok vs Korona Kielce,BTTS No,Ekstraklasa
+15 February 2020,Raków Częstochowa vs Legia Warszawa,Under 11 Match Corners,Ekstraklasa
+16 February 2020,Zagłębie Lubin vs Wisła Kraków,Over 0.5/1.0 FH Goal Line,Ekstraklasa
+22 February 2020,Legia Warszawa vs Jagiellonia Białystok,Over 0.5/1.0 FH Goal Line,Ekstraklasa
+23 February 2020,Wisła Płock vs Zagłębie Lubin,Over 0.5/1.0 FH Goal Line,Ekstraklasa
+28 February 2020,Raków Częstochowa vs Piast Gliwice,Under 11 Match Corners,Ekstraklasa
+29 February 2020,Akhmat Grozny vs Rostov,Over 0.5/1.0 FH Goal Line,Russia Premier
+2 February 2020,Basel vs St. Gallen,Over 0.5/1.0 FH Goal Line,Swiss Super
+2 February 2020,Basel vs St. Gallen,Goal In Each Half,Swiss Super
+8 February 2020,Zürich vs Basel,Over 0.5/1.0 FH Goal Line,Swiss Super
+8 February 2020,Zürich vs Basel,Goal In Each Half,Swiss Super
+15 February 2020,Sion vs Neuchâtel Xamax,BTTS Yes,Swiss Super
+15 February 2020,Sion vs Neuchâtel Xamax,Over 0.5/1.0 FH Goal Line,Swiss Super
+22 February 2020,Zürich vs Neuchâtel Xamax,Over 0.5/1.0 FH Goal Line,Swiss Super
+22 February 2020,Zürich vs Neuchâtel Xamax,Goal In Each Half,Swiss Super
+29 February 2020,Sion vs St. Gallen,BTTS Yes,Swiss Super
+29 February 2020,Sion vs St. Gallen,Over 0.5/1.0 FH Goal Line,Swiss Super
+14 February 2020,Istanbul Basaksehir vs Beşiktaş,BTTS Yes,Super-Lig
+14 February 2020,Istanbul Basaksehir vs Beşiktaş,Over 1.0 FH Goal Line,Super-Lig
+2 February 2020,Balıkesirspor vs Altay,Under 11 Match Corners,Turkey 2
+2 February 2020,Balıkesirspor vs Altay,Under 10 Match Corners,Turkey 2
+2 February 2020,Altınordu vs Akhisarspor,Under 1.0/1.5 FH Goal Line,Turkey 2
+16 February 2020,Keçiörengücü vs Altay,Under 1.0/1.5 FH Goal Line,Turkey 2
+15 February 2020,Hatayspor vs Akhisarspor,Under 11 Match Corners,Turkey 2
+15 February 2020,Hatayspor vs Akhisarspor,Under 10 Match Corners,Turkey 2
+23 February 2020,Altay vs Adanaspor,BTTS No,Turkey 2
+23 February 2020,Altay vs Adanaspor,Under 2.5 Goals,Turkey 2
+26 February 2020,Akhisarspor vs Giresunspor,Under 1.0/1.5 FH Goal Line,Turkey 2
+10 February 2020,Panaitolikos vs Volos NFC,Under 1.0/1.5 FH Goal Line,Hellas Liga
+16 February 2020,Xanthi vs Lamia,Under 1.0/1.5 FH Goal Line,Hellas Liga
+16 February 2020,Volos NFC vs Asteras Tripolis,Under 1.0/1.5 FH Goal Line,Hellas Liga
+15 February 2020,Olympiakos Piraeus vs Panionios,Over 0.5/1.0 FH Goal Line,Hellas Liga
+10 February 2020,Botoşani vs Hermannstadt,Under 11 Match Corners,Romania Liga
+9 February 2020,Sepsi vs Politehnica Iași,Under 1.0/1.5 FH Goal Line,Romania Liga
+22 February 2020,Zlaté Moravce vs Sereď,Under 2.5 Goals,Slovakia
+22 February 2020,Zlaté Moravce vs Sereď,Under 1.0/1.5 FH Goal Line,Slovakia
+22 February 2020,Zemplín Michalovce vs Nitra,BTTS No,Slovakia
+5 February 2020,Bnei Yehuda vs Hapoel Hadera,Under 11 Match Corners,Isreal
+4 February 2020,Ironi Kiryat Shmona vs Hapoel Haifa,Under 11 Match Corners,Isreal
+8 February 2020,Hapoel Tel Aviv vs Ironi Kiryat Shmona,Over 0.5/1.0 FH Goal Line,Isreal
+9 February 2020,Hapoel Be'er Sheva vs Sektzia Nes Tziona,Under 1.0/1.5 FH Goal Line,Isreal
+17 February 2020,Beitar Jerusalem vs Hapoel Tel Aviv,Over 0.5/1.0 FH Goal Line,Isreal
+15 February 2020,Hapoel Kfar Saba vs Ashdod,Under 1.0/1.5 FH Goal Line,Isreal
+2 February 2020,Morelia vs León,Over 2.5 Goals,Liga MX
+2 February 2020,Morelia vs León,Over 0.5/1.0 FH Goal Line,Liga MX
+2 February 2020,Pachuca vs Tigres UANL,Under 1.0/1.5 FH Goal Line,Liga MX
+2 February 2020,Santos Laguna vs Pumas UNAM,Over 0.5/1.0 FH Goal Line,Liga MX
+2 February 2020,Santos Laguna vs Pumas UNAM,Goal In Each Half,Liga MX
+7 February 2020,Atlas vs Morelia,Over 0.5/1.0 FH Goal Line,Liga MX
+9 February 2020,Pumas UNAM vs Atlético San Luis,Over 0.5/1.0 FH Goal Line,Liga MX
+9 February 2020,Pumas UNAM vs Atlético San Luis,Goal In Each Half,Liga MX
+10 February 2020,Juárez vs Necaxa,Over 0.5/1.0 FH Goal Line,Liga MX
+15 February 2020,Morelia vs Tijuana,Over 2.5 Goals,Liga MX
+15 February 2020,Morelia vs Tijuana,Over 0.5/1.0 FH Goal Line,Liga MX
+16 February 2020,Monterrey vs Juárez,Over 0.5/1.0 FH Goal Line,Liga MX
+16 February 2020,Guadalajara vs Cruz Azul,Over 0.5/1.0 FH Goal Line,Liga MX
+23 February 2020,León vs Necaxa,Over 0.5/1.0 FH Goal Line,Liga MX
+23 February 2020,Pumas UNAM vs Morelia,Over 0.5/1.0 FH Goal Line,Liga MX
+24 February 2020,Juárez vs Santos Laguna,Over 2.5 Goals,Liga MX
+24 February 2020,Juárez vs Santos Laguna,Over 0.5/1.0 FH Goal Line,Liga MX
+24 February 2020,Juárez vs Santos Laguna,Goal In Each Half,Liga MX
+29 February 2020,Morelia vs Cruz Azul,Over 0.5/1.0 FH Goal Line,Liga MX
+4 February 2020,Newell's Old Boys vs San Lorenzo,Over 0.5/1.0 FH Goal Line,Argentina
+1 February 2020,Atlético Tucumán vs Defensa y Justicia,Over 0.5/1.0 FH Goal Line,Argentina
+8 February 2020,Argentinos Juniors vs Lanús,Under 2.5 Goals,Argentina
+10 February 2020,Unión vs River Plate,Over 0.5/1.0 FH Goal Line,Argentina
+17 February 2020,Estudiantes vs Defensa y Justicia,Under 2.5 Goals,Argentina
+17 February 2020,Central Córdoba SdE vs Boca Juniors,Under 2.5 Goals,Argentina
+8 February 2020,Colón vs Racing Club,Under 11 Match Corners,Argentina
+22 February 2020,San Lorenzo vs Racing Club,Over 0.5/1.0 FH Goal Line,Argentina
+24 February 2020,Al Ahly vs Zamalek,Over 0.5/1.0 FH Goal Line,Egypt
+3 February 2020,Smouha vs Misr Lel Makasa,BTTS Yes,Egypt
+3 February 2020,Smouha vs Misr Lel Makasa,Over 0.5/1.0 FH Goal Line,Egypt
+10 February 2020,Al Ahly vs El Geish,Over 0.5/1.0 FH Goal Line,Egypt
+10 February 2020,Al Ahly vs El Geish,Goal In Each Half,Egypt
+11 February 2020,Al Mokawloon vs Pyramids,Over 0.5/1.0 FH Goal Line,Egypt
+10 February 2020,Tanta vs ENPPI,Under 11 Match Corners,Egypt
+8 February 2020,Misr Lel Makasa vs El Entag El Harby,Under 2.5 Goals,Egypt
+1 February 2020,Adelaide United vs Melbourne City,Over 0.5/1.0 FH Goal Line,A-League
+1 February 2020,Perth Glory vs Melbourne Victory,Over 0.5/1.0 FH Goal Line,A-League
+7 February 2020,Melbourne City vs Melbourne Victory,Over 0.5/1.0 FH Goal Line,A-League
+9 February 2020,Newcastle Jets vs Central Coast Mariners,Over 0.5/1.0 FH Goal Line,A-League
+14 February 2020,Adelaide United vs Central Coast Mariners,Over 0.5/1.0 FH Goal Line,A-League
+22 February 2020,Newcastle Jets vs Melbourne Victory,Over 0.5/1.0 FH Goal Line,A-League
+29 February 2020,Newcastle Jets vs Perth Glory,Over 0.5/1.0 FH Goal Line,A-League
+29 February 2020,Melbourne Victory vs Adelaide United,Over 0.5/1.0 FH Goal Line,A-League

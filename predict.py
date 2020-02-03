@@ -3,7 +3,7 @@ import datetime
 import time
 import cornersCardsTeams
 import winsound
-
+import pandas as pd
 
 def insertIntoDatabase():
     database = 'allStats.db'
@@ -659,13 +659,20 @@ if __name__ == '__main__':
             bets3.write(b + "\n")
             temp.append(b)
     
-    formBets.close()
     with open('bets.csv',encoding="utf8") as f:
         bets2 = f.readlines()
     bets2 = [x.strip() for x in bets2]
+    formBets.close()
+    bets3.close()
+
+    formBetsPD = pd.read_csv('formBets.csv',header = None)
+    betsPD = pd.read_csv('bets.csv',header = None,usecols=[0,1,2,3])
+    merged = pd.merge(betsPD, formBetsPD, how='inner')
+    merged.to_csv('combinedBets.csv',index=False,header=False)
     
     duration = 1000  # milliseconds
     freq = 440  # Hz
-    winsound.Beep(freq, duration)        
+    winsound.Beep(freq, duration)     
+    
     print("--- %s minutes ---" % ((time.time() - start_time)/60))
     input("Done")
