@@ -191,7 +191,9 @@ def parse(url):
                             print("Got Score no corners. " + homeTeam + " vs " + awayTeam+" . " + dateT + " NO FRAME")
                             return("S$" + homeTeam + "," + awayTeam  + "," + dateT + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1"+","+league+ "," + gameID)
                 else:
-                    if(today in date.lower()):
+                    dateDay = int(date.lower().split(" ")[0])
+                    check = int(datetime.datetime.today().day)
+                    if(today in date.lower() and dateDay < (check+4)):
                         1==1
                         print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)                    
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + league + "," + gameID +  "£" + url)

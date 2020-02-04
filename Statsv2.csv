@@ -8722,3 +8722,224 @@ Ashdod,Maccabi Netanya,2020-02-01,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,3,6,10,6,6,10,16
 Maccabi Haifa,Hapoel Kfar Saba,2020-02-01,0,1,1,n,0,0,0,0,0,0,1,1,0,1,-1,-1,-1,10,2,2,10,12,Ligat ha'Al - Israel,3033758
 Hapoel Hadera,Sektzia Nes Tziona,2020-02-01,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,8,2,2,8,10,Ligat ha'Al - Israel,3033756
 Hapoel Tel Aviv,Hapoel Haifa,2020-02-01,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,2,4,3,3,3,3,6,Ligat ha'Al - Israel,3033752
+Bologna,Brescia,2020-02-01,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,2,5,6,3,3,6,9,Serie A - Italy,3111910
+Cagliari,Parma,2020-02-01,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,2,5,8,7,7,8,15,Serie A - Italy,3111916
+Spezia,Pordenone,2020-02-01,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,3,5,5,3,8,Serie B - Italy,3122759
+Valencia,Celta Vigo,2020-02-01,1,0,1,n,0,0,0,0,0,1,0,0,1,1,6,3,9,4,7,7,4,11,La Liga - Spain,3059028
+Elche,Málaga,2020-02-01,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,8,3,3,8,11,Segunda División - Spain,3060190
+Extremadura UD,Lugo,2020-02-01,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,4,5,5,4,9,Segunda División - Spain,3060191
+Ponferradina,Huesca,2020-02-01,3,1,4,y,2,0,0,2,2,1,1,1,1,2,2,5,7,5,3,3,5,8,Segunda División - Spain,3060195
+Hoffenheim,Bayer Leverkusen,2020-02-01,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,3,6,4,10,10,4,14,Bundesliga - Germany,3047193
+Bochum,Hamburger SV,2020-02-03,1,3,4,y,0,0,0,0,0,1,3,3,1,4,1,1,2,4,9,9,4,13,2. Bundesliga - Germany,3047504
+Sonnenhof Großaspach,Würzburger Kickers,2020-02-03,0,6,6,n,0,2,2,0,2,0,4,4,0,4,4,1,5,2,6,6,2,8,3. Liga - Germany,3053350
+Grenoble Foot 38,Le Havre,2020-02-03,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,3,4,4,3,7,Ligue 2 - France,3031239
+Vitória Setúbal,Porto,2020-02-01,0,4,4,n,0,2,2,0,2,0,2,2,0,2,1,2,3,3,5,5,3,8,Primeira Liga - Portugal,3064810
+Penafiel,Casa Pia,2020-02-01,1,1,2,y,1,1,1,1,2,0,0,0,0,0,4,3,7,8,4,4,8,12,Segunda Liga - Portugal,3065251
+Twente,Sparta Rotterdam,2020-02-01,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,4,7,5,7,7,5,12,Eredivisie - Netherlands,3032236
+AS Eupen,Cercle Brugge,2020-02-01,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,2,5,4,6,6,4,10,First Division A - Belgium,3050335
+Lugano,Neuchâtel Xamax,2020-02-01,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,3,5,7,5,5,7,12,Super League - Switzerland,3037911
+Boluspor,BB Erzurumspor,2020-02-01,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,5,8,8,5,13,1. Lig - Turkey,3083341
+Menemenspor,Fatih Karagümrük,2020-02-01,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,6,2,2,6,8,1. Lig - Turkey,3083346
+OFI,Larissa,2020-02-01,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,4,8,9,3,3,9,12,Super League 1 - Greece,3052021
+Dinamo Bucureşti,Astra,2020-02-01,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,4,5,11,11,11,11,22,Liga I - Romania,3048411
+Necaxa,Puebla,2020-02-02,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,1,3,4,4,4,4,8,Liga MX - Mexico,3195305
+Huracán,Gimnasia La Plata,2020-02-01,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,7,10,8,3,3,8,11,Superliga - Argentina,3070524
+Estudiantes,Unión,2020-02-01,3,1,4,y,1,0,0,1,1,2,1,1,2,3,0,5,5,2,1,1,2,3,Superliga - Argentina,3070528
+Atlético Tucumán,Defensa y Justicia,2020-02-01,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,1,2,3,3,3,3,6,Superliga - Argentina,3070534
+Atlético Bucaramanga,Deportes Tolima,2020-02-01,0,0,0,n,0,0,0,0,0,0,0,0,0,0,5,3,8,7,5,5,7,12,Primera A - Colombia,3206290
+ENPPI,Al Mokawloon,2020-02-03,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,1,2,4,8,8,4,12,Premier League - Egypt,3172413
+Smouha,Misr Lel Makasa,2020-02-03,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,6,7,7,6,13,Premier League - Egypt,3172414
+Newcastle Jets,Western United,2020-02-01,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,9,2,2,9,11,A-League - Australia,3129351
+Adelaide United,Melbourne City,2020-02-01,3,1,4,y,3,1,1,3,4,0,0,0,0,0,2,2,4,8,1,1,8,9,A-League - Australia,3129352
+Perth Glory,Melbourne Victory,2020-02-01,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,0,3,5,3,3,5,8,A-League - Australia,3129353
+Guabirá,Oriente Petrolero,2020-01-31,1,2,3,y,0,1,1,0,1,1,1,1,1,2,4,3,7,-1,-1,-1,-1,-1,Primera División - Bolivia,3212711
+Blyth Spartans,Boston United,2020-02-01,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054797
+Brackley Town,Farsley Celtic,2020-02-01,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054798
+Gateshead,Leamington,2020-02-01,4,2,6,y,3,1,1,3,4,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3054800
+Eastbourne Borough,Hemel Hempstead Town,2020-02-01,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055263
+Hampton & Richmond,Hungerford Town,2020-02-01,7,1,8,y,3,1,1,3,4,4,0,0,4,4,0,0,0,-1,-1,-1,-1,-1,National League N / S - England,3055264
+Sassuolo,Roma,2020-02-01,4,2,6,y,3,0,0,3,3,1,2,2,1,3,1,7,8,5,11,11,5,16,Serie A - Italy,3111917
+Livorno,Ascoli,2020-02-01,0,3,3,n,0,1,1,0,1,0,2,2,0,2,2,2,4,6,5,5,6,11,Serie B - Italy,3122753
+Trapani,Cittadella,2020-02-01,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,3,6,5,4,4,5,9,Serie B - Italy,3122754
+Deportivo La Coruña,Las Palmas,2020-02-01,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,4,4,2,7,7,2,9,Segunda División - Spain,3060189
+Augsburg,Werder Bremen,2020-02-01,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,5,7,5,3,3,5,8,Bundesliga - Germany,3047197
+Hannover 96,Wehen Wiesbaden,2020-02-01,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,2,3,8,8,8,8,16,2. Bundesliga - Germany,3047498
+Meppen,Chemnitzer FC,2020-02-01,1,2,3,y,1,0,0,1,1,0,2,2,0,2,4,2,6,7,1,1,7,8,3. Liga - Germany,3053348
+Mafra,Chaves,2020-02-01,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,7,11,11,7,18,Segunda Liga - Portugal,3065243
+Mechelen,Gent,2020-02-01,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,2,5,7,5,5,7,12,First Division A - Belgium,3050338
+Trabzonspor,Fenerbahçe,2020-02-01,2,1,3,y,2,1,1,2,3,0,0,0,0,0,3,5,8,6,10,10,6,16,Süper Lig - Turkey,3081952
+Atlético San Luis,Guadalajara,2020-02-01,2,2,4,y,0,2,2,0,2,2,0,0,2,2,0,2,2,-1,-1,-1,-1,-1,Liga MX - Mexico,3195299
+Always Ready,The Strongest,2020-02-01,4,1,5,y,2,0,0,2,2,2,1,1,2,3,4,4,8,3,3,3,3,6,Primera División - Bolivia,3212719
+Juventus,Fiorentina,2020-02-02,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,4,5,10,5,5,10,15,Serie A - Italy,3111911
+Milan,Hellas Verona,2020-02-02,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,5,6,9,3,3,9,12,Serie A - Italy,3111913
+Udinese,Internazionale,2020-02-02,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,2,4,3,2,2,3,5,Serie A - Italy,3111914
+Lazio,SPAL,2020-02-02,5,1,6,y,4,0,0,4,4,1,1,1,1,2,1,2,3,5,2,2,5,7,Serie A - Italy,3111918
+Benevento,Salernitana,2020-02-02,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,4,8,5,0,0,5,5,Serie B - Italy,3122760
+Athletic Club,Getafe,2020-02-02,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,5,7,5,4,4,5,9,La Liga - Spain,3059020
+Barcelona,Levante,2020-02-02,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,0,2,8,3,3,8,11,La Liga - Spain,3059021
+Leganes,Real Sociedad,2020-02-02,2,1,3,y,0,1,1,0,1,2,0,0,2,2,4,3,7,3,1,1,3,4,La Liga - Spain,3059024
+Villarreal,Osasuna,2020-02-02,3,1,4,y,1,0,0,1,1,2,1,1,2,3,3,2,5,4,6,6,4,10,La Liga - Spain,3059029
+Cádiz,Real Zaragoza,2020-02-02,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,2,5,7,2,2,7,9,Segunda División - Spain,3060188
+Fuenlabrada,Girona,2020-02-02,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,5,9,6,3,3,6,9,Segunda División - Spain,3060192
+Mirandés,Rayo Vallecano,2020-02-02,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,2,9,9,2,11,Segunda División - Spain,3060193
+Racing Santander,Alcorcón,2020-02-02,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,3,4,5,0,0,5,5,Segunda División - Spain,3060197
+Nürnberg,Sandhausen,2020-02-02,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,1,4,3,9,9,3,12,2. Bundesliga - Germany,3047499
+Waldhof Mannheim,Magdeburg,2020-02-02,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,4,7,0,7,7,0,7,3. Liga - Germany,3053355
+Bordeaux,Olympique Marseille,2020-02-02,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,3,10,10,3,13,Ligue 1 - France,3030765
+Boavista,Vitoria Guimaraes,2020-02-02,2,0,2,n,1,0,0,1,1,1,0,0,1,1,5,2,7,1,11,11,1,12,Primeira Liga - Portugal,3064812
+Nacional,Leixões,2020-02-02,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,5,9,2,2,2,2,4,Segunda Liga - Portugal,3065246
+Feirense,Cova Piedade,2020-02-02,2,1,3,y,2,1,1,2,3,0,0,0,0,0,3,2,5,3,4,4,3,7,Segunda Liga - Portugal,3065247
+VVV,Utrecht,2020-02-02,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,0,1,5,8,8,5,13,Eredivisie - Netherlands,3032240
+Ajax,PSV,2020-02-02,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,7,3,3,7,10,Eredivisie - Netherlands,3032241
+Club Brugge,Antwerp,2020-02-02,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,2,0,0,2,2,First Division A - Belgium,3050331
+Zulte-Waregem,Waasland-Beveren,2020-02-02,5,0,5,n,3,0,0,3,3,2,0,0,2,2,1,3,4,5,2,2,5,7,First Division A - Belgium,3050337
+Varaždin,Hajduk Split,2020-02-02,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,2,5,6,8,8,6,14,1. HNL - Croatia,3029908
+Basel,St. Gallen,2020-02-02,1,2,3,y,1,1,1,1,2,0,1,1,0,1,4,4,8,3,2,2,3,5,Super League - Switzerland,3037910
+Sion,Zürich,2020-02-02,1,1,2,y,1,1,1,1,2,0,0,0,0,0,4,5,9,9,2,2,9,11,Super League - Switzerland,3037914
+Galatasaray,Kayserispor,2020-02-02,4,1,5,y,2,0,0,2,2,2,1,1,2,3,2,1,3,5,4,4,5,9,Süper Lig - Turkey,3081956
+Bursaspor,Eskişehirspor,2020-02-02,0,1,1,n,0,0,0,0,0,0,1,1,0,1,5,3,8,6,3,3,6,9,1. Lig - Turkey,3083342
+Balıkesirspor,Altay,2020-02-02,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,3,8,8,3,11,1. Lig - Turkey,3083343
+Altınordu,Akhisarspor,2020-02-02,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,2,2,8,12,12,8,20,1. Lig - Turkey,3083348
+Aris,Panionios,2020-02-02,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,4,5,9,2,2,9,11,Super League 1 - Greece,3052016
+Asteras Tripolis,Panaitolikos,2020-02-02,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,5,4,4,5,9,Super League 1 - Greece,3052017
+Panathinaikos,PAOK,2020-02-02,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,1,2,3,3,3,3,6,Super League 1 - Greece,3052022
+Chindia Târgovişte,Botoşani,2020-02-02,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,5,8,1,9,9,1,10,Liga I - Romania,3048412
+CFR Cluj,FCSB,2020-02-02,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,5,8,5,7,7,5,12,Liga I - Romania,3048409
+Morelia,León,2020-02-02,1,2,3,y,1,1,1,1,2,0,1,1,0,1,3,2,5,4,3,3,4,7,Liga MX - Mexico,3195300
+Pachuca,Tigres UANL,2020-02-02,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,1,3,4,3,3,4,7,Liga MX - Mexico,3195304
+Santos Laguna,Pumas UNAM,2020-02-02,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,1,4,5,4,4,5,9,Liga MX - Mexico,3195306
+Toluca,Cruz Azul,2020-02-02,3,3,6,y,2,2,2,2,4,1,1,1,1,2,4,4,8,7,4,4,7,11,Liga MX - Mexico,3195307
+Lanús,Godoy Cruz,2020-02-02,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,3,7,9,3,3,9,12,Superliga - Argentina,3070529
+Bolívar,Nacional Potosí,2020-02-02,4,0,4,n,1,0,0,1,1,3,0,0,3,3,2,2,4,8,2,2,8,10,Primera División - Bolivia,3212715
+Jorge Wilstermann,Blooming,2020-02-02,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,4,5,3,6,6,3,9,Primera División - Bolivia,3212718
+Real Potosí,Santa Cruz,2020-02-02,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,7,8,-1,-1,-1,-1,-1,Primera División - Bolivia,3212720
+Deportivo Pereira,Cúcuta Deportivo,2020-02-02,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,4,5,6,5,5,6,11,Primera A - Colombia,3206282
+Atlético Nacional,Jaguares de Córdoba,2020-02-02,1,2,3,y,0,0,0,0,0,1,2,2,1,3,1,3,4,10,1,1,10,11,Primera A - Colombia,3206284
+Central Coast Mariners,Western Sydney Wanderers,2020-02-02,1,3,4,y,0,1,1,0,1,1,2,2,1,3,2,2,4,3,4,4,3,7,A-League - Australia,3129354
+Sampdoria,Napoli,2020-02-03,2,4,6,y,1,2,2,1,3,1,2,2,1,3,4,3,7,4,6,6,4,10,Serie A - Italy,3111915
+Pescara,Cosenza,2020-02-03,2,1,3,y,0,0,0,0,0,2,1,1,2,3,5,5,10,8,4,4,8,12,Serie B - Italy,3122755
+Sporting Covilhã,UD Oliveirense,2020-02-03,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,6,8,6,2,2,6,8,Segunda Liga - Portugal,3065250
+Utrecht II,Dordrecht,2020-02-03,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,2,2,5,3,3,5,8,Eerste Divisie - Netherlands,3031911
+Ajax II,Go Ahead Eagles,2020-02-03,5,1,6,y,3,0,0,3,3,2,1,1,2,3,3,2,5,7,0,0,7,7,Eerste Divisie - Netherlands,3031912
+Denizlispor,Göztepe,2020-02-03,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,4,7,8,1,1,8,9,Süper Lig - Turkey,3081948
+İstanbulspor,Ümraniyespor,2020-02-03,2,1,3,y,0,0,0,0,0,2,1,1,2,3,1,2,3,7,5,5,7,12,1. Lig - Turkey,3083347
+Politehnica Iași,Viitorul,2020-02-03,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,3,5,1,2,2,1,3,Liga I - Romania,3048415
+Maccabi Tel Aviv,Hapoel Ra'anana,2020-02-03,2,1,3,y,0,0,0,0,0,2,1,1,2,3,-1,-1,-1,9,0,0,9,9,Ligat ha'Al - Israel,3033764
+Talleres de Córdoba,Boca Juniors,2020-02-03,1,2,3,y,0,1,1,0,1,1,1,1,1,2,4,1,5,8,4,4,8,12,Superliga - Argentina,3070532
+Patronato,Arsenal - Superliga - Argentina,2020-02-03,2,2,4,y,0,2,2,0,2,2,0,0,2,2,2,3,5,3,6,6,3,9,Superliga - Argentina,3070533
+Atlético Palmaflor,Guabirá,2020-02-03,2,0,2,n,0,0,0,0,0,2,0,0,2,2,3,4,7,4,6,6,4,10,Primera División - Bolivia,3212716
+América de Cali,Boyacá Chicó,2020-02-03,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,3,12,12,3,15,Primera A - Colombia,3206285
+Aswan,Ismaily,2020-02-03,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,5,7,3,2,2,3,5,Premier League - Egypt,3172412
+El Entag El Harby,Al Ittihad,2020-02-03,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,9,7,7,9,16,Premier League - Egypt,3172417
+Laval,Lyon Duchère,2020-01-31,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,6,8,-1,-1,-1,-1,-1,National 1 - France,3073321
+Atromitos,AEK Athens,2020-02-02,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,9,11,3,4,4,3,7,Super League 1 - Greece,3052018
+Mezőkövesd-Zsóry,Zalaegerszegi TE,2019-08-03,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,5,5,5,5,10,NB I - Hungary,3050533
+Fehérvár,Kaposvári Rákóczi,2019-08-04,4,2,6,y,3,2,2,3,5,1,0,0,1,1,1,3,4,9,3,3,9,12,NB I - Hungary,3050534
+Újpest,Puskás,2019-08-03,1,3,4,y,0,2,2,0,2,1,1,1,1,2,1,3,4,7,1,1,7,8,NB I - Hungary,3050535
+Diósgyőr,Honvéd,2019-08-04,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,2,5,6,11,11,6,17,NB I - Hungary,3050536
+Kisvárda,Paksi SE,2019-08-03,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,8,7,7,8,15,NB I - Hungary,3050537
+Paksi SE,Honvéd,2019-08-11,3,1,4,y,2,0,0,2,2,1,1,1,1,2,1,5,6,5,13,13,5,18,NB I - Hungary,3050538
+Diósgyőr,Újpest,2019-08-10,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,3,4,7,4,4,7,11,NB I - Hungary,3050539
+Puskás,Fehérvár,2019-08-11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,4,1,5,4,5,5,4,9,NB I - Hungary,3050540
+Kaposvári Rákóczi,Mezőkövesd-Zsóry,2019-08-10,1,2,3,y,1,2,2,1,3,0,0,0,0,0,1,0,1,2,8,8,2,10,NB I - Hungary,3050541
+Zalaegerszegi TE,Ferencvaros,2019-09-22,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,1,4,3,10,10,3,13,NB I - Hungary,3050542
+Debrecen,Kisvárda,2019-08-11,4,1,5,y,2,1,1,2,3,2,0,0,2,2,2,5,7,7,6,6,7,13,NB I - Hungary,3050543
+Ferencvaros,Kaposvári Rákóczi,2019-08-17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,4,6,11,0,0,11,11,NB I - Hungary,3050544
+Mezőkövesd-Zsóry,Puskás,2019-08-17,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,1,4,1,2,2,1,3,NB I - Hungary,3050545
+Fehérvár,Diósgyőr,2019-08-17,5,1,6,y,1,1,1,1,2,4,0,0,4,4,2,5,7,7,0,0,7,7,NB I - Hungary,3050546
+Újpest,Paksi SE,2019-08-17,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,3,4,4,3,7,NB I - Hungary,3050547
+Honvéd,Kisvárda,2019-08-17,1,3,4,y,0,1,1,0,1,1,2,2,1,3,2,3,5,5,2,2,5,7,NB I - Hungary,3050548
+Debrecen,Zalaegerszegi TE,2019-08-17,3,2,5,y,2,1,1,2,3,1,1,1,1,2,4,2,6,7,5,5,7,12,NB I - Hungary,3050549
+Honvéd,Debrecen,2019-08-24,2,3,5,y,1,1,1,1,2,1,2,2,1,3,2,2,4,6,6,6,6,12,NB I - Hungary,3050550
+Kisvárda,Újpest,2019-08-24,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,1,9,9,1,10,NB I - Hungary,3050551
+Paksi SE,Fehérvár,2019-08-24,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,4,6,11,2,2,11,13,NB I - Hungary,3050552
+Diósgyőr,Mezőkövesd-Zsóry,2019-08-24,0,3,3,n,0,0,0,0,0,0,3,3,0,3,3,2,5,2,4,4,2,6,NB I - Hungary,3050553
+Puskás,Ferencvaros,2019-08-25,4,1,5,y,1,1,1,1,2,3,0,0,3,3,4,2,6,3,6,6,3,9,NB I - Hungary,3050554
+Kaposvári Rákóczi,Zalaegerszegi TE,2019-08-24,0,4,4,n,0,2,2,0,2,0,2,2,0,2,4,1,5,8,2,2,8,10,NB I - Hungary,3050555
+Ferencvaros,Diósgyőr,2019-09-01,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,4,1,1,4,5,NB I - Hungary,3050556
+Mezőkövesd-Zsóry,Paksi SE,2019-08-31,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,3,5,6,4,4,6,10,NB I - Hungary,3050557
+Fehérvár,Kisvárda,2019-08-31,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,5,6,8,3,3,8,11,NB I - Hungary,3050558
+Újpest,Honvéd,2019-08-31,2,3,5,y,1,3,3,1,4,1,0,0,1,1,2,3,5,5,4,4,5,9,NB I - Hungary,3050559
+Zalaegerszegi TE,Puskás,2019-08-31,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,2,3,5,8,8,5,13,NB I - Hungary,3050560
+Debrecen,Kaposvári Rákóczi,2019-08-31,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,4,7,10,3,3,10,13,NB I - Hungary,3050561
+Újpest,Debrecen,2019-09-14,3,2,5,y,0,1,1,0,1,3,1,1,3,4,4,2,6,9,1,1,9,10,NB I - Hungary,3050562
+Honvéd,Fehérvár,2019-09-14,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,4,4,4,4,8,NB I - Hungary,3050563
+Kisvárda,Mezőkövesd-Zsóry,2019-09-14,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,4,9,9,6,6,9,15,NB I - Hungary,3050564
+Paksi SE,Ferencvaros,2019-09-14,0,4,4,n,0,3,3,0,3,0,1,1,0,1,3,1,4,2,5,5,2,7,NB I - Hungary,3050565
+Diósgyőr,Zalaegerszegi TE,2019-09-14,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,5,7,7,7,7,7,14,NB I - Hungary,3050566
+Puskás,Kaposvári Rákóczi,2019-09-14,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,9,4,4,9,13,NB I - Hungary,3050567
+Ferencvaros,Kisvárda,2019-09-29,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,7,3,3,7,10,NB I - Hungary,3050568
+Mezőkövesd-Zsóry,Honvéd,2019-09-28,1,2,3,y,0,1,1,0,1,1,1,1,1,2,4,3,7,10,1,1,10,11,NB I - Hungary,3050569
+Fehérvár,Újpest,2019-09-28,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,2,5,5,4,4,5,9,NB I - Hungary,3050570
+Kaposvári Rákóczi,Diósgyőr,2019-09-28,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,4,6,7,7,7,7,14,NB I - Hungary,3050571
+Zalaegerszegi TE,Paksi SE,2019-09-28,3,1,4,y,2,1,1,2,3,1,0,0,1,1,1,4,5,7,11,11,7,18,NB I - Hungary,3050572
+Debrecen,Puskás,2019-09-28,1,2,3,y,0,2,2,0,2,1,0,0,1,1,5,3,8,7,7,7,7,14,NB I - Hungary,3050573
+Fehérvár,Debrecen,2019-10-05,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,5,6,6,1,1,6,7,NB I - Hungary,3050574
+Újpest,Mezőkövesd-Zsóry,2019-10-05,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,2,3,0,5,5,0,5,NB I - Hungary,3050575
+Honvéd,Ferencvaros,2019-10-06,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,4,7,2,3,3,2,5,NB I - Hungary,3050576
+Kisvárda,Zalaegerszegi TE,2019-10-05,3,3,6,y,0,2,2,0,2,3,1,1,3,4,5,6,11,6,3,3,6,9,NB I - Hungary,3050577
+Paksi SE,Kaposvári Rákóczi,2019-10-05,2,1,3,y,0,1,1,0,1,2,0,0,2,2,6,3,9,6,3,3,6,9,NB I - Hungary,3050578
+Diósgyőr,Puskás,2019-10-05,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,1,4,4,1,5,NB I - Hungary,3050579
+Ferencvaros,Újpest,2019-10-19,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,1,11,11,1,12,NB I - Hungary,3050580
+Mezőkövesd-Zsóry,Fehérvár,2019-10-19,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,5,9,4,5,5,4,9,NB I - Hungary,3050581
+Puskás,Paksi SE,2019-10-19,4,2,6,y,2,1,1,2,3,2,1,1,2,3,2,2,4,8,6,6,8,14,NB I - Hungary,3050582
+Kaposvári Rákóczi,Kisvárda,2019-10-19,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,1,3,6,3,3,6,9,NB I - Hungary,3050583
+Zalaegerszegi TE,Honvéd,2019-10-19,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,5,4,4,5,9,NB I - Hungary,3050584
+Debrecen,Diósgyőr,2019-10-19,2,1,3,y,1,0,0,1,1,1,1,1,1,2,4,3,7,1,12,12,1,13,NB I - Hungary,3050585
+Mezőkövesd-Zsóry,Debrecen,2019-10-26,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,3,4,5,7,7,5,12,NB I - Hungary,3050586
+Fehérvár,Ferencvaros,2019-10-27,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,7,10,7,3,3,7,10,NB I - Hungary,3050587
+Újpest,Zalaegerszegi TE,2019-10-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,2,2,11,5,5,11,16,NB I - Hungary,3050588
+Honvéd,Kaposvári Rákóczi,2019-10-26,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,5,5,4,2,2,4,6,NB I - Hungary,3050589
+Kisvárda,Puskás,2019-10-26,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,2,6,7,4,4,7,11,NB I - Hungary,3050590
+Paksi SE,Diósgyőr,2019-10-26,1,2,3,y,0,1,1,0,1,1,1,1,1,2,4,4,8,6,3,3,6,9,NB I - Hungary,3050591
+Ferencvaros,Mezőkövesd-Zsóry,2019-11-02,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,3,6,7,1,1,7,8,NB I - Hungary,3050592
+Diósgyőr,Kisvárda,2019-11-02,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,2,3,3,11,11,3,14,NB I - Hungary,3050593
+Puskás,Honvéd,2019-11-02,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,2,3,8,1,1,8,9,NB I - Hungary,3050594
+Kaposvári Rákóczi,Újpest,2019-11-02,2,3,5,y,1,2,2,1,3,1,1,1,1,2,0,2,2,2,3,3,2,5,NB I - Hungary,3050595
+Zalaegerszegi TE,Fehérvár,2019-11-02,3,3,6,y,2,0,0,2,2,1,3,3,1,4,3,4,7,3,9,9,3,12,NB I - Hungary,3050596
+Debrecen,Paksi SE,2019-11-02,3,1,4,y,2,0,0,2,2,1,1,1,1,2,1,3,4,2,4,4,2,6,NB I - Hungary,3050597
+Debrecen,Ferencvaros,2019-11-10,1,6,7,y,0,2,2,0,2,1,4,4,1,5,2,1,3,6,5,5,6,11,NB I - Hungary,3050598
+Zalaegerszegi TE,Mezőkövesd-Zsóry,2019-11-09,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,5,8,7,4,4,7,11,NB I - Hungary,3050599
+Kaposvári Rákóczi,Fehérvár,2019-11-09,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,3,6,2,7,7,2,9,NB I - Hungary,3050600
+Puskás,Újpest,2019-11-09,1,3,4,y,1,2,2,1,3,0,1,1,0,1,2,1,3,3,2,2,3,5,NB I - Hungary,3050601
+Honvéd,Diósgyőr,2019-11-09,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,5,7,5,4,4,5,9,NB I - Hungary,3050602
+Paksi SE,Kisvárda,2019-11-09,1,1,2,y,0,0,0,0,0,1,1,1,1,2,5,1,6,7,4,4,7,11,NB I - Hungary,3050603
+Honvéd,Paksi SE,2019-11-23,2,1,3,y,0,0,0,0,0,2,1,1,2,3,1,4,5,3,1,1,3,4,NB I - Hungary,3050604
+Újpest,Diósgyőr,2019-11-23,0,2,2,n,0,2,2,0,2,0,0,0,0,0,1,1,2,6,0,0,6,6,NB I - Hungary,3050605
+Fehérvár,Puskás,2019-11-23,1,3,4,y,0,2,2,0,2,1,1,1,1,2,5,3,8,5,4,4,5,9,NB I - Hungary,3050606
+Mezőkövesd-Zsóry,Kaposvári Rákóczi,2019-11-23,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,3,4,9,2,2,9,11,NB I - Hungary,3050607
+Ferencvaros,Zalaegerszegi TE,2019-11-24,3,2,5,y,3,1,1,3,4,0,1,1,0,1,0,1,1,7,1,1,7,8,NB I - Hungary,3050608
+Kisvárda,Debrecen,2019-11-23,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,4,6,6,4,10,NB I - Hungary,3050609
+Kaposvári Rákóczi,Ferencvaros,2019-12-01,2,3,5,y,1,2,2,1,3,1,1,1,1,2,2,3,5,5,4,4,5,9,NB I - Hungary,3050610
+Puskás,Mezőkövesd-Zsóry,2019-11-30,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,2,5,2,11,11,2,13,NB I - Hungary,3050611
+Diósgyőr,Fehérvár,2019-11-30,1,3,4,y,1,2,2,1,3,0,1,1,0,1,1,2,3,4,3,3,4,7,NB I - Hungary,3050612
+Paksi SE,Újpest,2019-11-30,2,4,6,y,0,1,1,0,1,2,3,3,2,5,2,2,4,5,4,4,5,9,NB I - Hungary,3050613
+Kisvárda,Honvéd,2019-11-30,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,4,6,5,8,8,5,13,NB I - Hungary,3050614
+Zalaegerszegi TE,Debrecen,2019-11-30,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,2,4,10,3,3,10,13,NB I - Hungary,3050615
+Debrecen,Honvéd,2019-12-07,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,3,4,5,6,6,5,11,NB I - Hungary,3050616
+Újpest,Kisvárda,2019-12-07,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,8,3,3,8,11,NB I - Hungary,3050617
+Fehérvár,Paksi SE,2019-12-07,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,3,6,8,8,8,8,16,NB I - Hungary,3050618
+Mezőkövesd-Zsóry,Diósgyőr,2019-12-07,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,3,6,6,3,3,6,9,NB I - Hungary,3050619
+Ferencvaros,Puskás,2019-12-08,2,2,4,y,2,0,0,2,2,0,2,2,0,2,2,4,6,15,2,2,15,17,NB I - Hungary,3050620
+Zalaegerszegi TE,Kaposvári Rákóczi,2019-12-07,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,4,5,11,5,5,11,16,NB I - Hungary,3050621
+Diósgyőr,Ferencvaros,2019-12-15,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,5,6,4,6,6,4,10,NB I - Hungary,3050622
+Paksi SE,Mezőkövesd-Zsóry,2019-12-14,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,2,5,2,8,8,2,10,NB I - Hungary,3050623
+Kisvárda,Fehérvár,2019-12-14,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,3,6,4,6,6,4,10,NB I - Hungary,3050624
+Honvéd,Újpest,2019-12-14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,3,9,9,3,12,NB I - Hungary,3050625
+Puskás,Zalaegerszegi TE,2019-12-14,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,4,8,3,5,5,3,8,NB I - Hungary,3050626
+Kaposvári Rákóczi,Debrecen,2019-12-14,4,1,5,y,2,0,0,2,2,2,1,1,2,3,3,3,6,3,8,8,3,11,NB I - Hungary,3050627
+Debrecen,Újpest,2020-01-25,4,0,4,n,0,0,0,0,0,4,0,0,4,4,3,3,6,1,3,3,1,4,NB I - Hungary,3050628
+Fehérvár,Honvéd,2020-01-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,3,3,7,3,3,7,10,NB I - Hungary,3050629
+Mezőkövesd-Zsóry,Kisvárda,2020-01-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,5,6,7,2,2,7,9,NB I - Hungary,3050630
+Ferencvaros,Paksi SE,2020-01-25,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,4,5,7,1,1,7,8,NB I - Hungary,3050631
+Zalaegerszegi TE,Diósgyőr,2020-01-25,1,3,4,y,0,0,0,0,0,1,3,3,1,4,3,0,3,3,6,6,3,9,NB I - Hungary,3050632
+Kaposvári Rákóczi,Puskás,2020-01-25,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,3,4,3,8,8,3,11,NB I - Hungary,3050633
+Kisvárda,Ferencvaros,2020-02-01,1,2,3,y,1,1,1,1,2,0,1,1,0,1,3,1,4,1,5,5,1,6,NB I - Hungary,3050634
+Honvéd,Mezőkövesd-Zsóry,2020-02-01,1,2,3,y,1,1,1,1,2,0,1,1,0,1,5,4,9,6,2,2,6,8,NB I - Hungary,3050635
+Újpest,Fehérvár,2020-02-01,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,5,6,6,5,11,NB I - Hungary,3050636
+Diósgyőr,Kaposvári Rákóczi,2020-02-01,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,4,5,10,3,3,10,13,NB I - Hungary,3050637
+Paksi SE,Zalaegerszegi TE,2020-02-01,2,0,2,n,1,0,0,1,1,1,0,0,1,1,5,3,8,2,2,2,2,4,NB I - Hungary,3050638
+Puskás,Debrecen,2020-02-01,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,3,7,9,5,5,9,14,NB I - Hungary,3050639
+Newell's Old Boys,San Lorenzo,2020-02-04,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,1,4,4,2,2,4,6,Superliga - Argentina,3070530
+Alianza Petrolera,Deportivo Pasto,2020-02-03,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,4,6,-1,-1,-1,-1,-1,Primera A - Colombia,3206281
+Rionegro,Independiente Santa Fe,2020-02-04,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,2,6,5,9,9,5,14,Primera A - Colombia,3206288

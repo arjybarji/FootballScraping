@@ -143,6 +143,9 @@ getLinks(3030015,3030254)
 #Isreal League 
 getLinks(3033612,3033793)
 
+#Hungary League 
+getLinks(3050532,3050729)
+
 #Brasil Serie A
 #getLinks(,)
 

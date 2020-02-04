@@ -469,24 +469,17 @@ Atlas
 América
 Monterrey
 Santos Laguna
-Guadalajara
 León
 Cruz Azul
 Toluca
-Atlético San Luis
 Necaxa
 Pachuca
 Morelia
 Pumas UNAM
 Blooming
-Santa Cruz
-Guabirá
 Always Ready
-Oriente Petrolero
 The Strongest
 Millonarios
-Deportivo Pasto
-Alianza Petrolera
 Patriotas Boyacá
 Cúcuta Deportivo
 Envigado
@@ -495,3 +488,15 @@ Deportivo Cali
 Deportes Tolima
 Santa Fe
 Independiente Santa Fe
+Mezőkövesd-Zsóry
+Zalaegerszegi TE
+Fehérvár
+Kaposvári Rákóczi
+Újpest
+Puskás
+Diósgyőr
+Honvéd
+Kisvárda
+Paksi SE
+Ferencvaros
+Debrecen
