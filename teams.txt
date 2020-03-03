@@ -1,803 +1,865 @@
 Teams
 Arsenal - Premier League - England
-Newcastle United
-Aston Villa
+West Ham United
+Burnley
 Tottenham Hotspur
-Brighton & Hove Albion
-Watford
 Chelsea
-Manchester United
 Everton
 Crystal Palace
-Manchester City
-West Ham United
-Norwich City
-Liverpool
-Sheffield United
-AFC Bournemouth
-Southampton
-Burnley
-Wolverhampton Wanderers
+Watford
 Leicester City
-Burton Albion
+Aston Villa
+Liverpool
+AFC Bournemouth
+Manchester United
+Manchester City
+Sheffield United
+Norwich City
+Southampton
+Newcastle United
+Wolverhampton Wanderers
+Brighton & Hove Albion
 Bolton Wanderers
-Sunderland
-Fleetwood Town
-Tranmere Rovers
 Doncaster Rovers
+Burton Albion
 Bristol Rovers
+Sunderland
 Portsmouth
+Fleetwood Town
+Ipswich Town
+Rochdale
+AFC Wimbledon
 Blackpool
+Tranmere Rovers
 Coventry City
+Wycombe Wanderers
+Shrewsbury Town
+Accrington Stanley
+Lincoln City
+Milton Keynes Dons
+Peterborough United
 Rotherham United
 Oxford United
-Accrington Stanley
-Shrewsbury Town
 Southend United
 Gillingham
-Wycombe Wanderers
-AFC Wimbledon
-Milton Keynes Dons
-Rochdale
-Lincoln City
-Peterborough United
-Ipswich Town
+Cheltenham Town
+Newport County
 Plymouth Argyle
 Grimsby Town
-Newport County
-Barnsley
-Sheffield Wednesday
-Blackburn Rovers
-Fulham
-Brentford
-Middlesbrough
-Bristol City
-Birmingham City
-Huddersfield Town
-Queens Park Rangers
-Luton Town
-Cardiff City
-Millwall
-West Bromwich Albion
-Nottingham Forest
-Leeds United
-Reading
-Hull City
-Stoke City
-Charlton Athletic
-Swansea City
-Derby County
-Wigan Athletic
-Preston North End
-Macclesfield Town
+Carlisle United
 Exeter City
 Crewe Alexandra
-Cheltenham Town
-Northampton Town
-Bradford City
-Carlisle United
+Barnsley
+Cardiff City
+Birmingham City
+Reading
+Brentford
+Sheffield Wednesday
+Bristol City
+Fulham
+Charlton Athletic
+Middlesbrough
+Derby County
+Blackburn Rovers
+Leeds United
+Huddersfield Town
+Nottingham Forest
+Millwall
+Preston North End
+Queens Park Rangers
+Stoke City
+Hull City
+Swansea City
+West Bromwich Albion
+Wigan Athletic
+Luton Town
 Swindon Town
-Colchester United
-Oldham Athletic
-Stevenage
-Forest Green Rovers
-Walsall
-Leyton Orient
-Morecambe
-Mansfield Town
-Cambridge United
-Port Vale
-Salford City
-Crawley Town
 Scunthorpe United
-Barrow
-Dover Athletic
+Stevenage
+Walsall
+Colchester United
+Port Vale
+Crawley Town
+Oldham Athletic
+Leyton Orient
+Cambridge United
+Morecambe
+Northampton Town
+Mansfield Town
+Macclesfield Town
+Salford City
+Bradford City
+Forest Green Rovers
 Fylde
 Notts County
-Solihull Moors
 Barnet
 Boreham Wood
 Halifax Town
-Bromley
-Chesterfield
-Wrexham
-Dagenham & Redbridge
-Stockport County
-Harrogate Town
-Yeovil Town
-Hartlepool United
-Aldershot Town
+Chorley
+Eastleigh
 Sutton United
 Torquay United
-Maidenhead United
-Eastleigh
-Ebbsfleet United
-Chorley
 Woking
-Altrincham
-AFC Telford United
-Spennymoor Town
+Solihull Moors
+Hartlepool United
+Barrow
+Chesterfield
+Harrogate Town
+Dagenham & Redbridge
+Aldershot Town
+Dover Athletic
+Yeovil Town
+Bromley
+Ebbsfleet United
+Maidenhead United
+Stockport County
+Wrexham
 Boston United
-Gateshead
-Gloucester City
-King's Lynn Town
-Kettering Town
-Brackley Town
-Alfreton Town
-Leamington
 Darlington
-Southport
-Chester
-Farsley Celtic
-Kidderminster Harriers
+Kettering Town
 Hereford
+Alfreton Town
+Gateshead
+Leamington
+King's Lynn Town
+Brackley Town
+Southport
+Spennymoor Town
 York City
-Bradford (Park Avenue)
+AFC Telford United
+Altrincham
 Blyth Spartans
+Bradford (Park Avenue)
+Chester
 Curzon Ashton
+Farsley Celtic
 Guiseley
-Havant & Waterlooville
-Weymouth
-Chippenham Town
-Concord Rangers
-Hampton & Richmond
-Welling United
-Hungerford Town
-Dorking Wanderers
-Maidstone United
-Bath City
-Wealdstone
-Chelmsford City
-Tonbridge Angels
-St Albans City
-Dartford
-Dulwich Hamlet
-Hemel Hempstead Town
-Braintree Town
+Gloucester City
+Kidderminster Harriers
 Billericay Town
-Slough Town
+Havant & Waterlooville
+Tonbridge Angels
+Maidstone United
+Concord Rangers
+Wealdstone
+Dartford
 Eastbourne Borough
 Oxford City
-Aberdeen
-St. Johnstone
-Hearts
-Kilmarnock
-Motherwell
-Celtic
-Rangers
-Hibernian
-Ross County
-Livingston
+Bath City
+Weymouth
+Braintree Town
+Chelmsford City
+Hampton & Richmond
+Hemel Hempstead Town
+Dorking Wanderers
+Welling United
+Chippenham Town
+Slough Town
+Hungerford Town
+St Albans City
+Dulwich Hamlet
 St. Mirren
+Hearts
+Hibernian
+Kilmarnock
+Aberdeen
+Livingston
+Celtic
+Motherwell
+Ross County
+Rangers
 Hamilton Academical
-Alloa Athletic
-Dundee United
-Arbroath
-Queen of the South
-Ayr United
-Greenock Morton
+St. Johnstone
 Dundee
+Ayr United
+Inverness CT
+Queen of the South
+Arbroath
 Partick Thistle
 Dunfermline Athletic
-Inverness CT
-Dumbarton
-Airdrieonians
-Falkirk
-East Fife
-Peterhead
-Forfar Athletic
+Dundee United
+Alloa Athletic
+Greenock Morton
 Stranraer
-Raith Rovers
-Clyde
 Montrose
+Clyde
+Raith Rovers
+Falkirk
+Dumbarton
+Forfar Athletic
+Peterhead
+Airdrieonians
+East Fife
 Albion Rovers
-Brechin City
-Edinburgh City
-Annan Athletic
-Elgin City
-Cove Rangers
-Stenhousemuir
 Cowdenbeath
 Stirling Albion
+Cove Rangers
+Edinburgh City
+Brechin City
+Annan Athletic
+Elgin City
+Stenhousemuir
 Queen's Park
-Lazio
+Finn Harps
+Shelbourne
+Bohemians
+St Patrick's Athletic
+Cork City
+Waterford
+Derry City
+Dundalk
+Sligo Rovers
+Shamrock Rovers
 Hellas Verona
-Fiorentina
-Atalanta
-Roma
-Bologna
-Genoa
 Cagliari
-Juventus
-Parma
-Napoli
-Lecce
-Internazionale
-Milan
 Torino
-Sampdoria
-SPAL
+Parma
 Sassuolo
 Brescia
 Udinese
-Spezia
-Cremonese
-Cosenza
-Benevento
-Pisa
-Chievo
-Crotone
-Cittadella
-Empoli
-Venezia
-Frosinone
-Ascoli
-Juve Stabia
-Pordenone
-Livorno
-Virtus Entella
-Pescara
+Fiorentina
+Milan
+Genoa
+Sampdoria
+Juventus
+Internazionale
+SPAL
+Bologna
+Atalanta
+Lazio
+Lecce
+Napoli
+Roma
 Perugia
+Benevento
+Ascoli
+Chievo
+Cosenza
+Cittadella
+Cremonese
+Empoli
+Livorno
+Frosinone
+Pordenone
+Juve Stabia
+Spezia
+Pescara
+Crotone
+Pisa
 Salernitana
+Venezia
 Trapani
-Deportivo Alavés
+Virtus Entella
 Eibar
+Real Sociedad
+Deportivo Alavés
+Valencia
 Atletico Madrid
-Granada
-Real Betis
-Barcelona
-Celta Vigo
 Sevilla
-Espanyol
+Barcelona
+Real Betis
+Real Madrid
 Mallorca
 Getafe
-Valencia
+Celta Vigo
 Levante
-Leganes
+Granada
 Osasuna
-Real Madrid
-Real Sociedad
-Athletic Club
-Real Valladolid
+Espanyol
 Villarreal
-Mirandés
-Real Zaragoza
-Albacete
-Ponferradina
+Leganes
+Real Valladolid
+Athletic Club
 Alcorcón
-Deportivo La Coruña
+Mirandés
 Almería
-Racing Santander
+Deportivo La Coruña
 Extremadura UD
-Tenerife
-Girona
-Huesca
-Las Palmas
-Cádiz
-Lugo
-Elche
-Málaga
-Numancia
-Rayo Vallecano
 Real Oviedo
-Sporting Gijón
+Girona
+Albacete
+Huesca
 Fuenlabrada
-Bayern Munich
-RB Leipzig
-Bayer Leverkusen
-Borussia Dortmund
+Lugo
+Cádiz
+Málaga
+Real Zaragoza
+Numancia
+Racing Santander
+Rayo Vallecano
+Elche
+Tenerife
+Ponferradina
+Sporting Gijón
+Las Palmas
 Borussia M'gladbach
 Köln
-Wolfsburg
-Fortuna Dusseldorf
-Eintracht Frankfurt
+Bayern Munich
 Augsburg
-Werder Bremen
-Union Berlin
+Bayer Leverkusen
+Eintracht Frankfurt
+Borussia Dortmund
+Wolfsburg
+RB Leipzig
 Hertha BSC
+Werder Bremen
 Mainz 05
+Fortuna Dusseldorf
 Freiburg
-Hoffenheim
+Union Berlin
 Schalke 04
+Hoffenheim
 Paderborn
 Stuttgart
-Erzgebirge Aue
+Arminia Bielefeld
+Nürnberg
+Hannover 96
 Hamburger SV
+Jahn Regensburg
+Heidenheim
 Karlsruher SC
 Holstein Kiel
-St. Pauli
-Arminia Bielefeld
-Jahn Regensburg
-Dynamo Dresden
-Darmstadt 98
 Greuther Fürth
-Hannover 96
-Sandhausen
-Heidenheim
-Osnabrück
-Nürnberg
-Wehen Wiesbaden
+Darmstadt 98
 Bochum
-Carl Zeiss Jena
-Zwickau
-MSV Duisburg
-Eintracht Braunschweig
-Kaiserslautern
-Preußen Münster
-Würzburger Kickers
-Ingolstadt
+Dynamo Dresden
+Erzgebirge Aue
+Sandhausen
+St. Pauli
+Osnabrück
+Wehen Wiesbaden
 Uerdingen
-Sonnenhof Großaspach
+Zwickau
 Hansa Rostock
-Unterhaching
+Eintracht Braunschweig
 Viktoria Köln
-Bayern München II
-Chemnitzer FC
+Preußen Münster
 Hallescher FC
-Magdeburg
-Meppen
+Ingolstadt
+Bayern München II
+Sonnenhof Großaspach
+Chemnitzer FC
+Unterhaching
+Carl Zeiss Jena
 1860 München
+MSV Duisburg
+Magdeburg
+Kaiserslautern
+Meppen
+Würzburger Kickers
 Waldhof Mannheim
-Nantes
-PSG
-Toulouse
-Strasbourg
-Saint-Etienne
-Olympique Marseille
-Reims
 Nice
-Nîmes
-Dijon
-Montpellier
-Metz
-Lille
-Rennes
 Monaco
-Angers SCO
+Strasbourg
+PSG
+Dijon
+Toulouse
+Lille
 Olympique Lyonnais
-Amiens SC
-Brest
+Saint-Etienne
 Bordeaux
-Paris FC
-Ajaccio
-Caen
-Niort
-Auxerre
-Clermont
-Châteauroux
-Chambly
-Lens
-Troyes
-Lorient
-Le Mans
-Nancy
-Sochaux
-Orléans
-Rodez
-Valenciennes
-Guingamp
+Angers SCO
+Nantes
+Olympique Marseille
+Amiens SC
+Metz
+Nîmes
+Rennes
+Montpellier
+Reims
+Brest
 Le Havre
+Auxerre
+Troyes
+Paris FC
+Chambly
+Le Mans
+Rodez
+Guingamp
 Grenoble Foot 38
-Gazélec Ajaccio
-Concarneau
+Valenciennes
+Niort
+Nancy
+Ajaccio
+Lorient
+Châteauroux
+Caen
+Clermont
+Sochaux
+Lens
+Orléans
 Béziers
-Villefranche
-Boulogne
 Avranches
 Bourg-en-Bresse
-Le Puy Foot
-Bastia-Borgo
-Lyon Duchère
-Créteil
-Quevilly-Rouen
 Laval
-Red Star
+Gazélec Ajaccio
 Pau
+Lyon Duchère
+Le Puy Foot
+Quevilly-Rouen
+Bastia-Borgo
+Red Star
+Concarneau
 Toulon
-Dunkerque
+Créteil
 Cholet
-Sporting Braga
-Gil Vicente
-Porto
+Boulogne
+Dunkerque
+Villefranche
+Famalicão
+Sporting CP
+Belenenses
+Desportivo Aves
+Vitória Setúbal
 Benfica
 Tondela
-Marítimo
-Sporting CP
-Portimonense
-Famalicão
-Vitoria Guimaraes
-Paços de Ferreira
 Boavista
-Desportivo Aves
-Rio Ave
-Belenenses
-Santa Clara
 Moreirense
-Vitória Setúbal
+Marítimo
+Gil Vicente
+Santa Clara
+Paços de Ferreira
+Vitoria Guimaraes
+Sporting Braga
+Portimonense
+Porto
+Rio Ave
 Mafra
-Nacional
-Academico Viseu
 Feirense
 UD Oliveirense
-Benfica II
-Vilafranquense
-Sporting Covilhã
-Cova Piedade
-Penafiel
-Chaves
-Académica
 Estoril
-Casa Pia
-Leixões
-Varzim
+Cova Piedade
+Sporting Covilhã
+Vilafranquense
 Porto II
+Chaves
+Varzim
+Nacional
+Benfica II
+Académica
+Penafiel
+Leixões
 Farense
-Heracles
-Fortuna Sittard
-Groningen
-Vitesse
-PSV
-Willem II
-Heerenveen
-VVV
-RKC Waalwijk
-PEC Zwolle
-Utrecht
-Ajax
-Sparta Rotterdam
-ADO Den Haag
-AZ
-Feyenoord
+Academico Viseu
+Casa Pia
 Emmen
+VVV
+Fortuna Sittard
+PEC Zwolle
+Heerenveen
+Ajax
+AZ
+ADO Den Haag
+Vitesse
 Twente
-Cambuur
-MVV
-Dordrecht
-Almere City
+Utrecht
+Sparta Rotterdam
+Heracles
+RKC Waalwijk
+Feyenoord
+Willem II
+Groningen
+PSV
 NAC Breda
-TOP Oss
-Go Ahead Eagles
-Eindhoven
 Roda JC
 Den Bosch
-Telstar
-NEC
-Helmond Sport
+Almere City
 Excelsior
-Utrecht II
-Ajax II
-PSV II
-De Graafschap
-AZ II
+MVV
 Volendam
+Ajax II
+Telstar
+PSV II
+Eindhoven
+TOP Oss
+Helmond Sport
+Dordrecht
+Go Ahead Eagles
+De Graafschap
+Utrecht II
+NEC
+AZ II
+Cambuur
 Salzburg
-LASK
-Wolfsberger AC
-Hartberg
 Sturm Graz
-Mattersburg
-St. Pölten
-Admira
+Wolfsberger AC
 Rapid Wien
-Swarovski Tirol
-Rheindorf Altach
 Austria Wien
+St. Pölten
+Mattersburg
+LASK
+Admira
+Rheindorf Altach
+Hartberg
+Swarovski Tirol
 Wacker Innsbruck
-Vorwärts Steyr
-Austria Lustenau
-Dornbirn
-Kapfenberger SV
-Blau-Weiß Linz
-Juniors OÖ
-Lafnitz
-Austria Klagenfurt
-Ried
-Amstetten
-Liefering
-Horn
-Austria Wien II
-Grazer AK
 Floridsdorfer AC
-SønderjyskE
-Hobro
-Midtjylland
-Lyngby
-OB
-Brøndby
-Nordsjælland
-Horsens
-AGF
-Randers
-Esbjerg
+Austria Lustenau
+Austria Wien II
+Kapfenberger SV
+Juniors OÖ
+Blau-Weiß Linz
+Vorwärts Steyr
+Austria Klagenfurt
+Dornbirn
+Amstetten
+Ried
+Liefering
+Lafnitz
+Horn
+Grazer AK
 Copenhagen
-Silkeborg
+Horsens
+SønderjyskE
+OB
 AaB
-Sporting Charleroi
-Mechelen
-Standard Liège
+Lyngby
+Randers
+Midtjylland
+Nordsjælland
+Brøndby
+Hobro
+Esbjerg
+Silkeborg
+AGF
 Club Brugge
-Gent
-Anderlecht
-Royal Excel Mouscron
-KV Oostende
 Cercle Brugge
+Anderlecht
 Zulte-Waregem
-Antwerp
-Genk
-Waasland-Beveren
-Kortrijk
+Standard Liège
 Sint-Truiden
+Gent
+Sporting Charleroi
+Kortrijk
+Antwerp
+Royal Excel Mouscron
+Waasland-Beveren
+KV Oostende
+Genk
+Mechelen
 AS Eupen
-Sparta Praha
-Slovan Liberec
-Slovácko
-Baník Ostrava
-Opava
-Viktoria Plzen
 Bohemians 1905
-Slavia Praha
-Teplice
-Sigma Olomouc
 Karviná
+Teplice
+Slovan Liberec
+Slavia Praha
+Sparta Praha
+Slovácko
+Opava
 Zlín
-Jablonec
-Příbram
-České Budějovice
+Baník Ostrava
 Mladá Boleslav
-Osijek
-Inter Zaprešić
-Dinamo Zagreb
-Gorica
+Příbram
+Sigma Olomouc
+Jablonec
+Viktoria Plzen
+České Budějovice
 Rijeka
-Slaven Koprivnica
+Inter Zaprešić
 Hajduk Split
-Lokomotiva Zagreb
+Dinamo Zagreb
 Istra 1961
+Osijek
 Varaždin
-Arka Gdynia
+HNK Gorica
+Slaven Koprivnica
+Lokomotiva Zagreb
 Cracovia Kraków
-Korona Kielce
-Górnik Zabrze
+Wisła Kraków
 Lech Poznań
-Raków Częstochowa
+Górnik Zabrze
+Lechia Gdańsk
 Legia Warszawa
 ŁKS Łódź
-Piast Gliwice
 Zagłębie Lubin
-Śląsk Wrocław
-Lechia Gdańsk
-Wisła Kraków
-Jagiellonia Białystok
-Wisła Płock
+Piast Gliwice
+Arka Gdynia
 Pogoń Szczecin
+Jagiellonia Białystok
+Śląsk Wrocław
+Korona Kielce
+Wisła Płock
+Raków Częstochowa
 Zenit
 Ufa
 Sochi
 Ural
 Orenburg
-Lokomotiv Moscow
 Krasnodar
-Tambov
-Rubin Kazan
+Spartak Moscow
+Rostov
 CSKA Moscow
 Dinamo Moscow
-Spartak Moscow
+Tambov
+Lokomotiv Moscow
 Akhmat Grozny
-Rostov
-Arsenal Tula
+Rubin Kazan
 Krylya Sovetov
-Neuchâtel Xamax
+Arsenal Tula
 Luzern
+Basel
+Zürich
+Lugano
+Neuchâtel Xamax
 St. Gallen
 Servette
-Thun
-Lugano
 Young Boys
 Sion
-Zürich
-Basel
-Fenerbahçe
-Alanyaspor
-Konyaspor
-Denizlispor
-Yeni Malatyaspor
-Ankaragücü
+Thun
+Lausanne Sport
+Vaduz
+Chiasso
+Aarau
 Gençlerbirliği
-Trabzonspor
-Beşiktaş
-Gaziantep FK
-Göztepe
-Rizespor
-Kasımpaşa
-Galatasaray
-Kayserispor
 Antalyaspor
-Sivasspor
+Rizespor
+Alanyaspor
+Fenerbahçe
+Denizlispor
+Beşiktaş
+Ankaragücü
+Gaziantep FK
+Trabzonspor
+Göztepe
 Istanbul Basaksehir
-Adana Demirspor
-Adanaspor
+Kasımpaşa
+Kayserispor
+Yeni Malatyaspor
+Konyaspor
+Sivasspor
+Galatasaray
 Fatih Karagümrük
-Hatayspor
-Osmanlıspor
-Bursaspor
-Ümraniyespor
-Balıkesirspor
-Eskişehirspor
-Altınordu
-Akhisarspor
-Menemenspor
+Adana Demirspor
 Keçiörengücü
-Altay
-İstanbulspor
 Boluspor
-Giresunspor
+Altınordu
+Ümraniyespor
+Menemenspor
+Altay
+Hatayspor
 BB Erzurumspor
-AEK Athens
-Panathinaikos
-Asteras Tripolis
-Aris
-Atromitos
-Olympiakos Piraeus
-Panaitolikos
-Volos NFC
-Panionios
-Xanthi
-PAOK
+Akhisarspor
+Osmanlıspor
+Adanaspor
+Balıkesirspor
+Bursaspor
+İstanbulspor
+Eskişehirspor
+Giresunspor
 OFI
 Lamia
-Larissa
-Voluntari
-FCSB
-Gaz Metan Mediaş
-CFR Cluj
-Academica Clinceni
-Dinamo Bucureşti
-Astra
-Chindia Târgovişte
-Botoşani
-Hermannstadt
-Viitorul
-Universitatea Craiova
-Sepsi
-Politehnica Iași
-Trenčín
-Zemplín Michalovce
-DAC
-Senica
 Žilina
-Zlaté Moravce
-Nitra
-Pohronie
-Spartak Trnava
-Slovan Bratislava
+DAC
 Sereď
+Slovan Bratislava
 Ružomberok
-Maccabi Haifa
-Hapoel Tel Aviv
-Hapoel Kfar Saba
-Beitar Jerusalem
-Bnei Yehuda
-Hapoel Hadera
-Sektzia Nes Tziona
-Ashdod
-Maccabi Netanya
-Hapoel Be'er Sheva
-Ironi Kiryat Shmona
-Hapoel Haifa
-Maccabi Tel Aviv
-Hapoel Ra'anana
+Senica
+Nitra
+Zlaté Moravce
+Trenčín
+Spartak Trnava
+Zemplín Michalovce
+Pohronie
+Radnik Surdulica
+Javor Ivanjica
+Rad Beograd
+Bačka Topola
+Napredak
+Proleter Novi Sad
+Mačva Šabac
+Crvena Zvezda
+Partizan
+Radnički Niš
+Vojvodina
+Mladost Lučani
+Čukarički
+Spartak Subotica
 Ferencvaros
 Debrecen
-Fehérvár
-Mezőkövesd-Zsóry
 Újpest
-Honvéd
-Zalaegerszegi TE
-Kisvárda
 Kaposvári Rákóczi
 Paksi SE
-Puskás
+Honvéd
 Diósgyőr
+Puskás
+Fehérvár
+Mezőkövesd-Zsóry
+Zalaegerszegi TE
+Kisvárda
+Querétaro
+Toluca
 Puebla
+Tigres UANL
+Monterrey
+Atlético San Luis
+Cruz Azul
+Tijuana
+Pachuca
+Santos Laguna
+Atlas
+Guadalajara
+Pumas UNAM
 América
 Necaxa
-Monterrey
-Atlas
 Morelia
-Santos Laguna
-Tijuana
-Toluca
-Cruz Azul
-Pachuca
-Tigres UANL
-Guadalajara
-León
-Pumas UNAM
-Atlético San Luis
-Querétaro
 Juárez
-Boca Juniors
-Atlético Tucumán
-San Lorenzo
+León
 Vélez Sarsfield
-Argentinos Juniors
-Lanús
-Racing Club
-Independiente
-Gimnasia La Plata
-Patronato
-Banfield
-Rosario Central
-Defensa y Justicia
-Colón
-Arsenal - Superliga - Argentina
-Talleres de Córdoba
-Aldosivi
-Central Córdoba SdE
-Newell's Old Boys
-Estudiantes
-Unión
-River Plate
 Godoy Cruz
+Boca Juniors
+Gimnasia La Plata
+San Lorenzo
+Lanús
+Independiente
+Central Córdoba SdE
+Estudiantes
+Racing Club
+Banfield
 Huracán
-Santa Cruz
-San José
-Real Potosí
-Always Ready
+Defensa y Justicia
+Patronato
+Arsenal - Superliga - Argentina
+Aldosivi
+Newell's Old Boys
+Unión
+Atlético Tucumán
+River Plate
 The Strongest
-Jorge Wilstermann
-Blooming
+San José
 Oriente Petrolero
-Aurora
-Atlético Palmaflor
+Real Potosí
 Guabirá
+Blooming
+Jorge Wilstermann
+Atlético Palmaflor
+Always Ready
 Bolívar
-Nacional Potosí
 Royal Pari
-Patriotas Boyacá
+Santa Cruz
+Nacional Potosí
+Aurora
 Deportivo Cali
-Envigado
-Once Caldas
-Deportivo Pasto
-Atlético Bucaramanga
-Deportes Tolima
-Rionegro
-Independiente Santa Fe
-Junior
-Independiente Medellín
-América de Cali
-Boyacá Chicó
-Atlético Nacional
-Jaguares de Córdoba
 Millonarios
+Independiente Santa Fe
 La Equidad
+Deportivo Pasto
+Jaguares de Córdoba
+Cúcuta Deportivo
+Boyacá Chicó
+Alianza Petrolera
 Deportivo Pereira
+Independiente Medellín
+Atlético Nacional
+Once Caldas
+América de Cali
+Deportes Tolima
+Patriotas Boyacá
+Atlético Bucaramanga
+Junior
+Envigado
+Rionegro
+Kashima Antlers
+Sagan Tosu
+Tokyo
+Sanfrecce Hiroshima
+Kawasaki Frontale
+Cerezo Osaka
+Yokohama
+Nagoya Grampus
+Shonan Bellmare
+Consadole Sapporo
+Shimizu S-Pulse
+Yokohama F. Marinos
+Vissel Kobe
+Kashiwa Reysol
+Oita Trinita
+Gamba Osaka
+Urawa Reds
+Vegalta Sendai
+Montedio Yamagata
+Omiya Ardija
+Mito Hollyhock
+Ventforet Kofu
+ThespaKusatsu Gunma
+Ryūkyū
+JEF United
+Giravanz Kitakyushu
+Matsumoto Yamaga
+Tokushima Vortis
+Albirex Niigata
+Fagiano Okayama
+Zweigen Kanazawa
+Ehime
+Kyoto Sanga
+Tokyo Verdy
+Renofa Yamaguchi
+V-Varen Nagasaki
+Avispa Fukuoka
+Machida Zelvia
+Júbilo Iwata
+Tochigi
+Kédia
+Ksar
+Police
+Concorde
+Nouakchott King's
+Sahel
+Garde Nationale
+Tidjikja
+Tevragh-Zeïne
+Kaédi
+Trarza AC
+Nouadhibou
+JAHE
+SNIM
 Al Ahly
+ENPPI
+Ismaily
+El Gouna
+Al Mokawloon
+El Geish
+Al Ittihad
 Zamalek
 Haras El Hodood
 Al Masry
-Tanta
-El Geish
-Masr
-El Gouna
-Wadi Degla
 Pyramids
-Al Ittihad
-Aswan
-Ismaily
-Al Mokawloon
-ENPPI
-Misr Lel Makasa
-El Entag El Harby
 Smouha
-Melbourne City
-Melbourne Victory
-Perth Glory
-Wellington Phoenix
+Tanta
+Wadi Degla
 Sydney
-Western Sydney Wanderers
+Wellington Phoenix
 Brisbane Roar
+Western Sydney Wanderers
 Adelaide United
-Newcastle Jets
-Central Coast Mariners
 Western United
+Melbourne Victory
+Central Coast Mariners
+Perth Glory
+Melbourne City
+Newcastle Jets
+Chicago Fire
+Atlanta United
+Inter Miami
+LA Galaxy
+New England
+Real Salt Lake
+New York RB
+Toronto
+New York City
+Cincinnati
+Sporting KC
+Houston Dynamo
+Colorado Rapids
+Orlando City
+Vancouver Whitecaps
+Dallas
+D.C. United
+Philadelphia Union
+SJ Earthquakes
+Minnesota United
+Montreal Impact
+Seattle Sounders
+Columbus Crew
+Portland Timbers
+Nashville SC
+Los Angeles

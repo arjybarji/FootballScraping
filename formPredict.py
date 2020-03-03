@@ -22,9 +22,9 @@ def getArrays(homeTeam,awayTeam,date,league):
     cursor.execute("SELECT gameID FROM stats WHERE awayTeam = ?", (awayTeam,))
     last5AwayAway=cursor.fetchall()[-5:] 
     
-    if(e2or3Goals(last5HomeGames) == "Yes" and e2or3Goals(last5AwayGames) == "Yes") and (e2or3Goals(last5HomeHome) == "Yes" and e2or3Goals(last5AwayAway) == "Yes"):
-        print(homeTeam + " vs " + awayTeam + " 2 or 3 Match Goals")
-        formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "2 or 3 Match Goals" + "," + league + "\n")
+    if(GoalsStats(last5HomeGames) == "Over" and GoalsStats(last5AwayGames) == "Over") and (GoalsStats(last5HomeHome) == "Over" and GoalsStats(last5AwayAway) == "Over"):
+        print(homeTeam + " vs " + awayTeam + " Over 1.5 ")
+        formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 1.5 Goals" + "," + league + "\n")
     
     '''
     if(BTTSStats(last5HomeGames) == "Yes" and BTTSStats(last5AwayGames) == "Yes") and (BTTSStats(last5HomeHome) == "Yes" and BTTSStats(last5AwayAway) == "Yes"):
@@ -111,9 +111,9 @@ def GoalsStats(games):
         for id in games:
             cursor = conn.cursor()
             cursor.execute("SELECT matchGoals FROM stats WHERE gameID = ?", (str(id[0]),))
-            if cursor.fetchall()[0][0] >2.5:
+            if cursor.fetchall()[0][0] >1.5:
                 count+=1
-        if((count/len(games))>=0.8):
+        if((count/len(games))>=1):
             return "Over"
         if((count/len(games))<=0.2):
             return "Under"
@@ -240,7 +240,7 @@ leaguesT = [x.strip() for x in leaguesT]
 
 leaguesDict = dict()
 
-formBets = open("AllformBets.csv","w",encoding="utf8")
+formBets = open("15.csv","w",encoding="utf8")
 
 for l in leaguesT:
     leaguesDict.update({l.split(",")[0] : l.split(",")[1]})
@@ -263,6 +263,7 @@ for c in content:
     league = leaguesDict[split[4]]
     #if(todayD.lower() in date.lower() and todayM.lower() in date.lower() or todayYD.lower() in date.lower() and todayM.lower() in date.lower()):
     if(todayM.lower() in date.lower()):
+    #if("march" in date.lower()):
         getArrays(homeTeam,awayTeam,date,league)
 
 print("--- %s minutes ---" % ((time.time() - start_time)/60))

@@ -103,7 +103,11 @@ def parse(url):
                 for c in dts:
                     if(c.text.strip() == "Kick-off"):
                         kickOff = True
-                gameWeek = dds[2].text.strip()
+                try:
+                    gameWeek = int(dds[2].text.strip().replace(",",""))
+                except:
+                    gameWeek = 0
+                gameWeek = str(gameWeek)
                 
                 if ':' not in middle:
                     middle = middle.split(" - ")
@@ -193,8 +197,7 @@ def parse(url):
                 else:
                     dateDay = int(date.lower().split(" ")[0])
                     check = int(datetime.datetime.today().day)
-                    if(today in date.lower() and dateDay < (check+4)):
-                        1==1
+                    if(today in date.lower() and dateDay < (check+3)):
                         print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)                    
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + league + "," + gameID +  "£" + url)
         

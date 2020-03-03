@@ -117,10 +117,8 @@ Mainz 05
 Union Berlin
 RB Leipzig
 Stuttgart
-Hannover 96
 Hamburger SV
 Darmstadt 98
-Holstein Kiel
 Sandhausen
 Arminia Bielefeld
 St. Pauli
@@ -134,9 +132,7 @@ Osnabrück
 Heidenheim
 Wehen Wiesbaden
 Karlsruher SC
-Preußen Münster
 MSV Duisburg
-Hansa Rostock
 Viktoria Köln
 Waldhof Mannheim
 Uerdingen
@@ -162,28 +158,22 @@ Monaco
 Olympique Lyonnais
 Caen
 Le Mans
-Lens
 Valenciennes
 Auxerre
 Ajaccio
 Le Havre
 Châteauroux
 Lorient
-Paris FC
 Nancy
 Orléans
 Niort
 Gil Vicente
-Porto
 Sporting Braga
-Moreirense
 Marítimo
 Sporting CP
 Vitória Setúbal
 Tondela
-Santa Clara
 Famalicão
-Benfica
 Paços de Ferreira
 Boavista
 Desportivo Aves
@@ -211,7 +201,6 @@ PEC Zwolle
 Willem II
 Vitesse
 Ajax
-Emmen
 Groningen
 VVV
 RKC Waalwijk
@@ -222,18 +211,14 @@ Heerenveen
 ADO Den Haag
 Utrecht
 Feyenoord
-Sparta Rotterdam
 AZ
 Fortuna Sittard
-MVV
 De Graafschap
 Cambuur
-NEC
 Dordrecht
 PSV II
 Den Bosch
 Rapid Wien
-Salzburg
 Admira
 Wolfsberger AC
 Swarovski Tirol
@@ -243,7 +228,6 @@ Hartberg
 Sturm Graz
 St. Pölten
 LASK
-Rheindorf Altach
 Austria Klagenfurt
 Kapfenberger SV
 Grazer AK
@@ -253,11 +237,8 @@ Horn
 Lafnitz
 Wacker Innsbruck
 Dornbirn
-SønderjyskE
 Randers
-Midtjylland
 Esbjerg
-Brøndby
 Silkeborg
 OB
 Copenhagen
@@ -265,14 +246,11 @@ Horsens
 Nordsjælland
 Hobro
 AGF
-Lyngby
 AaB
 Genk
 Kortrijk
-Cercle Brugge
 Standard Liège
 Sint-Truiden
-Royal Excel Mouscron
 Waasland-Beveren
 Club Brugge
 Anderlecht
@@ -297,7 +275,7 @@ Jablonec
 Bohemians 1905
 České Budějovice
 Opava
-Gorica
+HNK Gorica
 Inter Zaprešić
 Hajduk Split
 Arka Gdynia
@@ -343,38 +321,27 @@ Lugano
 Sivasspor
 Beşiktaş
 Fenerbahçe
-Gaziantep FK
 Yeni Malatyaspor
-Istanbul Basaksehir
 Gençlerbirliği
 Rizespor
-Kasımpaşa
 Trabzonspor
-Kayserispor
 Alanyaspor
-Konyaspor
 Ankaragücü
 Denizlispor
 Galatasaray
-Göztepe
 Antalyaspor
 Altay
 Ümraniyespor
 Adana Demirspor
-Balıkesirspor
 Osmanlıspor
-Boluspor
-BB Erzurumspor
 İstanbulspor
 Eskişehirspor
-Keçiörengücü
 Akhisarspor
 Adanaspor
 Fatih Karagümrük
 Bursaspor
 Hatayspor
 Altınordu
-Giresunspor
 Menemenspor
 AEK Athens
 Xanthi
@@ -390,20 +357,6 @@ PAOK
 Panaitolikos
 Lamia
 Panathinaikos
-CFR Cluj
-Politehnica Iași
-Universitatea Craiova
-Academica Clinceni
-Viitorul
-Dinamo Bucureşti
-Gaz Metan Mediaş
-Chindia Târgovişte
-FCSB
-Hermannstadt
-Voluntari
-Sepsi
-Astra
-Botoşani
 Zemplín Michalovce
 Žilina
 Senica
@@ -412,23 +365,11 @@ Ružomberok
 Spartak Trnava
 Sereď
 DAC
-Javor Ivanjica
 Radnički Niš
 Voždovac
-Maccabi Netanya
-Maccabi Tel Aviv
-Bnei Yehuda
-Ironi Kiryat Shmona
-Hapoel Haifa
-Maccabi Haifa
-Hapoel Ra'anana
-Hapoel Be'er Sheva
-Hapoel Hadera
-Ashdod
 Racing Club
 Unión
 Colón
-Patronato
 San Lorenzo
 Godoy Cruz
 Lanús
@@ -437,11 +378,9 @@ Argentinos Juniors
 River Plate
 Estudiantes
 Newell's Old Boys
-Talleres de Córdoba
 Vélez Sarsfield
 Defensa y Justicia
 Boca Juniors
-Huracán
 Arsenal - Superliga - Argentina
 Banfield
 Atlético Tucumán
@@ -451,7 +390,6 @@ ENPPI
 El Entag El Harby
 Tanta
 Haras El Hodood
-Zamalek
 Al Ittihad
 Adelaide United
 Sydney
@@ -477,15 +415,11 @@ Pachuca
 Morelia
 Pumas UNAM
 Blooming
-Always Ready
 The Strongest
-Millonarios
 Patriotas Boyacá
 Cúcuta Deportivo
-Envigado
 Boyacá Chicó
 Deportivo Cali
-Deportes Tolima
 Santa Fe
 Independiente Santa Fe
 Mezőkövesd-Zsóry
@@ -500,3 +434,75 @@ Kisvárda
 Paksi SE
 Ferencvaros
 Debrecen
+Stade Lausanne-Ouchy
+Chiasso
+Lausanne Sport
+Bohemians
+Shamrock Rovers
+Dundalk
+Derry City
+St Patrick's Athletic
+Waterford
+Sligo Rovers
+Shonan Bellmare
+Urawa Reds
+Vegalta Sendai
+Nagoya Grampus
+Kashiwa Reysol
+Consadole Sapporo
+Kawasaki Frontale
+Sagan Tosu
+Cerezo Osaka
+Oita Trinita
+Vissel Kobe
+Yokohama
+Mito Hollyhock
+Omiya Ardija
+ThespaKusatsu Gunma
+Albirex Niigata
+JEF United
+Ryūkyū
+Machida Zelvia
+Ventforet Kofu
+Júbilo Iwata
+Montedio Yamagata
+Tokushima Vortis
+Tokyo Verdy
+V-Varen Nagasaki
+Tochigi
+Ehime
+Matsumoto Yamaga
+Yokohama F. Marinos
+Gamba Osaka
+Sanfrecce Hiroshima
+Kashima Antlers
+Fagiano Okayama
+Zweigen Kanazawa
+Renofa Yamaguchi
+Kyoto Sanga
+Shimizu S-Pulse
+Tokyo
+Nashville SC
+Atlanta United
+D.C. United
+Colorado Rapids
+Houston Dynamo
+LA Galaxy
+SJ Earthquakes
+Toronto
+Dallas
+Philadelphia Union
+Vancouver Whitecaps
+Sporting KC
+Columbus Crew
+New York City
+New York RB
+Cincinnati
+Seattle Sounders
+Chicago Fire
+Los Angeles
+Inter Miami
+Portland Timbers
+Minnesota United
+Montreal Impact
+New England

@@ -155,18 +155,6 @@ Stenhousemuir
 Albion Rovers
 Stirling Albion
 Queen's Park
-Aberystwyth Town
-Carmarthen Town
-Airbus UK
-Bala Town
-Newtown
-Cefn Druids
-Penybont
-Barry Town United
-The New Saints
-Caernarfon Town
-Connah's Quay
-Cardiff MU
 Cagliari
 Brescia
 Fiorentina
@@ -347,16 +335,8 @@ Niort
 Troyes
 Bourg-en-Bresse
 Quevilly-Rouen
-Pau
-Cholet
-Toulon
-Laval
-Le Puy Foot
-Concarneau
 Avranches
 Créteil
-Bastia-Borgo
-Lyon Duchère
 Villefranche
 Boulogne
 Gil Vicente
@@ -378,23 +358,13 @@ Belenenses
 Rio Ave
 Vitoria Guimaraes
 Feirense
-Vilafranquense
 Académica
 Leixões
-Sporting Covilhã
-Porto II
 Penafiel
 Academico Viseu
 Farense
-Casa Pia
 Nacional
-Chaves
 Benfica II
-Estoril
-Varzim
-UD Oliveirense
-Mafra
-Cova Piedade
 PEC Zwolle
 Willem II
 Vitesse
@@ -507,15 +477,9 @@ Jablonec
 Bohemians 1905
 České Budějovice
 Opava
-Gorica
 Inter Zaprešić
-Osijek
-Slaven Koprivnica
-Dinamo Zagreb
 Lokomotiva Zagreb
-Rijeka
 Varaždin
-Hajduk Split
 Istra 1961
 Arka Gdynia
 Jagiellonia Białystok
@@ -609,20 +573,6 @@ PAOK
 Panaitolikos
 Lamia
 Panathinaikos
-CFR Cluj
-Politehnica Iași
-Universitatea Craiova
-Academica Clinceni
-Viitorul
-Dinamo Bucureşti
-Gaz Metan Mediaş
-Chindia Târgovişte
-FCSB
-Hermannstadt
-Voluntari
-Sepsi
-Astra
-Botoşani
 Zemplín Michalovce
 Žilina
 Senica
@@ -635,24 +585,6 @@ Spartak Trnava
 Sereď
 Zlaté Moravce
 DAC
-Crvena Zvezda
-Javor Ivanjica
-Radnički Niš
-Proleter Novi Sad
-Voždovac
-Bačka Topola
-Mladost Lučani
-Radnik Surdulica
-Spartak Subotica
-Rad Beograd
-Čukarički
-Napredak
-Vojvodina
-Mačva Šabac
-Inđija
-Partizan
-Bnei Yehuda
-Hapoel Haifa
 Racing Club
 Unión
 Colón
@@ -690,8 +622,6 @@ Tanta
 Al Masry
 Haras El Hodood
 Smouha
-Al Ahly
-Zamalek
 Al Ittihad
 Adelaide United
 Sydney
@@ -770,3 +700,89 @@ Kisvárda
 Paksi SE
 Ferencvaros
 Debrecen
+Winterthur
+Aarau
+Grasshopper
+Stade Lausanne-Ouchy
+Chiasso
+Wil
+FC Schaffhausen
+Lausanne Sport
+Kriens
+Vaduz
+Bohemians
+Shamrock Rovers
+Cork City
+Shelbourne
+Dundalk
+Derry City
+St Patrick's Athletic
+Waterford
+Finn Harps
+Sligo Rovers
+Shonan Bellmare
+Urawa Reds
+Vegalta Sendai
+Nagoya Grampus
+Kashiwa Reysol
+Consadole Sapporo
+Kawasaki Frontale
+Sagan Tosu
+Cerezo Osaka
+Oita Trinita
+Vissel Kobe
+Yokohama
+Giravanz Kitakyushu
+Avispa Fukuoka
+Mito Hollyhock
+Omiya Ardija
+ThespaKusatsu Gunma
+Albirex Niigata
+JEF United
+Ryūkyū
+Machida Zelvia
+Ventforet Kofu
+Júbilo Iwata
+Montedio Yamagata
+Tokushima Vortis
+Tokyo Verdy
+V-Varen Nagasaki
+Tochigi
+Ehime
+Matsumoto Yamaga
+Yokohama F. Marinos
+Gamba Osaka
+Sanfrecce Hiroshima
+Kashima Antlers
+Fagiano Okayama
+Zweigen Kanazawa
+Renofa Yamaguchi
+Kyoto Sanga
+Shimizu S-Pulse
+Tokyo
+Nashville SC
+Atlanta United
+D.C. United
+Colorado Rapids
+Houston Dynamo
+LA Galaxy
+SJ Earthquakes
+Toronto
+Dallas
+Philadelphia Union
+Orlando City
+Real Salt Lake
+Vancouver Whitecaps
+Sporting KC
+Columbus Crew
+New York City
+New York RB
+Cincinnati
+Seattle Sounders
+Chicago Fire
+Los Angeles
+Inter Miami
+Portland Timbers
+Minnesota United
+Montreal Impact
+New England

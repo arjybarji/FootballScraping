@@ -39,7 +39,7 @@ getLinks(3038181,3038360)
 getLinks(3038739,3038918)
 
 #Ireland
-#getLinks(,)
+getLinks(3197111,3197290)
 
 #Wales
 getLinks(3042798,3042929)
@@ -122,6 +122,9 @@ getLinks(3027073,3027312)
 #Switzerland
 getLinks(3037815,3037994)
 
+#Swiss 2
+getLinks(3039666,3039845)
+
 #Turkey
 getLinks(3081777,3082082)
 
@@ -177,18 +180,19 @@ getLinks(3206261,3206460)
 #getLinks(,)
 
 #J1 League
-#getLinks(,)
-#getLinks(,)
-#getLinks(,)
+getLinks(3217522,3217827)
 
 #J2 League
-#getLinks(,)
+getLinks(3215368,3215899)
 
 #Egpyt
 getLinks(3172275,3172580)
 
 #A-League
 getLinks(3129271,3129413)
+
+#MLS
+getLinks(3195739,3196180)
 
 #getLinks(,)
 

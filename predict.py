@@ -370,6 +370,10 @@ def getArrays(homeTeam,awayTeam,date,league):
         print(homeTeam + " vs " + awayTeam + " Under 2.5")
         formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under 2.5 Goals" + "," + league + "\n")
 
+    if(OneFiveGoalsStats(last5HomeGames) == "Over" and OneFiveGoalsStats(last5AwayGames) == "Over") and (OneFiveGoalsStats(last5HomeHome) == "Over" and OneFiveGoalsStats(last5AwayAway) == "Over"):
+        print(homeTeam + " vs " + awayTeam + " Over 1.5")
+        oneFive.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 1.5 Goals" + "," + league + "\n")
+
     if(league != "National League CHANGE"):
         teams = homeTeam + "," + awayTeam
         if(FHGoalsStats(last5HomeGames,teams) == "Over" and FHGoalsStats(last5AwayGames,teams) == "Over") and (FHGoalsStats(last5HomeHome,teams) == "Over" and FHGoalsStats(last5AwayAway,teams) == "Over"):
@@ -401,9 +405,8 @@ def getArrays(homeTeam,awayTeam,date,league):
         cardBetsForm(homeTeam,awayTeam,3.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
         cardBetsForm(homeTeam,awayTeam,4.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
 
-    if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
-        cornerBetsForm(homeTeam,awayTeam,10.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
-        cornerBetsForm(homeTeam,awayTeam,9.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+    cornerBetsForm(homeTeam,awayTeam,10.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+    cornerBetsForm(homeTeam,awayTeam,9.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
 
 def cornerBetsForm(homeTeam,awayTeam,num,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway):
     if(CornerStats(last5HomeGames,num) == "Over" and CornerStats(last5AwayGames,num) == "Over") and (CornerStats(last5HomeHome,num) == "Over" and CornerStats(last5AwayAway,num) == "Over"):
@@ -420,7 +423,9 @@ def cardBetsForm(homeTeam,awayTeam,num,date,league,last5HomeGames,last5HomeHome,
     if(CardsStats(last5HomeGames,num) == "Under" and CardsStats(last5AwayGames,num) == "Under") and (CardsStats(last5HomeHome,num) == "Under" and CardsStats(last5AwayAway,num) == "Under"):
         print(homeTeam + " vs " + awayTeam + " Under " + str(num-0.5))
         formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under " + str(int(num+0.5)) + " Match Cards" + "," + league + "\n")        
-        
+    
+more = 0.8
+less = 0.2  
 def BTTSStats(games):
     if(len(games)==5):
         count = 0
@@ -429,9 +434,9 @@ def BTTSStats(games):
             cursor.execute("SELECT btts FROM stats WHERE gameID = ?", (str(id[0]),))
             if cursor.fetchall()[0][0] == "y":
                 count+=1
-        if((count/len(games))>=0.8):
+        if((count/len(games))>=more):
             return "Yes"
-        if((count/len(games))<=0.2):
+        if((count/len(games))<=less):
             return "No"
     else:
         return False
@@ -444,9 +449,9 @@ def GoalsStats(games):
             cursor.execute("SELECT matchGoals FROM stats WHERE gameID = ?", (str(id[0]),))
             if cursor.fetchall()[0][0] >2.5:
                 count+=1
-        if((count/len(games))>=0.8):
+        if((count/len(games))>=more):
             return "Over"
-        if((count/len(games))<=0.2):
+        if((count/len(games))<=less):
             return "Under"
     else:
         return False
@@ -461,8 +466,9 @@ def FHSHGoalStats(games):
             cursor2.execute("SELECT secondHalfTotalGoals FROM stats WHERE gameID = ?", (str(id[0]),))
             if cursor.fetchall()[0][0] >0.5 and cursor2.fetchall()[0][0] >0.5:
                 count+=1
-        if((count/len(games))>=0.8):
+        if((count/len(games))>=more):
             return "Over"
+        
         else:
             return False
     else:
@@ -482,13 +488,13 @@ def FHGoalsStats(games,teams):
                 countpoint5+=1
             if val >1.5:
                 countonepoint5+=1              
-        if((countpoint5/len(games))>=.8) and ((countonepoint5/len(games))<=0.4):
+        if((countpoint5/len(games))>=more) and ((countonepoint5/len(games))<=0.4):
             over05Teams.append(teams)
-        if((countpoint5/len(games))>=.8):
+        if((countpoint5/len(games))>=more):
             return "Over"
-        if((countonepoint5/len(games))>=.8):
+        if((countonepoint5/len(games))>=more):
             return "Over"
-        if((countonepoint5/len(games))<=0.2):
+        if((countonepoint5/len(games))<=less):
             return "Under"
     else:
         return False
@@ -519,9 +525,9 @@ def CornerStats(games,number):
                 return False
             if fetch > number:
                 count+=1
-        if((count/len(games))>=.8):
+        if((count/len(games))>=more):
             return "Over"
-        if((count/len(games))<=0.2):
+        if((count/len(games))<=less):
             return "Under"
     else:
         return False
@@ -537,17 +543,29 @@ def CardsStats(games,number):
                 return False
             if fetch > number:
                 count+=1
-        if((count/len(games))>=.8):
+        if((count/len(games))>=more):
             return "Over"
-        if((count/len(games))<=0.2):
+        if((count/len(games))<=less):
             return "Under"
     else:
         return False
 
+def OneFiveGoalsStats(games):
+    if(len(games)==5):
+        count = 0
+        for id in games:
+            cursor = conn.cursor()
+            cursor.execute("SELECT matchGoals FROM stats WHERE gameID = ?", (str(id[0]),))
+            if cursor.fetchall()[0][0] >1.5:
+                count+=1
+        if((count/len(games))>=1):
+            return "Over"
+    else:
+        return False
         
 def predict(homeTeam,awayTeam,gameweek,date,league):
 
-    print(homeTeam + "," + awayTeam + "," + date)
+    #print(homeTeam + "," + awayTeam + "," + date)
     checkAvgGoals(homeTeam,awayTeam,"matchGoals",1.8,3.2,"2.5",date,league)
     teamPercentStats(homeTeam,awayTeam,"matchGoals",0.25,0.75,"2.5",date,league)
 
@@ -572,15 +590,15 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
         #Over/Under 5.5 Cards Percent 80/20 H/A and Total
         teamPercentStats(homeTeam,awayTeam,"matchCards",0.2,0.8,"4.5",date,league)        
         #Over/Under 1.5 Team Cards H/A and Total
-        teamCards(homeTeam,awayTeam,date,league,"1.5")
+        #teamCards(homeTeam,awayTeam,date,league,"1.5")
         
         #Over/Under 4.5 Corners Percent 80/20 H/A and Total
-        teamCorners(homeTeam,awayTeam,date,league,"3.5")
+        #teamCorners(homeTeam,awayTeam,date,league,"3.5")
         
         #Corner Match Bet
             #If Team1 has 2 Less than Team2 Taken vs Conc H/A and Total
             #So City have 5.5 Avg Taken Home and 5.6 Taken Total where West Ham have 3.4 Taken Home and 3.5 Taken Total. City have Corner Match Bet
-        cornerMatchBet(homeTeam,awayTeam,date,league)
+        #cornerMatchBet(homeTeam,awayTeam,date,league)
     
     if((homeTeam in cornersTeams) and (awayTeam in cornersTeams)):    
         #Over/Under 10 Corners Percent 80/20 H/A and Total
@@ -622,6 +640,7 @@ if __name__ == '__main__':
 
     bets = open("bets.csv","w",encoding="utf8")
     formBets = open("formBets.csv","w",encoding="utf8")
+    oneFive = open("15.csv","w",encoding="utf8")
 
     today = datetime.date.today()
     tomorrow = datetime.date.today() + datetime.timedelta(days=30)
