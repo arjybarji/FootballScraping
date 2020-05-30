@@ -1,186 +1,19 @@
-Liverpool
-Norwich City
-AFC Bournemouth
-Sheffield United
-Burnley
-Southampton
-Crystal Palace
-Everton
-Leicester City
-Wolverhampton Wanderers
-Tottenham Hotspur
-Aston Villa
-Watford
-Brighton & Hove Albion
-West Ham United
-Manchester City
-Manchester United
-Chelsea
-Newcastle United
-Arsenal - Premier League - England
+Teams
 Halifax Town
 Torquay United
 Cagliari
-Brescia
-Fiorentina
 Napoli
-Hellas Verona
 Bologna
-Internazionale
 Lecce
-Parma
-Juventus
 Roma
-Genoa
-Sampdoria
 Lazio
-SPAL
 Atalanta
 Torino
-Sassuolo
-Udinese
-Milan
-Ascoli
-Trapani
-Cittadella
-Crotone
-Empoli
-Juve Stabia
-Perugia
-Chievo
-Pisa
-Benevento
-Pordenone
-Frosinone
-Venezia
-Cremonese
-Virtus Entella
-Livorno
-Deportivo Alavés
-Levante
-Athletic Club
-Barcelona
-Atletico Madrid
-Getafe
-Real Betis
-Real Valladolid
-Celta Vigo
-Real Madrid
-Espanyol
-Sevilla
-Leganes
-Osasuna
-Mallorca
-Eibar
-Valencia
-Real Sociedad
-Villarreal
-Granada
-Almería
-Albacete
-Cádiz
-Ponferradina
-Deportivo La Coruña
-Real Oviedo
-Elche
-Fuenlabrada
-Girona
-Sporting Gijón
-Las Palmas
-Huesca
-Lugo
-Extremadura UD
-Numancia
-Alcorcón
-Racing Santander
-Málaga
-Rayo Vallecano
-Mirandés
-Real Zaragoza
-Tenerife
-Bayern Munich
-Hertha BSC
-Borussia Dortmund
-Augsburg
-Bayer Leverkusen
-Paderborn
-Borussia M'gladbach
-Schalke 04
-Wolfsburg
-Köln
-Eintracht Frankfurt
-Hoffenheim
-Werder Bremen
-Fortuna Dusseldorf
-Freiburg
-Mainz 05
-Union Berlin
-RB Leipzig
-Stuttgart
-Hamburger SV
-Darmstadt 98
-Sandhausen
-Arminia Bielefeld
-St. Pauli
-Jahn Regensburg
-Bochum
-Dynamo Dresden
-Nürnberg
-Greuther Fürth
-Erzgebirge Aue
-Osnabrück
-Heidenheim
-Wehen Wiesbaden
-Karlsruher SC
-MSV Duisburg
 Viktoria Köln
 Waldhof Mannheim
 Uerdingen
-Dijon
-Saint-Etienne
-Olympique Marseille
-Reims
-Nice
-Amiens SC
 Strasbourg
-Metz
-Montpellier
-Rennes
-Angers SCO
-Bordeaux
-Lille
-Nantes
 PSG
-Nîmes
-Brest
-Toulouse
-Monaco
-Olympique Lyonnais
-Caen
-Le Mans
-Valenciennes
-Auxerre
-Ajaccio
-Le Havre
-Châteauroux
-Lorient
-Nancy
-Orléans
-Niort
-Gil Vicente
-Sporting Braga
-Marítimo
-Sporting CP
-Vitória Setúbal
-Tondela
-Famalicão
-Paços de Ferreira
-Boavista
-Desportivo Aves
-Portimonense
-Belenenses
-Rio Ave
-Vitoria Guimaraes
 Feirense
 Vilafranquense
 Académica
@@ -197,37 +30,6 @@ Varzim
 UD Oliveirense
 Mafra
 Cova Piedade
-PEC Zwolle
-Willem II
-Vitesse
-Ajax
-Groningen
-VVV
-RKC Waalwijk
-Twente
-PSV
-Heracles
-Heerenveen
-ADO Den Haag
-Utrecht
-Feyenoord
-AZ
-Fortuna Sittard
-De Graafschap
-Cambuur
-Dordrecht
-PSV II
-Den Bosch
-Rapid Wien
-Admira
-Wolfsberger AC
-Swarovski Tirol
-Austria Wien
-Mattersburg
-Hartberg
-Sturm Graz
-St. Pölten
-LASK
 Austria Klagenfurt
 Kapfenberger SV
 Grazer AK
@@ -237,16 +39,6 @@ Horn
 Lafnitz
 Wacker Innsbruck
 Dornbirn
-Randers
-Esbjerg
-Silkeborg
-OB
-Copenhagen
-Horsens
-Nordsjælland
-Hobro
-AGF
-AaB
 Genk
 Kortrijk
 Standard Liège
@@ -294,22 +86,6 @@ Wisła Płock
 Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
-Zenit
-Tambov
-Spartak Moscow
-Sochi
-Rostov
-Orenburg
-Lokomotiv Moscow
-Rubin Kazan
-Akhmat Grozny
-Krasnodar
-Arsenal Tula
-Dinamo Moscow
-Krylya Sovetov
-CSKA Moscow
-Ural
-Ufa
 Sion
 Basel
 Thun
@@ -318,31 +94,6 @@ Luzern
 Servette
 Zürich
 Lugano
-Sivasspor
-Beşiktaş
-Fenerbahçe
-Yeni Malatyaspor
-Gençlerbirliği
-Rizespor
-Trabzonspor
-Alanyaspor
-Ankaragücü
-Denizlispor
-Galatasaray
-Antalyaspor
-Altay
-Ümraniyespor
-Adana Demirspor
-Osmanlıspor
-İstanbulspor
-Eskişehirspor
-Akhisarspor
-Adanaspor
-Fatih Karagümrük
-Bursaspor
-Hatayspor
-Altınordu
-Menemenspor
 AEK Athens
 Xanthi
 Aris
@@ -367,73 +118,14 @@ Sereď
 DAC
 Radnički Niš
 Voždovac
-Racing Club
-Unión
-Colón
-San Lorenzo
-Godoy Cruz
-Lanús
-Gimnasia La Plata
-Argentinos Juniors
-River Plate
-Estudiantes
-Newell's Old Boys
-Vélez Sarsfield
-Defensa y Justicia
-Boca Juniors
-Arsenal - Superliga - Argentina
-Banfield
-Atlético Tucumán
 El Gouna
 Pyramids
 ENPPI
 El Entag El Harby
-Tanta
 Haras El Hodood
 Al Ittihad
-Adelaide United
-Sydney
-Western Sydney Wanderers
-Central Coast Mariners
-Melbourne Victory
-Melbourne City
-Wellington Phoenix
-Western United
-Perth Glory
-Brisbane Roar
-Newcastle Jets
-Puebla
-Atlas
-América
-Monterrey
-Santos Laguna
-León
-Cruz Azul
-Toluca
-Necaxa
-Pachuca
-Morelia
-Pumas UNAM
 Blooming
-The Strongest
-Patriotas Boyacá
-Cúcuta Deportivo
-Boyacá Chicó
-Deportivo Cali
 Santa Fe
-Independiente Santa Fe
-Mezőkövesd-Zsóry
-Zalaegerszegi TE
-Fehérvár
-Kaposvári Rákóczi
-Újpest
-Puskás
-Diósgyőr
-Honvéd
-Kisvárda
-Paksi SE
-Ferencvaros
-Debrecen
 Stade Lausanne-Ouchy
 Chiasso
 Lausanne Sport
@@ -482,27 +174,25 @@ Renofa Yamaguchi
 Kyoto Sanga
 Shimizu S-Pulse
 Tokyo
-Nashville SC
-Atlanta United
-D.C. United
-Colorado Rapids
-Houston Dynamo
-LA Galaxy
-SJ Earthquakes
-Toronto
-Dallas
-Philadelphia Union
-Vancouver Whitecaps
-Sporting KC
-Columbus Crew
-New York City
-New York RB
-Cincinnati
-Seattle Sounders
-Chicago Fire
-Los Angeles
-Inter Miami
-Portland Timbers
-Minnesota United
-Montreal Impact
-New England
+Zbrojovka Brno
+Ústí nad Labem
+Slavoj Vyšehrad
+Viktoria Žižkov
+Hvidovre
+Fredericia
+Dinamo Brest
+BATE
+Neman Grodno
+Torpedo BelAZ
+Slavia
+Gorodeya
+Shakhtyor
+Belshina
+Slutsk
+Ruh Brest
+Isloch
+Energetyk-BGU
+Vitebsk
+Dinamo Minsk
+Smolevichy-STI
+Minsk

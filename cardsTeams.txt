@@ -1,3 +1,4 @@
+Teams
 Liverpool
 Norwich City
 AFC Bournemouth
@@ -91,7 +92,6 @@ Scunthorpe United
 Swindon Town
 Aldershot Town
 Fylde
-Barnet
 Yeovil Town
 Chesterfield
 Dover Athletic
@@ -99,20 +99,13 @@ Chorley
 Bromley
 Dagenham & Redbridge
 Woking
-Eastleigh
-Notts County
-Ebbsfleet United
 Halifax Town
 Harrogate Town
 Solihull Moors
-Hartlepool United
 Sutton United
-Stockport County
 Maidenhead United
 Torquay United
 Boreham Wood
-Wrexham
-Barrow
 Aberdeen
 Hearts
 Celtic
@@ -333,12 +326,8 @@ Nancy
 Orléans
 Niort
 Troyes
-Bourg-en-Bresse
 Quevilly-Rouen
-Avranches
 Créteil
-Villefranche
-Boulogne
 Gil Vicente
 Porto
 Sporting Braga
@@ -357,7 +346,6 @@ Portimonense
 Belenenses
 Rio Ave
 Vitoria Guimaraes
-Feirense
 Académica
 Leixões
 Penafiel
@@ -479,8 +467,6 @@ Bohemians 1905
 Opava
 Inter Zaprešić
 Lokomotiva Zagreb
-Varaždin
-Istra 1961
 Arka Gdynia
 Jagiellonia Białystok
 Legia Warszawa
@@ -573,18 +559,10 @@ PAOK
 Panaitolikos
 Lamia
 Panathinaikos
-Zemplín Michalovce
 Žilina
-Senica
 Trenčín
-Pohronie
-Slovan Bratislava
-Ružomberok
-Nitra
-Spartak Trnava
 Sereď
 Zlaté Moravce
-DAC
 Racing Club
 Unión
 Colón
@@ -710,15 +688,9 @@ FC Schaffhausen
 Lausanne Sport
 Kriens
 Vaduz
-Bohemians
 Shamrock Rovers
-Cork City
-Shelbourne
-Dundalk
 Derry City
-St Patrick's Athletic
 Waterford
-Finn Harps
 Sligo Rovers
 Shonan Bellmare
 Urawa Reds
@@ -786,3 +758,69 @@ Portland Timbers
 Minnesota United
 Montreal Impact
 New England
+Jeonbuk Motors
+Suwon Bluewings
+Ulsan
+Sangju Sangmu
+Gwangju
+Seongnam
+Gangwon
+Seoul
+Busan IPark
+Jeju United
+Seoul E-Land
+Suwon
+Daejeon Hana Citizen
+Chungnam Asan
+Bucheon 1995
+Anyang
+Ansan Greeners
+Gyeongnam
+Jeonnam Dragons
+Daegu
+Pohang Steelers
+Incheon United
+Baník Sokolov
+Hradec Králové
+Dukla Praha
+Třinec
+Vlašim
+Zbrojovka Brno
+Ústí nad Labem
+Vysočina Jihlava
+Vítkovice
+Chrudim
+Prostějov
+Slavoj Vyšehrad
+Viktoria Žižkov
+Líšeň
+Pardubice
+Varnsdorf
+Hvidovre
+Viborg
+Vejle
+Nykøbing
+Fredericia
+Næstved
+Kolding IF
+Roskilde
+Vendsyssel
+HB Køge
+Skive
+Fremad Amager
+Dinamo Brest
+BATE
+Neman Grodno
+Torpedo BelAZ
+Slavia
+Gorodeya
+Shakhtyor
+Belshina
+Slutsk
+Ruh Brest
+Isloch
+Energetyk-BGU
+Vitebsk
+Dinamo Minsk
+Smolevichy-STI
+Minsk

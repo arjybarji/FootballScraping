@@ -488,13 +488,12 @@ def FHGoalsStats(games,teams):
                 countpoint5+=1
             if val >1.5:
                 countonepoint5+=1              
-        if((countpoint5/len(games))>=more) and ((countonepoint5/len(games))<=0.4):
+        if((countpoint5/len(games))>=1) and ((countonepoint5/len(games))<=0.4):
             over05Teams.append(teams)
-        if((countpoint5/len(games))>=more):
             return "Over"
-        if((countonepoint5/len(games))>=more):
+        if((countpoint5/len(games))>=1):
             return "Over"
-        if((countonepoint5/len(games))<=less):
+        if((countonepoint5/len(games))<=0):
             return "Under"
     else:
         return False
@@ -576,8 +575,8 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
     if(league != "National League CHANGE"):
         checkAvgGoals(homeTeam,awayTeam,"firstHalfTotalGoals",0.65,1.35,"1.0",date,league)
         checkAvgGoals(homeTeam,awayTeam,"secondHalfTotalGoals",0.8,2.2,"1.5",date,league)
-        teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.2,0.8,"0.5",date,league)
-        teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.2,0.8,"1.5",date,league)
+        teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.15,0.85,"0.5",date,league)
+        teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.15,0.85,"1.5",date,league)
         teamPercentStats(homeTeam,awayTeam,"secondHalfTotalGoals",0.2,0.8,"1.5",date,league)
     
     if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
@@ -683,11 +682,14 @@ if __name__ == '__main__':
     bets2 = [x.strip() for x in bets2]
     formBets.close()
     bets3.close()
-
-    formBetsPD = pd.read_csv('formBets.csv',header = None)
-    betsPD = pd.read_csv('bets.csv',header = None,usecols=[0,1,2,3])
-    merged = pd.merge(betsPD, formBetsPD, how='inner')
-    merged.to_csv('combinedBets.csv',index=False,header=False)
+    oneFive.close()
+    try:
+        formBetsPD = pd.read_csv('formBets.csv',header = None)
+        betsPD = pd.read_csv('bets.csv',header = None,usecols=[0,1,2,3])
+        merged = pd.merge(betsPD, formBetsPD, how='inner')
+        merged.to_csv('combinedBets.csv',index=False,header=False)
+    except:
+        pass
     
     duration = 1000  # milliseconds
     freq = 440  # Hz

@@ -82,6 +82,7 @@ def parse(url):
             isHome = True if len(soup.findAll('ul', attrs = {'id':'block_home_matches_28_subnav'})) > 0 else False
             if(isHome == False):
                 teams = soup.findAll('h3', attrs = {'class' : 'thick'})
+                #teams = soup.findAll('a', attrs = {'class' : 'team-title'})
                 homeTeam = teams[0].text.strip()
                 awayTeam = teams[2].text.strip()
                 if(len(teams)!=3):
@@ -89,7 +90,7 @@ def parse(url):
                 middle = teams[1].text.strip()
                 if(middle.lower() == "postponed"):
                     return None
-                dds = soup.findAll('dd')
+                dds = soup.findAll('dd')                    
                 dts = soup.findAll('dt')
                 date = dds[1].text.strip()
                 dateT = str(datetime.datetime.strptime(date, '%d %B %Y').date())
@@ -187,24 +188,24 @@ def parse(url):
                             homeCornersConc = awayCorners
                             matchCorners = int(homeCorners) + int(awayCorners)
 
-                            print("Got Score . " + homeTeam + " vs " + awayTeam+" . " + dateT )
+                            print("GOT SCORE . " + homeTeam + " vs " + awayTeam+" . " + dateT )
                             return("S$" + homeTeam + "," + awayTeam  + "," + dateT + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + homeCorners + "," + awayCorners + "," + homeCornersConc + "," + awayCornersConc + "," + str(matchCorners)+","+league + "," + gameID)
                         except Exception as e:
                             exc_type, exc_obj, exc_tb = sys.exc_info()
                             fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
-                            print("Got Score no corners. " + homeTeam + " vs " + awayTeam+" . " + dateT + " NO FRAME")
+                            print("GOT SCORE no corners. " + homeTeam + " vs " + awayTeam+" . " + dateT + " NO FRAME")
                             return("S$" + homeTeam + "," + awayTeam  + "," + dateT + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1"+","+league+ "," + gameID)
                 else:
                     dateDay = int(date.lower().split(" ")[0])
                     check = int(datetime.datetime.today().day)
-                    if(today in date.lower() and dateDay < (check+3)):
+                    if(today in date.lower() and dateDay < (check+1)):
                         print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)                    
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + league + "," + gameID +  "£" + url)
         
         except Exception as e:
             exc_type, exc_obj, exc_tb = sys.exc_info()
             fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
-            #print(exc_type, fname, exc_tb.tb_lineno)
+            print(exc_type, fname, exc_tb.tb_lineno)
             #print(teams)
             print(url)
             print(e)

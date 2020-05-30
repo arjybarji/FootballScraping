@@ -13,7 +13,7 @@ def cornersCardsTeamsx():
     teams.write("Teams" + "\n")
 
     cornerTeams = open("cornersTeams.txt","w",encoding="utf8")
-
+    cornerTeams.write("Teams"+"\n")
     cornerTeamsDict = dict()
     cornerTeamsList = []
 
@@ -41,7 +41,7 @@ def cornersCardsTeamsx():
     cornerTeamsList = []
 
     cardTeams = open("cardsTeams.txt","w",encoding="utf8")
-
+    cardTeams.write("Teams"+"\n")
     cardTeamsDict = dict()
     cardTeamsList = []
 
