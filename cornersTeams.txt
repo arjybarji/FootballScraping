@@ -1,58 +1,11 @@
 Teams
-Halifax Town
-Torquay United
-Cagliari
-Napoli
-Bologna
-Lecce
-Roma
-Lazio
-Atalanta
-Torino
 Viktoria Köln
 Waldhof Mannheim
 Uerdingen
-Strasbourg
-PSG
-Feirense
-Vilafranquense
-Académica
-Leixões
-Porto II
-Penafiel
-Academico Viseu
-Farense
-Casa Pia
-Chaves
-Benfica II
-Estoril
-Varzim
-UD Oliveirense
-Mafra
-Cova Piedade
+Ried
 Austria Klagenfurt
 Kapfenberger SV
-Grazer AK
-Liefering
-Amstetten
-Horn
 Lafnitz
-Wacker Innsbruck
-Dornbirn
-Genk
-Kortrijk
-Standard Liège
-Sint-Truiden
-Waasland-Beveren
-Club Brugge
-Anderlecht
-KV Oostende
-Zulte-Waregem
-Mechelen
-Sporting Charleroi
-Gent
-AS Eupen
-Antwerp
 Sparta Praha
 Slovácko
 Zlín
@@ -86,94 +39,8 @@ Wisła Płock
 Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
-Sion
-Basel
-Thun
-Neuchâtel Xamax
-Luzern
-Servette
-Zürich
-Lugano
-AEK Athens
-Xanthi
-Aris
-OFI
-Atromitos
-Larissa
-Olympiakos Piraeus
-Asteras Tripolis
-Panionios
-Volos NFC
-PAOK
-Panaitolikos
-Lamia
-Panathinaikos
-Zemplín Michalovce
-Žilina
-Senica
-Trenčín
-Ružomberok
-Spartak Trnava
-Sereď
-DAC
 Radnički Niš
 Voždovac
-El Gouna
-Pyramids
-ENPPI
-El Entag El Harby
-Haras El Hodood
-Al Ittihad
-Blooming
-Santa Fe
-Stade Lausanne-Ouchy
-Chiasso
-Lausanne Sport
-Bohemians
-Shamrock Rovers
-Dundalk
-Derry City
-St Patrick's Athletic
-Waterford
-Sligo Rovers
-Shonan Bellmare
-Urawa Reds
-Vegalta Sendai
-Nagoya Grampus
-Kashiwa Reysol
-Consadole Sapporo
-Kawasaki Frontale
-Sagan Tosu
-Cerezo Osaka
-Oita Trinita
-Vissel Kobe
-Yokohama
-Mito Hollyhock
-Omiya Ardija
-ThespaKusatsu Gunma
-Albirex Niigata
-JEF United
-Ryūkyū
-Machida Zelvia
-Ventforet Kofu
-Júbilo Iwata
-Montedio Yamagata
-Tokushima Vortis
-Tokyo Verdy
-V-Varen Nagasaki
-Tochigi
-Ehime
-Matsumoto Yamaga
-Yokohama F. Marinos
-Gamba Osaka
-Sanfrecce Hiroshima
-Kashima Antlers
-Fagiano Okayama
-Zweigen Kanazawa
-Renofa Yamaguchi
-Kyoto Sanga
-Shimizu S-Pulse
-Tokyo
 Zbrojovka Brno
 Ústí nad Labem
 Slavoj Vyšehrad
