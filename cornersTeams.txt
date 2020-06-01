@@ -1,11 +1,15 @@
-Teams
-Viktoria Köln
+Corner Teams
 Waldhof Mannheim
 Uerdingen
-Ried
 Austria Klagenfurt
 Kapfenberger SV
+Grazer AK
+Liefering
+Amstetten
+Horn
 Lafnitz
+Wacker Innsbruck
+Dornbirn
 Sparta Praha
 Slovácko
 Zlín
@@ -39,8 +43,8 @@ Wisła Płock
 Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
-Radnički Niš
 Voždovac
+Mačva Šabac
 Zbrojovka Brno
 Ústí nad Labem
 Slavoj Vyšehrad
@@ -63,3 +67,9 @@ Vitebsk
 Dinamo Minsk
 Smolevichy-STI
 Minsk
+Aluminij
+Domžale
+Maribor
+Olimpija
+Bravo
+Mura

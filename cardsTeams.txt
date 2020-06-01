@@ -1,4 +1,4 @@
-Teams
+Card Teams
 Bayern Munich
 Hertha BSC
 Borussia Dortmund
@@ -75,8 +75,20 @@ Rio Ave
 Vitoria Guimaraes
 Ried
 Austria Klagenfurt
+Blau-Weiß Linz
 Kapfenberger SV
+Floridsdorfer AC
+Grazer AK
+Liefering
+Amstetten
+Austria Wien II
+Horn
 Lafnitz
+Juniors OÖ
+Vorwärts Steyr
+Wacker Innsbruck
+Dornbirn
+Austria Lustenau
 SønderjyskE
 Randers
 Midtjylland
@@ -125,6 +137,8 @@ Wisła Płock
 Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
+Voždovac
+Mačva Šabac
 Mezőkövesd-Zsóry
 Zalaegerszegi TE
 Fehérvár
@@ -175,18 +189,8 @@ Viktoria Žižkov
 Líšeň
 Pardubice
 Varnsdorf
-Hvidovre
-Viborg
-Vejle
-Nykøbing
 Fredericia
-Næstved
-Kolding IF
-Roskilde
 Vendsyssel
-HB Køge
-Skive
-Fremad Amager
 Dinamo Brest
 BATE
 Neman Grodno
@@ -203,3 +207,13 @@ Vitebsk
 Dinamo Minsk
 Smolevichy-STI
 Minsk
+Tabor Sežana
+Aluminij
+Domžale
+Rudar
+Maribor
+Triglav
+Olimpija
+Celje
+Bravo
+Mura

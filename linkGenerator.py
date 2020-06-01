@@ -148,6 +148,9 @@ getLinks(3027073,3027312)
 #Slovakia
 #getLinks(3032576,3032707)
 
+#Slovenia
+getLinks(3039484,3039663)
+
 #Serbia
 getLinks(3030015,3030254)
 

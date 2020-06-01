@@ -11,6 +11,8 @@ def insertIntoDatabase():
     with open('Statsv2.csv',encoding="utf8") as f:
         content = f.readlines()
     content = [x.strip() for x in content]
+   
+    count = len(content)
     cursor = conn.cursor()
     cursor.execute("DELETE FROM stats", ())
     for c in content:
@@ -18,7 +20,10 @@ def insertIntoDatabase():
         cursor.execute("SELECT * FROM stats WHERE gameID = ?", (statsSplit[-1],))
         data=cursor.fetchall()
         if(len(data)==0):
-            print("Inserting " + statsSplit[0] + " vs " + statsSplit[1])
+            #print("Inserting " + statsSplit[0] + " vs " + statsSplit[1])
+            if(count%500==0):
+                print(count)
+            count = count-1
             cursor.execute("INSERT INTO stats(homeTeam,awayTeam,gameWeek,homeGoals,awayGoals,matchGoals,BTTS,firstHalfHomeGoals,firstHalfHomeConc,firstHalfAwayGoals,firstHalfAwayConc,firstHalfTotalGoals,secondHalfHomeGoals,secondHalfHomeConc,secondHalfAwayGoals,secondHalfAwayConc,secondHalfTotalGoals,homeTeamCards,awayTeamCards,matchCards,homeCorners,awayCorners,homeCornersConc,awayCornersConc,matchCorners,league,gameID) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",(statsSplit[0],statsSplit[1],statsSplit[2],int(statsSplit[3]),int(statsSplit[4]),int(statsSplit[5]),statsSplit[6],int(statsSplit[7]),int(statsSplit[8]),int(statsSplit[9]),int(statsSplit[10]),int(statsSplit[11]),int(statsSplit[12]),int(statsSplit[13]),int(statsSplit[14]),int(statsSplit[15]),int(statsSplit[16]),int(statsSplit[17]),int(statsSplit[18]),int(statsSplit[19]),int(statsSplit[20]),int(statsSplit[21]),int(statsSplit[22]),int(statsSplit[23]),int(statsSplit[24]),statsSplit[25],int(statsSplit[26]),))
     conn.commit()
     cursor.close()
@@ -370,10 +375,6 @@ def getArrays(homeTeam,awayTeam,date,league):
         print(homeTeam + " vs " + awayTeam + " Under 2.5")
         formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Under 2.5 Goals" + "," + league + "\n")
 
-    if(OneFiveGoalsStats(last5HomeGames) == "Over" and OneFiveGoalsStats(last5AwayGames) == "Over") and (OneFiveGoalsStats(last5HomeHome) == "Over" and OneFiveGoalsStats(last5AwayAway) == "Over"):
-        print(homeTeam + " vs " + awayTeam + " Over 1.5")
-        oneFive.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Over 1.5 Goals" + "," + league + "\n")
-
     if(league != "National League CHANGE"):
         teams = homeTeam + "," + awayTeam
         if(FHGoalsStats(last5HomeGames,teams) == "Over" and FHGoalsStats(last5AwayGames,teams) == "Over") and (FHGoalsStats(last5HomeHome,teams) == "Over" and FHGoalsStats(last5AwayAway,teams) == "Over"):
@@ -401,12 +402,13 @@ def getArrays(homeTeam,awayTeam,date,league):
             print(homeTeam + " vs " + awayTeam + " Goal Each Half")
             formBets.write(date + ","+ homeTeam + " vs " + awayTeam + "," + "Goal In Each Half" + "," + league + "\n")
         
-    if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
+    if(homeTeam in cardsTeams and awayTeam in cardsTeams):
         cardBetsForm(homeTeam,awayTeam,3.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
         cardBetsForm(homeTeam,awayTeam,4.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
 
-    cornerBetsForm(homeTeam,awayTeam,10.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
-    cornerBetsForm(homeTeam,awayTeam,9.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+    if(homeTeam in cornersTeams and awayTeam in cornersTeams):
+        cornerBetsForm(homeTeam,awayTeam,10.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+        cornerBetsForm(homeTeam,awayTeam,9.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
 
 def cornerBetsForm(homeTeam,awayTeam,num,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway):
     if(CornerStats(last5HomeGames,num) == "Over" and CornerStats(last5AwayGames,num) == "Over") and (CornerStats(last5HomeHome,num) == "Over" and CornerStats(last5AwayAway,num) == "Over"):
@@ -579,7 +581,7 @@ def predict(homeTeam,awayTeam,gameweek,date,league):
         teamPercentStats(homeTeam,awayTeam,"firstHalfTotalGoals",0.15,0.85,"1.5",date,league)
         teamPercentStats(homeTeam,awayTeam,"secondHalfTotalGoals",0.2,0.8,"1.5",date,league)
     
-    if((homeTeam in top5Teams) and (awayTeam in top5Teams)):
+    if((homeTeam in cardsTeams) and (awayTeam in cardsTeams)):
         #Asian Card Handicap Averages
             #If team1 has 1 cards less than 2 avg H/A and Total
         asianCardHandicap(homeTeam,awayTeam,date,league)
@@ -648,11 +650,15 @@ if __name__ == '__main__':
     database = 'allStats.db'
     conn = sqlite3.connect(database)
     cursor = conn.cursor()
+    fixtureLeagues = []
     for c in content:
         split = c.split(",")
         homeTeam = split[0]
         awayTeam = split[1]
         gameweek = split[2]
+        leagueFixtures = split[4]
+        if(leagueFixtures not in fixtureLeagues):
+            fixtureLeagues.append(leagueFixtures)
         cursor.execute("SELECT COUNT(gameID) FROM stats WHERE homeTeam = ? OR awayTeam = ?", (homeTeam,homeTeam,))
         dataH=cursor.fetchall()[0][0]
         cursor.execute("SELECT COUNT(gameID) FROM stats WHERE homeTeam = ? OR awayTeam = ?", (awayTeam,awayTeam,))
@@ -660,8 +666,8 @@ if __name__ == '__main__':
         use = dataH>7 and dataA>7
         date = split[3]
         league = leaguesDict[split[4]]
-        #if(today.lower() in date.lower() and use) or (tomorrow.lower() in date.lower() and use):
-        if(today.lower() in date.lower() and use):
+        if(today.lower() in date.lower() and use) or (tomorrow.lower() in date.lower() and use):
+        #if(today.lower() in date.lower() and use):
         #if(use):
             predict(homeTeam,awayTeam,gameweek,date,league)
             getArrays(homeTeam,awayTeam,date,league)
@@ -690,6 +696,14 @@ if __name__ == '__main__':
         merged.to_csv('combinedBets.csv',index=False,header=False)
     except:
         pass
+    
+    with open('Statsv2.csv',encoding="utf8") as f:
+        statsFile = f.readlines()
+    statsFile = [x.strip() for x in content]
+    newStats = open("StatsForCompare.csv","w",encoding="utf8")
+    for c in statsFile:
+        if(c.split(",")[-2] in fixtureLeagues):
+            newStats.write(c+"\n")
     
     duration = 1000  # milliseconds
     freq = 440  # Hz

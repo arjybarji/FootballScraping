@@ -1,59 +1,59 @@
 Teams
 Werder Bremen
 Eintracht Frankfurt
-Bayern Munich
-Fortuna Dusseldorf
-Borussia M'gladbach
-Union Berlin
-Wolfsburg
 Hertha BSC
 Augsburg
-Mainz 05
-Hoffenheim
-Freiburg
-Bayer Leverkusen
-Schalke 04
 Köln
 RB Leipzig
-Paderborn
 Borussia Dortmund
+Paderborn
+Bayer Leverkusen
+Bayern Munich
+Mainz 05
+Wolfsburg
+Fortuna Dusseldorf
+Hoffenheim
+Freiburg
+Borussia M'gladbach
+Union Berlin
+Schalke 04
 Hannover 96
 Dynamo Dresden
 Greuther Fürth
 Arminia Bielefeld
 Nürnberg
 Bochum
-Hamburger SV
-Wehen Wiesbaden
-Heidenheim
-Erzgebirge Aue
-Holstein Kiel
-Darmstadt 98
 Stuttgart
-Sandhausen
 Osnabrück
+Heidenheim
+Hamburger SV
+Holstein Kiel
 Jahn Regensburg
-Karlsruher SC
+Darmstadt 98
 St. Pauli
+Sandhausen
+Erzgebirge Aue
+Karlsruher SC
+Wehen Wiesbaden
 Carl Zeiss Jena
 Chemnitzer FC
 Waldhof Mannheim
 Uerdingen
-Meppen
-Würzburger Kickers
-Magdeburg
-Kaiserslautern
-1860 München
-MSV Duisburg
-Sonnenhof Großaspach
-Unterhaching
-Ingolstadt
-Bayern München II
-Preußen Münster
-Hallescher FC
-Eintracht Braunschweig
 Viktoria Köln
 Zwickau
+Hallescher FC
+Eintracht Braunschweig
+Bayern München II
+Preußen Münster
+Unterhaching
+Ingolstadt
+Sonnenhof Großaspach
+MSV Duisburg
+Kaiserslautern
+1860 München
+Würzburger Kickers
+Magdeburg
+Meppen
 Hansa Rostock
 Portimonense
 Gil Vicente
@@ -75,8 +75,20 @@ Desportivo Aves
 Tondela
 Ried
 Lafnitz
+Juniors OÖ
+Wacker Innsbruck
 Austria Klagenfurt
 Kapfenberger SV
+Floridsdorfer AC
+Vorwärts Steyr
+Austria Wien II
+Blau-Weiß Linz
+Horn
+Liefering
+Dornbirn
+Amstetten
+Grazer AK
+Austria Lustenau
 Midtjylland
 Horsens
 Brøndby
@@ -85,56 +97,56 @@ Randers
 Hobro
 AGF
 OB
-Esbjerg
-AaB
 Lyngby
 Copenhagen
 Silkeborg
+AaB
+Esbjerg
 Nordsjælland
+Vendsyssel
+Fredericia
+Vejle
+Hvidovre
+Nykøbing
+Roskilde
 Fremad Amager
 Kolding IF
 Viborg
-Skive
-Vendsyssel
-Fredericia
-HB Køge
-Hvidovre
-Vejle
 Næstved
-Nykøbing
-Roskilde
+HB Køge
+Skive
 Karviná
 Sparta Praha
 Slovan Liberec
 Slovácko
 Teplice
 Opava
-Zlín
-Baník Ostrava
-Viktoria Plzen
-Mladá Boleslav
+Bohemians 1905
+České Budějovice
+Jablonec
 Sigma Olomouc
 Příbram
 Slavia Praha
-Jablonec
-Bohemians 1905
-České Budějovice
-Viktoria Žižkov
-Chrudim
-Prostějov
-Vítkovice
+Mladá Boleslav
+Zlín
+Baník Ostrava
+Viktoria Plzen
 Hradec Králové
 Třinec
-Pardubice
-Ústí nad Labem
-Vlašim
-Baník Sokolov
 Slavoj Vyšehrad
 Líšeň
 Vysočina Jihlava
 Varnsdorf
 Zbrojovka Brno
 Dukla Praha
+Ústí nad Labem
+Vlašim
+Viktoria Žižkov
+Vítkovice
+Baník Sokolov
+Pardubice
+Chrudim
+Prostějov
 Hajduk Split
 Inter Zaprešić
 Istra 1961
@@ -145,50 +157,46 @@ Lokomotiva Zagreb
 Osijek
 Slaven Koprivnica
 HNK Gorica
-Cracovia Kraków
-Jagiellonia Białystok
-Lech Poznań
-Legia Warszawa
-Lechia Gdańsk
-Arka Gdynia
-ŁKS Łódź
-Górnik Zabrze
 Piast Gliwice
 Wisła Kraków
-Pogoń Szczecin
-Zagłębie Lubin
-Śląsk Wrocław
-Raków Częstochowa
 Wisła Płock
 Korona Kielce
-Bačka Topola
-Javor Ivanjica
-Radnik Surdulica
-Proleter Novi Sad
-Rad Beograd
-Crvena Zvezda
-Napredak
-Radnički Niš
+Arka Gdynia
+Śląsk Wrocław
+Górnik Zabrze
+Lechia Gdańsk
+Jagiellonia Białystok
+Pogoń Szczecin
+Cracovia Kraków
+Raków Częstochowa
+ŁKS Łódź
+Legia Warszawa
+Zagłębie Lubin
+Lech Poznań
+Aluminij
+Mura
+Tabor Sežana
+Olimpija
+Celje
+Rudar
+Bravo
+Triglav
+Domžale
+Maribor
 Mačva Šabac
 Voždovac
-Partizan
-Mladost Lučani
-Inđija
-Spartak Subotica
-Vojvodina
-Čukarički
 Újpest
 Kaposvári Rákóczi
-Honvéd
-Debrecen
-Kisvárda
-Paksi SE
-Fehérvár
+Ferencvaros
 Diósgyőr
 Mezőkövesd-Zsóry
-Puskás
-Ferencvaros
+Paksi SE
+Fehérvár
+Kisvárda
+Honvéd
 Zalaegerszegi TE
+Puskás
+Debrecen
 Minsk
 Isloch
 Gorodeya
@@ -207,23 +215,23 @@ BATE
 Shakhtyor
 Gangwon
 Jeonbuk Motors
-Gwangju
+Incheon United
+Seoul
+Pohang Steelers
 Ulsan
 Busan IPark
-Suwon Bluewings
-Seoul
-Seongnam
-Incheon United
-Pohang Steelers
 Sangju Sangmu
+Suwon Bluewings
+Gwangju
+Seongnam
 Daegu
 Jeonnam Dragons
 Anyang
-Gyeongnam
-Daejeon Hana Citizen
-Ansan Greeners
 Jeju United
-Chungnam Asan
-Seoul E-Land
 Suwon
+Seoul E-Land
+Daejeon Hana Citizen
 Bucheon 1995
+Chungnam Asan
+Gyeongnam
+Ansan Greeners
