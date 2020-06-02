@@ -124,6 +124,9 @@ getLinks(3029812,3029991)
 #Poland
 getLinks(3025700,3025939)
 
+#Poland2
+getLinksFromFile("Poland 2 1920")
+
 #Russia
 getLinks(3027073,3027312)       
 
@@ -161,7 +164,7 @@ getLinks(3030015,3030254)
 getLinks(3050532,3050729)
 
 #Belarus
-getLinksFromFile("Belarus 2020")
+getLinksFromFile("Belarus 20")
 
 #Brasil Serie A
 #getLinks(,)

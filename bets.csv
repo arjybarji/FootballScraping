@@ -4,8 +4,6 @@
 6 June 2020,Bayer Leverkusen vs Bayern Munich,Over 0.5/1.0 FH Goal Line,Bundesliga,Averages
 6 June 2020,Eintracht Frankfurt vs Mainz 05,Over 2.5 Goals,Bundesliga,Averages
 7 June 2020,Augsburg vs Köln,Over 2.5 Goals,Bundesliga,Averages
-13 June 2020,Hertha BSC vs Eintracht Frankfurt,Over 2.5 Goals,Bundesliga,Averages
-13 June 2020,Hertha BSC vs Eintracht Frankfurt,Over 2.5 Goals,Bundesliga,Percent
 13 June 2020,Paderborn vs Werder Bremen,Over 0.5/1.0 FH Goal Line,Bundesliga,Averages
 17 June 2020,Borussia Dortmund vs Mainz 05,Over 2.5 Goals,Bundesliga,Averages
 17 June 2020,Borussia Dortmund vs Mainz 05,Over 0.5/1.0 FH Goal Line,Bundesliga,Averages
@@ -18,24 +16,17 @@
 13 June 2020,Jahn Regensburg,0.0 Asian Card Handicap,2. Bundesliga,N/A
 28 June 2020,Sandhausen,0.0 Asian Card Handicap,2. Bundesliga,N/A
 3 June 2020,Bayern München II vs Preußen Münster,Over 2.5 Goals,3. Liga,Averages
-3 June 2020,MSV Duisburg vs Carl Zeiss Jena,Over 2.5 Goals,3. Liga,Averages
 3 June 2020,Carl Zeiss Jena,0.0 Asian Card Handicap,3. Liga,N/A
-6 June 2020,MSV Duisburg vs Chemnitzer FC,Over 2.5 Goals,3. Liga,Averages
 6 June 2020,MSV Duisburg vs Chemnitzer FC,Over 0.5/1.0 FH Goal Line,3. Liga,Averages
 6 June 2020,Chemnitzer FC,0.0 Asian Card Handicap,3. Liga,N/A
 6 June 2020,Eintracht Braunschweig vs Bayern München II,Over 0.5/1.0 FH Goal Line,3. Liga,Averages
 9 June 2020,Bayern München II vs Zwickau,Over 0.5/1.0 FH Goal Line,3. Liga,Averages
-10 June 2020,Würzburger Kickers vs Carl Zeiss Jena,Over 2.5 Goals,3. Liga,Averages
 13 June 2020,MSV Duisburg vs Würzburger Kickers,Over 2.5 Goals,3. Liga,Averages
 13 June 2020,MSV Duisburg vs Würzburger Kickers,Over 0.5/1.0 FH Goal Line,3. Liga,Averages
 17 June 2020,Uerdingen,0.0 Asian Card Handicap,3. Liga,N/A
 17 June 2020,Bayern München II vs Meppen,Over 0.5/1.0 FH Goal Line,3. Liga,Averages
-19 June 2020,Würzburger Kickers vs Chemnitzer FC,Over 2.5 Goals,3. Liga,Averages
 19 June 2020,Würzburger Kickers vs Chemnitzer FC,Over 0.5/1.0 FH Goal Line,3. Liga,Averages
 7 June 2020,Paços de Ferreira,0.0 Asian Card Handicap,Primeira Liga,N/A
-4 July 2020,Boavista,0.0 Asian Card Handicap,Primeira Liga,N/A
-10 July 2020,Paços de Ferreira vs Sporting Braga,Over 3 Match Cards,Primeira Liga,N/A
-15 July 2020,Moreirense vs Paços de Ferreira,Over 3 Match Cards,Primeira Liga,N/A
 7 June 2020,Austria Klagenfurt vs Kapfenberger SV,Over 2.5 Goals,Austria 2,Averages
 5 June 2020,Austria Wien II vs Blau-Weiß Linz,Over 2.5 Goals,Austria 2,Averages
 5 June 2020,Horn vs Liefering,Over 2.5 Goals,Austria 2,Averages
@@ -48,15 +39,17 @@
 24 June 2020,Amstetten vs Kapfenberger SV,Over 2.5 Goals,Austria 2,Averages
 26 June 2020,Austria Lustenau vs Horn,Over 2.5 Goals,Austria 2,Averages
 26 June 2020,Austria Lustenau vs Horn,Over 0.5/1.0 FH Goal Line,Austria 2,Averages
+27 June 2020,Juniors OÖ vs Amstetten,Over 2.5 Goals,Austria 2,Averages
+27 June 2020,Liefering vs Kapfenberger SV,Over 2.5 Goals,Austria 2,Averages
 5 June 2020,Fredericia vs Vejle,Over 0.5/1.0 FH Goal Line,Denmark 2,Averages
 9 June 2020,Nykøbing vs Kolding IF,Over 0.5/1.0 FH Goal Line,Denmark 2,Averages
 13 June 2020,Kolding IF vs Vejle,Over 0.5/1.0 FH Goal Line,Denmark 2,Averages
 3 June 2020,Slovácko vs Karviná,Over 3 Match Cards,Czech Liga,N/A
 2 June 2020,Slovan Liberec,0.0 Asian Card Handicap,Czech Liga,N/A
 6 June 2020,Slovan Liberec vs Mladá Boleslav,Over 0.5/1.0 FH Goal Line,Czech Liga,Averages
+10 June 2020,Karviná,0.0 Asian Card Handicap,Czech Liga,N/A
 14 June 2020,Slovácko vs Sparta Praha,Over 3 Match Cards,Czech Liga,N/A
 3 June 2020,Baník Sokolov,0.0 Asian Card Handicap,Czech 2,N/A
-4 June 2020,Dukla Praha vs Slavoj Vyšehrad,Over 0.5/1.0 FH Goal Line,Czech 2,Averages
 2 June 2020,Prostějov,0.0 Asian Card Handicap,Czech 2,N/A
 7 June 2020,Pardubice vs Vítkovice,Over 0.5/1.0 FH Goal Line,Czech 2,Averages
 9 June 2020,Baník Sokolov,0.0 Asian Card Handicap,Czech 2,N/A
@@ -64,11 +57,13 @@
 13 June 2020,Pardubice vs Varnsdorf,Over 0.5/1.0 FH Goal Line,Czech 2,Averages
 17 June 2020,Líšeň vs Pardubice,Over 0.5/1.0 FH Goal Line,Czech 2,Averages
 17 June 2020,Prostějov,0.0 Asian Card Handicap,Czech 2,N/A
-22 June 2020,Hradec Králové,0.0 Asian Card Handicap,Czech 2,N/A
-4 July 2020,Inter Zaprešić,0.0 Asian Card Handicap,Croatia Premier,N/A
-11 July 2020,Inter Zaprešić vs Rijeka,Over 0.5/1.0 FH Goal Line,Croatia Premier,Averages
+20 June 2020,Líšeň,0.0 Asian Card Handicap,Czech 2,N/A
 5 June 2020,Korona Kielce,0.0 Asian Card Handicap,Ekstraklasa,N/A
 14 June 2020,Lechia Gdańsk,0.0 Asian Card Handicap,Ekstraklasa,N/A
+7 June 2020,Tychy 71 vs Chojniczanka Chojnice,Over 2.5 Goals,Poland 2,Averages
+7 June 2020,Tychy 71 vs Chojniczanka Chojnice,Over 0.5/1.0 FH Goal Line,Poland 2,Percent
+7 June 2020,Sandecja Nowy Sącz vs Radomiak Radom,Over 0.5/1.0 FH Goal Line,Poland 2,Averages
+20 June 2020,Radomiak Radom vs Chojniczanka Chojnice,Over 3 Match Cards,Poland 2,N/A
 5 June 2020,Celje vs Rudar,Over 0.5/1.0 FH Goal Line,Slovenia,Averages
 12 June 2020,Triglav vs Domžale,Over 2.5 Goals,Slovenia,Averages
 12 June 2020,Triglav vs Domžale,Over 0.5/1.0 FH Goal Line,Slovenia,Averages
@@ -92,12 +87,9 @@
 19 June 2020,Slutsk vs Neman Grodno,Over 3 Match Cards,Belarus,N/A
 21 June 2020,Shakhtyor vs Ruh Brest,Over 3 Match Cards,Belarus,N/A
 26 June 2020,Smolevichy-STI vs Slutsk,Over 3 Match Cards,Belarus,N/A
-26 June 2020,Smolevichy-STI vs Slutsk,Over 4 Match Cards,Belarus,N/A
 27 June 2020,Dinamo Minsk,0.0 Asian Card Handicap,Belarus,N/A
 28 June 2020,Vitebsk,0.0 Asian Card Handicap,Belarus,N/A
 28 June 2020,Gorodeya vs Isloch,Over 3 Match Cards,Belarus,N/A
-1 June 2020,Minsk vs Slutsk,Over 0.5/1.0 FH Goal Line,Belarus,Averages
-1 June 2020,Minsk vs Slutsk,Over 0.5/1.0 FH Goal Line,Belarus,Percent
 5 June 2020,Smolevichy-STI,0.0 Asian Card Handicap,Belarus,N/A
 7 June 2020,Vitebsk vs BATE,Over 3 Match Cards,Belarus,N/A
 7 June 2020,Shakhtyor vs Energetyk-BGU,Over 3 Match Cards,Belarus,N/A

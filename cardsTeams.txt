@@ -137,8 +137,6 @@ Wisła Płock
 Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
-Voždovac
-Mačva Šabac
 Mezőkövesd-Zsóry
 Zalaegerszegi TE
 Fehérvár
@@ -189,8 +187,6 @@ Viktoria Žižkov
 Líšeň
 Pardubice
 Varnsdorf
-Fredericia
-Vendsyssel
 Dinamo Brest
 BATE
 Neman Grodno
@@ -217,3 +213,21 @@ Olimpija
 Celje
 Bravo
 Mura
+Olimpia Grudziądz
+Chrobry Głogów
+Radomiak Radom
+Tychy 71
+Miedź Legnica
+Odra Opole
+Zagłębie Sosnowiec
+Podbeskidzie
+Bełchatów
+Stomil Olsztyn
+Puszcza Niepołomice
+Jastrzębie
+Nieciecza
+Sandecja Nowy Sącz
+Stal Mielec
+Wigry Suwałki
+Chojniczanka Chojnice
+Warta Poznań

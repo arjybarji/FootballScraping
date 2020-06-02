@@ -1,5 +1,4 @@
 Werder Bremen,Eintracht Frankfurt,24,3 June 2020,Bundesliga - Germany,3047229
-Hertha BSC,Augsburg,29,30 May 2020,Bundesliga - Germany,3047275
 Köln,RB Leipzig,29,1 June 2020,Bundesliga - Germany,3047279
 Borussia Dortmund,Hertha BSC,30,6 June 2020,Bundesliga - Germany,3047281
 RB Leipzig,Paderborn,30,6 June 2020,Bundesliga - Germany,3047282
@@ -49,7 +48,6 @@ Union Berlin,Fortuna Dusseldorf,34,27 June 2020,Bundesliga - Germany,3047325
 Hannover 96,Dynamo Dresden,26,3 June 2020,2. Bundesliga - Germany,3047552
 Dynamo Dresden,Greuther Fürth,27,9 June 2020,2. Bundesliga - Germany,3047566
 Arminia Bielefeld,Dynamo Dresden,28,15 June 2020,2. Bundesliga - Germany,3047572
-Nürnberg,Bochum,29,30 May 2020,2. Bundesliga - Germany,3047579
 Stuttgart,Osnabrück,30,7 June 2020,2. Bundesliga - Germany,3047588
 Hannover 96,Heidenheim,30,7 June 2020,2. Bundesliga - Germany,3047589
 Hamburger SV,Holstein Kiel,30,8 June 2020,2. Bundesliga - Germany,3047590
@@ -95,8 +93,6 @@ Jahn Regensburg,Erzgebirge Aue,34,28 June 2020,2. Bundesliga - Germany,3047629
 Dynamo Dresden,Osnabrück,34,28 June 2020,2. Bundesliga - Germany,3047630
 Greuther Fürth,Karlsruher SC,34,28 June 2020,2. Bundesliga - Germany,3047631
 Wehen Wiesbaden,St. Pauli,34,28 June 2020,2. Bundesliga - Germany,3047632
-Carl Zeiss Jena,Chemnitzer FC,28,31 May 2020,3. Liga - Germany,3053408
-Waldhof Mannheim,Uerdingen,28,30 May 2020,3. Liga - Germany,3053409
 Viktoria Köln,Zwickau,29,2 June 2020,3. Liga - Germany,3053418
 Hallescher FC,Eintracht Braunschweig,29,3 June 2020,3. Liga - Germany,3053419
 Bayern München II,Preußen Münster,29,3 June 2020,3. Liga - Germany,3053420
@@ -128,6 +124,7 @@ Hansa Rostock,Magdeburg,31,9 June 2020,3. Liga - Germany,3053445
 Viktoria Köln,Meppen,31,9 June 2020,3. Liga - Germany,3053446
 Hallescher FC,Waldhof Mannheim,31,9 June 2020,3. Liga - Germany,3053447
 Kaiserslautern,Chemnitzer FC,32,13 June 2020,3. Liga - Germany,3053448
+Carl Zeiss Jena,Uerdingen,32,14 June 2020,3. Liga - Germany,3053449
 MSV Duisburg,Würzburger Kickers,32,13 June 2020,3. Liga - Germany,3053450
 Preußen Münster,Ingolstadt,32,13 June 2020,3. Liga - Germany,3053451
 Eintracht Braunschweig,Sonnenhof Großaspach,32,13 June 2020,3. Liga - Germany,3053452
@@ -137,6 +134,7 @@ Meppen,Hallescher FC,32,12 June 2020,3. Liga - Germany,3053455
 Magdeburg,Viktoria Köln,32,13 June 2020,3. Liga - Germany,3053456
 1860 München,Hansa Rostock,32,13 June 2020,3. Liga - Germany,3053457
 Sonnenhof Großaspach,Zwickau,33,17 June 2020,3. Liga - Germany,3053458
+Ingolstadt,Eintracht Braunschweig,33,16 June 2020,3. Liga - Germany,3053459
 Chemnitzer FC,Preußen Münster,33,16 June 2020,3. Liga - Germany,3053460
 Würzburger Kickers,Kaiserslautern,33,16 June 2020,3. Liga - Germany,3053461
 Uerdingen,MSV Duisburg,33,17 June 2020,3. Liga - Germany,3053462
@@ -150,6 +148,7 @@ Kaiserslautern,Uerdingen,34,20 June 2020,3. Liga - Germany,3053469
 Eintracht Braunschweig,Preußen Münster,34,20 June 2020,3. Liga - Germany,3053470
 Zwickau,Ingolstadt,34,21 June 2020,3. Liga - Germany,3053471
 Waldhof Mannheim,Sonnenhof Großaspach,34,20 June 2020,3. Liga - Germany,3053472
+Meppen,Unterhaching,34,21 June 2020,3. Liga - Germany,3053473
 Magdeburg,Bayern München II,34,20 June 2020,3. Liga - Germany,3053474
 1860 München,Hallescher FC,34,21 June 2020,3. Liga - Germany,3053475
 Carl Zeiss Jena,Viktoria Köln,34,20 June 2020,3. Liga - Germany,3053476
@@ -228,21 +227,25 @@ Kapfenberger SV,Horn,23,19 June 2020,2. Liga - Austria,3040550
 Blau-Weiß Linz,Juniors OÖ,23,20 June 2020,2. Liga - Austria,3040551
 Liefering,Dornbirn,23,19 June 2020,2. Liga - Austria,3040552
 Lafnitz,Floridsdorfer AC,23,19 June 2020,2. Liga - Austria,3040553
+Vorwärts Steyr,Amstetten,23,21 June 2020,2. Liga - Austria,3040554
 Grazer AK,Wacker Innsbruck,23,19 June 2020,2. Liga - Austria,3040555
 Wacker Innsbruck,Liefering,24,24 June 2020,2. Liga - Austria,3040556
 Blau-Weiß Linz,Austria Lustenau,24,23 June 2020,2. Liga - Austria,3040557
 Juniors OÖ,Ried,24,23 June 2020,2. Liga - Austria,3040558
 Austria Klagenfurt,Grazer AK,24,23 June 2020,2. Liga - Austria,3040559
 Amstetten,Kapfenberger SV,24,24 June 2020,2. Liga - Austria,3040560
+Austria Wien II,Vorwärts Steyr,24,24 June 2020,2. Liga - Austria,3040561
 Horn,Lafnitz,24,23 June 2020,2. Liga - Austria,3040562
 Dornbirn,Floridsdorfer AC,24,23 June 2020,2. Liga - Austria,3040563
 Ried,Blau-Weiß Linz,25,26 June 2020,2. Liga - Austria,3040564
 Austria Lustenau,Horn,25,26 June 2020,2. Liga - Austria,3040565
+Juniors OÖ,Amstetten,25,27 June 2020,2. Liga - Austria,3040566
+Floridsdorfer AC,Austria Wien II,25,27 June 2020,2. Liga - Austria,3040567
+Liefering,Kapfenberger SV,25,27 June 2020,2. Liga - Austria,3040568
+Lafnitz,Wacker Innsbruck,25,27 June 2020,2. Liga - Austria,3040569
+Vorwärts Steyr,Austria Klagenfurt,25,28 June 2020,2. Liga - Austria,3040570
 Midtjylland,Horsens,25,1 June 2020,Superliga - Denmark,3027048
 Brøndby,SønderjyskE,25,2 June 2020,Superliga - Denmark,3027049
-Randers,Hobro,25,1 June 2020,Superliga - Denmark,3027050
-AGF,OB,25,1 June 2020,Superliga - Denmark,3027051
-Lyngby,Copenhagen,25,1 June 2020,Superliga - Denmark,3027053
 Copenhagen,Randers,26,7 June 2020,Superliga - Denmark,3027055
 SønderjyskE,Silkeborg,26,7 June 2020,Superliga - Denmark,3027056
 AaB,AGF,26,7 June 2020,Superliga - Denmark,3027057
@@ -250,7 +253,6 @@ OB,Esbjerg,26,7 June 2020,Superliga - Denmark,3027058
 Horsens,Brøndby,26,7 June 2020,Superliga - Denmark,3027059
 Nordsjælland,Midtjylland,26,7 June 2020,Superliga - Denmark,3027060
 Hobro,Lyngby,26,7 June 2020,Superliga - Denmark,3027061
-Vendsyssel,Fredericia,21,31 May 2020,1st Division - Denmark,3034254
 Fredericia,Vejle,22,5 June 2020,1st Division - Denmark,3034258
 Hvidovre,Nykøbing,22,6 June 2020,1st Division - Denmark,3034259
 Roskilde,Fremad Amager,22,6 June 2020,1st Division - Denmark,3034260
@@ -269,10 +271,6 @@ Kolding IF,Vejle,24,13 June 2020,1st Division - Denmark,3034272
 Fredericia,Fremad Amager,24,13 June 2020,1st Division - Denmark,3034273
 Roskilde,HB Køge,24,14 June 2020,1st Division - Denmark,3034274
 Skive,Nykøbing,24,12 June 2020,1st Division - Denmark,3034275
-Karviná,Sparta Praha,26,31 May 2020,Czech Liga - Czech-republic,3036986
-Slovan Liberec,Slovácko,26,30 May 2020,Czech Liga - Czech-republic,3036987
-Teplice,Opava,26,31 May 2020,Czech Liga - Czech-republic,3036988
-Bohemians 1905,České Budějovice,26,31 May 2020,Czech Liga - Czech-republic,3036993
 Opava,Bohemians 1905,27,3 June 2020,Czech Liga - Czech-republic,3036994
 Sparta Praha,Teplice,27,3 June 2020,Czech Liga - Czech-republic,3036995
 Slovácko,Karviná,27,3 June 2020,Czech Liga - Czech-republic,3036996
@@ -305,10 +303,6 @@ Karviná,Mladá Boleslav,30,14 June 2020,Czech Liga - Czech-republic,3037022
 Teplice,Příbram,30,14 June 2020,Czech Liga - Czech-republic,3037023
 Bohemians 1905,Jablonec,30,14 June 2020,Czech Liga - Czech-republic,3037024
 Opava,České Budějovice,30,14 June 2020,Czech Liga - Czech-republic,3037025
-Hradec Králové,Třinec,19,30 May 2020,FNL - Czech-republic,3039390
-Slavoj Vyšehrad,Líšeň,19,30 May 2020,FNL - Czech-republic,3039393
-Vysočina Jihlava,Varnsdorf,19,29 May 2020,FNL - Czech-republic,3039394
-Zbrojovka Brno,Dukla Praha,19,1 June 2020,FNL - Czech-republic,3039395
 Líšeň,Vysočina Jihlava,20,2 June 2020,FNL - Czech-republic,3039396
 Ústí nad Labem,Vlašim,20,3 June 2020,FNL - Czech-republic,3039397
 Varnsdorf,Viktoria Žižkov,20,2 June 2020,FNL - Czech-republic,3039398
@@ -331,8 +325,10 @@ Varnsdorf,Prostějov,22,9 June 2020,FNL - Czech-republic,3039414
 Baník Sokolov,Ústí nad Labem,22,9 June 2020,FNL - Czech-republic,3039415
 Dukla Praha,Pardubice,22,10 June 2020,FNL - Czech-republic,3039416
 Chrudim,Vysočina Jihlava,22,11 June 2020,FNL - Czech-republic,3039417
+Hradec Králové,Viktoria Žižkov,22,11 June 2020,FNL - Czech-republic,3039418
 Třinec,Slavoj Vyšehrad,22,10 June 2020,FNL - Czech-republic,3039419
 Viktoria Žižkov,Třinec,23,15 June 2020,FNL - Czech-republic,3039420
+Prostějov,Líšeň,23,14 June 2020,FNL - Czech-republic,3039421
 Pardubice,Varnsdorf,23,13 June 2020,FNL - Czech-republic,3039422
 Vlašim,Chrudim,23,14 June 2020,FNL - Czech-republic,3039423
 Baník Sokolov,Vítkovice,23,14 June 2020,FNL - Czech-republic,3039424
@@ -340,16 +336,20 @@ Slavoj Vyšehrad,Hradec Králové,23,15 June 2020,FNL - Czech-republic,3039425
 Ústí nad Labem,Dukla Praha,23,13 June 2020,FNL - Czech-republic,3039427
 Vysočina Jihlava,Viktoria Žižkov,24,18 June 2020,FNL - Czech-republic,3039428
 Líšeň,Pardubice,24,17 June 2020,FNL - Czech-republic,3039429
+Varnsdorf,Slavoj Vyšehrad,24,18 June 2020,FNL - Czech-republic,3039430
 Vítkovice,Ústí nad Labem,24,17 June 2020,FNL - Czech-republic,3039431
 Dukla Praha,Baník Sokolov,24,18 June 2020,FNL - Czech-republic,3039432
 Chrudim,Prostějov,24,17 June 2020,FNL - Czech-republic,3039433
 Hradec Králové,Zbrojovka Brno,24,18 June 2020,FNL - Czech-republic,3039434
+Třinec,Vlašim,24,18 June 2020,FNL - Czech-republic,3039435
 Prostějov,Dukla Praha,25,21 June 2020,FNL - Czech-republic,3039436
 Pardubice,Hradec Králové,25,22 June 2020,FNL - Czech-republic,3039437
 Vlašim,Varnsdorf,25,21 June 2020,FNL - Czech-republic,3039438
+Zbrojovka Brno,Chrudim,25,21 June 2020,FNL - Czech-republic,3039439
 Slavoj Vyšehrad,Viktoria Žižkov,25,21 June 2020,FNL - Czech-republic,3039440
 Baník Sokolov,Vysočina Jihlava,25,21 June 2020,FNL - Czech-republic,3039441
 Vítkovice,Třinec,25,21 June 2020,FNL - Czech-republic,3039442
+Ústí nad Labem,Líšeň,25,20 June 2020,FNL - Czech-republic,3039443
 Hajduk Split,Inter Zaprešić,27,5 June 2020,1. HNL - Croatia,3029942
 Istra 1961,Rijeka,27,7 June 2020,1. HNL - Croatia,3029943
 Varaždin,Dinamo Zagreb,27,6 June 2020,1. HNL - Croatia,3029944
@@ -400,8 +400,6 @@ Rijeka,Istra 1961,36,25 July 2020,1. HNL - Croatia,3029988
 Dinamo Zagreb,Varaždin,36,25 July 2020,1. HNL - Croatia,3029989
 Osijek,Lokomotiva Zagreb,36,25 July 2020,1. HNL - Croatia,3029990
 HNK Gorica,Slaven Koprivnica,36,25 July 2020,1. HNL - Croatia,3029991
-Piast Gliwice,Wisła Kraków,27,30 May 2020,Ekstraklasa - Poland,3025912
-Wisła Płock,Korona Kielce,27,31 May 2020,Ekstraklasa - Poland,3025915
 Arka Gdynia,Śląsk Wrocław,28,7 June 2020,Ekstraklasa - Poland,3025916
 Górnik Zabrze,Lechia Gdańsk,28,5 June 2020,Ekstraklasa - Poland,3025917
 Jagiellonia Białystok,Wisła Płock,28,6 June 2020,Ekstraklasa - Poland,3025918
@@ -426,6 +424,51 @@ Korona Kielce,Lech Poznań,30,14 June 2020,Ekstraklasa - Poland,3025936
 Pogoń Szczecin,Lechia Gdańsk,30,14 June 2020,Ekstraklasa - Poland,3025937
 Raków Częstochowa,Zagłębie Lubin,30,14 June 2020,Ekstraklasa - Poland,3025938
 Śląsk Wrocław,ŁKS Łódź,30,14 June 2020,Ekstraklasa - Poland,3025939
+Puszcza Niepołomice,Chojniczanka Chojnice,23,2 June 2020,I Liga - Poland,3034580
+Stomil Olsztyn,Chrobry Głogów,23,2 June 2020,I Liga - Poland,3034578
+Bełchatów,Sandecja Nowy Sącz,23,2 June 2020,I Liga - Poland,3034577
+Nieciecza,Wigry Suwałki,23,2 June 2020,I Liga - Poland,3034582
+Miedź Legnica,Stal Mielec,23,2 June 2020,I Liga - Poland,3034581
+Jastrzębie,Warta Poznań,23,3 June 2020,I Liga - Poland,3034575
+Olimpia Grudziądz,Podbeskidzie,23,3 June 2020,I Liga - Poland,3034583
+Radomiak Radom,Odra Opole,23,4 June 2020,I Liga - Poland,3034576
+Tychy 71,Zagłębie Sosnowiec,23,4 June 2020,I Liga - Poland,3034579
+Wigry Suwałki,Miedź Legnica,24,5 June 2020,I Liga - Poland,3034586
+Stal Mielec,Puszcza Niepołomice,24,5 June 2020,I Liga - Poland,3034587
+Chrobry Głogów,Bełchatów,24,5 June 2020,I Liga - Poland,3034590
+Podbeskidzie,Nieciecza,24,6 June 2020,I Liga - Poland,3034585
+Warta Poznań,Olimpia Grudziądz,24,6 June 2020,I Liga - Poland,3034584
+Zagłębie Sosnowiec,Stomil Olsztyn,24,7 June 2020,I Liga - Poland,3034589
+Tychy 71,Chojniczanka Chojnice,24,7 June 2020,I Liga - Poland,3034435
+Sandecja Nowy Sącz,Radomiak Radom,24,7 June 2020,I Liga - Poland,3034591
+Odra Opole,Jastrzębie,24,7 June 2020,I Liga - Poland,3034592
+Puszcza Niepołomice,Wigry Suwałki,25,12 June 2020,I Liga - Poland,3034599
+Jastrzębie,Sandecja Nowy Sącz,25,12 June 2020,I Liga - Poland,3034594
+Miedź Legnica,Podbeskidzie,25,12 June 2020,I Liga - Poland,3034600
+Radomiak Radom,Chrobry Głogów,25,13 June 2020,I Liga - Poland,3034595
+Odra Opole,Warta Poznań,25,13 June 2020,I Liga - Poland,3034593
+Stomil Olsztyn,Chojniczanka Chojnice,25,13 June 2020,I Liga - Poland,3034597
+Bełchatów,Zagłębie Sosnowiec,25,13 June 2020,I Liga - Poland,3034596
+Tychy 71,Stal Mielec,25,14 June 2020,I Liga - Poland,3034598
+Nieciecza,Olimpia Grudziądz,25,14 June 2020,I Liga - Poland,3034601
+Chrobry Głogów,Jastrzębie,26,16 June 2020,I Liga - Poland,3034609
+Podbeskidzie,Puszcza Niepołomice,26,16 June 2020,I Liga - Poland,3034604
+Sandecja Nowy Sącz,Odra Opole,26,16 June 2020,I Liga - Poland,3034610
+Zagłębie Sosnowiec,Radomiak Radom,26,17 June 2020,I Liga - Poland,3034608
+Bełchatów,Chojniczanka Chojnice,26,17 June 2020,I Liga - Poland,3034454
+Warta Poznań,Nieciecza,26,17 June 2020,I Liga - Poland,3034602
+Olimpia Grudziądz,Miedź Legnica,26,17 June 2020,I Liga - Poland,3034603
+Stal Mielec,Stomil Olsztyn,26,18 June 2020,I Liga - Poland,3034606
+Wigry Suwałki,Tychy 71,26,18 June 2020,I Liga - Poland,3034605
+Odra Opole,Chrobry Głogów,27,19 June 2020,I Liga - Poland,3034612
+Miedź Legnica,Nieciecza,27,20 June 2020,I Liga - Poland,3034619
+Radomiak Radom,Chojniczanka Chojnice,27,20 June 2020,I Liga - Poland,3034614
+Puszcza Niepołomice,Olimpia Grudziądz,27,20 June 2020,I Liga - Poland,3034618
+Jastrzębie,Zagłębie Sosnowiec,27,20 June 2020,I Liga - Poland,3034613
+Tychy 71,Podbeskidzie,27,21 June 2020,I Liga - Poland,3034617
+Warta Poznań,Sandecja Nowy Sącz,27,21 June 2020,I Liga - Poland,3034611
+Bełchatów,Stal Mielec,27,21 June 2020,I Liga - Poland,3034615
+Stomil Olsztyn,Wigry Suwałki,27,21 June 2020,I Liga - Poland,3034616
 Aluminij,Mura,26,5 June 2020,1. SNL - Slovenia,3039609
 Tabor Sežana,Olimpija,26,6 June 2020,1. SNL - Slovenia,3039610
 Celje,Rudar,26,5 June 2020,1. SNL - Slovenia,3039611
@@ -436,7 +479,6 @@ Triglav,Domžale,27,12 June 2020,1. SNL - Slovenia,3039615
 Rudar,Bravo,27,12 June 2020,1. SNL - Slovenia,3039616
 Olimpija,Celje,27,13 June 2020,1. SNL - Slovenia,3039617
 Mura,Tabor Sežana,27,13 June 2020,1. SNL - Slovenia,3039618
-Mačva Šabac,Voždovac,27,31 May 2020,Super Liga - Serbia,3030227
 Újpest,Kaposvári Rákóczi,33,27 June 2020,NB I - Hungary,3050661
 Ferencvaros,Diósgyőr,27,7 June 2020,NB I - Hungary,3050688
 Mezőkövesd-Zsóry,Paksi SE,27,6 June 2020,NB I - Hungary,3050689
@@ -503,7 +545,6 @@ BATE,Dinamo Minsk,15,27 June 2020,Premier League - Belarus,3269919
 Torpedo BelAZ,Vitebsk,15,28 June 2020,Premier League - Belarus,3269920
 Ruh Brest,Belshina,15,28 June 2020,Premier League - Belarus,3269921
 Gorodeya,Isloch,15,28 June 2020,Premier League - Belarus,3269922
-Minsk,Slutsk,11,1 June 2020,Premier League - Belarus,3269583
 Smolevichy-STI,Gorodeya,12,5 June 2020,Premier League - Belarus,3269891
 Slutsk,Torpedo BelAZ,12,6 June 2020,Premier League - Belarus,3269892
 Isloch,Ruh Brest,12,6 June 2020,Premier League - Belarus,3269893
@@ -512,7 +553,6 @@ Dinamo Brest,Minsk,12,6 June 2020,Premier League - Belarus,3269895
 Vitebsk,BATE,12,7 June 2020,Premier League - Belarus,3269896
 Belshina,Dinamo Minsk,12,7 June 2020,Premier League - Belarus,3269897
 Shakhtyor,Energetyk-BGU,12,7 June 2020,Premier League - Belarus,3269898
-Gangwon,Jeonbuk Motors,4,30 May 2020,K League 1 - Korea-republic,3269437
 Incheon United,Gangwon,5,5 June 2020,K League 1 - Korea-republic,3269442
 Seoul,Jeonbuk Motors,5,6 June 2020,K League 1 - Korea-republic,3269443
 Pohang Steelers,Ulsan,5,6 June 2020,K League 1 - Korea-republic,3269444
@@ -621,7 +661,6 @@ Pohang Steelers,Daegu,22,4 October 2020,K League 1 - Korea-republic,3269546
 Gangwon,Incheon United,22,4 October 2020,K League 1 - Korea-republic,3269547
 Sangju Sangmu,Suwon Bluewings,22,4 October 2020,K League 1 - Korea-republic,3269548
 Seongnam,Jeonbuk Motors,22,4 October 2020,K League 1 - Korea-republic,3269549
-Jeonnam Dragons,Anyang,5,30 May 2020,K League 2 - Korea-republic,3269303
 Jeju United,Suwon,6,13 June 2020,K League 2 - Korea-republic,3269308
 Seoul E-Land,Daejeon Hana Citizen,6,13 June 2020,K League 2 - Korea-republic,3269309
 Bucheon 1995,Jeonnam Dragons,6,14 June 2020,K League 2 - Korea-republic,3269310

@@ -1,11 +1,10 @@
 Teams
 Werder Bremen
 Eintracht Frankfurt
-Hertha BSC
-Augsburg
 Köln
 RB Leipzig
 Borussia Dortmund
+Hertha BSC
 Paderborn
 Bayer Leverkusen
 Bayern Munich
@@ -15,30 +14,27 @@ Fortuna Dusseldorf
 Hoffenheim
 Freiburg
 Borussia M'gladbach
+Augsburg
 Union Berlin
 Schalke 04
 Hannover 96
 Dynamo Dresden
 Greuther Fürth
 Arminia Bielefeld
-Nürnberg
-Bochum
 Stuttgart
 Osnabrück
 Heidenheim
 Hamburger SV
 Holstein Kiel
+Nürnberg
 Jahn Regensburg
 Darmstadt 98
+Bochum
 St. Pauli
 Sandhausen
 Erzgebirge Aue
 Karlsruher SC
 Wehen Wiesbaden
-Carl Zeiss Jena
-Chemnitzer FC
-Waldhof Mannheim
-Uerdingen
 Viktoria Köln
 Zwickau
 Hallescher FC
@@ -47,14 +43,18 @@ Bayern München II
 Preußen Münster
 Unterhaching
 Ingolstadt
+Chemnitzer FC
 Sonnenhof Großaspach
 MSV Duisburg
+Carl Zeiss Jena
 Kaiserslautern
 1860 München
 Würzburger Kickers
 Magdeburg
+Uerdingen
 Meppen
 Hansa Rostock
+Waldhof Mannheim
 Portimonense
 Gil Vicente
 Rio Ave
@@ -93,17 +93,16 @@ Midtjylland
 Horsens
 Brøndby
 SønderjyskE
-Randers
-Hobro
-AGF
-OB
-Lyngby
 Copenhagen
+Randers
 Silkeborg
 AaB
+AGF
+OB
 Esbjerg
 Nordsjælland
-Vendsyssel
+Hobro
+Lyngby
 Fredericia
 Vejle
 Hvidovre
@@ -115,15 +114,16 @@ Viborg
 Næstved
 HB Køge
 Skive
-Karviná
-Sparta Praha
-Slovan Liberec
-Slovácko
-Teplice
+Vendsyssel
 Opava
 Bohemians 1905
-České Budějovice
+Sparta Praha
+Teplice
+Slovácko
+Karviná
 Jablonec
+Slovan Liberec
+České Budějovice
 Sigma Olomouc
 Příbram
 Slavia Praha
@@ -131,21 +131,21 @@ Mladá Boleslav
 Zlín
 Baník Ostrava
 Viktoria Plzen
-Hradec Králové
-Třinec
-Slavoj Vyšehrad
 Líšeň
 Vysočina Jihlava
-Varnsdorf
-Zbrojovka Brno
-Dukla Praha
 Ústí nad Labem
 Vlašim
+Varnsdorf
 Viktoria Žižkov
 Vítkovice
+Zbrojovka Brno
 Baník Sokolov
 Pardubice
+Dukla Praha
+Slavoj Vyšehrad
 Chrudim
+Hradec Králové
+Třinec
 Prostějov
 Hajduk Split
 Inter Zaprešić
@@ -157,22 +157,40 @@ Lokomotiva Zagreb
 Osijek
 Slaven Koprivnica
 HNK Gorica
-Piast Gliwice
-Wisła Kraków
-Wisła Płock
-Korona Kielce
 Arka Gdynia
 Śląsk Wrocław
 Górnik Zabrze
 Lechia Gdańsk
 Jagiellonia Białystok
+Wisła Płock
+Korona Kielce
+Piast Gliwice
 Pogoń Szczecin
 Cracovia Kraków
 Raków Częstochowa
 ŁKS Łódź
+Wisła Kraków
 Legia Warszawa
 Zagłębie Lubin
 Lech Poznań
+Puszcza Niepołomice
+Chojniczanka Chojnice
+Stomil Olsztyn
+Chrobry Głogów
+Bełchatów
+Sandecja Nowy Sącz
+Nieciecza
+Wigry Suwałki
+Miedź Legnica
+Stal Mielec
+Jastrzębie
+Warta Poznań
+Olimpia Grudziądz
+Podbeskidzie
+Radomiak Radom
+Odra Opole
+Tychy 71
+Zagłębie Sosnowiec
 Aluminij
 Mura
 Tabor Sežana
@@ -183,8 +201,6 @@ Bravo
 Triglav
 Domžale
 Maribor
-Mačva Šabac
-Voždovac
 Újpest
 Kaposvári Rákóczi
 Ferencvaros
@@ -213,10 +229,10 @@ Ruh Brest
 Vitebsk
 BATE
 Shakhtyor
-Gangwon
-Jeonbuk Motors
 Incheon United
+Gangwon
 Seoul
+Jeonbuk Motors
 Pohang Steelers
 Ulsan
 Busan IPark
@@ -225,13 +241,13 @@ Suwon Bluewings
 Gwangju
 Seongnam
 Daegu
-Jeonnam Dragons
-Anyang
 Jeju United
 Suwon
 Seoul E-Land
 Daejeon Hana Citizen
 Bucheon 1995
+Jeonnam Dragons
+Anyang
 Chungnam Asan
 Gyeongnam
 Ansan Greeners
