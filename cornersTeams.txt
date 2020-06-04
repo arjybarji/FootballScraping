@@ -1,6 +1,4 @@
 Corner Teams
-Waldhof Mannheim
-Uerdingen
 Austria Klagenfurt
 Kapfenberger SV
 Grazer AK
@@ -43,8 +41,8 @@ Wisła Płock
 Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
+Radnički Niš
 Voždovac
-Mačva Šabac
 Zbrojovka Brno
 Ústí nad Labem
 Slavoj Vyšehrad

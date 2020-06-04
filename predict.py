@@ -666,13 +666,14 @@ if __name__ == '__main__':
         use = dataH>7 and dataA>7
         date = split[3]
         league = leaguesDict[split[4]]
-        if(today.lower() in date.lower() and use) or (tomorrow.lower() in date.lower() and use):
-        #if(today.lower() in date.lower() and use):
+        #if(today.lower() in date.lower() and use) or (tomorrow.lower() in date.lower() and use):
+        if(today.lower() in date.lower() and use):
         #if(use):
             predict(homeTeam,awayTeam,gameweek,date,league)
             getArrays(homeTeam,awayTeam,date,league)
     bets.close()
     temp = []
+    print(fixtureLeagues)
     with open('bets.csv',encoding="utf8") as f:
         bets2 = f.readlines()
     bets2 = [x.strip() for x in bets2]
@@ -699,11 +700,11 @@ if __name__ == '__main__':
     
     with open('Statsv2.csv',encoding="utf8") as f:
         statsFile = f.readlines()
-    statsFile = [x.strip() for x in content]
+    statsFile = [x.strip() for x in statsFile]
     newStats = open("StatsForCompare.csv","w",encoding="utf8")
-    for c in statsFile:
-        if(c.split(",")[-2] in fixtureLeagues):
-            newStats.write(c+"\n")
+    for s in statsFile:
+        if(s.split(",")[-2] in fixtureLeagues):
+            newStats.write(s+"\n")
     
     duration = 1000  # milliseconds
     freq = 440  # Hz

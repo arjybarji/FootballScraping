@@ -1,4 +1,5 @@
 import sqlite3
+import pandas as pd
 
 database = 'allStats.db'
 conn = sqlite3.connect(database)
@@ -28,12 +29,12 @@ def check(homeTeam,awayTeam,field):
     
 
 
-cursor = conn.cursor()
-cursor.execute("SELECT DISTINCT(league) FROM stats")
+content = pd.read_csv("fixturesv2.csv",header = None)[4].unique()
+
 leagues = dict()
 count = 0
-for l in cursor.fetchall():
-    leagues.update({count:l[0]})
+for l in content:
+    leagues.update({count:l})
     count +=1
 
 for l in leagues:
@@ -65,5 +66,4 @@ for c in choices:
 field = choices[int(input("Pick Field"))]
 
 check(homeTeam,awayTeam,field)
-
 

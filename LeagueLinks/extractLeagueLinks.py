@@ -1,4 +1,4 @@
-rawFile = "Belarus 2020 RAW"
+rawFile = input("FileName")
 formattedFile = rawFile.split(" RAW")[0]
 formattedFile = open(formattedFile,"w")
 with open(rawFile,encoding="utf8") as f:

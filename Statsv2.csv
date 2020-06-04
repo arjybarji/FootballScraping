@@ -11431,3 +11431,463 @@ Rudar,Olimpija,2020-02-29,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,2,4,4,14,14,4,18,1. SNL 
 Tabor Sežana,Triglav,2020-03-05,3,1,4,y,1,1,1,1,2,2,0,0,2,2,3,0,3,12,2,2,12,14,1. SNL - Slovenia,3039601
 Domžale,Aluminij,2020-03-07,1,3,4,y,0,1,1,0,1,1,2,2,1,3,0,4,4,6,1,1,6,7,1. SNL - Slovenia,3039604
 Inđija,Spartak Subotica,2020-05-29,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,2,4,3,4,4,3,7,Super Liga - Serbia,3030229
+Vysočina Jihlava,Varnsdorf,2020-05-29,1,2,3,y,0,0,0,0,0,1,2,2,1,3,3,3,6,7,3,3,7,10,FNL - Czech-republic,3039394
+Gangwon,Jeonbuk Motors,2020-05-30,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,K League 1 - Korea-republic,3269437
+Hertha BSC,Augsburg,2020-05-30,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,Bundesliga - Germany,3047275
+Nürnberg,Bochum,2020-05-30,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,2. Bundesliga - Germany,3047579
+Waldhof Mannheim,Uerdingen,2020-05-30,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,3. Liga - Germany,3053409
+Slovan Liberec,Slovácko,2020-05-30,3,1,4,y,1,1,1,1,2,2,0,0,2,2,2,3,5,7,6,6,7,13,Czech Liga - Czech-republic,3036987
+Hradec Králové,Třinec,2020-05-30,2,2,4,y,1,2,2,1,3,1,0,0,1,1,0,3,3,7,2,2,7,9,FNL - Czech-republic,3039390
+Slavoj Vyšehrad,Líšeň,2020-05-30,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,4,6,6,5,5,6,11,FNL - Czech-republic,3039393
+Piast Gliwice,Wisła Kraków,2020-05-30,4,0,4,n,2,0,0,2,2,2,0,0,2,2,2,6,8,3,4,4,3,7,Ekstraklasa - Poland,3025912
+Jeonnam Dragons,Anyang,2020-05-30,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,K League 2 - Korea-republic,3269303
+Carl Zeiss Jena,Chemnitzer FC,2020-05-31,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,-1,-1,-1,-1,-1,3. Liga - Germany,3053408
+Vendsyssel,Fredericia,2020-05-31,0,1,1,n,0,0,0,0,0,0,1,1,0,1,-1,-1,-1,7,6,6,7,13,1st Division - Denmark,3034254
+Teplice,Opava,2020-05-31,2,2,4,y,1,1,1,1,2,1,1,1,1,2,4,1,5,5,6,6,5,11,Czech Liga - Czech-republic,3036988
+Bohemians 1905,České Budějovice,2020-05-31,3,2,5,y,2,0,0,2,2,1,2,2,1,3,1,4,5,9,6,6,9,15,Czech Liga - Czech-republic,3036993
+Karviná,Sparta Praha,2020-05-31,1,4,5,y,1,0,0,1,1,0,4,4,0,4,3,2,5,0,7,7,0,7,Czech Liga - Czech-republic,3036986
+Wisła Płock,Korona Kielce,2020-05-31,1,4,5,y,1,2,2,1,3,0,2,2,0,2,1,2,3,3,6,6,3,9,Ekstraklasa - Poland,3025915
+Mačva Šabac,Voždovac,2020-05-31,0,1,1,n,0,0,0,0,0,0,1,1,0,1,-1,-1,-1,4,4,4,4,8,Super Liga - Serbia,3030227
+Randers,Hobro,2020-06-01,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,0,2,-1,-1,-1,-1,-1,Superliga - Denmark,3027050
+AGF,OB,2020-06-01,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,1,4,-1,-1,-1,-1,-1,Superliga - Denmark,3027051
+Lyngby,Copenhagen,2020-06-01,1,4,5,y,0,1,1,0,1,1,3,3,1,4,3,0,3,-1,-1,-1,-1,-1,Superliga - Denmark,3027053
+Zbrojovka Brno,Dukla Praha,2020-06-01,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,4,5,4,6,6,4,10,FNL - Czech-republic,3039395
+Olimpia Grudziądz,Chrobry Głogów,2019-07-26,5,0,5,n,3,0,0,3,3,2,0,0,2,2,1,3,4,6,10,10,6,16,I Liga - Poland,3034379
+Radomiak Radom,Tychy 71,2019-07-27,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,4,5,2,5,5,2,7,I Liga - Poland,3034384
+Miedź Legnica,Odra Opole,2019-07-27,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,5,2,2,5,7,I Liga - Poland,3034381
+Zagłębie Sosnowiec,Podbeskidzie,2019-07-27,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,2,3,4,11,11,4,15,I Liga - Poland,3034383
+Bełchatów,Stomil Olsztyn,2019-07-27,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,1,2,4,7,7,4,11,I Liga - Poland,3034385
+Puszcza Niepołomice,Jastrzębie,2019-07-27,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,I Liga - Poland,3034382
+Nieciecza,Sandecja Nowy Sącz,2019-07-27,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,2,3,9,4,4,9,13,I Liga - Poland,3034380
+Chrobry Głogów,Nieciecza,2019-08-02,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,1,5,4,7,7,4,11,I Liga - Poland,3034391
+Sandecja Nowy Sącz,Miedź Legnica,2019-08-02,1,2,3,y,1,2,2,1,3,0,0,0,0,0,4,5,9,2,1,1,2,3,I Liga - Poland,3034390
+Stal Mielec,Wigry Suwałki,2019-08-02,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,4,6,11,4,4,11,15,I Liga - Poland,3034394
+Zagłębie Sosnowiec,Olimpia Grudziądz,2019-08-03,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,7,7,7,7,14,I Liga - Poland,3034392
+Jastrzębie,Tychy 71,2019-08-03,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,2,3,4,1,1,4,5,I Liga - Poland,3034388
+Chojniczanka Chojnice,Podbeskidzie,2019-08-04,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,3,7,9,5,5,9,14,I Liga - Poland,3034393
+Olimpia Grudziądz,Chojniczanka Chojnice,2019-08-09,3,5,8,y,0,2,2,0,2,3,3,3,3,6,2,3,5,4,7,7,4,11,I Liga - Poland,3034397
+Stomil Olsztyn,Jastrzębie,2019-08-09,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,4,7,2,7,7,2,9,I Liga - Poland,3034402
+Miedź Legnica,Chrobry Głogów,2019-08-10,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,5,6,5,2,2,5,7,I Liga - Poland,3034399
+Bełchatów,Radomiak Radom,2019-08-10,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,5,6,4,8,8,4,12,I Liga - Poland,3034403
+Podbeskidzie,Stal Mielec,2019-08-11,4,1,5,y,1,1,1,1,2,3,0,0,3,3,3,2,5,7,3,3,7,10,I Liga - Poland,3034396
+Wigry Suwałki,Warta Poznań,2019-08-11,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,4,7,3,3,3,3,6,I Liga - Poland,3034395
+Odra Opole,Stomil Olsztyn,2019-08-16,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,2,6,9,2,2,9,11,I Liga - Poland,3034405
+Chrobry Głogów,Puszcza Niepołomice,2019-08-16,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,4,5,5,2,2,5,7,I Liga - Poland,3034407
+Stal Mielec,Olimpia Grudziądz,2019-08-16,2,0,2,n,2,0,0,2,2,0,0,0,0,0,2,3,5,8,7,7,8,15,I Liga - Poland,3034410
+Chojniczanka Chojnice,Nieciecza,2019-08-16,1,0,1,n,1,0,0,1,1,0,0,0,0,0,5,1,6,1,15,15,1,16,I Liga - Poland,3034409
+Zagłębie Sosnowiec,Miedź Legnica,2019-08-17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,8,4,4,8,12,I Liga - Poland,3034408
+Radomiak Radom,Warta Poznań,2019-08-17,0,2,2,n,0,0,0,0,0,0,2,2,0,2,0,1,1,-1,-1,-1,-1,-1,I Liga - Poland,3034412
+Warta Poznań,Podbeskidzie,2019-08-21,2,1,3,y,2,1,1,2,3,0,0,0,0,0,5,2,7,3,5,5,3,8,I Liga - Poland,3034421
+Radomiak Radom,Jastrzębie,2019-08-21,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,2,4,6,7,7,6,13,I Liga - Poland,3034420
+Bełchatów,Odra Opole,2019-08-21,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,I Liga - Poland,3034419
+Tychy 71,Chrobry Głogów,2019-08-21,5,1,6,y,2,0,0,2,2,3,1,1,3,4,1,3,4,8,7,7,8,15,I Liga - Poland,3034417
+Puszcza Niepołomice,Zagłębie Sosnowiec,2019-08-21,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,4,5,6,3,3,6,9,I Liga - Poland,3034416
+Chojniczanka Chojnice,Miedź Legnica,2019-08-21,0,3,3,n,0,2,2,0,2,0,1,1,0,1,4,1,5,7,10,10,7,17,I Liga - Poland,3034569
+Nieciecza,Stal Mielec,2019-08-21,1,2,3,y,0,2,2,0,2,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034414
+Stomil Olsztyn,Sandecja Nowy Sącz,2019-08-21,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,0,11,11,0,11,I Liga - Poland,3034418
+Chrobry Głogów,Stomil Olsztyn,2019-08-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,5,2,2,5,7,I Liga - Poland,3034425
+Odra Opole,Radomiak Radom,2019-08-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034423
+Sandecja Nowy Sącz,Bełchatów,2019-08-25,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,3,6,6,6,6,6,12,I Liga - Poland,3034424
+Chojniczanka Chojnice,Puszcza Niepołomice,2019-08-25,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,2,3,9,7,7,9,16,I Liga - Poland,3034427
+Wigry Suwałki,Nieciecza,2019-08-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,3,7,7,3,10,I Liga - Poland,3034429
+Stal Mielec,Miedź Legnica,2019-08-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,4,6,5,5,5,5,10,I Liga - Poland,3034428
+Stomil Olsztyn,Zagłębie Sosnowiec,2019-08-30,1,3,4,y,1,1,1,1,2,0,2,2,0,2,2,0,2,8,3,3,8,11,I Liga - Poland,3034436
+Olimpia Grudziądz,Warta Poznań,2019-08-31,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,2,4,4,4,4,4,8,I Liga - Poland,3034431
+Radomiak Radom,Sandecja Nowy Sącz,2019-08-31,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,2,6,5,4,4,5,9,I Liga - Poland,3034438
+Jastrzębie,Odra Opole,2019-08-31,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,5,7,1,5,5,1,6,I Liga - Poland,3034439
+Nieciecza,Podbeskidzie,2019-08-31,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,2,4,7,4,4,7,11,I Liga - Poland,3034432
+Miedź Legnica,Wigry Suwałki,2019-09-01,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,1,4,-1,-1,-1,-1,-1,I Liga - Poland,3034433
+Bełchatów,Chrobry Głogów,2019-09-01,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,3,3,3,4,4,3,7,I Liga - Poland,3034437
+Puszcza Niepołomice,Stal Mielec,2019-09-01,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,2,4,4,1,1,4,5,I Liga - Poland,3034434
+Chrobry Głogów,Radomiak Radom,2019-09-06,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,1,2,3,4,4,3,7,I Liga - Poland,3034442
+Chojniczanka Chojnice,Stomil Olsztyn,2019-09-07,1,3,4,y,1,1,1,1,2,0,2,2,0,2,3,2,5,6,3,3,6,9,I Liga - Poland,3034444
+Wigry Suwałki,Puszcza Niepołomice,2019-09-07,2,3,5,y,0,1,1,0,1,2,2,2,2,4,4,2,6,5,4,4,5,9,I Liga - Poland,3034446
+Sandecja Nowy Sącz,Jastrzębie,2019-09-07,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,4,5,8,1,1,8,9,I Liga - Poland,3034441
+Zagłębie Sosnowiec,Bełchatów,2019-09-08,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,1,4,8,2,2,8,10,I Liga - Poland,3034443
+Chojniczanka Chojnice,Bełchatów,2019-09-13,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,1,1,3,4,4,3,7,I Liga - Poland,3034607
+Odra Opole,Sandecja Nowy Sącz,2019-09-13,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,3,5,4,9,9,4,13,I Liga - Poland,3034457
+Tychy 71,Wigry Suwałki,2019-09-14,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,3,6,6,4,4,6,10,I Liga - Poland,3034452
+Puszcza Niepołomice,Podbeskidzie,2019-09-14,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,1,1,-1,-1,-1,-1,-1,I Liga - Poland,3034451
+Jastrzębie,Chrobry Głogów,2019-09-14,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,3,3,5,11,11,5,16,I Liga - Poland,3034456
+Nieciecza,Warta Poznań,2019-09-14,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,1,5,4,14,14,4,18,I Liga - Poland,3034449
+Stal Mielec,Tychy 71,2019-09-18,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,4,5,12,5,5,12,17,I Liga - Poland,3034445
+Podbeskidzie,Miedź Legnica,2019-09-18,2,1,3,y,2,0,0,2,2,0,1,1,0,1,0,5,5,4,0,0,4,4,I Liga - Poland,3034447
+Wigry Suwałki,Stomil Olsztyn,2019-09-20,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,2,6,4,5,5,4,9,I Liga - Poland,3034462
+Stal Mielec,Bełchatów,2019-09-21,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034461
+Chojniczanka Chojnice,Radomiak Radom,2019-09-21,1,3,4,y,1,3,3,1,4,0,0,0,0,0,2,4,6,2,6,6,2,8,I Liga - Poland,3034460
+Zagłębie Sosnowiec,Jastrzębie,2019-09-21,2,4,6,y,0,3,3,0,3,2,1,1,2,3,3,1,4,8,6,6,8,14,I Liga - Poland,3034459
+Nieciecza,Miedź Legnica,2019-09-21,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,1,4,6,2,2,6,8,I Liga - Poland,3034465
+Podbeskidzie,Tychy 71,2019-09-22,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,1,2,4,4,4,4,8,I Liga - Poland,3034463
+Olimpia Grudziądz,Puszcza Niepołomice,2019-09-22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,5,3,3,5,8,I Liga - Poland,3034464
+Radomiak Radom,Stal Mielec,2019-09-28,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,I Liga - Poland,3034471
+Tychy 71,Olimpia Grudziądz,2019-09-28,2,3,5,y,1,0,0,1,1,1,3,3,1,4,3,2,5,-1,-1,-1,-1,-1,I Liga - Poland,3034468
+Stomil Olsztyn,Podbeskidzie,2019-09-28,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,0,3,3,8,8,3,11,I Liga - Poland,3034469
+Warta Poznań,Miedź Legnica,2019-09-29,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,2,3,3,2,5,I Liga - Poland,3034475
+Bełchatów,Wigry Suwałki,2019-09-29,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,1,2,6,3,3,6,9,I Liga - Poland,3034470
+Chojniczanka Chojnice,Jastrzębie,2019-09-29,3,1,4,y,1,1,1,1,2,2,0,0,2,2,3,2,5,2,8,8,2,10,I Liga - Poland,3034472
+Miedź Legnica,Puszcza Niepołomice,2019-10-04,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,5,8,8,5,5,8,13,I Liga - Poland,3034483
+Wigry Suwałki,Radomiak Radom,2019-10-05,1,4,5,y,0,2,2,0,2,1,2,2,1,3,2,2,4,2,4,4,2,6,I Liga - Poland,3034479
+Chrobry Głogów,Warta Poznań,2019-10-05,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,0,4,4,6,6,4,10,I Liga - Poland,3034484
+Podbeskidzie,Bełchatów,2019-10-05,4,0,4,n,0,0,0,0,0,4,0,0,4,4,2,5,7,3,5,5,3,8,I Liga - Poland,3034480
+Chojniczanka Chojnice,Odra Opole,2019-10-05,1,2,3,y,0,2,2,0,2,1,0,0,1,1,5,2,7,8,8,8,8,16,I Liga - Poland,3034477
+Zagłębie Sosnowiec,Sandecja Nowy Sącz,2019-10-05,3,1,4,y,1,0,0,1,1,2,1,1,2,3,3,2,5,1,11,11,1,12,I Liga - Poland,3034476
+Nieciecza,Tychy 71,2019-10-05,4,3,7,y,2,3,3,2,5,2,0,0,2,2,2,2,4,5,3,3,5,8,I Liga - Poland,3034482
+Olimpia Grudziądz,Stomil Olsztyn,2019-10-06,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,3,6,6,12,12,6,18,I Liga - Poland,3034481
+Stomil Olsztyn,Nieciecza,2019-10-11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,4,5,8,4,4,8,12,I Liga - Poland,3034487
+Sandecja Nowy Sącz,Chojniczanka Chojnice,2019-10-11,4,4,8,y,3,2,2,3,5,1,2,2,1,3,2,4,6,3,4,4,3,7,I Liga - Poland,3034492
+Radomiak Radom,Podbeskidzie,2019-10-12,1,3,4,y,0,1,1,0,1,1,2,2,1,3,3,1,4,6,2,2,6,8,I Liga - Poland,3034489
+Chrobry Głogów,Chojniczanka Chojnice,2019-10-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,2,5,4,5,5,4,9,I Liga - Poland,3034648
+Puszcza Niepołomice,Tychy 71,2019-10-18,2,1,3,y,2,0,0,2,2,0,1,1,0,1,3,2,5,5,9,9,5,14,I Liga - Poland,3034502
+Wigry Suwałki,Odra Opole,2019-10-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,4,6,-1,-1,-1,-1,-1,I Liga - Poland,3034497
+Stal Mielec,Sandecja Nowy Sącz,2019-10-18,5,1,6,y,1,1,1,1,2,4,0,0,4,4,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034496
+Miedź Legnica,Stomil Olsztyn,2019-10-18,4,1,5,y,2,1,1,2,3,2,0,0,2,2,3,4,7,7,3,3,7,10,I Liga - Poland,3034501
+Warta Poznań,Zagłębie Sosnowiec,2019-10-19,2,3,5,y,0,1,1,0,1,2,2,2,2,4,1,4,5,9,4,4,9,13,I Liga - Poland,3034494
+Podbeskidzie,Jastrzębie,2019-10-19,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,2,4,6,5,5,6,11,I Liga - Poland,3034498
+Tychy 71,Miedź Legnica,2019-10-22,4,1,5,y,1,0,0,1,1,3,1,1,3,4,1,1,2,10,8,8,10,18,I Liga - Poland,3034486
+Jastrzębie,Wigry Suwałki,2019-10-22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,3,1,1,3,4,I Liga - Poland,3034490
+Puszcza Niepołomice,Warta Poznań,2019-10-22,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,3,5,7,4,4,7,11,I Liga - Poland,3034485
+Chrobry Głogów,Zagłębie Sosnowiec,2019-10-23,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,2,2,4,5,5,4,9,I Liga - Poland,3034493
+Odra Opole,Stal Mielec,2019-10-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,1,5,3,5,5,3,8,I Liga - Poland,3034491
+Stomil Olsztyn,Puszcza Niepołomice,2019-10-25,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,4,7,10,2,2,10,12,I Liga - Poland,3034504
+Sandecja Nowy Sącz,Wigry Suwałki,2019-10-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,4,6,-1,-1,-1,-1,-1,I Liga - Poland,3034509
+Bełchatów,Miedź Legnica,2019-10-25,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,3,6,4,5,5,4,9,I Liga - Poland,3034505
+Radomiak Radom,Nieciecza,2019-10-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,5,7,-1,-1,-1,-1,-1,I Liga - Poland,3034506
+Jastrzębie,Olimpia Grudziądz,2019-10-26,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,I Liga - Poland,3034507
+Zagłębie Sosnowiec,Chojniczanka Chojnice,2019-10-26,3,3,6,y,1,2,2,1,3,2,1,1,2,3,2,4,6,6,8,8,6,14,I Liga - Poland,3034511
+Tychy 71,Warta Poznań,2019-10-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,5,4,9,3,8,8,3,11,I Liga - Poland,3034503
+Chrobry Głogów,Stal Mielec,2019-10-27,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,0,1,5,3,3,5,8,I Liga - Poland,3034510
+Odra Opole,Podbeskidzie,2019-10-27,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,3,6,3,7,7,3,10,I Liga - Poland,3034508
+Miedź Legnica,Radomiak Radom,2019-11-02,3,1,4,y,3,0,0,3,3,0,1,1,0,1,2,4,6,4,7,7,4,11,I Liga - Poland,3034518
+Nieciecza,Jastrzębie,2019-11-02,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034517
+Podbeskidzie,Sandecja Nowy Sącz,2019-11-03,3,1,4,y,1,1,1,1,2,2,0,0,2,2,1,2,3,8,1,1,8,9,I Liga - Poland,3034515
+Warta Poznań,Chojniczanka Chojnice,2019-11-03,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,4,5,6,4,4,6,10,I Liga - Poland,3034512
+Tychy 71,Stomil Olsztyn,2019-11-03,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,2,6,-1,-1,-1,-1,-1,I Liga - Poland,3034520
+Puszcza Niepołomice,Bełchatów,2019-11-03,1,4,5,y,0,1,1,0,1,1,3,3,1,4,1,2,3,-1,-1,-1,-1,-1,I Liga - Poland,3034519
+Wigry Suwałki,Chrobry Głogów,2019-11-03,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034514
+Stal Mielec,Zagłębie Sosnowiec,2019-11-03,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,6,6,6,6,12,I Liga - Poland,3034513
+Sandecja Nowy Sącz,Olimpia Grudziądz,2019-11-08,3,1,4,y,2,0,0,2,2,1,1,1,1,2,1,2,3,9,7,7,9,16,I Liga - Poland,3034526
+Stomil Olsztyn,Warta Poznań,2019-11-09,1,3,4,y,0,0,0,0,0,1,3,3,1,4,4,5,9,3,3,3,3,6,I Liga - Poland,3034521
+Chojniczanka Chojnice,Stal Mielec,2019-11-09,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,3,3,2,12,12,2,14,I Liga - Poland,3034529
+Odra Opole,Nieciecza,2019-11-09,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,5,7,-1,-1,-1,-1,-1,I Liga - Poland,3034525
+Bełchatów,Tychy 71,2019-11-09,1,4,5,y,1,2,2,1,3,0,2,2,0,2,3,1,4,4,6,6,4,10,I Liga - Poland,3034522
+Zagłębie Sosnowiec,Wigry Suwałki,2019-11-09,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,2,2,8,5,5,8,13,I Liga - Poland,3034528
+Chrobry Głogów,Podbeskidzie,2019-11-10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,2,5,2,10,10,2,12,I Liga - Poland,3034527
+Podbeskidzie,Zagłębie Sosnowiec,2019-11-16,4,1,5,y,3,0,0,3,3,1,1,1,1,2,2,3,5,4,3,3,4,7,I Liga - Poland,3034530
+Chojniczanka Chojnice,Wigry Suwałki,2019-11-16,1,3,4,y,0,1,1,0,1,1,2,2,1,3,2,3,5,-1,-1,-1,-1,-1,I Liga - Poland,3034534
+Sandecja Nowy Sącz,Nieciecza,2019-11-16,2,2,4,y,2,0,0,2,2,0,2,2,0,2,2,4,6,3,10,10,3,13,I Liga - Poland,3034536
+Tychy 71,Radomiak Radom,2019-11-16,2,2,4,y,1,0,0,1,1,1,2,2,1,3,5,5,10,9,6,6,9,15,I Liga - Poland,3034531
+Warta Poznań,Stal Mielec,2019-11-17,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,9,7,7,9,16,I Liga - Poland,3034533
+Wigry Suwałki,Stal Mielec,2019-11-22,0,3,3,n,0,1,1,0,1,0,2,2,0,2,1,1,2,7,1,1,7,8,I Liga - Poland,3034547
+Podbeskidzie,Chojniczanka Chojnice,2019-11-22,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,3,5,4,4,4,4,8,I Liga - Poland,3034546
+Miedź Legnica,Sandecja Nowy Sącz,2019-11-22,1,3,4,y,0,0,0,0,0,1,3,3,1,4,2,0,2,7,3,3,7,10,I Liga - Poland,3034543
+Puszcza Niepołomice,Odra Opole,2019-11-22,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,1,2,2,3,3,2,5,I Liga - Poland,3034542
+Chrobry Głogów,Stal Mielec,2019-10-27,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,0,1,5,3,3,5,8,I Liga - Poland,3034510
+Odra Opole,Podbeskidzie,2019-10-27,0,2,2,n,0,1,1,0,1,0,1,1,0,1,3,3,6,3,7,7,3,10,I Liga - Poland,3034508
+Miedź Legnica,Radomiak Radom,2019-11-02,3,1,4,y,3,0,0,3,3,0,1,1,0,1,2,4,6,4,7,7,4,11,I Liga - Poland,3034518
+Olimpia Grudziądz,Odra Opole,2019-11-02,3,1,4,y,0,0,0,0,0,3,1,1,3,4,1,1,2,7,8,8,7,15,I Liga - Poland,3034516
+Nieciecza,Jastrzębie,2019-11-02,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034517
+Podbeskidzie,Sandecja Nowy Sącz,2019-11-03,3,1,4,y,1,1,1,1,2,2,0,0,2,2,1,2,3,8,1,1,8,9,I Liga - Poland,3034515
+Warta Poznań,Chojniczanka Chojnice,2019-11-03,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,4,5,6,4,4,6,10,I Liga - Poland,3034512
+Tychy 71,Stomil Olsztyn,2019-11-03,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,2,6,-1,-1,-1,-1,-1,I Liga - Poland,3034520
+Puszcza Niepołomice,Bełchatów,2019-11-03,1,4,5,y,0,1,1,0,1,1,3,3,1,4,1,2,3,-1,-1,-1,-1,-1,I Liga - Poland,3034519
+Wigry Suwałki,Chrobry Głogów,2019-11-03,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034514
+Stal Mielec,Zagłębie Sosnowiec,2019-11-03,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,6,6,6,6,12,I Liga - Poland,3034513
+Sandecja Nowy Sącz,Olimpia Grudziądz,2019-11-08,3,1,4,y,2,0,0,2,2,1,1,1,1,2,1,2,3,9,7,7,9,16,I Liga - Poland,3034526
+Stomil Olsztyn,Warta Poznań,2019-11-09,1,3,4,y,0,0,0,0,0,1,3,3,1,4,4,5,9,3,3,3,3,6,I Liga - Poland,3034521
+Radomiak Radom,Puszcza Niepołomice,2019-11-09,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,3,6,7,6,6,7,13,I Liga - Poland,3034523
+Chojniczanka Chojnice,Stal Mielec,2019-11-09,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,3,3,2,12,12,2,14,I Liga - Poland,3034529
+Jastrzębie,Miedź Legnica,2019-11-09,2,2,4,y,1,0,0,1,1,1,2,2,1,3,0,1,1,6,7,7,6,13,I Liga - Poland,3034524
+Odra Opole,Nieciecza,2019-11-09,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,5,7,-1,-1,-1,-1,-1,I Liga - Poland,3034525
+Bełchatów,Tychy 71,2019-11-09,1,4,5,y,1,2,2,1,3,0,2,2,0,2,3,1,4,4,6,6,4,10,I Liga - Poland,3034522
+Chrobry Głogów,Podbeskidzie,2019-11-10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,2,5,2,10,10,2,12,I Liga - Poland,3034527
+Podbeskidzie,Zagłębie Sosnowiec,2019-11-16,4,1,5,y,3,0,0,3,3,1,1,1,1,2,2,3,5,4,3,3,4,7,I Liga - Poland,3034530
+Stomil Olsztyn,Bełchatów,2019-11-16,0,1,1,n,0,0,0,0,0,0,1,1,0,1,5,1,6,-1,-1,-1,-1,-1,I Liga - Poland,3034532
+Chojniczanka Chojnice,Wigry Suwałki,2019-11-16,1,3,4,y,0,1,1,0,1,1,2,2,1,3,2,3,5,-1,-1,-1,-1,-1,I Liga - Poland,3034534
+Sandecja Nowy Sącz,Nieciecza,2019-11-16,2,2,4,y,2,0,0,2,2,0,2,2,0,2,2,4,6,3,10,10,3,13,I Liga - Poland,3034536
+Tychy 71,Radomiak Radom,2019-11-16,2,2,4,y,1,0,0,1,1,1,2,2,1,3,5,5,10,9,6,6,9,15,I Liga - Poland,3034531
+Warta Poznań,Stal Mielec,2019-11-17,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,9,7,7,9,16,I Liga - Poland,3034533
+Wigry Suwałki,Stal Mielec,2019-11-22,0,3,3,n,0,1,1,0,1,0,2,2,0,2,1,1,2,7,1,1,7,8,I Liga - Poland,3034547
+Podbeskidzie,Chojniczanka Chojnice,2019-11-22,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,3,5,4,4,4,4,8,I Liga - Poland,3034546
+Miedź Legnica,Sandecja Nowy Sącz,2019-11-22,1,3,4,y,0,0,0,0,0,1,3,3,1,4,2,0,2,7,3,3,7,10,I Liga - Poland,3034543
+Puszcza Niepołomice,Odra Opole,2019-11-22,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,1,2,2,3,3,2,5,I Liga - Poland,3034542
+Zagłębie Sosnowiec,Puszcza Niepołomice,2020-03-07,3,5,8,y,1,1,1,1,2,2,4,4,2,6,4,2,6,8,7,7,8,15,I Liga - Poland,3034570
+Sandecja Nowy Sącz,Stomil Olsztyn,2020-03-07,3,0,3,n,3,0,0,3,3,0,0,0,0,0,1,1,2,1,13,13,1,14,I Liga - Poland,3034572
+Stal Mielec,Nieciecza,2020-03-08,0,3,3,n,0,1,1,0,1,0,2,2,0,2,4,2,6,11,2,2,11,13,I Liga - Poland,3034568
+Wigry Suwałki,Olimpia Grudziądz,2020-03-08,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,I Liga - Poland,3034567
+Podbeskidzie,Warta Poznań,2020-03-09,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,3,6,11,2,2,11,13,I Liga - Poland,3034566
+Minsk,Slutsk,2020-06-01,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,3,4,1,3,3,1,4,Premier League - Belarus,3269583
+Stal Mielec,Warta Poznań,2019-07-26,2,1,3,y,2,0,0,2,2,0,1,1,0,1,0,3,3,8,4,4,8,12,I Liga - Poland,3034377
+Wigry Suwałki,Chojniczanka Chojnice,2019-07-27,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034378
+Odra Opole,Puszcza Niepołomice,2019-08-02,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,1,4,4,5,5,4,9,I Liga - Poland,3034389
+Warta Poznań,Bełchatów,2019-08-03,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,3,2,2,3,5,I Liga - Poland,3034386
+Radomiak Radom,Stomil Olsztyn,2019-08-03,2,1,3,y,1,1,1,1,2,1,0,0,1,1,4,5,9,-1,-1,-1,-1,-1,I Liga - Poland,3034387
+Tychy 71,Odra Opole,2019-08-10,4,1,5,y,1,1,1,1,2,3,0,0,3,3,0,2,2,7,7,7,7,14,I Liga - Poland,3034401
+Puszcza Niepołomice,Sandecja Nowy Sącz,2019-08-10,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,1,4,-1,-1,-1,-1,-1,I Liga - Poland,3034400
+Nieciecza,Zagłębie Sosnowiec,2019-08-10,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,6,8,-1,-1,-1,-1,-1,I Liga - Poland,3034398
+Sandecja Nowy Sącz,Tychy 71,2019-08-16,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,I Liga - Poland,3034406
+Wigry Suwałki,Podbeskidzie,2019-08-17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,I Liga - Poland,3034411
+Jastrzębie,Bełchatów,2019-08-17,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,4,8,5,8,8,5,13,I Liga - Poland,3034404
+Olimpia Grudziądz,Wigry Suwałki,2019-08-21,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,2,3,5,8,8,5,13,I Liga - Poland,3034413
+Podbeskidzie,Olimpia Grudziądz,2019-08-24,2,1,3,y,1,0,0,1,1,1,1,1,1,2,4,1,5,9,4,4,9,13,I Liga - Poland,3034430
+Zagłębie Sosnowiec,Tychy 71,2019-08-25,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,4,6,-1,-1,-1,-1,-1,I Liga - Poland,3034426
+Warta Poznań,Jastrzębie,2019-08-25,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,2,5,2,4,4,2,6,I Liga - Poland,3034422
+Chojniczanka Chojnice,Tychy 71,2019-08-30,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,3,6,6,6,6,6,12,I Liga - Poland,3034588
+Stomil Olsztyn,Stal Mielec,2019-09-13,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,6,8,-1,-1,-1,-1,-1,I Liga - Poland,3034453
+Radomiak Radom,Zagłębie Sosnowiec,2019-09-14,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034455
+Miedź Legnica,Olimpia Grudziądz,2019-09-15,2,2,4,y,1,2,2,1,3,1,0,0,1,1,2,1,3,3,7,7,3,10,I Liga - Poland,3034450
+Olimpia Grudziądz,Nieciecza,2019-09-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,3,4,2,8,8,2,10,I Liga - Poland,3034448
+Warta Poznań,Odra Opole,2019-09-18,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,3,4,5,3,3,5,8,I Liga - Poland,3034440
+Chrobry Głogów,Odra Opole,2019-09-21,3,2,5,y,2,0,0,2,2,1,2,2,1,3,3,2,5,-1,-1,-1,-1,-1,I Liga - Poland,3034458
+Sandecja Nowy Sącz,Warta Poznań,2019-09-21,1,2,3,y,0,0,0,0,0,1,2,2,1,3,3,4,7,3,5,5,3,8,I Liga - Poland,3034466
+Sandecja Nowy Sącz,Chrobry Głogów,2019-09-27,3,2,5,y,2,0,0,2,2,1,2,2,1,3,3,2,5,4,5,5,4,9,I Liga - Poland,3034474
+Puszcza Niepołomice,Nieciecza,2019-09-29,0,3,3,n,0,0,0,0,0,0,3,3,0,3,3,2,5,6,5,5,6,11,I Liga - Poland,3034467
+Odra Opole,Zagłębie Sosnowiec,2019-09-29,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,3,4,4,5,5,4,9,I Liga - Poland,3034473
+Stal Mielec,Jastrzębie,2019-10-04,3,1,4,y,1,1,1,1,2,2,0,0,2,2,0,2,2,10,8,8,10,18,I Liga - Poland,3034478
+Bełchatów,Olimpia Grudziądz,2019-10-12,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,2,4,4,2,6,I Liga - Poland,3034488
+Olimpia Grudziądz,Radomiak Radom,2019-10-19,2,2,4,y,2,0,0,2,2,0,2,2,0,2,3,4,7,5,7,7,5,12,I Liga - Poland,3034499
+Nieciecza,Bełchatów,2019-10-19,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,2,4,9,2,2,9,11,I Liga - Poland,3034500
+Köln,RB Leipzig,2020-06-01,2,4,6,y,1,2,2,1,3,1,2,2,1,3,2,1,3,-1,-1,-1,-1,-1,Bundesliga - Germany,3047279
+Viktoria Köln,Zwickau,2020-06-02,3,0,3,n,0,0,0,0,0,3,0,0,3,3,2,1,3,-1,-1,-1,-1,-1,3. Liga - Germany,3053418
+Unterhaching,Ingolstadt,2020-06-02,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,1,3,5,4,4,5,9,3. Liga - Germany,3053421
+Würzburger Kickers,Magdeburg,2020-06-02,0,1,1,n,0,1,1,0,1,0,0,0,0,0,8,4,12,-1,-1,-1,-1,-1,3. Liga - Germany,3053425
+Uerdingen,Meppen,2020-06-02,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,2,5,5,2,7,3. Liga - Germany,3053426
+Brøndby,SønderjyskE,2020-06-02,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,5,8,-1,-1,-1,-1,-1,Superliga - Denmark,3027049
+Příbram,Slavia Praha,2020-06-02,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,2,2,1,9,9,1,10,Czech Liga - Czech-republic,3036999
+Mladá Boleslav,Zlín,2020-06-02,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,2,5,6,4,4,6,10,Czech Liga - Czech-republic,3037000
+Líšeň,Vysočina Jihlava,2020-06-02,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,3,4,7,5,5,7,12,FNL - Czech-republic,3039396
+Varnsdorf,Viktoria Žižkov,2020-06-02,0,4,4,n,0,1,1,0,1,0,3,3,0,3,1,1,2,3,6,6,3,9,FNL - Czech-republic,3039398
+Třinec,Prostějov,2020-06-02,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,3,7,13,4,4,13,17,FNL - Czech-republic,3039403
+Puszcza Niepołomice,Chojniczanka Chojnice,2020-06-02,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,5,7,9,4,4,9,13,I Liga - Poland,3034580
+Stomil Olsztyn,Chrobry Głogów,2020-06-02,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,I Liga - Poland,3034578
+Bełchatów,Sandecja Nowy Sącz,2020-06-02,0,3,3,n,0,3,3,0,3,0,0,0,0,0,2,3,5,8,6,6,8,14,I Liga - Poland,3034577
+Nieciecza,Wigry Suwałki,2020-06-02,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,5,6,5,6,6,5,11,I Liga - Poland,3034582
+Miedź Legnica,Stal Mielec,2020-06-02,1,2,3,y,1,2,2,1,3,0,0,0,0,0,1,3,4,6,8,8,6,14,I Liga - Poland,3034581
+Midtjylland,Horsens,2020-06-01,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Superliga - Denmark,3027048
+Jablonec,Slovan Liberec,2020-06-02,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,4,3,3,4,7,Czech Liga - Czech-republic,3036997
+Hansa Rostock,Waldhof Mannheim,2020-06-02,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,2,4,11,3,3,11,14,3. Liga - Germany,3053427
+Chrudim,Hradec Králové,2020-06-02,2,2,4,y,0,1,1,0,1,2,1,1,2,3,2,4,6,2,5,5,2,7,FNL - Czech-republic,3039402
+Górnik Polkowice,Stargard Szczeciński,2019-07-27,1,2,3,y,0,2,2,0,2,1,0,0,1,1,4,2,6,-1,-1,-1,-1,-1,II Liga - Poland,3037028
+Elana Toruń,Bytovia Bytów,2019-07-27,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,3,6,-1,-1,-1,-1,-1,II Liga - Poland,3037029
+Stal Stalowa Wola,Resovia Rzeszów,2019-07-27,1,3,4,y,0,2,2,0,2,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037031
+Garbarnia Kraków,Górnik Łęczna,2019-07-27,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037027
+Stal Rzeszów,Pogoń Siedlce,2019-07-27,3,2,5,y,1,0,0,1,1,2,2,2,2,4,0,0,0,-1,-1,-1,-1,-1,II Liga - Poland,3037026
+Legionovia Legionowo,SKRA Częstochowa,2019-07-27,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3079215
+Gryf Wejherowo,Widzew Łódź,2019-07-27,1,2,3,y,0,0,0,0,0,1,2,2,1,3,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3037033
+GKS Katowice,Znicz Pruszków,2019-07-28,1,3,4,y,0,3,3,0,3,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3037030
+Olimpia Elbląg,Lech Poznań II,2019-07-28,4,0,4,n,2,0,0,2,2,2,0,0,2,2,3,5,8,-1,-1,-1,-1,-1,II Liga - Poland,3037032
+SKRA Częstochowa,Garbarnia Kraków,2019-08-03,1,3,4,y,1,1,1,1,2,0,2,2,0,2,2,0,2,-1,-1,-1,-1,-1,II Liga - Poland,3037041
+Stargard Szczeciński,Elana Toruń,2019-08-03,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,3,6,-1,-1,-1,-1,-1,II Liga - Poland,3037038
+Gryf Wejherowo,GKS Katowice,2019-08-03,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,3,4,-1,-1,-1,-1,-1,II Liga - Poland,3037036
+Pogoń Siedlce,Resovia Rzeszów,2019-08-03,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,5,6,-1,-1,-1,-1,-1,II Liga - Poland,3037034
+Bytovia Bytów,Widzew Łódź,2019-08-03,2,1,3,y,1,0,0,1,1,1,1,1,1,2,5,1,6,-1,-1,-1,-1,-1,II Liga - Poland,3037037
+Olimpia Elbląg,Górnik Polkowice,2019-08-03,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,4,5,-1,-1,-1,-1,-1,II Liga - Poland,3037039
+Stal Rzeszów,Legionovia Legionowo,2019-08-04,3,1,4,y,1,0,0,1,1,2,1,1,2,3,0,2,2,-1,-1,-1,-1,-1,II Liga - Poland,3079216
+Widzew Łódź,Stargard Szczeciński,2019-08-09,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037046
+Resovia Rzeszów,Znicz Pruszków,2019-08-10,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,1,1,-1,-1,-1,-1,-1,II Liga - Poland,3037049
+Stal Stalowa Wola,Gryf Wejherowo,2019-08-10,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3037048
+Elana Toruń,Olimpia Elbląg,2019-08-10,0,2,2,n,0,2,2,0,2,0,0,0,0,0,4,3,7,-1,-1,-1,-1,-1,II Liga - Poland,3037045
+Garbarnia Kraków,Stal Rzeszów,2019-08-10,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037042
+Legionovia Legionowo,Pogoń Siedlce,2019-08-10,1,3,4,y,0,2,2,0,2,1,1,1,1,2,4,4,8,-1,-1,-1,-1,-1,II Liga - Poland,3079217
+GKS Katowice,Bytovia Bytów,2019-08-10,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,5,7,-1,-1,-1,-1,-1,II Liga - Poland,3037047
+Górnik Polkowice,Górnik Łęczna,2019-08-10,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037044
+Lech Poznań II,SKRA Częstochowa,2019-08-11,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,5,7,-1,-1,-1,-1,-1,II Liga - Poland,3037043
+SKRA Częstochowa,Górnik Polkowice,2019-08-17,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,5,7,-1,-1,-1,-1,-1,II Liga - Poland,3037056
+Stargard Szczeciński,GKS Katowice,2019-08-17,1,3,4,y,1,2,2,1,3,0,1,1,0,1,3,3,6,-1,-1,-1,-1,-1,II Liga - Poland,3037053
+Stal Rzeszów,Lech Poznań II,2019-08-17,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037057
+Gryf Wejherowo,Resovia Rzeszów,2019-08-17,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037051
+Pogoń Siedlce,Znicz Pruszków,2019-08-17,0,1,1,n,0,1,1,0,1,0,0,0,0,0,6,4,10,-1,-1,-1,-1,-1,II Liga - Poland,3037050
+Legionovia Legionowo,Garbarnia Kraków,2019-08-17,0,2,2,n,0,1,1,0,1,0,1,1,0,1,5,4,9,-1,-1,-1,-1,-1,II Liga - Poland,3079218
+Górnik Łęczna,Elana Toruń,2019-08-18,1,3,4,y,1,2,2,1,3,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037055
+Lech Poznań II,Legionovia Legionowo,2019-08-21,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,4,7,-1,-1,-1,-1,-1,II Liga - Poland,3079219
+Resovia Rzeszów,Bytovia Bytów,2019-08-21,1,1,2,y,1,0,0,1,1,0,1,1,0,1,4,6,10,-1,-1,-1,-1,-1,II Liga - Poland,3037064
+Stal Stalowa Wola,Stargard Szczeciński,2019-08-21,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,0,3,-1,-1,-1,-1,-1,II Liga - Poland,3037063
+Elana Toruń,SKRA Częstochowa,2019-08-21,1,1,2,y,0,0,0,0,0,1,1,1,1,2,5,1,6,-1,-1,-1,-1,-1,II Liga - Poland,3037060
+Garbarnia Kraków,Pogoń Siedlce,2019-08-21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,II Liga - Poland,3037058
+Widzew Łódź,Górnik Łęczna,2019-08-21,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037061
+Znicz Pruszków,Gryf Wejherowo,2019-08-21,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,II Liga - Poland,3037065
+GKS Katowice,Olimpia Elbląg,2019-08-21,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037062
+Górnik Polkowice,Stal Rzeszów,2019-08-21,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037059
+Stal Rzeszów,Elana Toruń,2019-08-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,II Liga - Poland,3037072
+Garbarnia Kraków,Lech Poznań II,2019-08-24,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037073
+Górnik Łęczna,GKS Katowice,2019-08-25,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,3,6,-1,-1,-1,-1,-1,II Liga - Poland,3037070
+SKRA Częstochowa,Widzew Łódź,2019-08-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,4,5,-1,-1,-1,-1,-1,II Liga - Poland,3037071
+Stargard Szczeciński,Resovia Rzeszów,2019-08-25,1,2,3,y,0,0,0,0,0,1,2,2,1,3,4,3,7,-1,-1,-1,-1,-1,II Liga - Poland,3037068
+Legionovia Legionowo,Górnik Polkowice,2019-08-25,1,2,3,y,1,0,0,1,1,0,2,2,0,2,5,3,8,-1,-1,-1,-1,-1,II Liga - Poland,3079220
+Bytovia Bytów,Znicz Pruszków,2019-08-25,2,2,4,y,2,0,0,2,2,0,2,2,0,2,1,5,6,-1,-1,-1,-1,-1,II Liga - Poland,3037067
+Olimpia Elbląg,Stal Stalowa Wola,2019-08-25,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037069
+Pogoń Siedlce,Gryf Wejherowo,2019-08-25,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,II Liga - Poland,3037066
+Stal Stalowa Wola,Górnik Łęczna,2019-08-31,1,3,4,y,1,0,0,1,1,0,3,3,0,3,4,2,6,-1,-1,-1,-1,-1,II Liga - Poland,3037078
+Znicz Pruszków,Stargard Szczeciński,2019-08-31,2,3,5,y,1,2,2,1,3,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,II Liga - Poland,3037080
+GKS Katowice,SKRA Częstochowa,2019-08-31,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,2,6,-1,-1,-1,-1,-1,II Liga - Poland,3037077
+Górnik Polkowice,Garbarnia Kraków,2019-08-31,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037075
+Widzew Łódź,Stal Rzeszów,2019-08-31,3,1,4,y,1,1,1,1,2,2,0,0,2,2,4,4,8,-1,-1,-1,-1,-1,II Liga - Poland,3037076
+Resovia Rzeszów,Olimpia Elbląg,2019-09-01,0,1,1,n,0,1,1,0,1,0,0,0,0,0,6,1,7,-1,-1,-1,-1,-1,II Liga - Poland,3037079
+Gryf Wejherowo,Bytovia Bytów,2019-09-01,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037081
+Stargard Szczeciński,Gryf Wejherowo,2019-09-07,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3037083
+Stal Rzeszów,GKS Katowice,2019-09-07,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,II Liga - Poland,3037087
+SKRA Częstochowa,Stal Stalowa Wola,2019-09-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,1,1,-1,-1,-1,-1,-1,II Liga - Poland,3037086
+Legionovia Legionowo,Widzew Łódź,2019-09-07,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3079222
+Garbarnia Kraków,Elana Toruń,2019-09-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,7,3,10,-1,-1,-1,-1,-1,II Liga - Poland,3037088
+Bytovia Bytów,Pogoń Siedlce,2019-09-07,1,3,4,y,0,1,1,0,1,1,2,2,1,3,3,5,8,-1,-1,-1,-1,-1,II Liga - Poland,3037218
+Górnik Łęczna,Resovia Rzeszów,2019-09-07,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,2,2,-1,-1,-1,-1,-1,II Liga - Poland,3037085
+Olimpia Elbląg,Znicz Pruszków,2019-09-08,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3037084
+Stal Rzeszów,Stal Stalowa Wola,2019-09-14,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,2,2,-1,-1,-1,-1,-1,II Liga - Poland,3037229
+Elana Toruń,Lech Poznań II,2019-09-14,2,4,6,y,1,2,2,1,3,1,2,2,1,3,5,3,8,-1,-1,-1,-1,-1,II Liga - Poland,3037091
+Resovia Rzeszów,SKRA Częstochowa,2019-09-14,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037094
+GKS Katowice,Legionovia Legionowo,2019-09-14,3,1,4,y,1,0,0,1,1,2,1,1,2,3,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3079223
+Bytovia Bytów,Stargard Szczeciński,2019-09-14,1,0,1,n,0,0,0,0,0,1,0,0,1,1,6,4,10,-1,-1,-1,-1,-1,II Liga - Poland,3037097
+Górnik Polkowice,Pogoń Siedlce,2019-09-14,1,1,2,y,1,1,1,1,2,0,0,0,0,0,4,0,4,-1,-1,-1,-1,-1,II Liga - Poland,3037090
+Znicz Pruszków,Górnik Łęczna,2019-09-15,1,2,3,y,1,1,1,1,2,0,1,1,0,1,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3037095
+Gryf Wejherowo,Olimpia Elbląg,2019-09-15,1,4,5,y,1,1,1,1,2,0,3,3,0,3,6,1,7,-1,-1,-1,-1,-1,II Liga - Poland,3037096
+Lech Poznań II,Górnik Polkowice,2019-09-18,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,0,3,-1,-1,-1,-1,-1,II Liga - Poland,3037089
+Górnik Łęczna,Gryf Wejherowo,2019-09-20,1,0,1,n,1,0,0,1,1,0,0,0,0,0,5,4,9,-1,-1,-1,-1,-1,II Liga - Poland,3037100
+Garbarnia Kraków,GKS Katowice,2019-09-21,1,3,4,y,0,0,0,0,0,1,3,3,1,4,1,1,2,-1,-1,-1,-1,-1,II Liga - Poland,3037103
+Legionovia Legionowo,Stal Stalowa Wola,2019-09-21,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,-1,-1,-1,-1,-1,II Liga - Poland,3079224
+SKRA Częstochowa,Znicz Pruszków,2019-09-21,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3037101
+Pogoń Siedlce,Stargard Szczeciński,2019-09-21,3,2,5,y,1,2,2,1,3,2,0,0,2,2,2,5,7,-1,-1,-1,-1,-1,II Liga - Poland,3037098
+Lech Poznań II,Widzew Łódź,2019-09-21,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037104
+Górnik Polkowice,Elana Toruń,2019-09-21,3,0,3,n,3,0,0,3,3,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3037105
+Olimpia Elbląg,Bytovia Bytów,2019-09-21,2,1,3,y,2,1,1,2,3,0,0,0,0,0,2,4,6,-1,-1,-1,-1,-1,II Liga - Poland,3037099
+Stal Rzeszów,Resovia Rzeszów,2019-09-22,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037102
+Resovia Rzeszów,Legionovia Legionowo,2019-09-28,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3079225
+Garbarnia Kraków,Stal Stalowa Wola,2019-09-28,1,3,4,y,0,2,2,0,2,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037109
+Gryf Wejherowo,SKRA Częstochowa,2019-09-28,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3037111
+GKS Katowice,Lech Poznań II,2019-09-28,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037108
+Widzew Łódź,Górnik Polkowice,2019-09-28,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037107
+Elana Toruń,Pogoń Siedlce,2019-09-29,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,II Liga - Poland,3037106
+Znicz Pruszków,Stal Rzeszów,2019-09-29,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,4,7,-1,-1,-1,-1,-1,II Liga - Poland,3037110
+Stargard Szczeciński,Olimpia Elbląg,2019-09-29,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037113
+Bytovia Bytów,Górnik Łęczna,2019-09-29,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037112
+Garbarnia Kraków,Resovia Rzeszów,2019-10-05,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,3,6,-1,-1,-1,-1,-1,II Liga - Poland,3037118
+Stal Rzeszów,Gryf Wejherowo,2019-10-05,1,2,3,y,1,2,2,1,3,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3037117
+SKRA Częstochowa,Bytovia Bytów,2019-10-05,3,2,5,y,1,1,1,1,2,2,1,1,2,3,4,2,6,-1,-1,-1,-1,-1,II Liga - Poland,3037116
+Pogoń Siedlce,Olimpia Elbląg,2019-10-05,0,1,1,n,0,1,1,0,1,0,0,0,0,0,5,3,8,-1,-1,-1,-1,-1,II Liga - Poland,3037114
+Legionovia Legionowo,Znicz Pruszków,2019-10-05,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3079226
+Górnik Polkowice,GKS Katowice,2019-10-05,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,5,6,-1,-1,-1,-1,-1,II Liga - Poland,3037120
+Elana Toruń,Widzew Łódź,2019-10-06,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,4,5,-1,-1,-1,-1,-1,II Liga - Poland,3037121
+Górnik Łęczna,Stargard Szczeciński,2019-10-06,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037115
+Gryf Wejherowo,Legionovia Legionowo,2019-10-12,1,2,3,y,1,0,0,1,1,0,2,2,0,2,1,3,4,-1,-1,-1,-1,-1,II Liga - Poland,3079227
+Resovia Rzeszów,Lech Poznań II,2019-10-12,3,2,5,y,0,2,2,0,2,3,0,0,3,3,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3037125
+GKS Katowice,Elana Toruń,2019-10-12,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037123
+Bytovia Bytów,Stal Rzeszów,2019-10-12,3,2,5,y,1,1,1,1,2,2,1,1,2,3,6,1,7,-1,-1,-1,-1,-1,II Liga - Poland,3037127
+Górnik Polkowice,Stal Stalowa Wola,2019-10-12,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,4,4,-1,-1,-1,-1,-1,II Liga - Poland,3037260
+Olimpia Elbląg,Górnik Łęczna,2019-10-13,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3037129
+Stargard Szczeciński,SKRA Częstochowa,2019-10-13,3,0,3,n,1,0,0,1,1,2,0,0,2,2,3,5,8,-1,-1,-1,-1,-1,II Liga - Poland,3037128
+Garbarnia Kraków,Gryf Wejherowo,2019-10-19,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037133
+Stal Rzeszów,Stargard Szczeciński,2019-10-19,3,1,4,y,1,0,0,1,1,2,1,1,2,3,4,4,8,-1,-1,-1,-1,-1,II Liga - Poland,3037132
+SKRA Częstochowa,Olimpia Elbląg,2019-10-19,0,2,2,n,0,2,2,0,2,0,0,0,0,0,1,0,1,-1,-1,-1,-1,-1,II Liga - Poland,3037131
+Legionovia Legionowo,Bytovia Bytów,2019-10-19,1,1,2,y,0,1,1,0,1,1,0,0,1,1,5,4,9,-1,-1,-1,-1,-1,II Liga - Poland,3079228
+Górnik Polkowice,Resovia Rzeszów,2019-10-19,2,2,4,y,1,1,1,1,2,1,1,1,1,2,5,3,8,-1,-1,-1,-1,-1,II Liga - Poland,3037135
+Widzew Łódź,GKS Katowice,2019-10-19,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,4,7,-1,-1,-1,-1,-1,II Liga - Poland,3037137
+Lech Poznań II,Znicz Pruszków,2019-10-20,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,4,5,-1,-1,-1,-1,-1,II Liga - Poland,3037134
+Pogoń Siedlce,Górnik Łęczna,2019-10-20,3,4,7,y,2,0,0,2,2,1,4,4,1,5,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037130
+Bytovia Bytów,Garbarnia Kraków,2019-10-25,2,1,3,y,1,0,0,1,1,1,1,1,1,2,5,2,7,-1,-1,-1,-1,-1,II Liga - Poland,3037143
+Znicz Pruszków,Górnik Polkowice,2019-10-25,2,4,6,y,0,3,3,0,3,2,1,1,2,3,0,1,1,-1,-1,-1,-1,-1,II Liga - Poland,3037141
+Stargard Szczeciński,Legionovia Legionowo,2019-10-26,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,4,5,-1,-1,-1,-1,-1,II Liga - Poland,3079229
+Resovia Rzeszów,Elana Toruń,2019-10-26,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037140
+Gryf Wejherowo,Lech Poznań II,2019-10-26,1,2,3,y,0,1,1,0,1,1,1,1,1,2,4,3,7,-1,-1,-1,-1,-1,II Liga - Poland,3037142
+Górnik Łęczna,SKRA Częstochowa,2019-10-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,3,3,-1,-1,-1,-1,-1,II Liga - Poland,3037145
+GKS Katowice,Pogoń Siedlce,2019-10-26,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3037138
+Olimpia Elbląg,Stal Rzeszów,2019-10-27,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,4,6,-1,-1,-1,-1,-1,II Liga - Poland,3037144
+Znicz Pruszków,Garbarnia Kraków,2019-10-29,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,II Liga - Poland,3037126
+Elana Toruń,Znicz Pruszków,2019-11-02,2,1,3,y,0,1,1,0,1,2,0,0,2,2,4,3,7,-1,-1,-1,-1,-1,II Liga - Poland,3037151
+Stal Rzeszów,Górnik Łęczna,2019-11-02,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,0,1,-1,-1,-1,-1,-1,II Liga - Poland,3037147
+Legionovia Legionowo,Olimpia Elbląg,2019-11-02,2,2,4,y,1,2,2,1,3,1,0,0,1,1,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3079230
+Górnik Polkowice,Gryf Wejherowo,2019-11-02,5,0,5,n,1,0,0,1,1,4,0,0,4,4,0,2,2,-1,-1,-1,-1,-1,II Liga - Poland,3037150
+GKS Katowice,Stal Stalowa Wola,2019-11-02,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,4,6,-1,-1,-1,-1,-1,II Liga - Poland,3037153
+Garbarnia Kraków,Stargard Szczeciński,2019-11-03,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,2,7,-1,-1,-1,-1,-1,II Liga - Poland,3037148
+Pogoń Siedlce,SKRA Częstochowa,2019-11-03,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037146
+Widzew Łódź,Resovia Rzeszów,2019-11-03,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,1,4,-1,-1,-1,-1,-1,II Liga - Poland,3037152
+Lech Poznań II,Bytovia Bytów,2019-11-03,3,0,3,n,1,0,0,1,1,2,0,0,2,2,3,4,7,-1,-1,-1,-1,-1,II Liga - Poland,3037149
+Stargard Szczeciński,Lech Poznań II,2019-11-09,2,2,4,y,1,0,0,1,1,1,2,2,1,3,7,3,10,-1,-1,-1,-1,-1,II Liga - Poland,3037159
+Resovia Rzeszów,GKS Katowice,2019-11-09,2,2,4,y,0,2,2,0,2,2,0,0,2,2,3,6,9,-1,-1,-1,-1,-1,II Liga - Poland,3037155
+SKRA Częstochowa,Stal Rzeszów,2019-11-09,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,3,4,-1,-1,-1,-1,-1,II Liga - Poland,3037161
+Bytovia Bytów,Górnik Polkowice,2019-11-09,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,II Liga - Poland,3037158
+Pogoń Siedlce,Stal Stalowa Wola,2019-11-09,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,4,6,-1,-1,-1,-1,-1,II Liga - Poland,3037154
+Górnik Łęczna,Legionovia Legionowo,2019-11-09,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,0,1,-1,-1,-1,-1,-1,II Liga - Poland,3079231
+Gryf Wejherowo,Elana Toruń,2019-11-10,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037157
+Znicz Pruszków,Widzew Łódź,2019-11-10,0,6,6,n,0,1,1,0,1,0,5,5,0,5,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037156
+Widzew Łódź,Gryf Wejherowo,2019-11-15,4,0,4,n,1,0,0,1,1,3,0,0,3,3,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037163
+Resovia Rzeszów,Stal Stalowa Wola,2019-11-16,3,2,5,y,0,1,1,0,1,3,1,1,3,4,2,4,6,-1,-1,-1,-1,-1,II Liga - Poland,3037169
+Stargard Szczeciński,Górnik Polkowice,2019-11-16,3,2,5,y,1,2,2,1,3,2,0,0,2,2,3,5,8,-1,-1,-1,-1,-1,II Liga - Poland,3037166
+Lech Poznań II,Olimpia Elbląg,2019-11-16,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3037162
+Bytovia Bytów,Elana Toruń,2019-11-16,1,1,2,y,0,0,0,0,0,1,1,1,1,2,5,4,9,-1,-1,-1,-1,-1,II Liga - Poland,3037167
+Pogoń Siedlce,Stal Rzeszów,2019-11-17,2,1,3,y,2,0,0,2,2,0,1,1,0,1,3,7,10,-1,-1,-1,-1,-1,II Liga - Poland,3037164
+Znicz Pruszków,GKS Katowice,2019-11-17,2,1,3,y,0,0,0,0,0,2,1,1,2,3,4,1,5,-1,-1,-1,-1,-1,II Liga - Poland,3037168
+Resovia Rzeszów,Pogoń Siedlce,2019-11-23,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,6,9,-1,-1,-1,-1,-1,II Liga - Poland,3037170
+Legionovia Legionowo,Stal Rzeszów,2019-11-23,0,3,3,n,0,3,3,0,3,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,II Liga - Poland,3079233
+Garbarnia Kraków,SKRA Częstochowa,2019-11-23,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037177
+Lech Poznań II,Górnik Łęczna,2019-11-23,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3037176
+Elana Toruń,Stargard Szczeciński,2019-11-23,3,2,5,y,1,0,0,1,1,2,2,2,2,4,2,5,7,-1,-1,-1,-1,-1,II Liga - Poland,3037174
+Stal Stalowa Wola,Znicz Pruszków,2019-11-23,2,1,3,y,0,1,1,0,1,2,0,0,2,2,4,2,6,-1,-1,-1,-1,-1,II Liga - Poland,3037171
+Górnik Polkowice,Olimpia Elbląg,2019-11-23,1,1,2,y,1,1,1,1,2,0,0,0,0,0,5,3,8,-1,-1,-1,-1,-1,II Liga - Poland,3037175
+GKS Katowice,Gryf Wejherowo,2019-11-23,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037172
+Widzew Łódź,Bytovia Bytów,2019-11-24,4,0,4,n,1,0,0,1,1,3,0,0,3,3,3,5,8,-1,-1,-1,-1,-1,II Liga - Poland,3037173
+SKRA Częstochowa,Legionovia Legionowo,2019-11-27,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3079232
+SKRA Częstochowa,Lech Poznań II,2019-11-30,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,-1,-1,-1,-1,-1,II Liga - Poland,3037179
+Stal Rzeszów,Garbarnia Kraków,2019-11-30,2,3,5,y,1,2,2,1,3,1,1,1,1,2,5,6,11,-1,-1,-1,-1,-1,II Liga - Poland,3037178
+Górnik Łęczna,Górnik Polkowice,2019-11-30,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,5,8,-1,-1,-1,-1,-1,II Liga - Poland,3037180
+Znicz Pruszków,Resovia Rzeszów,2019-12-01,2,1,3,y,0,0,0,0,0,2,1,1,2,3,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037185
+Pogoń Siedlce,Legionovia Legionowo,2019-12-01,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3079234
+Gryf Wejherowo,Stal Stalowa Wola,2019-12-01,2,3,5,y,0,2,2,0,2,2,1,1,2,3,0,1,1,-1,-1,-1,-1,-1,II Liga - Poland,3037184
+Bytovia Bytów,GKS Katowice,2019-12-01,1,2,3,y,1,0,0,1,1,0,2,2,0,2,1,3,4,-1,-1,-1,-1,-1,II Liga - Poland,3037183
+Lech Poznań II,Stal Rzeszów,2020-02-29,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,5,8,-1,-1,-1,-1,-1,II Liga - Poland,3037193
+Garbarnia Kraków,Legionovia Legionowo,2020-02-29,3,1,4,y,3,1,1,3,4,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,II Liga - Poland,3079235
+Resovia Rzeszów,Gryf Wejherowo,2020-02-29,6,0,6,n,3,0,0,3,3,3,0,0,3,3,0,1,1,-1,-1,-1,-1,-1,II Liga - Poland,3037187
+Górnik Polkowice,SKRA Częstochowa,2020-02-29,4,1,5,y,1,0,0,1,1,3,1,1,3,4,3,3,6,-1,-1,-1,-1,-1,II Liga - Poland,3037192
+GKS Katowice,Stargard Szczeciński,2020-02-29,2,2,4,y,2,2,2,2,4,0,0,0,0,0,0,2,2,-1,-1,-1,-1,-1,II Liga - Poland,3037189
+Stal Stalowa Wola,Bytovia Bytów,2020-02-29,0,0,0,n,0,0,0,0,0,0,0,0,0,0,5,1,6,-1,-1,-1,-1,-1,II Liga - Poland,3037188
+Elana Toruń,Górnik Łęczna,2020-02-29,5,0,5,n,3,0,0,3,3,2,0,0,2,2,1,1,2,-1,-1,-1,-1,-1,II Liga - Poland,3037191
+Znicz Pruszków,Pogoń Siedlce,2020-03-01,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,II Liga - Poland,3037186
+Legionovia Legionowo,Lech Poznań II,2020-03-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,7,11,-1,-1,-1,-1,-1,II Liga - Poland,3079236
+Stargard Szczeciński,Stal Stalowa Wola,2020-03-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,6,7,-1,-1,-1,-1,-1,II Liga - Poland,3037199
+SKRA Częstochowa,Elana Toruń,2020-03-07,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,5,6,-1,-1,-1,-1,-1,II Liga - Poland,3037196
+Stal Rzeszów,Górnik Polkowice,2020-03-07,1,2,3,y,0,2,2,0,2,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037195
+Pogoń Siedlce,Garbarnia Kraków,2020-03-07,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,II Liga - Poland,3037194
+Bytovia Bytów,Resovia Rzeszów,2020-03-07,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037200
+Olimpia Elbląg,GKS Katowice,2020-03-07,3,1,4,y,0,0,0,0,0,3,1,1,3,4,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037198
+Górnik Łęczna,Widzew Łódź,2020-03-08,1,2,3,y,1,2,2,1,3,0,0,0,0,0,3,4,7,-1,-1,-1,-1,-1,II Liga - Poland,3037197
+Gryf Wejherowo,Znicz Pruszków,2020-03-08,1,0,1,n,1,0,0,1,1,0,0,0,0,0,6,4,10,-1,-1,-1,-1,-1,II Liga - Poland,3037201
+Znicz Pruszków,Stal Stalowa Wola,2019-08-03,4,1,5,y,0,1,1,0,1,4,0,0,4,4,1,1,2,-1,-1,-1,-1,-1,II Liga - Poland,3037035
+Górnik Łęczna,Lech Poznań II,2019-08-03,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,5,8,-1,-1,-1,-1,-1,II Liga - Poland,3037040
+Bytovia Bytów,Stal Stalowa Wola,2019-08-17,4,1,5,y,3,0,0,3,3,1,1,1,1,2,3,5,8,-1,-1,-1,-1,-1,II Liga - Poland,3037052
+Olimpia Elbląg,Widzew Łódź,2019-08-17,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037054
+Pogoń Siedlce,Lech Poznań II,2019-08-31,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037210
+Elana Toruń,Legionovia Legionowo,2019-09-01,4,1,5,y,0,1,1,0,1,4,0,0,4,4,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3079221
+Widzew Łódź,Garbarnia Kraków,2019-09-14,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,3,5,-1,-1,-1,-1,-1,II Liga - Poland,3037092
+Lech Poznań II,Stal Stalowa Wola,2019-10-06,2,2,4,y,0,1,1,0,1,2,1,1,2,3,4,2,6,-1,-1,-1,-1,-1,II Liga - Poland,3037119
+Widzew Łódź,Pogoń Siedlce,2019-10-12,7,3,10,y,4,0,0,4,4,3,3,3,3,6,1,3,4,-1,-1,-1,-1,-1,II Liga - Poland,3037122
+Elana Toruń,Stal Stalowa Wola,2019-10-19,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,II Liga - Poland,3037136
+Stal Stalowa Wola,Widzew Łódź,2019-10-26,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037139
+Olimpia Elbląg,Garbarnia Kraków,2019-11-09,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037160
+Górnik Łęczna,Garbarnia Kraków,2019-11-16,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037165
+Stargard Szczeciński,Widzew Łódź,2019-11-30,1,3,4,y,0,2,2,0,2,1,1,1,1,2,3,2,5,-1,-1,-1,-1,-1,II Liga - Poland,3037182
+Olimpia Elbląg,Elana Toruń,2019-11-30,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,2,4,-1,-1,-1,-1,-1,II Liga - Poland,3037181
+Widzew Łódź,Olimpia Elbląg,2020-03-01,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3037190
+Werder Bremen,Eintracht Frankfurt,2020-06-03,0,3,3,n,0,0,0,0,0,0,3,3,0,3,2,1,3,-1,-1,-1,-1,-1,Bundesliga - Germany,3047229
+Hannover 96,Dynamo Dresden,2020-06-03,3,0,3,n,3,0,0,3,3,0,0,0,0,0,0,2,2,-1,-1,-1,-1,-1,2. Bundesliga - Germany,3047552
+Hallescher FC,Eintracht Braunschweig,2020-06-03,0,1,1,n,0,1,1,0,1,0,0,0,0,0,5,2,7,-1,-1,-1,-1,-1,3. Liga - Germany,3053419
+Bayern München II,Preußen Münster,2020-06-03,3,2,5,y,2,2,2,2,4,1,0,0,1,1,3,2,5,-1,-1,-1,-1,-1,3. Liga - Germany,3053420
+Chemnitzer FC,Sonnenhof Großaspach,2020-06-03,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,4,8,-1,-1,-1,-1,-1,3. Liga - Germany,3053422
+MSV Duisburg,Carl Zeiss Jena,2020-06-03,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,2,5,-1,-1,-1,-1,-1,3. Liga - Germany,3053423
+Kaiserslautern,1860 München,2020-06-03,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,3,5,3,4,4,3,7,3. Liga - Germany,3053424
+Portimonense,Gil Vicente,2020-06-03,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,2,2,-1,-1,-1,-1,-1,Primeira Liga - Portugal,3064860
+Famalicão,Porto,2020-06-03,2,1,3,y,0,0,0,0,0,2,1,1,2,3,4,1,5,-1,-1,-1,-1,-1,Primeira Liga - Portugal,3064863
+Opava,Bohemians 1905,2020-06-03,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,3,5,5,3,3,5,8,Czech Liga - Czech-republic,3036994
+Sparta Praha,Teplice,2020-06-03,3,0,3,n,3,0,0,3,3,0,0,0,0,0,1,2,3,7,2,2,7,9,Czech Liga - Czech-republic,3036995
+Slovácko,Karviná,2020-06-03,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,1,2,3,9,9,3,12,Czech Liga - Czech-republic,3036996
+České Budějovice,Sigma Olomouc,2020-06-03,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,2,2,3,7,7,3,10,Czech Liga - Czech-republic,3036998
+Baník Ostrava,Viktoria Plzen,2020-06-03,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,0,1,3,8,8,3,11,Czech Liga - Czech-republic,3037001
+Ústí nad Labem,Vlašim,2020-06-03,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,2,3,7,7,7,7,14,FNL - Czech-republic,3039397
+Baník Sokolov,Pardubice,2020-06-03,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,1,2,2,2,2,2,4,FNL - Czech-republic,3039400
+Jastrzębie,Warta Poznań,2020-06-03,1,2,3,y,1,1,1,1,2,0,1,1,0,1,3,3,6,9,7,7,9,16,I Liga - Poland,3034575
+Olimpia Grudziądz,Podbeskidzie,2020-06-03,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,0,1,1,6,6,1,7,I Liga - Poland,3034583
+Górnik Polkowice,Legionovia Legionowo,2020-06-03,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,1,3,-1,-1,-1,-1,-1,II Liga - Poland,3079237
+Gryf Wejherowo,Pogoń Siedlce,2020-06-03,2,3,5,y,1,3,3,1,4,1,0,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037202
+Znicz Pruszków,Bytovia Bytów,2020-06-03,0,2,2,n,0,1,1,0,1,0,1,1,0,1,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037203
+Resovia Rzeszów,Stargard Szczeciński,2020-06-03,1,1,2,y,1,0,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037204
+Stal Stalowa Wola,Olimpia Elbląg,2020-06-03,2,2,4,y,0,1,1,0,1,2,1,1,2,3,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037205
+Elana Toruń,Stal Rzeszów,2020-06-03,1,4,5,y,0,1,1,0,1,1,3,3,1,4,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037208
+Lech Poznań II,Garbarnia Kraków,2020-06-03,2,2,4,y,1,1,1,1,2,1,1,1,1,2,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037209
+Widzew Łódź,SKRA Częstochowa,2020-06-03,1,2,3,y,0,0,0,0,0,1,2,2,1,3,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037207
+GKS Katowice,Górnik Łęczna,2020-06-03,2,1,3,y,1,1,1,1,2,1,0,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037206
