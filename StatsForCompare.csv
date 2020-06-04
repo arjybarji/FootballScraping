@@ -1311,6 +1311,7 @@ Lechia Gdańsk,Raków Częstochowa,2019-12-21,0,3,3,n,0,0,0,0,0,0,3,3,0,3,4,0,4,
 Pogoń Szczecin,Korona Kielce,2019-12-20,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,6,4,4,6,10,Ekstraklasa - Poland,3025857
 Wisła Płock,Piast Gliwice,2019-12-21,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,2,3,3,2,2,3,5,Ekstraklasa - Poland,3025858
 Zagłębie Lubin,Legia Warszawa,2019-12-20,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,3,6,6,3,3,6,9,Ekstraklasa - Poland,3025859
+<<<<<<< HEAD
 Zenit,Tambov,2019-07-14,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,2,1,1,2,3,Premier League - Russia,3027073
 Spartak Moscow,Sochi,2019-07-13,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,2,6,7,5,5,7,12,Premier League - Russia,3027074
 Rostov,Orenburg,2019-07-13,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,3,5,5,0,0,5,5,Premier League - Russia,3027075
@@ -1622,6 +1623,8 @@ Bačka Topola,Vojvodina,2019-12-08,2,0,2,n,1,0,0,1,1,1,0,0,1,1,4,2,6,5,9,9,5,14,
 Radnik Surdulica,Inđija,2019-12-08,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,5,9,-1,-1,-1,-1,-1,Super Liga - Serbia,3030172
 Rad Beograd,Partizan,2019-12-08,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,2,4,5,3,3,5,8,Super Liga - Serbia,3030173
 Napredak,Mačva Šabac,2019-12-08,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,2,3,2,6,6,2,8,Super Liga - Serbia,3030174
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Nürnberg,Dynamo Dresden,2019-12-20,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,4,7,7,5,5,7,12,2. Bundesliga - Germany,3047481
 Karlsruher SC,Wehen Wiesbaden,2019-12-20,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,3,5,8,1,1,8,9,2. Bundesliga - Germany,3047488
 Bayern Munich,Wolfsburg,2019-12-21,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,2,4,12,6,6,12,18,Bundesliga - Germany,3047164
@@ -1962,12 +1965,15 @@ Lechia Gdańsk,Piast Gliwice,2020-02-14,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,0,2,2,6,6,
 Pogoń Szczecin,Śląsk Wrocław,2020-02-15,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5,5,5,10,Ekstraklasa - Poland,3025873
 Raków Częstochowa,Legia Warszawa,2020-02-15,2,2,4,y,1,0,0,1,1,1,2,2,1,3,0,2,2,5,7,7,5,12,Ekstraklasa - Poland,3025874
 Zagłębie Lubin,Wisła Kraków,2020-02-16,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,2,2,7,7,7,7,14,Ekstraklasa - Poland,3025875
+<<<<<<< HEAD
 Napredak,Javor Ivanjica,2020-02-15,1,1,2,y,0,0,0,0,0,1,1,1,1,2,-1,-1,-1,7,2,2,7,9,Super Liga - Serbia,3030175
 Mačva Šabac,Rad Beograd,2020-02-15,1,0,1,n,1,0,0,1,1,0,0,0,0,0,-1,-1,-1,2,9,9,2,11,Super Liga - Serbia,3030176
 Partizan,Radnik Surdulica,2020-02-16,3,0,3,n,1,0,0,1,1,2,0,0,2,2,-1,-1,-1,7,1,1,7,8,Super Liga - Serbia,3030177
 Inđija,Bačka Topola,2020-02-15,1,1,2,y,0,0,0,0,0,1,1,1,1,2,-1,-1,-1,2,9,9,2,11,Super Liga - Serbia,3030178
 Vojvodina,Proleter Novi Sad,2020-02-15,1,0,1,n,0,0,0,0,0,1,0,0,1,1,-1,-1,-1,20,3,3,20,23,Super Liga - Serbia,3030179
 Čukarički,Crvena Zvezda,2020-02-15,0,2,2,n,0,2,2,0,2,0,0,0,0,0,-1,-1,-1,3,4,4,3,7,Super Liga - Serbia,3030180
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Debrecen,Mezőkövesd-Zsóry,2020-02-15,1,3,4,y,0,2,2,0,2,1,1,1,1,2,2,2,4,8,4,4,8,12,NB I - Hungary,3050652
 Ferencvaros,Fehérvár,2020-02-15,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,6,9,10,4,4,10,14,NB I - Hungary,3050653
 Zalaegerszegi TE,Újpest,2020-02-15,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,5,5,6,7,7,6,13,NB I - Hungary,3050654
@@ -1990,7 +1996,10 @@ Bayern München II,Hallescher FC,2020-02-17,6,1,7,y,2,1,1,2,3,4,0,0,4,4,1,2,3,3,
 Vitoria Guimaraes,Porto,2020-02-16,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,2,2,4,5,5,4,9,Primeira Liga - Portugal,3064831
 Midtjylland,Lyngby,2020-02-17,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,3,3,5,2,2,5,7,Superliga - Denmark,3027021
 Jablonec,Příbram,2020-02-17,4,0,4,n,1,0,0,1,1,3,0,0,3,3,0,2,2,7,8,8,7,15,Czech Liga - Czech-republic,3036952
+<<<<<<< HEAD
 Spartak Subotica,Radnički Niš,2020-02-16,1,1,2,y,1,1,1,1,2,0,0,0,0,0,3,4,7,7,3,3,7,10,Super Liga - Serbia,3030181
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Nordsjælland,Horsens,2020-02-19,6,0,6,n,2,0,0,2,2,4,0,0,4,4,2,2,4,1,1,1,1,2,Superliga - Denmark,3027023
 Bayern Munich,Paderborn,2020-02-21,3,2,5,y,1,1,1,1,2,2,1,1,2,3,1,3,4,11,1,1,11,12,Bundesliga - Germany,3047218
 Bayer Leverkusen,Augsburg,2020-02-23,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,4,6,2,3,3,2,5,Bundesliga - Germany,3047219
@@ -2040,12 +2049,15 @@ Piast Gliwice,Cracovia Kraków,2020-02-22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,3,3,8,8,
 Śląsk Wrocław,Górnik Zabrze,2020-02-21,2,1,3,y,2,0,0,2,2,0,1,1,0,1,0,0,0,1,6,6,1,7,Ekstraklasa - Poland,3025881
 Wisła Kraków,Korona Kielce,2020-02-23,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,5,8,8,6,6,8,14,Ekstraklasa - Poland,3025882
 Wisła Płock,Zagłębie Lubin,2020-02-23,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,1,2,7,9,9,7,16,Ekstraklasa - Poland,3025883
+<<<<<<< HEAD
 Mladost Lučani,Voždovac,2020-02-15,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,3,4,4,3,3,4,7,Super Liga - Serbia,3030182
 Javor Ivanjica,Mladost Lučani,2020-02-21,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,1,3,6,4,4,6,10,Super Liga - Serbia,3030183
 Voždovac,Spartak Subotica,2020-02-21,2,3,5,y,2,0,0,2,2,0,3,3,0,3,3,3,6,2,4,4,2,6,Super Liga - Serbia,3030184
 Radnički Niš,Čukarički,2020-02-22,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,4,6,3,3,3,3,6,Super Liga - Serbia,3030185
 Crvena Zvezda,Vojvodina,2020-02-22,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,4,6,7,2,2,7,9,Super Liga - Serbia,3030186
 Proleter Novi Sad,Inđija,2020-02-22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,4,3,3,4,7,Super Liga - Serbia,3030187
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Mezőkövesd-Zsóry,Ferencvaros,2020-02-22,3,0,3,n,3,0,0,3,3,0,0,0,0,0,2,3,5,6,9,9,6,15,NB I - Hungary,3050658
 Kisvárda,Diósgyőr,2020-02-22,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,2,4,3,10,10,3,13,NB I - Hungary,3050659
 Honvéd,Puskás,2020-02-22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,4,7,2,8,8,2,10,NB I - Hungary,3050660
@@ -2070,6 +2082,7 @@ Austria Klagenfurt,Ried,2020-02-21,1,1,2,y,1,0,0,1,1,0,1,1,0,1,5,3,8,1,9,9,1,10,
 Grazer AK,Floridsdorfer AC,2020-02-23,1,2,3,y,1,1,1,1,2,0,1,1,0,1,5,2,7,4,9,9,4,13,2. Liga - Austria,3040507
 Nordsjælland,SønderjyskE,2020-02-23,2,1,3,y,0,1,1,0,1,2,0,0,2,2,2,3,5,10,4,4,10,14,Superliga - Denmark,3027030
 Baník Ostrava,Jablonec,2020-02-24,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,4,6,6,4,4,6,10,Czech Liga - Czech-republic,3036960
+<<<<<<< HEAD
 Bačka Topola,Partizan,2020-02-22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,4,8,0,2,2,0,2,Super Liga - Serbia,3030188
 Inđija,Crvena Zvezda,2020-02-26,1,1,2,y,1,0,0,1,1,0,1,1,0,1,-1,-1,-1,1,4,4,1,5,Super Liga - Serbia,3030195
 Spartak Subotica,Mladost Lučani,2020-02-26,3,1,4,y,1,0,0,1,1,2,1,1,2,3,-1,-1,-1,6,3,3,6,9,Super Liga - Serbia,3030198
@@ -2080,6 +2093,9 @@ Mačva Šabac,Bačka Topola,2020-02-26,0,1,1,n,0,1,1,0,1,0,0,0,0,0,-1,-1,-1,3,4,
 Partizan,Proleter Novi Sad,2020-02-26,3,1,4,y,2,0,0,2,2,1,1,1,1,2,-1,-1,-1,6,2,2,6,8,Super Liga - Serbia,3030194
 Vojvodina,Radnički Niš,2020-02-26,3,0,3,n,1,0,0,1,1,2,0,0,2,2,-1,-1,-1,6,5,5,6,11,Super Liga - Serbia,3030196
 Čukarički,Voždovac,2020-02-26,2,1,3,y,2,0,0,2,2,0,1,1,0,1,-1,-1,-1,6,3,3,6,9,Super Liga - Serbia,3030197
+=======
+Viktoria Plzen,Příbram,2020-02-22,4,0,4,n,2,0,0,2,2,2,0,0,2,2,0,1,1,11,2,2,11,13,Czech Liga - Czech-republic,3036959
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Desportivo Aves,Vitoria Guimaraes,2020-02-21,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,1,3,6,5,5,6,11,Primeira Liga - Portugal,3064838
 Würzburger Kickers,Eintracht Braunschweig,2020-02-22,3,1,4,y,2,0,0,2,2,1,1,1,1,2,1,2,3,5,4,4,5,9,3. Liga - Germany,3053379
 MSV Duisburg,Waldhof Mannheim,2020-02-22,2,3,5,y,2,0,0,2,2,0,3,3,0,3,1,1,2,2,5,5,2,7,3. Liga - Germany,3053387
@@ -2117,11 +2133,14 @@ Jagiellonia Białystok,Lech Poznań,2020-02-28,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,3,6
 Legia Warszawa,Cracovia Kraków,2020-02-29,2,1,3,y,2,0,0,2,2,0,1,1,0,1,3,3,6,6,3,3,6,9,Ekstraklasa - Poland,3025888
 Raków Częstochowa,Piast Gliwice,2020-02-28,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,2,5,5,3,3,5,8,Ekstraklasa - Poland,3025889
 Wisła Kraków,Wisła Płock,2020-02-29,2,2,4,y,1,1,1,1,2,1,1,1,1,2,1,4,5,2,6,6,2,8,Ekstraklasa - Poland,3025890
+<<<<<<< HEAD
 Zenit,Lokomotiv Moscow,2020-02-29,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,2,5,8,2,2,8,10,Premier League - Russia,3027225
 Dinamo Moscow,Spartak Moscow,2020-02-29,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,0,2,4,2,2,4,6,Premier League - Russia,3027229
 Akhmat Grozny,Rostov,2020-02-29,1,1,2,y,0,1,1,0,1,1,0,0,1,1,5,3,8,2,5,5,2,7,Premier League - Russia,3027230
 Krylya Sovetov,Orenburg,2020-02-28,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,5,7,5,8,8,5,13,Premier League - Russia,3027232
 Rad Beograd,Napredak,2020-02-22,2,0,2,n,2,0,0,2,2,0,0,0,0,0,4,3,7,1,6,6,1,7,Super Liga - Serbia,3030190
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Ferencvaros,Debrecen,2020-02-29,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,3,3,0,6,6,0,6,NB I - Hungary,3050664
 Mezőkövesd-Zsóry,Zalaegerszegi TE,2020-02-29,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,3,6,10,5,5,10,15,NB I - Hungary,3050665
 Újpest,Puskás,2020-02-29,2,3,5,y,1,2,2,1,3,1,1,1,1,2,2,2,4,3,1,1,3,4,NB I - Hungary,3050667
@@ -2154,6 +2173,7 @@ Dinamo Zagreb,Rijeka,2020-02-29,4,0,4,n,1,0,0,1,1,3,0,0,3,3,2,1,3,2,6,6,2,8,1. H
 Górnik Zabrze,Pogoń Szczecin,2020-02-29,3,1,4,y,2,0,0,2,2,1,1,1,1,2,3,1,4,7,5,5,7,12,Ekstraklasa - Poland,3025885
 Korona Kielce,Lechia Gdańsk,2020-03-01,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,6,9,12,7,7,12,19,Ekstraklasa - Poland,3025887
 Zagłębie Lubin,Śląsk Wrocław,2020-03-01,3,1,4,y,0,0,0,0,0,3,1,1,3,4,1,1,2,3,2,2,3,5,Ekstraklasa - Poland,3025891
+<<<<<<< HEAD
 Tambov,Rubin Kazan,2020-03-01,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,5,3,3,5,8,Premier League - Russia,3027227
 CSKA Moscow,Ural,2020-02-29,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,2,2,7,2,2,7,9,Premier League - Russia,3027228
 Radnik Surdulica,Mačva Šabac,2020-02-22,2,2,4,y,0,0,0,0,0,2,2,2,2,4,2,4,6,9,3,3,9,12,Super Liga - Serbia,3030189
@@ -2164,12 +2184,17 @@ Radnički Niš,Inđija,2020-03-01,2,1,3,y,0,0,0,0,0,2,1,1,2,3,-1,-1,-1,5,6,6,5,1
 Crvena Zvezda,Partizan,2020-03-01,0,0,0,n,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,4,2,2,4,6,Super Liga - Serbia,3030203
 Proleter Novi Sad,Mačva Šabac,2020-03-01,1,1,2,y,0,0,0,0,0,1,1,1,1,2,-1,-1,-1,8,5,5,8,13,Super Liga - Serbia,3030204
 Radnik Surdulica,Rad Beograd,2020-03-01,1,0,1,n,1,0,0,1,1,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,Super Liga - Serbia,3030206
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Fehérvár,Kaposvári Rákóczi,2020-02-29,3,0,3,n,3,0,0,3,3,0,0,0,0,0,1,4,5,13,4,4,13,17,NB I - Hungary,3050666
 Honvéd,Diósgyőr,2020-02-29,0,4,4,n,0,0,0,0,0,0,4,4,0,4,5,5,10,1,2,2,1,3,NB I - Hungary,3050668
 Marítimo,Sporting Braga,2020-03-01,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,3,8,5,8,8,5,13,Primeira Liga - Portugal,3064845
 Slovácko,Slavia Praha,2020-03-01,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,2,5,2,5,5,2,7,Czech Liga - Czech-republic,3036965
+<<<<<<< HEAD
 Sochi,Arsenal Tula,2020-03-01,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,2,4,4,6,6,4,10,Premier League - Russia,3027231
 Bačka Topola,Napredak,2020-03-01,2,1,3,y,1,0,0,1,1,1,1,1,1,2,-1,-1,-1,13,1,1,13,14,Super Liga - Serbia,3030205
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Ingolstadt,Viktoria Köln,2020-03-01,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,10,4,4,10,14,3. Liga - Germany,3053396
 Hannover 96,Holstein Kiel,2020-03-02,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,0,1,-1,-1,-1,-1,-1,2. Bundesliga - Germany,3047534
 Preußen Münster,Hansa Rostock,2020-03-02,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,3. Liga - Germany,3053397
@@ -2191,7 +2216,10 @@ Istra 1961,Osijek,2020-03-04,1,0,1,n,1,0,0,1,1,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1
 Śląsk Wrocław,Korona Kielce,2020-03-04,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,4,5,4,6,6,4,10,Ekstraklasa - Poland,3025898
 Lechia Gdańsk,Legia Warszawa,2020-03-04,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,4,6,3,3,3,3,6,Ekstraklasa - Poland,3025894
 Piast Gliwice,Arka Gdynia,2020-03-04,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,2,2,15,1,1,15,16,Ekstraklasa - Poland,3025896
+<<<<<<< HEAD
 Krasnodar,Ufa,2020-03-01,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,5,9,-1,-1,-1,-1,-1,Premier League - Russia,3027226
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Cracovia Kraków,Wisła Kraków,2020-03-03,0,2,2,n,0,0,0,0,0,0,2,2,0,2,6,3,9,9,8,8,9,17,Ekstraklasa - Poland,3025892
 Hajduk Split,Dinamo Zagreb,2020-03-04,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,3,5,4,6,6,4,10,1. HNL - Croatia,3029933
 Hertha BSC,Werder Bremen,2020-03-07,2,2,4,y,1,2,2,1,3,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,Bundesliga - Germany,3047240
@@ -2210,6 +2238,7 @@ Horn,Grazer AK,2020-03-06,4,2,6,y,1,1,1,1,2,3,1,1,3,4,2,3,5,5,2,2,5,7,2. Liga - 
 Zlín,Bohemians 1905,2020-03-07,2,3,5,y,1,2,2,1,3,1,1,1,1,2,4,2,6,5,4,4,5,9,Czech Liga - Czech-republic,3036973
 Inter Zaprešić,Slaven Koprivnica,2020-03-07,0,2,2,n,0,2,2,0,2,0,0,0,0,0,4,4,8,5,7,7,5,12,1. HNL - Croatia,3029937
 Górnik Zabrze,Cracovia Kraków,2020-03-06,3,2,5,y,1,1,1,1,2,2,1,1,2,3,5,3,8,5,6,6,5,11,Ekstraklasa - Poland,3025901
+<<<<<<< HEAD
 Dinamo Moscow,Tambov,2020-03-07,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,4,5,-1,-1,-1,-1,-1,Premier League - Russia,3027235
 Orenburg,Arsenal Tula,2020-03-07,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,6,9,-1,-1,-1,-1,-1,Premier League - Russia,3027240
 Radnik Surdulica,Javor Ivanjica,2020-03-07,2,0,2,n,1,0,0,1,1,1,0,0,1,1,-1,-1,-1,7,4,4,7,11,Super Liga - Serbia,3030207
@@ -2218,6 +2247,8 @@ Napredak,Proleter Novi Sad,2020-03-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,5,4,4
 Mačva Šabac,Crvena Zvezda,2020-03-07,0,3,3,n,0,3,3,0,3,0,0,0,0,0,-1,-1,-1,0,3,3,0,3,Super Liga - Serbia,3030210
 Vojvodina,Mladost Lučani,2020-03-07,2,1,3,y,0,0,0,0,0,2,1,1,2,3,-1,-1,-1,6,5,5,6,11,Super Liga - Serbia,3030213
 Čukarički,Spartak Subotica,2020-03-06,4,1,5,y,3,0,0,3,3,1,1,1,1,2,-1,-1,-1,4,1,1,4,5,Super Liga - Serbia,3030214
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Bayer Leverkusen,Eintracht Frankfurt,2020-03-07,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,0,1,-1,-1,-1,-1,-1,Bundesliga - Germany,3047237
 Borussia M'gladbach,Borussia Dortmund,2020-03-07,1,2,3,y,0,1,1,0,1,1,1,1,1,2,5,5,10,-1,-1,-1,-1,-1,Bundesliga - Germany,3047238
 Wolfsburg,RB Leipzig,2020-03-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,3,5,-1,-1,-1,-1,-1,Bundesliga - Germany,3047239
@@ -2253,8 +2284,11 @@ Jagiellonia Białystok,Śląsk Wrocław,2020-03-07,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3
 Legia Warszawa,Piast Gliwice,2020-03-08,1,2,3,y,1,1,1,1,2,0,1,1,0,1,4,2,6,5,4,4,5,9,Ekstraklasa - Poland,3025904
 Raków Częstochowa,Pogoń Szczecin,2020-03-08,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,4,6,6,4,10,Ekstraklasa - Poland,3025905
 Zagłębie Lubin,Lechia Gdańsk,2020-03-07,4,4,8,y,2,3,3,2,5,2,1,1,2,3,4,3,7,9,5,5,9,14,Ekstraklasa - Poland,3025907
+<<<<<<< HEAD
 Lokomotiv Moscow,Akhmat Grozny,2020-03-08,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,3,7,-1,-1,-1,-1,-1,Premier League - Russia,3027236
 Partizan,Radnički Niš,2020-03-07,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,1,1,7,3,3,7,10,Super Liga - Serbia,3030211
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Paksi SE,Honvéd,2020-03-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,3,5,8,NB I - Hungary,3050670
 Diósgyőr,Újpest,2020-03-07,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,4,4,2,6,6,2,8,NB I - Hungary,3050671
 Puskás,Fehérvár,2020-03-07,1,4,5,y,1,0,0,1,1,0,4,4,0,4,5,2,7,7,4,4,7,11,NB I - Hungary,3050672
@@ -2269,7 +2303,10 @@ Vitória Setúbal,Benfica,2020-03-07,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,3,7,-1,-1,-1,
 Moreirense,Marítimo,2020-03-08,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,4,4,-1,-1,-1,-1,-1,Primeira Liga - Portugal,3064855
 Amstetten,Ried,2020-03-08,1,2,3,y,1,1,1,1,2,0,1,1,0,1,4,6,10,6,9,9,6,15,2. Liga - Austria,3040521
 Wisła Kraków,Lech Poznań,2020-03-08,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,1,3,4,8,8,4,12,Ekstraklasa - Poland,3025906
+<<<<<<< HEAD
 Rubin Kazan,Krylya Sovetov,2020-03-08,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,5,9,-1,-1,-1,-1,-1,Premier League - Russia,3027237
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Paderborn,Köln,2020-03-06,1,2,3,y,0,2,2,0,2,1,0,0,1,1,3,4,7,-1,-1,-1,-1,-1,Bundesliga - Germany,3047244
 Sporting Braga,Portimonense,2020-03-06,3,1,4,y,2,0,0,2,2,1,1,1,1,2,0,3,3,-1,-1,-1,-1,-1,Primeira Liga - Portugal,3064858
 Heidenheim,Karlsruher SC,2020-03-07,3,1,4,y,3,0,0,3,3,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,2. Bundesliga - Germany,3047546
@@ -2277,14 +2314,18 @@ Viktoria Köln,Preußen Münster,2020-03-07,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,3,6,5,
 Austria Klagenfurt,Dornbirn,2020-03-07,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,3,4,6,0,0,6,6,2. Liga - Austria,3040520
 Arka Gdynia,Wisła Płock,2020-03-07,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,3,6,5,6,6,5,11,Ekstraklasa - Poland,3025900
 Sporting CP,Desportivo Aves,2020-03-08,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,-1,-1,-1,-1,-1,Primeira Liga - Portugal,3064852
+<<<<<<< HEAD
 Sochi,Ural,2020-03-08,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,Premier League - Russia,3027126
 Inđija,Voždovac,2020-03-08,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,3,5,0,2,2,0,2,Super Liga - Serbia,3030212
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Borussia M'gladbach,Köln,2020-03-11,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,Bundesliga - Germany,3047202
 Hansa Rostock,Eintracht Braunschweig,2020-03-09,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,3. Liga - Germany,3053399
 Kapfenberger SV,Juniors OÖ,2020-03-10,2,2,4,y,0,2,2,0,2,2,0,0,2,2,2,1,3,9,5,5,9,14,2. Liga - Austria,3040518
 Silkeborg,AGF,2020-03-09,2,1,3,y,2,0,0,2,2,0,1,1,0,1,3,4,7,-1,-1,-1,-1,-1,Superliga - Denmark,3027047
 Baník Ostrava,Mladá Boleslav,2020-03-09,2,3,5,y,1,2,2,1,3,1,1,1,1,2,4,4,8,6,6,6,6,12,Czech Liga - Czech-republic,3036974
 HNK Gorica,Lokomotiva Zagreb,2020-03-09,1,3,4,y,0,0,0,0,0,1,3,3,1,4,1,0,1,3,0,0,3,3,1. HNL - Croatia,3029938
+<<<<<<< HEAD
 Sochi,Orenburg,2020-03-11,5,1,6,y,2,0,0,2,2,3,1,1,3,4,0,1,1,-1,-1,-1,-1,-1,Premier League - Russia,3027215
 Spartak Moscow,Krasnodar,2020-03-09,0,1,1,n,0,0,0,0,0,0,1,1,0,1,5,3,8,-1,-1,-1,-1,-1,Premier League - Russia,3027233
 Rostov,CSKA Moscow,2020-03-09,3,2,5,y,1,1,1,1,2,2,1,1,2,3,5,7,12,-1,-1,-1,-1,-1,Premier League - Russia,3027234
@@ -2304,15 +2345,22 @@ Radnički Niš,Mačva Šabac,2020-03-14,3,1,4,y,1,1,1,1,2,2,0,0,2,2,-1,-1,-1,11,
 Crvena Zvezda,Napredak,2020-03-14,3,0,3,n,1,0,0,1,1,2,0,0,2,2,-1,-1,-1,11,0,0,11,11,Super Liga - Serbia,3030220
 Proleter Novi Sad,Rad Beograd,2020-03-14,5,0,5,n,1,0,0,1,1,4,0,0,4,4,-1,-1,-1,4,8,8,4,12,Super Liga - Serbia,3030221
 Bačka Topola,Radnik Surdulica,2020-03-14,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,3,4,11,1,1,11,12,Super Liga - Serbia,3030222
+=======
+Stuttgart,Arminia Bielefeld,2020-03-09,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,2. Bundesliga - Germany,3047543
+Korona Kielce,ŁKS Łódź,2020-03-09,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,6,4,4,6,10,Ekstraklasa - Poland,3025903
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Ferencvaros,Kaposvári Rákóczi,2020-03-14,5,0,5,n,1,0,0,1,1,4,0,0,4,4,1,1,2,-1,-1,-1,-1,-1,NB I - Hungary,3050676
 Mezőkövesd-Zsóry,Puskás,2020-03-14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,NB I - Hungary,3050677
 Fehérvár,Diósgyőr,2020-03-14,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,NB I - Hungary,3050678
 Újpest,Paksi SE,2020-03-14,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,NB I - Hungary,3050679
 Honvéd,Kisvárda,2020-03-14,1,5,6,y,0,2,2,0,2,1,3,3,1,4,3,2,5,-1,-1,-1,-1,-1,NB I - Hungary,3050680
 Debrecen,Zalaegerszegi TE,2020-03-14,0,3,3,n,0,2,2,0,2,0,1,1,0,1,1,3,4,-1,-1,-1,-1,-1,NB I - Hungary,3050681
+<<<<<<< HEAD
 Zenit,Ural,2020-03-14,7,1,8,y,4,0,0,4,4,3,1,1,3,4,1,1,2,-1,-1,-1,-1,-1,Premier League - Russia,3027241
 Rostov,Lokomotiv Moscow,2020-03-15,1,3,4,y,0,3,3,0,3,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Premier League - Russia,3027242
 Tambov,Krylya Sovetov,2020-03-16,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,4,6,-1,-1,-1,-1,-1,Premier League - Russia,3027243
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Jeonbuk Motors,Suwon Bluewings,2020-05-08,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,K League 1 - Korea-republic,3269418
 Ulsan,Sangju Sangmu,2020-05-09,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,1,2,-1,-1,-1,-1,-1,K League 1 - Korea-republic,3269419
 Gwangju,Seongnam,2020-05-09,0,2,2,n,0,2,2,0,2,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,K League 1 - Korea-republic,3269421
@@ -2898,12 +2946,15 @@ Maribor,Bravo,2020-03-07,1,2,3,y,0,2,2,0,2,1,0,0,1,1,3,0,3,4,4,4,4,8,1. SNL - Sl
 Triglav,Celje,2020-03-08,0,5,5,n,0,2,2,0,2,0,3,3,0,3,2,0,2,5,10,10,5,15,1. SNL - Slovenia,3039606
 Rudar,Tabor Sežana,2020-03-08,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,2,6,6,2,8,1. SNL - Slovenia,3039607
 Olimpija,Mura,2020-03-08,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,2,6,8,8,8,8,16,1. SNL - Slovenia,3039608
+<<<<<<< HEAD
 Bačka Topola,Javor Ivanjica,2020-05-31,6,1,7,y,2,0,0,2,2,4,1,1,4,5,-1,-1,-1,7,10,10,7,17,Super Liga - Serbia,3030223
 Radnik Surdulica,Proleter Novi Sad,2020-05-30,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,2,3,5,3,3,5,8,Super Liga - Serbia,3030224
 Rad Beograd,Crvena Zvezda,2020-05-29,0,5,5,n,0,3,3,0,3,0,2,2,0,2,2,1,3,0,5,5,0,5,Super Liga - Serbia,3030225
 Napredak,Radnički Niš,2020-05-30,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,5,7,6,2,2,6,8,Super Liga - Serbia,3030226
 Partizan,Mladost Lučani,2020-05-30,4,1,5,y,2,1,1,2,3,2,0,0,2,2,1,2,3,5,1,1,5,6,Super Liga - Serbia,3030228
 Vojvodina,Čukarički,2020-05-29,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,3,5,7,5,5,7,12,Super Liga - Serbia,3030230
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Honvéd,Debrecen,2020-05-31,3,1,4,y,1,0,0,1,1,2,1,1,2,3,4,1,5,3,3,3,3,6,NB I - Hungary,3050682
 Kisvárda,Újpest,2020-05-30,1,0,1,n,0,0,0,0,0,1,0,0,1,1,4,4,8,6,7,7,6,13,NB I - Hungary,3050683
 Paksi SE,Fehérvár,2020-05-30,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,2,9,9,2,11,NB I - Hungary,3050684
@@ -2951,7 +3002,10 @@ Domžale,Celje,2020-03-01,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,2,3,3,6,6,3,9,1. SNL - S
 Rudar,Olimpija,2020-02-29,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,2,4,4,14,14,4,18,1. SNL - Slovenia,3039598
 Tabor Sežana,Triglav,2020-03-05,3,1,4,y,1,1,1,1,2,2,0,0,2,2,3,0,3,12,2,2,12,14,1. SNL - Slovenia,3039601
 Domžale,Aluminij,2020-03-07,1,3,4,y,0,1,1,0,1,1,2,2,1,3,0,4,4,6,1,1,6,7,1. SNL - Slovenia,3039604
+<<<<<<< HEAD
 Inđija,Spartak Subotica,2020-05-29,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,2,4,3,4,4,3,7,Super Liga - Serbia,3030229
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Vysočina Jihlava,Varnsdorf,2020-05-29,1,2,3,y,0,0,0,0,0,1,2,2,1,3,3,3,6,7,3,3,7,10,FNL - Czech-republic,3039394
 Gangwon,Jeonbuk Motors,2020-05-30,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,K League 1 - Korea-republic,3269437
 Hertha BSC,Augsburg,2020-05-30,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,Bundesliga - Germany,3047275
@@ -2968,7 +3022,10 @@ Teplice,Opava,2020-05-31,2,2,4,y,1,1,1,1,2,1,1,1,1,2,4,1,5,5,6,6,5,11,Czech Liga
 Bohemians 1905,České Budějovice,2020-05-31,3,2,5,y,2,0,0,2,2,1,2,2,1,3,1,4,5,9,6,6,9,15,Czech Liga - Czech-republic,3036993
 Karviná,Sparta Praha,2020-05-31,1,4,5,y,1,0,0,1,1,0,4,4,0,4,3,2,5,0,7,7,0,7,Czech Liga - Czech-republic,3036986
 Wisła Płock,Korona Kielce,2020-05-31,1,4,5,y,1,2,2,1,3,0,2,2,0,2,1,2,3,3,6,6,3,9,Ekstraklasa - Poland,3025915
+<<<<<<< HEAD
 Mačva Šabac,Voždovac,2020-05-31,0,1,1,n,0,0,0,0,0,0,1,1,0,1,-1,-1,-1,4,4,4,4,8,Super Liga - Serbia,3030227
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Randers,Hobro,2020-06-01,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,0,2,-1,-1,-1,-1,-1,Superliga - Denmark,3027050
 AGF,OB,2020-06-01,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,1,4,-1,-1,-1,-1,-1,Superliga - Denmark,3027051
 Lyngby,Copenhagen,2020-06-01,1,4,5,y,0,1,1,0,1,1,3,3,1,4,3,0,3,-1,-1,-1,-1,-1,Superliga - Denmark,3027053
@@ -3167,6 +3224,7 @@ Stal Mielec,Jastrzębie,2019-10-04,3,1,4,y,1,1,1,1,2,2,0,0,2,2,0,2,2,10,8,8,10,1
 Bełchatów,Olimpia Grudziądz,2019-10-12,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,2,4,4,2,6,I Liga - Poland,3034488
 Olimpia Grudziądz,Radomiak Radom,2019-10-19,2,2,4,y,2,0,0,2,2,0,2,2,0,2,3,4,7,5,7,7,5,12,I Liga - Poland,3034499
 Nieciecza,Bełchatów,2019-10-19,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,2,4,9,2,2,9,11,I Liga - Poland,3034500
+<<<<<<< HEAD
 Köln,RB Leipzig,2020-06-01,2,4,6,y,1,2,2,1,3,1,2,2,1,3,2,1,3,-1,-1,-1,-1,-1,Bundesliga - Germany,3047279
 Viktoria Köln,Zwickau,2020-06-02,3,0,3,n,0,0,0,0,0,3,0,0,3,3,2,1,3,-1,-1,-1,-1,-1,3. Liga - Germany,3053418
 Unterhaching,Ingolstadt,2020-06-02,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,1,3,5,4,4,5,9,3. Liga - Germany,3053421
@@ -3412,3 +3470,5 @@ Elana Toruń,Stal Rzeszów,2020-06-03,1,4,5,y,0,1,1,0,1,1,3,3,1,4,-1,-1,-1,-1,-1
 Lech Poznań II,Garbarnia Kraków,2020-06-03,2,2,4,y,1,1,1,1,2,1,1,1,1,2,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037209
 Widzew Łódź,SKRA Częstochowa,2020-06-03,1,2,3,y,0,0,0,0,0,1,2,2,1,3,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037207
 GKS Katowice,Górnik Łęczna,2020-06-03,2,1,3,y,1,1,1,1,2,1,0,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,II Liga - Poland,3037206
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d

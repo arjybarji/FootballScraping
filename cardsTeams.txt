@@ -137,6 +137,7 @@ Wisła Płock
 Górnik Zabrze
 Zagłębie Lubin
 Cracovia Kraków
+<<<<<<< HEAD
 Zenit
 Tambov
 Spartak Moscow
@@ -153,6 +154,8 @@ Krylya Sovetov
 CSKA Moscow
 Ural
 Ufa
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Mezőkövesd-Zsóry
 Zalaegerszegi TE
 Fehérvár
@@ -247,5 +250,8 @@ Stal Mielec
 Wigry Suwałki
 Chojniczanka Chojnice
 Warta Poznań
+<<<<<<< HEAD
 Górnik Polkowice
 Legionovia Legionowo
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d

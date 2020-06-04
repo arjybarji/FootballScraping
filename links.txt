@@ -3254,6 +3254,7 @@ https://us.soccerway.com/matches/2020/07/25/poland/i-liga/gks-olimpia-grudziadz/
 https://us.soccerway.com/matches/2020/07/25/poland/i-liga/ts-podbeskidzie-bielsko-biala/mzks-chrobry-glogow/3034680/
 https://us.soccerway.com/matches/2020/07/25/poland/i-liga/sks-wigry-suwalki/zaglebie-sosnowiec-sa/3034681/
 https://us.soccerway.com/matches/2020/07/25/poland/i-liga/ks-fks-stal-mielec/chojniczanka-chojnice/3034682/
+<<<<<<< HEAD
 https://us.soccerway.com/matches/2019/07/27/poland/ii-liga/ks-gornik-polkowice/ks-blekitni-stargard-szczecinski/3037028/
 https://us.soccerway.com/matches/2019/07/27/poland/ii-liga/tkp-elena-torun/mks-bytovia-bytow/3037029/
 https://us.soccerway.com/matches/2019/07/27/poland/ii-liga/zks-stal-stalowa-wola/cwks-resovia-rzeszow/3037031/
@@ -3560,6 +3561,8 @@ https://us.soccerway.com/matches/2020/07/25/poland/ii-liga/rks-garbarnia-krakow/
 https://us.soccerway.com/matches/2020/07/25/poland/ii-liga/zks-stal-rzeszow/ks-skra-czstochowa/3037297/
 https://us.soccerway.com/matches/2020/07/25/poland/ii-liga/ks-legionovia-legionowo/gks-gornik-leczna-sa/3079248/
 https://us.soccerway.com/matches/2020/07/25/poland/ii-liga/ks-widzew-lodz/mks-znicz-pruszkow/3037292/
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 https://us.soccerway.com/matches/2018/08/10/england/premier-league/manchester-united-fc/leicester-city-fc/3027073/
 https://us.soccerway.com/matches/2018/08/10/england/premier-league/manchester-united-fc/leicester-city-fc/3027074/
 https://us.soccerway.com/matches/2018/08/10/england/premier-league/manchester-united-fc/leicester-city-fc/3027075/

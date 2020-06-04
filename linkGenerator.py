@@ -127,9 +127,12 @@ getLinks(3025700,3025939)
 #Poland2
 getLinksFromFile("Poland 2 1920")
 
+<<<<<<< HEAD
 #Poland2
 getLinksFromFile("Poland 3 1920")
 
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 #Russia
 getLinks(3027073,3027312)       
 

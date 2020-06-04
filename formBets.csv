@@ -14,10 +14,18 @@
 28 June 2020,Jahn Regensburg vs Erzgebirge Aue,Over 3 Match Cards,2. Bundesliga
 10 June 2020,Unterhaching vs Eintracht Braunschweig,Over 0.5/1.0 FH Goal Line,3. Liga
 10 June 2020,Würzburger Kickers vs Carl Zeiss Jena,Over 3 Match Cards,3. Liga
+9 June 2020,Uerdingen vs 1860 München,Goal In Each Half,3. Liga
 9 June 2020,Uerdingen vs 1860 München,Over 3 Match Cards,3. Liga
 13 June 2020,Kaiserslautern vs Chemnitzer FC,Over 3 Match Cards,3. Liga
 16 June 2020,Chemnitzer FC vs Preußen Münster,Over 3 Match Cards,3. Liga
+<<<<<<< HEAD
 19 June 2020,Würzburger Kickers vs Chemnitzer FC,Over 3 Match Cards,3. Liga
+=======
+16 June 2020,Viktoria Köln vs 1860 München,Over 3 Match Cards,3. Liga
+19 June 2020,Würzburger Kickers vs Chemnitzer FC,Over 3 Match Cards,3. Liga
+20 June 2020,Carl Zeiss Jena vs Viktoria Köln,Over 3 Match Cards,3. Liga
+20 June 2020,MSV Duisburg vs Hansa Rostock,Under 5 Match Cards,3. Liga
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 7 June 2020,Rio Ave vs Paços de Ferreira,Over 3 Match Cards,Primeira Liga
 6 June 2020,Boavista vs Moreirense,Under 2.5 Goals,Primeira Liga
 4 June 2020,Marítimo vs Vitória Setúbal,Over 3 Match Cards,Primeira Liga
@@ -40,11 +48,16 @@
 23 June 2020,Austria Klagenfurt vs Grazer AK,BTTS Yes,Austria 2
 24 June 2020,Amstetten vs Kapfenberger SV,Over 9 Match Corners,Austria 2
 23 June 2020,Dornbirn vs Floridsdorfer AC,Over 3 Match Cards,Austria 2
+<<<<<<< HEAD
 27 June 2020,Grazer AK vs Dornbirn,Goal In Each Half,Austria 2
+=======
+1 June 2020,Midtjylland vs Horsens,Under 5 Match Cards,Superliga
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 7 June 2020,Copenhagen vs Randers,Under 5 Match Cards,Superliga
 7 June 2020,Nordsjælland vs Midtjylland,Under 5 Match Cards,Superliga
 11 June 2020,Viborg vs Roskilde,Goal In Each Half,Denmark 2
 9 June 2020,Vendsyssel vs Hvidovre,Under 2.5 Goals,Denmark 2
+<<<<<<< HEAD
 7 June 2020,Opava vs Slovácko,Over 3 Match Cards,Czech Liga
 10 June 2020,Sparta Praha vs Opava,Over 3 Match Cards,Czech Liga
 10 June 2020,Příbram vs Slovan Liberec,BTTS No,Czech Liga
@@ -56,6 +69,20 @@
 17 June 2020,Líšeň vs Pardubice,Under 5 Match Cards,Czech 2
 21 June 2020,Slavoj Vyšehrad vs Viktoria Žižkov,Over 3 Match Cards,Czech 2
 23 June 2020,Hradec Králové vs Vlašim,Over 0.5/1.0 FH Goal Line,Czech 2
+=======
+3 June 2020,Slovácko vs Karviná,Over 3 Match Cards,Czech Liga
+3 June 2020,České Budějovice vs Sigma Olomouc,Under 5 Match Cards,Czech Liga
+2 June 2020,Příbram vs Slavia Praha,BTTS No,Czech Liga
+10 June 2020,Sparta Praha vs Opava,Over 3 Match Cards,Czech Liga
+14 June 2020,Slovácko vs Sparta Praha,Over 3 Match Cards,Czech Liga
+3 June 2020,Ústí nad Labem vs Vlašim,Goal In Each Half,Czech 2
+4 June 2020,Vítkovice vs Zbrojovka Brno,Over 3 Match Cards,Czech 2
+14 June 2020,Vlašim vs Chrudim,Under 2.5 Goals,Czech 2
+13 June 2020,Ústí nad Labem vs Dukla Praha,Goal In Each Half,Czech 2
+17 June 2020,Chrudim vs Prostějov,Over 0.5/1.0 FH Goal Line,Czech 2
+21 June 2020,Prostějov vs Dukla Praha,Goal In Each Half,Czech 2
+21 June 2020,Slavoj Vyšehrad vs Viktoria Žižkov,Over 3 Match Cards,Czech 2
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 14 June 2020,Korona Kielce vs Lech Poznań,Over 9 Match Corners,Ekstraklasa
 4 June 2020,Tychy 71 vs Zagłębie Sosnowiec,BTTS Yes,Poland 2
 4 June 2020,Tychy 71 vs Zagłębie Sosnowiec,Over 3 Match Cards,Poland 2
@@ -63,6 +90,7 @@
 7 June 2020,Zagłębie Sosnowiec vs Stomil Olsztyn,Over 3 Match Cards,Poland 2
 7 June 2020,Tychy 71 vs Chojniczanka Chojnice,Over 3 Match Cards,Poland 2
 13 June 2020,Stomil Olsztyn vs Chojniczanka Chojnice,Over 3 Match Cards,Poland 2
+<<<<<<< HEAD
 13 June 2020,Bełchatów vs Zagłębie Sosnowiec,Over 3 Match Cards,Poland 2
 17 June 2020,Zagłębie Sosnowiec vs Radomiak Radom,BTTS Yes,Poland 2
 17 June 2020,Zagłębie Sosnowiec vs Radomiak Radom,Over 3 Match Cards,Poland 2
@@ -79,6 +107,14 @@
 26 June 2020,Zenit vs Krylya Sovetov,Over 3 Match Cards,Russia Premier
 27 June 2020,Spartak Moscow vs Ufa,Over 3 Match Cards,Russia Premier
 30 June 2020,Lokomotiv Moscow vs Krylya Sovetov,Over 3 Match Cards,Russia Premier
+=======
+13 June 2020,Stomil Olsztyn vs Chojniczanka Chojnice,Over 4 Match Cards,Poland 2
+17 June 2020,Zagłębie Sosnowiec vs Radomiak Radom,BTTS Yes,Poland 2
+17 June 2020,Zagłębie Sosnowiec vs Radomiak Radom,Over 3 Match Cards,Poland 2
+17 June 2020,Warta Poznań vs Nieciecza,Over 3 Match Cards,Poland 2
+20 June 2020,Radomiak Radom vs Chojniczanka Chojnice,Over 3 Match Cards,Poland 2
+20 June 2020,Puszcza Niepołomice vs Olimpia Grudziądz,Goal In Each Half,Poland 2
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 7 June 2020,Zalaegerszegi TE vs Puskás,Over 3 Match Cards,Hungary
 9 June 2020,Honvéd vs Fehérvár,Over 3 Match Cards,Hungary
 9 June 2020,Kisvárda vs Mezőkövesd-Zsóry,Over 3 Match Cards,Hungary

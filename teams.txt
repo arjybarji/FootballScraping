@@ -1,7 +1,16 @@
 Teams
+<<<<<<< HEAD
 Borussia Dortmund
 Hertha BSC
 RB Leipzig
+=======
+Werder Bremen
+Eintracht Frankfurt
+Köln
+RB Leipzig
+Borussia Dortmund
+Hertha BSC
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Paderborn
 Bayer Leverkusen
 Bayern Munich
@@ -14,7 +23,10 @@ Hoffenheim
 Freiburg
 Borussia M'gladbach
 Augsburg
+<<<<<<< HEAD
 Köln
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Union Berlin
 Schalke 04
 Dynamo Dresden
@@ -35,6 +47,7 @@ Sandhausen
 Erzgebirge Aue
 Karlsruher SC
 Wehen Wiesbaden
+<<<<<<< HEAD
 MSV Duisburg
 Chemnitzer FC
 Magdeburg
@@ -55,6 +68,30 @@ Waldhof Mannheim
 Viktoria Köln
 Meppen
 Hansa Rostock
+=======
+Viktoria Köln
+Zwickau
+Hallescher FC
+Eintracht Braunschweig
+Bayern München II
+Preußen Münster
+Unterhaching
+Ingolstadt
+Chemnitzer FC
+Sonnenhof Großaspach
+MSV Duisburg
+Carl Zeiss Jena
+Kaiserslautern
+1860 München
+Würzburger Kickers
+Magdeburg
+Uerdingen
+Meppen
+Hansa Rostock
+Waldhof Mannheim
+Portimonense
+Gil Vicente
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Rio Ave
 Paços de Ferreira
 Santa Clara
@@ -89,9 +126,18 @@ Dornbirn
 Amstetten
 Grazer AK
 Austria Lustenau
+<<<<<<< HEAD
 Copenhagen
 Randers
 SønderjyskE
+=======
+Midtjylland
+Horsens
+Brøndby
+SønderjyskE
+Copenhagen
+Randers
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Silkeborg
 AaB
 AGF
@@ -100,7 +146,10 @@ Esbjerg
 Horsens
 Brøndby
 Nordsjælland
+<<<<<<< HEAD
 Midtjylland
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Hobro
 Lyngby
 Fredericia
@@ -115,10 +164,24 @@ Næstved
 HB Køge
 Skive
 Vendsyssel
+<<<<<<< HEAD
 Bohemians 1905
 Sparta Praha
 Opava
 Slovácko
+=======
+Opava
+Bohemians 1905
+Sparta Praha
+Teplice
+Slovácko
+Karviná
+Jablonec
+Slovan Liberec
+České Budějovice
+Sigma Olomouc
+Příbram
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Slavia Praha
 Viktoria Plzen
 Sigma Olomouc
@@ -126,6 +189,7 @@ Baník Ostrava
 Slovan Liberec
 Mladá Boleslav
 Zlín
+<<<<<<< HEAD
 Příbram
 Teplice
 Jablonec
@@ -147,6 +211,26 @@ Varnsdorf
 Vysočina Jihlava
 Hradec Králové
 Třinec
+=======
+Baník Ostrava
+Viktoria Plzen
+Líšeň
+Vysočina Jihlava
+Ústí nad Labem
+Vlašim
+Varnsdorf
+Viktoria Žižkov
+Vítkovice
+Zbrojovka Brno
+Baník Sokolov
+Pardubice
+Dukla Praha
+Slavoj Vyšehrad
+Chrudim
+Hradec Králové
+Třinec
+Prostějov
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Hajduk Split
 Inter Zaprešić
 Istra 1961
@@ -173,6 +257,7 @@ Wisła Kraków
 Legia Warszawa
 Zagłębie Lubin
 Lech Poznań
+<<<<<<< HEAD
 Radomiak Radom
 Odra Opole
 Tychy 71
@@ -225,6 +310,26 @@ Ufa
 Tambov
 Ural
 Rubin Kazan
+=======
+Puszcza Niepołomice
+Chojniczanka Chojnice
+Stomil Olsztyn
+Chrobry Głogów
+Bełchatów
+Sandecja Nowy Sącz
+Nieciecza
+Wigry Suwałki
+Miedź Legnica
+Stal Mielec
+Jastrzębie
+Warta Poznań
+Olimpia Grudziądz
+Podbeskidzie
+Radomiak Radom
+Odra Opole
+Tychy 71
+Zagłębie Sosnowiec
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Aluminij
 Mura
 Tabor Sežana
@@ -235,6 +340,7 @@ Bravo
 Triglav
 Domžale
 Maribor
+<<<<<<< HEAD
 Javor Ivanjica
 Vojvodina
 Čukarički
@@ -251,6 +357,8 @@ Crvena Zvezda
 Radnik Surdulica
 Proleter Novi Sad
 Bačka Topola
+=======
+>>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 Újpest
 Kaposvári Rákóczi
 Ferencvaros
