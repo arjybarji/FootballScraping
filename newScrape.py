@@ -82,57 +82,65 @@ def parse(url):
                 if(r.status_code == 503):
                     print("Service Unavailable Error")
             soup = BeautifulSoup(r.content, "html.parser")
+            #Check if page is valid
             isHome = True if len(soup.findAll('ul', attrs = {'id':'block_home_matches_28_subnav'})) > 0 else False
             if(isHome == False):
-                teams = soup.findAll('h3', attrs = {'class' : 'thick'})
+                #Get Teams
+                teams = soup.findAll('a', attrs = {'class' : 'team-title'})
                 #teams = soup.findAll('a', attrs = {'class' : 'team-title'})
                 homeTeam = teams[0].text.strip()
-                awayTeam = teams[2].text.strip()
-                if(len(teams)!=3):
+                awayTeam = teams[1].text.strip()
+                if(len(teams)!=2):
                     print(teams)
-                middle = teams[1].text.strip()
-                if(middle.lower() == "postponed"):
+                    
+                #Check if postponed
+                postponed = soup.findAll('span',attrs = {'class':'details postponed'})
+                if(len(postponed)>0):
+                    #print("Postponed")
                     return None
-                dds = soup.findAll('dd')                    
-                dts = soup.findAll('dt')
-                date = dds[1].text.strip()
-                dateT = str(datetime.datetime.strptime(date, '%d %B %Y').date())
-                league = dds[0].text.strip()
-                #print(soup.findAll('div', attrs = {'class' : 'block  clearfix block_competition_left_tree-wrapper'}))
-                country = dds[0].find('a')['href'].split("/")[2].strip().capitalize()
+                
+                #Get game info section
+                gameInfo = soup.findAll('div',attrs = {'class':'details'})
+                date = gameInfo[0].findAll('a')[0].text.strip()
+                #print(date)
+                league = gameInfo[0].findAll('a')[1].text.strip()
+                #print(league)
+                gameWeek = gameInfo[0].findAll('span')[3].text.strip()
+                #print(gameWeek)
+                dateT = str(datetime.datetime.strptime(date, '%d/%m/%Y').date())
+                
+                #League Convert
+                country = soup.findAll('h2',attrs={'class':'header-label'})[0].text.strip().capitalize()
                 league = league + " - " + country
+                #print(league)
                 homeTeam = replaceTeam(homeTeam,league)
                 awayTeam = replaceTeam(awayTeam,league)
-                kickOff = False
-                for c in dts:
-                    if(c.text.strip() == "Kick-off"):
-                        kickOff = True
+                '''
                 try:
                     gameWeek = int(dds[2].text.strip().replace(",",""))
                 except:
                     gameWeek = 0
+                '''
                 gameWeek = str(gameWeek)
                 
-                if ':' not in middle:
-                    middle = middle.split(" - ")
+                scoreTime = soup.findAll('h3',attrs = {'class':'thick scoretime'})[0]
+                scoreTimeText = scoreTime.text
+                if ':' not in scoreTimeText and len(scoreTimeText.strip())>0:
+                    scoreSplit = scoreTimeText.split("\n")
+                    fullTime = scoreSplit[3].strip()
+                    halfTime = scoreSplit[9].strip().replace("(","").replace(")","").replace("HT","").strip()
+                    #scoreTime = scoreTime.split(" - ")
                     homeGoals = 0
                     awayGoals = 0
-                    homeGoals = middle[0]
-                    try:
-                        awayGoals = middle[1]
-                    except Exception as e:
-                        homeGoals = "-1"
-                        awayGoals = "-1"
+                    homeGoals = fullTime.split(" - ")[0]
+                    awayGoals = fullTime.split(" - ")[1]
                     matchGoals = int(homeGoals) + int(awayGoals)
                     if(matchGoals >= 0):
                         if(int(homeGoals) > 0 and int(awayGoals) > 0):
                             btts = "y"
                         else:
                             btts = "n"
-                        if(kickOff):
-                            halfTimeScore = dds[4].text.strip().split(" - ")
-                        else:
-                            halfTimeScore = dds[3].text.strip().split(" - ")
+                        halfTimeScore = halfTime.split(" - ")
                         firstHalfHomeGoals = halfTimeScore[0]
                         firstHalfAwayConc = halfTimeScore[0]
                         firstHalfAwayGoals = halfTimeScore[1]
@@ -143,30 +151,33 @@ def parse(url):
                         secondHalfAwayGoals = int(awayGoals) - int(firstHalfAwayGoals)
                         secondHalfHomeConc = int(awayGoals) - int(firstHalfAwayGoals)
                         secondHalfTotalGoals = matchGoals - firstHalfTotalGoals
-                        
                         try:
                             
                             homeTeamCards = 0                       
                             homeTeamContainers = soup.findAll('div', attrs = {'class' : 'container left'})
                             homeTeamImgs = []
+                            for htcI in homeTeamContainers[1].findAll('img'):
+                                homeTeamImgs.append(htcI)
                             for htcI in homeTeamContainers[2].findAll('img'):
                                 homeTeamImgs.append(htcI)
-                            for htcI in homeTeamContainers[3].findAll('img'):
-                                homeTeamImgs.append(htcI)
                             for htc in homeTeamImgs:
-                                if("YC.png" in htc['src'] or "RC.png" in htc['src'] or "Y2C.png" in htc['src']):
+                                if("YC.png" in htc['src'] or "Y2C.png" in htc['src']):
                                     homeTeamCards+=1
+                                if("RC.png" in htc['src']):
+                                    homeTeamCards+=2
         
                             awayTeamCards = 0
                             awayTeamContainers = soup.findAll('div', attrs = {'class' : 'container right'})
                             awayTeamImgs = []
+                            for atcI in awayTeamContainers[1].findAll('img'):
+                                awayTeamImgs.append(atcI)
                             for atcI in awayTeamContainers[2].findAll('img'):
                                 awayTeamImgs.append(atcI)
-                            for atcI in awayTeamContainers[3].findAll('img'):
-                                awayTeamImgs.append(atcI)
                             for atc in awayTeamImgs:
-                                if("YC.png" in atc['src'] or "RC.png" in atc['src'] or "Y2C.png" in atc['src']):
+                                if("YC.png" in atc['src'] or "Y2C.png" in atc['src']):
                                     awayTeamCards+=1
+                                if("RC.png" in atc['src']):
+                                    awayTeamCards+=2
 
                             matchCards = homeTeamCards + awayTeamCards
 
@@ -199,7 +210,7 @@ def parse(url):
                             print("GOT SCORE no corners. " + homeTeam + " vs " + awayTeam+" . " + dateT + " NO FRAME")
                             return("S$" + homeTeam + "," + awayTeam  + "," + dateT + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1"+","+league+ "," + gameID)
                 else:
-                    dateDay = int(date.lower().split(" ")[0])
+                    dateDay = int(date.lower().split("/")[0])
                     check = int(datetime.datetime.today().day)
                     if(today in date.lower() and dateDay < (check+1)):
                         print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)                    

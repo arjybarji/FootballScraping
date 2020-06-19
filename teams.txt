@@ -1,299 +1,354 @@
 Teams
-<<<<<<< HEAD
-Borussia Dortmund
-Hertha BSC
-RB Leipzig
-=======
-Werder Bremen
-Eintracht Frankfurt
-Köln
-RB Leipzig
-Borussia Dortmund
-Hertha BSC
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
-Paderborn
-Bayer Leverkusen
+Norwich City
+Southampton
+Tottenham Hotspur
+Manchester United
+Watford
+Leicester City
+Brighton & Hove Albion
+Arsenal - Premier League - England
+West Ham United
+Wolverhampton Wanderers
+AFC Bournemouth
+Crystal Palace
+Newcastle United
+Sheffield United
+Aston Villa
+Chelsea
+Everton
+Liverpool
+Manchester City
+Burnley
+Nottingham Forest
+Stoke City
+Reading
+Swansea City
+Sheffield Wednesday
+Middlesbrough
+West Bromwich Albion
+Queens Park Rangers
+Wigan Athletic
+Fulham
+Cardiff City
+Derby County
+Luton Town
+Millwall
+Blackburn Rovers
+Huddersfield Town
+Hull City
+Birmingham City
+Charlton Athletic
+Bristol City
+Leeds United
+Barnsley
+Preston North End
+Brentford
+Hellas Verona
+Cagliari
+Torino
+Parma
+Internazionale
+Sampdoria
+Atalanta
+Sassuolo
+Fiorentina
+Brescia
+SPAL
+Bologna
+Juventus
+Lazio
+Lecce
+Milan
+Napoli
+Genoa
+Roma
+Udinese
+Cremonese
+Benevento
+Crotone
+Chievo
+Livorno
+Cittadella
+Spezia
+Empoli
+Trapani
+Frosinone
+Pescara
+Juve Stabia
+Ascoli
+Perugia
+Salernitana
+Pisa
+Pordenone
+Venezia
+Cosenza
+Virtus Entella
+Granada
+Villarreal
+Mallorca
+Leganes
+Sevilla
+Barcelona
+Espanyol
+Levante
+Athletic Club
+Real Betis
+Getafe
+Eibar
+Atletico Madrid
+Real Valladolid
+Celta Vigo
+Deportivo Alavés
+Valencia
+Osasuna
+Real Sociedad
+Real Madrid
+Albacete
+Huesca
+Cádiz
+Alcorcón
+Deportivo La Coruña
+Rayo Vallecano
+Elche
+Girona
+Fuenlabrada
+Numancia
+Las Palmas
+Lugo
+Mirandés
+Ponferradina
+Málaga
+Extremadura UD
+Racing Santander
+Tenerife
+Sporting Gijón
+Real Oviedo
+Real Zaragoza
+Almería
 Bayern Munich
-Eintracht Frankfurt
+Freiburg
+RB Leipzig
+Borussia Dortmund
+Hoffenheim
+Union Berlin
+Fortuna Dusseldorf
+Augsburg
+Hertha BSC
+Bayer Leverkusen
 Mainz 05
 Werder Bremen
-Wolfsburg
-Fortuna Dusseldorf
-Hoffenheim
-Freiburg
-Borussia M'gladbach
-Augsburg
-<<<<<<< HEAD
-Köln
-=======
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
-Union Berlin
 Schalke 04
-Dynamo Dresden
-Greuther Fürth
-Arminia Bielefeld
+Wolfsburg
+Köln
+Eintracht Frankfurt
+Paderborn
+Borussia M'gladbach
+Nürnberg
 Stuttgart
-Osnabrück
-Hannover 96
 Heidenheim
 Hamburger SV
-Holstein Kiel
-Nürnberg
+St. Pauli
 Jahn Regensburg
 Darmstadt 98
-Bochum
-St. Pauli
-Sandhausen
-Erzgebirge Aue
-Karlsruher SC
 Wehen Wiesbaden
-<<<<<<< HEAD
-MSV Duisburg
-Chemnitzer FC
-Magdeburg
-Uerdingen
-1860 München
+Bochum
+Greuther Fürth
+Erzgebirge Aue
+Hannover 96
+Sandhausen
+Dynamo Dresden
+Osnabrück
+Holstein Kiel
+Karlsruher SC
+Arminia Bielefeld
 Würzburger Kickers
-Carl Zeiss Jena
-Kaiserslautern
-Ingolstadt
-Sonnenhof Großaspach
-Preußen Münster
-Unterhaching
-Eintracht Braunschweig
-Bayern München II
-Zwickau
-Hallescher FC
-Waldhof Mannheim
-Viktoria Köln
-Meppen
-Hansa Rostock
-=======
-Viktoria Köln
-Zwickau
-Hallescher FC
-Eintracht Braunschweig
-Bayern München II
-Preußen Münster
-Unterhaching
-Ingolstadt
 Chemnitzer FC
-Sonnenhof Großaspach
-MSV Duisburg
-Carl Zeiss Jena
 Kaiserslautern
-1860 München
-Würzburger Kickers
-Magdeburg
 Uerdingen
-Meppen
-Hansa Rostock
+Eintracht Braunschweig
+Preußen Münster
+Zwickau
+Ingolstadt
 Waldhof Mannheim
-Portimonense
-Gil Vicente
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
-Rio Ave
+Sonnenhof Großaspach
+Meppen
+Unterhaching
+Magdeburg
+Bayern München II
+1860 München
+Hallescher FC
+Carl Zeiss Jena
+Viktoria Köln
+MSV Duisburg
+Hansa Rostock
 Paços de Ferreira
-Santa Clara
+Portimonense
+Tondela
 Sporting Braga
-Boavista
-Moreirense
-Vitoria Guimaraes
-Sporting CP
-Marítimo
-Vitória Setúbal
 Porto
+Moreirense
+Sporting CP
+Vitória Setúbal
+Desportivo Aves
+Benfica
+Marítimo
+Famalicão
 Belenenses
 Gil Vicente
-Benfica
-Portimonense
-Famalicão
-Desportivo Aves
-Tondela
+Boavista
+Rio Ave
+Santa Clara
+Vitoria Guimaraes
 Ried
-Lafnitz
-Juniors OÖ
-Wacker Innsbruck
-Austria Klagenfurt
-Kapfenberger SV
-Floridsdorfer AC
-Vorwärts Steyr
 Austria Wien II
-Blau-Weiß Linz
+Kapfenberger SV
 Horn
 Liefering
 Dornbirn
-Amstetten
+Lafnitz
+Floridsdorfer AC
 Grazer AK
+Wacker Innsbruck
 Austria Lustenau
-<<<<<<< HEAD
-Copenhagen
-Randers
-SønderjyskE
-=======
-Midtjylland
-Horsens
-Brøndby
-SønderjyskE
-Copenhagen
-Randers
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
-Silkeborg
-AaB
-AGF
-OB
-Esbjerg
-Horsens
-Brøndby
-Nordsjælland
-<<<<<<< HEAD
-Midtjylland
-=======
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
-Hobro
-Lyngby
+Austria Klagenfurt
+Blau-Weiß Linz
+Juniors OÖ
+Vorwärts Steyr
+Amstetten
+Fremad Amager
+Skive
+Viborg
 Fredericia
 Vejle
 Hvidovre
-Nykøbing
-Roskilde
-Fremad Amager
-Kolding IF
-Viborg
-Næstved
-HB Køge
-Skive
 Vendsyssel
-<<<<<<< HEAD
-Bohemians 1905
-Sparta Praha
-Opava
-Slovácko
-=======
-Opava
-Bohemians 1905
-Sparta Praha
-Teplice
-Slovácko
-Karviná
-Jablonec
-Slovan Liberec
-České Budějovice
-Sigma Olomouc
-Příbram
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
-Slavia Praha
-Viktoria Plzen
-Sigma Olomouc
-Baník Ostrava
-Slovan Liberec
-Mladá Boleslav
-Zlín
-<<<<<<< HEAD
-Příbram
-Teplice
-Jablonec
-Karviná
-České Budějovice
-Vítkovice
-Zbrojovka Brno
+HB Køge
+Nykøbing
+Næstved
+Kolding IF
+Roskilde
+Kristiansund
+Aalesund
+Molde
+Rosenborg
+Bodø / Glimt
+Haugesund
+Mjøndalen
+Sarpsborg 08
+Strømsgodset
+Odd
+Vålerenga
+Stabæk
+Sandefjord
+Start
+Brann
+Viking
+Falkenberg
+Kalmar
+Malmö FF
+Varberg
+Norrköping
+Djurgården
+Hammarby
+AIK
+Örebro
+Östersunds FK
+Helsingborg
+Elfsborg
+Sirius
+Häcken
+IFK Göteborg
+Mjällby
+Norrby
+GAIS
+Umeå FC
+Akropolis
+Västerås SK
+Degerfors
+Brage
+GIF Sundsvall
+Trelleborg
+Öster
+Jönköpings Södra
+Ljungskile
+Dalkurd
+AFC Eskilstuna
+Örgryte
+Halmstad
+Haka
+Honka
+Lahti
+HJK
+HIFK
+KuPS
+Ilves
+Mariehamn
+SJK
+TPS
+Inter Turku
+RoPS
+Třinec
+Vlašim
+Prostějov
 Dukla Praha
+Pardubice
+Hradec Králové
+Varnsdorf
+Zbrojovka Brno
+Chrudim
 Slavoj Vyšehrad
 Viktoria Žižkov
-Líšeň
-Prostějov
 Baník Sokolov
-Pardubice
-Vlašim
-Chrudim
-Ústí nad Labem
-Varnsdorf
 Vysočina Jihlava
-Hradec Králové
-Třinec
-=======
-Baník Ostrava
-Viktoria Plzen
-Líšeň
-Vysočina Jihlava
-Ústí nad Labem
-Vlašim
-Varnsdorf
-Viktoria Žižkov
 Vítkovice
-Zbrojovka Brno
-Baník Sokolov
-Pardubice
-Dukla Praha
-Slavoj Vyšehrad
-Chrudim
-Hradec Králové
-Třinec
-Prostějov
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
-Hajduk Split
+Ústí nad Labem
+Líšeň
 Inter Zaprešić
-Istra 1961
-Rijeka
-Varaždin
-Dinamo Zagreb
-Lokomotiva Zagreb
 Osijek
-Slaven Koprivnica
 HNK Gorica
-Arka Gdynia
-Śląsk Wrocław
-Górnik Zabrze
-Lechia Gdańsk
-Jagiellonia Białystok
-Wisła Płock
-Korona Kielce
-Piast Gliwice
-Pogoń Szczecin
-Cracovia Kraków
-Raków Częstochowa
-ŁKS Łódź
-Wisła Kraków
-Legia Warszawa
-Zagłębie Lubin
-Lech Poznań
-<<<<<<< HEAD
-Radomiak Radom
+Dinamo Zagreb
+Slaven Koprivnica
+Rijeka
+Lokomotiva Zagreb
+Hajduk Split
+Varaždin
+Istra 1961
 Odra Opole
-Tychy 71
-Zagłębie Sosnowiec
-Wigry Suwałki
-Miedź Legnica
-Stal Mielec
-Puszcza Niepołomice
 Chrobry Głogów
-Bełchatów
-Podbeskidzie
+Miedź Legnica
 Nieciecza
-Warta Poznań
-Olimpia Grudziądz
-Stomil Olsztyn
+Radomiak Radom
 Chojniczanka Chojnice
-Sandecja Nowy Sącz
+Puszcza Niepołomice
+Olimpia Grudziądz
 Jastrzębie
-Lech Poznań II
-Pogoń Siedlce
-Legionovia Legionowo
-Elana Toruń
-Górnik Łęczna
+Zagłębie Sosnowiec
+Tychy 71
+Podbeskidzie
+Warta Poznań
+Sandecja Nowy Sącz
+Bełchatów
+Stal Mielec
+Stomil Olsztyn
+Wigry Suwałki
 Stal Stalowa Wola
-Stal Rzeszów
-Widzew Łódź
-Garbarnia Kraków
-Górnik Polkowice
-Olimpia Elbląg
-Resovia Rzeszów
-Stargard Szczeciński
+Legionovia Legionowo
 Znicz Pruszków
 SKRA Częstochowa
-GKS Katowice
-Bytovia Bytów
+Elana Toruń
+Górnik Polkowice
+Resovia Rzeszów
+Stal Rzeszów
 Gryf Wejherowo
+Górnik Łęczna
+Stargard Szczeciński
+Pogoń Siedlce
+Bytovia Bytów
+Olimpia Elbląg
+GKS Katowice
+Garbarnia Kraków
+Widzew Łódź
+Lech Poznań II
 Krasnodar
 Dinamo Moscow
 CSKA Moscow
@@ -310,102 +365,145 @@ Ufa
 Tambov
 Ural
 Rubin Kazan
-=======
-Puszcza Niepołomice
-Chojniczanka Chojnice
-Stomil Olsztyn
-Chrobry Głogów
-Bełchatów
-Sandecja Nowy Sącz
-Nieciecza
-Wigry Suwałki
-Miedź Legnica
-Stal Mielec
-Jastrzębie
-Warta Poznań
-Olimpia Grudziądz
-Podbeskidzie
-Radomiak Radom
-Odra Opole
-Tychy 71
-Zagłębie Sosnowiec
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
-Aluminij
-Mura
-Tabor Sežana
-Olimpija
-Celje
-Rudar
-Bravo
+Luzern
+Basel
+Neuchâtel Xamax
+Thun
+Servette
+Lugano
+Sion
+St. Gallen
+Young Boys
+Zürich
+Grasshopper
+Aarau
+Kriens
+FC Schaffhausen
+Stade Lausanne-Ouchy
+Chiasso
+Vaduz
+Winterthur
+Wil
+Lausanne Sport
+Ankaragücü
+Istanbul Basaksehir
+Galatasaray
+Gaziantep FK
+Yeni Malatyaspor
+Göztepe
+Konyaspor
+Sivasspor
+Kayserispor
+Gençlerbirliği
+Kasımpaşa
+Fenerbahçe
+Alanyaspor
+Trabzonspor
+Antalyaspor
+Rizespor
+Denizlispor
+Beşiktaş
+Giresunspor
+İstanbulspor
+BB Erzurumspor
+Eskişehirspor
+Ümraniyespor
+Fatih Karagümrük
+Boluspor
+Altınordu
+Balıkesirspor
+Menemenspor
+Keçiörengücü
+Bursaspor
+Adanaspor
+Adana Demirspor
+Osmanlıspor
+Hatayspor
+Altay
+Akhisarspor
 Triglav
-Domžale
+Aluminij
 Maribor
-<<<<<<< HEAD
+Rudar
+Domžale
+Olimpija
+Bravo
+Mura
+Celje
+Tabor Sežana
 Javor Ivanjica
-Vojvodina
-Čukarički
 Inđija
-Spartak Subotica
+Vojvodina
 Partizan
-Mladost Lučani
+Čukarički
 Mačva Šabac
-Voždovac
+Spartak Subotica
 Napredak
 Radnički Niš
-Rad Beograd
-Crvena Zvezda
-Radnik Surdulica
-Proleter Novi Sad
 Bačka Topola
-=======
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
+Crvena Zvezda
+Proleter Novi Sad
 Újpest
 Kaposvári Rákóczi
 Ferencvaros
-Diósgyőr
 Mezőkövesd-Zsóry
-Paksi SE
 Fehérvár
-Kisvárda
-Honvéd
-Zalaegerszegi TE
 Puskás
+Paksi SE
+Kisvárda
+Zalaegerszegi TE
+Honvéd
 Debrecen
-Minsk
-Isloch
-Gorodeya
+Diósgyőr
+Slavia
+Smolevichy-STI
 Slutsk
 Neman Grodno
-Smolevichy-STI
+Isloch
 Torpedo BelAZ
 Dinamo Brest
+Gorodeya
 Dinamo Minsk
-Slavia
 Energetyk-BGU
 Belshina
-Ruh Brest
-Vitebsk
 BATE
+Vitebsk
+Minsk
 Shakhtyor
-Incheon United
-Gangwon
+Ruh Brest
 Seoul
-Jeonbuk Motors
-Pohang Steelers
 Ulsan
-Busan IPark
-Sangju Sangmu
-Suwon Bluewings
-Gwangju
+Pohang Steelers
+Gangwon
 Seongnam
+Sangju Sangmu
+Jeonbuk Motors
+Gwangju
+Incheon United
+Busan IPark
 Daegu
-Jeju United
-Suwon
-Seoul E-Land
-Daejeon Hana Citizen
-Bucheon 1995
-Jeonnam Dragons
-Anyang
+Suwon Bluewings
 Chungnam Asan
+Jeju United
+Daejeon Hana Citizen
+Jeonnam Dragons
 Gyeongnam
+Bucheon 1995
+Suwon
+Anyang
+Seoul E-Land
 Ansan Greeners
+Song Lam Nghe An
+Ho Chi Minh City
+Nam Dinh
+Hai Phong
+Viettel
+Thanh Hóa
+Binh Duong
+Ha Noi
+Da Nang
+Hoang Anh Gia Lai
+Than Quang Ninh
+Quang Nam
+Sai Gon
+Hồng Lĩnh Hà Tĩnh

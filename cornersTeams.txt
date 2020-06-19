@@ -1,4 +1,12 @@
 Corner Teams
+Cagliari
+Napoli
+Bologna
+Lecce
+Roma
+Lazio
+Atalanta
+Torino
 Austria Klagenfurt
 Kapfenberger SV
 Grazer AK
@@ -8,44 +16,23 @@ Horn
 Lafnitz
 Wacker Innsbruck
 Dornbirn
-Sparta Praha
-Slovácko
-Zlín
-Slavia Praha
-Sigma Olomouc
-Slovan Liberec
-Mladá Boleslav
-Karviná
-Příbram
-Teplice
-Jablonec
-Bohemians 1905
-České Budějovice
-Opava
 HNK Gorica
 Inter Zaprešić
 Hajduk Split
-Arka Gdynia
-Jagiellonia Białystok
-Legia Warszawa
-Pogoń Szczecin
-ŁKS Łódź
-Lechia Gdańsk
-Piast Gliwice
-Lech Poznań
-Raków Częstochowa
-Korona Kielce
-Wisła Kraków
-Śląsk Wrocław
-Wisła Płock
-Górnik Zabrze
-Zagłębie Lubin
-Cracovia Kraków
-<<<<<<< HEAD
+Sion
+Basel
+Thun
+Neuchâtel Xamax
+Luzern
+Servette
+Zürich
+Lugano
+Crvena Zvezda
+Javor Ivanjica
 Radnički Niš
-Voždovac
-=======
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
+Stade Lausanne-Ouchy
+Chiasso
+Lausanne Sport
 Zbrojovka Brno
 Ústí nad Labem
 Slavoj Vyšehrad
@@ -74,3 +61,19 @@ Maribor
 Olimpija
 Bravo
 Mura
+AFC Eskilstuna
+Västerås SK
+GIF Sundsvall
+Umeå FC
+Halmstad
+Trelleborg
+GAIS
+Jönköpings Södra
+Ljungskile
+Örgryte
+Degerfors
+Brage
+Öster
+Norrby
+Akropolis
+Dalkurd

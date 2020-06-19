@@ -1,4 +1,130 @@
 Card Teams
+Liverpool
+Norwich City
+AFC Bournemouth
+Sheffield United
+Burnley
+Southampton
+Crystal Palace
+Everton
+Leicester City
+Wolverhampton Wanderers
+Tottenham Hotspur
+Aston Villa
+Watford
+Brighton & Hove Albion
+West Ham United
+Manchester City
+Manchester United
+Chelsea
+Newcastle United
+Arsenal - Premier League - England
+Luton Town
+Middlesbrough
+Barnsley
+Fulham
+Blackburn Rovers
+Charlton Athletic
+Brentford
+Birmingham City
+Millwall
+Preston North End
+Nottingham Forest
+West Bromwich Albion
+Reading
+Sheffield Wednesday
+Stoke City
+Queens Park Rangers
+Swansea City
+Hull City
+Wigan Athletic
+Cardiff City
+Bristol City
+Leeds United
+Huddersfield Town
+Derby County
+Cagliari
+Brescia
+Fiorentina
+Napoli
+Hellas Verona
+Bologna
+Internazionale
+Lecce
+Parma
+Juventus
+Roma
+Genoa
+Sampdoria
+Lazio
+SPAL
+Atalanta
+Torino
+Sassuolo
+Udinese
+Milan
+Ascoli
+Trapani
+Cittadella
+Spezia
+Crotone
+Cosenza
+Empoli
+Juve Stabia
+Perugia
+Chievo
+Pisa
+Benevento
+Pordenone
+Frosinone
+Salernitana
+Pescara
+Venezia
+Cremonese
+Virtus Entella
+Livorno
+Deportivo Alavés
+Levante
+Athletic Club
+Barcelona
+Atletico Madrid
+Getafe
+Real Betis
+Real Valladolid
+Celta Vigo
+Real Madrid
+Espanyol
+Sevilla
+Leganes
+Osasuna
+Mallorca
+Eibar
+Valencia
+Real Sociedad
+Villarreal
+Granada
+Almería
+Albacete
+Cádiz
+Ponferradina
+Deportivo La Coruña
+Real Oviedo
+Elche
+Fuenlabrada
+Girona
+Sporting Gijón
+Las Palmas
+Huesca
+Lugo
+Extremadura UD
+Numancia
+Alcorcón
+Racing Santander
+Málaga
+Rayo Vallecano
+Mirandés
+Real Zaragoza
+Tenerife
 Bayern Munich
 Hertha BSC
 Borussia Dortmund
@@ -89,55 +215,8 @@ Vorwärts Steyr
 Wacker Innsbruck
 Dornbirn
 Austria Lustenau
-SønderjyskE
-Randers
-Midtjylland
-Esbjerg
-Brøndby
-Silkeborg
-OB
-Copenhagen
-Horsens
-Nordsjælland
-Hobro
-AGF
-Lyngby
-AaB
-Sparta Praha
-Slovácko
-Zlín
-Slavia Praha
-Viktoria Plzen
-Sigma Olomouc
-Baník Ostrava
-Slovan Liberec
-Mladá Boleslav
-Karviná
-Příbram
-Teplice
-Jablonec
-Bohemians 1905
-České Budějovice
-Opava
 Inter Zaprešić
 Lokomotiva Zagreb
-Arka Gdynia
-Jagiellonia Białystok
-Legia Warszawa
-Pogoń Szczecin
-ŁKS Łódź
-Lechia Gdańsk
-Piast Gliwice
-Lech Poznań
-Raków Częstochowa
-Korona Kielce
-Wisła Kraków
-Śląsk Wrocław
-Wisła Płock
-Górnik Zabrze
-Zagłębie Lubin
-Cracovia Kraków
-<<<<<<< HEAD
 Zenit
 Tambov
 Spartak Moscow
@@ -154,8 +233,52 @@ Krylya Sovetov
 CSKA Moscow
 Ural
 Ufa
-=======
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
+Sion
+Basel
+Thun
+Neuchâtel Xamax
+St. Gallen
+Luzern
+Young Boys
+Servette
+Zürich
+Lugano
+Sivasspor
+Beşiktaş
+Fenerbahçe
+Gaziantep FK
+Yeni Malatyaspor
+Istanbul Basaksehir
+Gençlerbirliği
+Rizespor
+Kasımpaşa
+Trabzonspor
+Kayserispor
+Alanyaspor
+Konyaspor
+Ankaragücü
+Denizlispor
+Galatasaray
+Göztepe
+Antalyaspor
+Altay
+Ümraniyespor
+Adana Demirspor
+Balıkesirspor
+Osmanlıspor
+Boluspor
+BB Erzurumspor
+İstanbulspor
+Eskişehirspor
+Keçiörengücü
+Akhisarspor
+Adanaspor
+Fatih Karagümrük
+Bursaspor
+Hatayspor
+Altınordu
+Giresunspor
+Menemenspor
 Mezőkövesd-Zsóry
 Zalaegerszegi TE
 Fehérvár
@@ -168,6 +291,16 @@ Kisvárda
 Paksi SE
 Ferencvaros
 Debrecen
+Winterthur
+Aarau
+Grasshopper
+Stade Lausanne-Ouchy
+Chiasso
+Wil
+FC Schaffhausen
+Lausanne Sport
+Kriens
+Vaduz
 Jeonbuk Motors
 Suwon Bluewings
 Ulsan
@@ -200,10 +333,8 @@ Zbrojovka Brno
 Vysočina Jihlava
 Vítkovice
 Chrudim
-Prostějov
 Slavoj Vyšehrad
 Viktoria Žižkov
-Líšeň
 Pardubice
 Varnsdorf
 Dinamo Brest
@@ -229,13 +360,10 @@ Rudar
 Maribor
 Triglav
 Olimpija
-Celje
 Bravo
-Mura
 Olimpia Grudziądz
 Chrobry Głogów
 Radomiak Radom
-Tychy 71
 Miedź Legnica
 Odra Opole
 Zagłębie Sosnowiec
@@ -246,12 +374,66 @@ Puszcza Niepołomice
 Jastrzębie
 Nieciecza
 Sandecja Nowy Sącz
-Stal Mielec
 Wigry Suwałki
 Chojniczanka Chojnice
 Warta Poznań
-<<<<<<< HEAD
 Górnik Polkowice
 Legionovia Legionowo
-=======
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
+Hoang Anh Gia Lai
+Ho Chi Minh City
+Ha Noi
+Nam Dinh
+Hồng Lĩnh Hà Tĩnh
+Thanh Hóa
+Hai Phong
+Binh Duong
+Sai Gon
+Song Lam Nghe An
+IFK Göteborg
+Elfsborg
+Norrköping
+Kalmar
+Örebro
+AIK
+Hammarby
+Östersunds FK
+Stabæk
+Mjøndalen
+Odd
+Sandefjord
+Rosenborg
+Kristiansund
+Viking
+Bodø / Glimt
+Aalesund
+Molde
+Sarpsborg 08
+Vålerenga
+Helsingborg
+Varberg
+Falkenberg
+Häcken
+Malmö FF
+Mjällby
+AFC Eskilstuna
+Västerås SK
+GIF Sundsvall
+Umeå FC
+Halmstad
+Trelleborg
+GAIS
+Jönköpings Södra
+Start
+Strømsgodset
+Haugesund
+Brann
+Djurgården
+Sirius
+Ljungskile
+Örgryte
+Degerfors
+Brage
+Öster
+Norrby
+Akropolis
+Dalkurd

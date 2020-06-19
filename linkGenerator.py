@@ -17,10 +17,18 @@ def getLinksFromFile(fileq):
         file.write(c)
 
 #Premier League
-#getLinks(3029073,3029452)
+getLinksFromFile("Premier League 1920")
 
 #English Lower Leagues
 #getLinks(3035129,3036784)
+#Championship
+getLinksFromFile("Championship 1920")
+
+#League One
+#getLinksFromFile()
+
+#League Two
+#getLinksFromFile()
 
 #National League
 #getLinks(3053879,3054430)
@@ -47,16 +55,16 @@ def getLinksFromFile(fileq):
 #getLinks(3042798,3042929)
 
 #Serie A
-#getLinks(3111700,3112079)
+getLinks(3111700,3112079)
 
 #Serie B
-#getLinks(3122543,3122922)
+getLinks(3122543,3122922)
 
 #La Liga
-#getLinks(3058810,3059189)
+getLinksFromFile("La Liga 1920")
 
 #Segunda Division
-#getLinks(3059913,3060374)
+getLinks(3059913,3060374)
 
 #Bundesliga
 getLinks(3047020,3047325)
@@ -77,7 +85,7 @@ getLinks(3053138,3053517)
 #getLinks(3073147,3073452)
 
 #Portugal League
-getLinks(3064644,3064949)
+getLinksFromFile("Portugal 1920")
 
 #Segunda Liga
 #getLinks(3065081,3065386)
@@ -92,22 +100,25 @@ getLinks(3064644,3064949)
 getLinks(3034837,3034968)
 
 #Austria 2
-getLinks(3040372,3040611)
+getLinksFromFile("Austria 2 1920")
 
 #Denmark
 getLinks(3026880,3027061)
 
-#Denmark
+#Denmark1
 getLinks(3034132,3034329)
 
-#Norway
-#getLinks(,)
+#Norway - Only 7 out of 30 gameweeks
+getLinksFromFile("Norway 20")
 
-#Sweden
-#getLinks(,)
+#Sweden - Only 6 out of 30 gameweeks
+getLinksFromFile("Sweden 20")
+
+#Sweden 2- Only 3 out of 30 gameweeks
+getLinksFromFile("Sweden 2 20")
 
 #Finland
-#getLinks(,)
+getLinksFromFile("Finland 20")
 
 #Belgium
 #getLinks(3050137,3050387)
@@ -127,32 +138,29 @@ getLinks(3025700,3025939)
 #Poland2
 getLinksFromFile("Poland 2 1920")
 
-<<<<<<< HEAD
-#Poland2
+#Poland3
 getLinksFromFile("Poland 3 1920")
 
-=======
->>>>>>> a97c936bc6d5d8d09ae7ec3f39b04f853b0acd7d
 #Russia
 getLinks(3027073,3027312)       
 
 #Switzerland
-#getLinks(3037815,3037994)
+getLinks(3037815,3037994)
 
 #Swiss 2
-#getLinks(3039666,3039845)
+getLinks(3039666,3039845)
 
 #Turkey
-#getLinks(3081777,3082082)
+getLinks(3081777,3082082)
 
 #Turkey2
-#getLinks(3083169,3083474)
+getLinks(3083169,3083474)
 
 #Greece
 #getLinks(3051869,3052050)
 
 #Romania
-#getLinks(3048255,3048436)
+getLinks(3048255,3048436)
 
 #Slovakia
 #getLinks(3032576,3032707)
@@ -213,6 +221,9 @@ getLinks(3269418,3269549)
 
 #KLeague2
 getLinks(3269283,3269417)
+
+#Vietnam - Only 13 out of 26 gameweeks
+getLinksFromFile("Vietnam 20")
 
 #Egpyt
 #getLinks(3172275,3172580)
