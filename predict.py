@@ -4,6 +4,7 @@ import time
 import cornersCardsTeams
 import winsound
 import pandas as pd
+import leagueAverages
 
 def insertIntoDatabase():
     database = 'allStats.db'
@@ -28,6 +29,7 @@ def insertIntoDatabase():
     conn.commit()
     cursor.close()
     conn.close()
+    leagueAverages.leagueAveragesFunc()
     
     
 def asianCardHandicap(homeTeam,awayTeam,date,league):

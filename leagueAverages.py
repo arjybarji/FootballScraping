@@ -3,6 +3,7 @@ import sqlite3
 toWrite = dict()
 
 def getAverages(league):
+    fields = ["matchGoals","firstHalfTotalGoals","secondHalfTotalGoals","matchCards"]
     database = 'allStats.db'
     conn = sqlite3.connect(database)
     cursor = conn.cursor()
@@ -15,6 +16,7 @@ def getAverages(league):
     conn.close()
 
 def getPercent(league):
+    fieldsPerc = ["matchGoals,2.5","firstHalfTotalGoals,0.5","secondHalfTotalGoals,0.5","matchCards,3.5","matchCards,4.5"]
     database = 'allStats.db'
     conn = sqlite3.connect(database)
     cursor = conn.cursor()
@@ -29,24 +31,23 @@ def getPercent(league):
         toWrite.update({league:toWrite[league]+str(count/total)+","})
     conn.close()
 
-averages = open("leagueAverages.csv","w",encoding = "utf8")
-averages.write("League,matchGoalsAvg,firstHalfTotalGoalsAvg,secondHalfTotalGoalsAvg,matchCardsAvg,matchGoals2.5,firstHalfTotalGoals0.5,secondHalfTotalGoals0.5,matchCards3.5,matchCards4.5"+"\n")
-with open('fixturesv2.csv',encoding="utf8") as f:
-        content = f.readlines()
-content = [x.strip() for x in content]
-leagues = []
-for c in content:
-    league = c.split(",")[4]
-    if(league not in leagues):
-        leagues.append(league)
+def leagueAveragesFunc():
+    averages = open("leagueAverages.csv","w",encoding = "utf8")
+    averages.write("League,matchGoalsAvg,firstHalfTotalGoalsAvg,secondHalfTotalGoalsAvg,matchCardsAvg,matchGoals2.5,firstHalfTotalGoals0.5,secondHalfTotalGoals0.5,matchCards3.5,matchCards4.5"+"\n")
+    with open('fixturesv2.csv',encoding="utf8") as f:
+            content = f.readlines()
+    content = [x.strip() for x in content]
+    leagues = []
+    for c in content:
+        league = c.split(",")[4]
+        if(league not in leagues):
+            leagues.append(league)
 
-fields = ["matchGoals","firstHalfTotalGoals","secondHalfTotalGoals","matchCards"]
-fieldsPerc = ["matchGoals,2.5","firstHalfTotalGoals,0.5","secondHalfTotalGoals,0.5","matchCards,3.5","matchCards,4.5"]
-for league in leagues:
-    getAverages(league)
-    getPercent(league)
+    for league in leagues:
+        getAverages(league)
+        getPercent(league)
 
-for l in toWrite:
-    averages.write(l+"," + toWrite[l]+"\n")
+    for l in toWrite:
+        averages.write(l+"," + toWrite[l]+"\n")
 
-   
+    
