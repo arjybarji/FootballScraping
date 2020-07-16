@@ -409,6 +409,8 @@ def getArrays(homeTeam,awayTeam,date,league):
     if(homeTeam in cornersTeams and awayTeam in cornersTeams):
         cornerBetsForm(homeTeam,awayTeam,10.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
         cornerBetsForm(homeTeam,awayTeam,9.5,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
+        
+    OverOneFive(homeTeam,awayTeam,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway)
 
 def cornerBetsForm(homeTeam,awayTeam,num,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway):
     if(CornerStats(last5HomeGames,num) == "Over" and CornerStats(last5AwayGames,num) == "Over") and (CornerStats(last5HomeHome,num) == "Over" and CornerStats(last5AwayAway,num) == "Over"):
@@ -564,6 +566,50 @@ def OneFiveGoalsStats(games):
     else:
         return False
         
+        
+def OverOneFive(homeTeam,awayTeam,date,league,last5HomeGames,last5HomeHome,last5AwayGames,last5AwayAway):
+    field = "matchGoals"
+    bet = "1.5"
+    database = 'allStats.db'
+    conn = sqlite3.connect(database)
+    cursor = conn.cursor()
+    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ? AND "+field+" > "+bet , (homeTeam,))
+    teamHomeOver=cursor.fetchall()[0][0]
+    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ?" , (homeTeam,))
+    teamHomeCount=cursor.fetchall()[0][0]
+    homeTeamHomeOver = teamHomeOver/teamHomeCount
+    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ? AND "+field+" > "+bet , (homeTeam,))
+    teamAwayOver=cursor.fetchall()[0][0]
+    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ?" , (homeTeam,))
+    teamAwayCount=cursor.fetchall()[0][0]
+    homeTeamTotalOver = (teamHomeOver + teamAwayOver)/(teamHomeCount+teamAwayCount)
+
+    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ? AND "+field+" > "+bet , (awayTeam,))
+    teamAwayOver=cursor.fetchall()[0][0]
+    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE awayTeam = ?" , (awayTeam,))
+    teamAwayCount=cursor.fetchall()[0][0]
+    awayTeamAwayOver = teamAwayOver/teamAwayCount
+    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ? AND "+field+" > "+bet , (awayTeam,))
+    teamHomeOver=cursor.fetchall()[0][0]
+    cursor.execute("SELECT COUNT("+field+") FROM stats WHERE homeTeam = ?" , (awayTeam,))
+    teamHomeCount=cursor.fetchall()[0][0]
+    awayTeamTotalOver = (teamHomeOver + teamAwayOver)/(teamHomeCount+teamAwayCount) 
+    
+    percent = False
+    form = False
+    
+    upper = 0.8
+    if(homeTeamHomeOver >upper )and (awayTeamAwayOver >upper) and (homeTeamTotalOver >upper) and (awayTeamTotalOver >upper):
+        #bets.write(date + "," +homeTeam + " vs " + awayTeam + "," + "Over " +bet+ " " + field+ "," +league +"," + function +"\n")
+        percent = True
+        
+    if(OneFiveGoalsStats(last5HomeGames) == "Over" and OneFiveGoalsStats(last5AwayGames) == "Over") and (OneFiveGoalsStats(last5HomeHome) == "Over" and OneFiveGoalsStats(last5AwayAway) == "Over"):
+       form = True
+    
+    if(percent and form):
+        oneFive.write(homeTeam + " vs " + awayTeam + ",Over 1.5 Goals," + date + "," + league +  "\n")
+    
+        
 def predict(homeTeam,awayTeam,gameweek,date,league):
 
     #print(homeTeam + "," + awayTeam + "," + date)
@@ -642,6 +688,7 @@ if __name__ == '__main__':
     bets = open("bets.csv","w",encoding="utf8")
     formBets = open("formBets.csv","w",encoding="utf8")
     oneFive = open("15.csv","w",encoding="utf8")
+    
 
     today = datetime.date.today()
     tomorrow = datetime.date.today() + datetime.timedelta(days=30)
@@ -671,7 +718,8 @@ if __name__ == '__main__':
         date = split[3]
         league = leaguesDict[split[4]]
         #if(today.lower() in date.lower() and use) or (tomorrow.lower() in date.lower() and use):
-        if(date.split("/")[1] == "06" and use):
+        #if(date.split("/")[1] == "06" and use):
+        if((date.split("/")[1] == "06" or date.split("/")[1] == "07" )and use):
         #if(use):
             predict(homeTeam,awayTeam,gameweek,date,league)
             getArrays(homeTeam,awayTeam,date,league)

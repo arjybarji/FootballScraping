@@ -19,8 +19,6 @@ def getLinksFromFile(fileq):
 #Premier League
 getLinksFromFile("Premier League 1920")
 
-#English Lower Leagues
-#getLinks(3035129,3036784)
 #Championship
 getLinksFromFile("Championship 1920")
 
@@ -55,7 +53,7 @@ getLinksFromFile("Championship 1920")
 #getLinks(3042798,3042929)
 
 #Serie A
-getLinks(3111700,3112079)
+getLinksFromFile('Serie A 1920')
 
 #Serie B
 getLinks(3122543,3122922)
@@ -65,6 +63,7 @@ getLinksFromFile("La Liga 1920")
 
 #Segunda Division
 getLinks(3059913,3060374)
+#Do a getLinks
 
 #Bundesliga
 getLinks(3047020,3047325)
@@ -108,17 +107,21 @@ getLinks(3026880,3027061)
 #Denmark1
 getLinks(3034132,3034329)
 
-#Norway - Only 7 out of 30 gameweeks
+#Norway - Only 16 out of 30 gameweeks
+#Last day collected 30/08/20
 getLinksFromFile("Norway 20")
 
-#Sweden - Only 6 out of 30 gameweeks
+#Sweden 
 getLinksFromFile("Sweden 20")
 
-#Sweden 2- Only 3 out of 30 gameweeks
+#Sweden 2
 getLinksFromFile("Sweden 2 20")
 
 #Finland
 getLinksFromFile("Finland 20")
+
+#Iceland
+getLinksFromFile("Iceland 20")
 
 #Belgium
 #getLinks(3050137,3050387)
@@ -211,10 +214,13 @@ getLinksFromFile("Belarus 20")
 #getLinks(,)
 
 #J1 League
-#getLinks(3217522,3217827)
+getLinksFromFile("Japan 20")
 
 #J2 League
-#getLinks(3215368,3215899)
+getLinksFromFile("Japan 2 20")
+
+#J3 League
+getLinksFromFile("Japan 3 20")
 
 #KLeague
 getLinks(3269418,3269549)
@@ -229,11 +235,9 @@ getLinksFromFile("Vietnam 20")
 #getLinks(3172275,3172580)
 
 #A-League
-#getLinks(3129271,3129413)
+getLinks(3129271,3129413)
 
 #MLS
 #getLinks(3195739,3196180)
 
 #getLinks(,)
-
-

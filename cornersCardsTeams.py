@@ -35,15 +35,15 @@ def cornersCardsTeamsx():
         awayTeam = statsSplit[1]
         corners = statsSplit[-3]
         if(homeTeam not in cornerTeamsDict and homeTeam in teamsL):
-            cornerTeamsDict.update({homeTeam : 0})
+            cornerTeamsDict.update({homeTeam : "y"})
         if(awayTeam not in cornerTeamsDict and awayTeam in teamsL):
-            cornerTeamsDict.update({awayTeam : 0})
-        if(corners == "-1" and homeTeam in teamsL and awayTeam in teamsL):
-            cornerTeamsDict.update({homeTeam : cornerTeamsDict[homeTeam]+1})
-            cornerTeamsDict.update({awayTeam : cornerTeamsDict[awayTeam]+1})        
+            cornerTeamsDict.update({awayTeam : "y"})
+        if(corners == "-1"):
+            cornerTeamsDict.update({homeTeam : "n"})
+            cornerTeamsDict.update({awayTeam : "n"})        
 
     for c in cornerTeamsDict:
-        if(cornerTeamsDict[c]<1):
+        if(cornerTeamsDict[c]=="y"):
             #print(c + ":" + str(cornerTeamsDict[c]))
             cornerTeams.write(c + "\n")
 
@@ -63,14 +63,14 @@ def cornersCardsTeamsx():
         awayTeam = statsSplit[1]
         cards = statsSplit[19]
         if(homeTeam not in cardTeamsDict and homeTeam in teamsL):
-            cardTeamsDict.update({homeTeam : 0})
+            cardTeamsDict.update({homeTeam : "y"})
         if(awayTeam not in cardTeamsDict and awayTeam in teamsL):
-            cardTeamsDict.update({awayTeam : 0})
+            cardTeamsDict.update({awayTeam : "y"})
         if(cards == "-1"and homeTeam in teamsL and awayTeam in teamsL):
-            cardTeamsDict.update({homeTeam : cardTeamsDict[homeTeam]+1})
-            cardTeamsDict.update({awayTeam : cardTeamsDict[awayTeam]+1})        
+            cardTeamsDict.update({homeTeam : "n"})
+            cardTeamsDict.update({awayTeam : "n"})        
 
     for c in cardTeamsDict:
-        if(cardTeamsDict[c]<1):
+        if(cardTeamsDict[c]=="y"):
             #print(c + ":" + str(cardTeamsDict[c]))
             cardTeams.write(c + "\n")

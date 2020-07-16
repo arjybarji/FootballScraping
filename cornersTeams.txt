@@ -1,12 +1,4 @@
 Corner Teams
-Cagliari
-Napoli
-Bologna
-Lecce
-Roma
-Lazio
-Atalanta
-Torino
 Austria Klagenfurt
 Kapfenberger SV
 Grazer AK
@@ -19,41 +11,32 @@ Dornbirn
 HNK Gorica
 Inter Zaprešić
 Hajduk Split
-Sion
-Basel
-Thun
-Neuchâtel Xamax
-Luzern
-Servette
-Zürich
-Lugano
-Crvena Zvezda
-Javor Ivanjica
-Radnički Niš
 Stade Lausanne-Ouchy
 Chiasso
 Lausanne Sport
-Zbrojovka Brno
-Ústí nad Labem
-Slavoj Vyšehrad
-Viktoria Žižkov
+Mito Hollyhock
+Omiya Ardija
+ThespaKusatsu Gunma
+Albirex Niigata
+JEF United
+Ryūkyū
+Machida Zelvia
+Ventforet Kofu
+Júbilo Iwata
+Montedio Yamagata
+Tokushima Vortis
+Tokyo Verdy
+V-Varen Nagasaki
+Tochigi
+Ehime
+Matsumoto Yamaga
+Fagiano Okayama
+Zweigen Kanazawa
+Renofa Yamaguchi
+Kyoto Sanga
 Hvidovre
 Fredericia
-Dinamo Brest
-BATE
 Neman Grodno
-Torpedo BelAZ
-Slavia
-Gorodeya
-Shakhtyor
-Belshina
-Slutsk
-Ruh Brest
-Isloch
-Energetyk-BGU
-Vitebsk
-Dinamo Minsk
-Smolevichy-STI
 Minsk
 Aluminij
 Domžale
@@ -61,19 +44,38 @@ Maribor
 Olimpija
 Bravo
 Mura
-AFC Eskilstuna
 Västerås SK
 GIF Sundsvall
-Umeå FC
 Halmstad
 Trelleborg
 GAIS
 Jönköpings Södra
 Ljungskile
 Örgryte
-Degerfors
 Brage
 Öster
 Norrby
 Akropolis
 Dalkurd
+Haka
+Lahti
+HJK
+HIFK
+KuPS
+Ilves
+SJK
+TPS
+Inter Turku
+RoPS
+Breidablik
+FH
+KA
+Fjölnir
+Fylkir
+Grótta
+Víkingur Reykjavík
+Valur
+ÍA
+HK
+KR
+Stjarnan

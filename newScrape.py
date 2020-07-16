@@ -210,10 +210,14 @@ def parse(url):
                             print("GOT SCORE no corners. " + homeTeam + " vs " + awayTeam+" . " + dateT + " NO FRAME")
                             return("S$" + homeTeam + "," + awayTeam  + "," + dateT + "," + homeGoals + "," + awayGoals + "," + str(matchGoals) + "," + btts + "," + firstHalfHomeGoals + "," + firstHalfHomeConc + "," + firstHalfAwayGoals + "," + firstHalfAwayConc + "," + str(firstHalfTotalGoals) + "," + str(secondHalfHomeGoals) + "," + str(secondHalfHomeConc) + "," + str(secondHalfAwayGoals) + "," + str(secondHalfAwayConc) + "," + str(secondHalfTotalGoals) + "," + str(homeTeamCards) + "," + str(awayTeamCards) + "," + str(matchCards) + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1" + "," + "-1"+","+league+ "," + gameID)
                 else:
+                    todayDay = int(datetime.datetime.today().day)
+                    todayMonth = int(datetime.datetime.today().month)
+
                     dateDay = int(date.lower().split("/")[0])
-                    check = int(datetime.datetime.today().day)
-                    if(today in date.lower() and dateDay < (check+1)):
-                        print(homeTeam + " vs " + awayTeam + " at " + middle + " GW:" + gameWeek + " Date: " + date)                    
+                    dateMonth = int(date.lower().split("/")[1])
+
+                    if(dateDay < todayDay+1 and todayMonth == dateMonth):
+                        print(homeTeam + " vs " + awayTeam + " Date: " + date)                    
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + league + "," + gameID +  "£" + url)
         
         except Exception as e:
@@ -249,7 +253,7 @@ if __name__ == '__main__':
     print(len(proxies))
     if(len(proxies)>0):
         #p = Pool(80)  # Pool tells how many at a time
-        p = Pool(50)  # Pool tells how many at a time
+        p = Pool(30)  # Pool tells how many at a time
         records = p.map(parse, todo)
         p.terminate()
         p.join()

@@ -125,62 +125,6 @@ Rayo Vallecano
 Mirandés
 Real Zaragoza
 Tenerife
-Bayern Munich
-Hertha BSC
-Borussia Dortmund
-Augsburg
-Bayer Leverkusen
-Paderborn
-Borussia M'gladbach
-Schalke 04
-Wolfsburg
-Köln
-Eintracht Frankfurt
-Hoffenheim
-Werder Bremen
-Fortuna Dusseldorf
-Freiburg
-Mainz 05
-Union Berlin
-RB Leipzig
-Stuttgart
-Hannover 96
-Hamburger SV
-Darmstadt 98
-Holstein Kiel
-Sandhausen
-Arminia Bielefeld
-St. Pauli
-Jahn Regensburg
-Bochum
-Dynamo Dresden
-Nürnberg
-Greuther Fürth
-Erzgebirge Aue
-Osnabrück
-Heidenheim
-Wehen Wiesbaden
-Karlsruher SC
-1860 München
-Preußen Münster
-Würzburger Kickers
-Bayern München II
-Kaiserslautern
-Unterhaching
-MSV Duisburg
-Sonnenhof Großaspach
-Meppen
-Zwickau
-Hansa Rostock
-Viktoria Köln
-Magdeburg
-Eintracht Braunschweig
-Chemnitzer FC
-Waldhof Mannheim
-Uerdingen
-Hallescher FC
-Carl Zeiss Jena
-Ingolstadt
 Gil Vicente
 Porto
 Sporting Braga
@@ -279,18 +223,17 @@ Hatayspor
 Altınordu
 Giresunspor
 Menemenspor
-Mezőkövesd-Zsóry
-Zalaegerszegi TE
-Fehérvár
-Kaposvári Rákóczi
-Újpest
-Puskás
-Diósgyőr
-Honvéd
-Kisvárda
-Paksi SE
-Ferencvaros
-Debrecen
+Adelaide United
+Sydney
+Western Sydney Wanderers
+Central Coast Mariners
+Melbourne Victory
+Melbourne City
+Wellington Phoenix
+Western United
+Perth Glory
+Brisbane Roar
+Newcastle Jets
 Winterthur
 Aarau
 Grasshopper
@@ -301,6 +244,46 @@ FC Schaffhausen
 Lausanne Sport
 Kriens
 Vaduz
+Shonan Bellmare
+Urawa Reds
+Vegalta Sendai
+Nagoya Grampus
+Kashiwa Reysol
+Consadole Sapporo
+Kawasaki Frontale
+Sagan Tosu
+Cerezo Osaka
+Oita Trinita
+Vissel Kobe
+Yokohama
+Giravanz Kitakyushu
+Avispa Fukuoka
+Mito Hollyhock
+Omiya Ardija
+ThespaKusatsu Gunma
+Albirex Niigata
+JEF United
+Ryūkyū
+Machida Zelvia
+Ventforet Kofu
+Júbilo Iwata
+Montedio Yamagata
+Tokushima Vortis
+Tokyo Verdy
+V-Varen Nagasaki
+Tochigi
+Ehime
+Matsumoto Yamaga
+Yokohama F. Marinos
+Gamba Osaka
+Sanfrecce Hiroshima
+Kashima Antlers
+Fagiano Okayama
+Zweigen Kanazawa
+Renofa Yamaguchi
+Kyoto Sanga
+Shimizu S-Pulse
+Tokyo
 Jeonbuk Motors
 Suwon Bluewings
 Ulsan
@@ -323,43 +306,10 @@ Jeonnam Dragons
 Daegu
 Pohang Steelers
 Incheon United
-Baník Sokolov
-Hradec Králové
-Dukla Praha
 Třinec
 Vlašim
-Zbrojovka Brno
-Ústí nad Labem
-Vysočina Jihlava
-Vítkovice
-Chrudim
-Slavoj Vyšehrad
-Viktoria Žižkov
-Pardubice
-Varnsdorf
-Dinamo Brest
-BATE
 Neman Grodno
-Torpedo BelAZ
-Slavia
-Gorodeya
-Shakhtyor
-Belshina
-Slutsk
-Ruh Brest
-Isloch
-Energetyk-BGU
-Vitebsk
-Dinamo Minsk
-Smolevichy-STI
 Minsk
-Tabor Sežana
-Aluminij
-Domžale
-Rudar
-Maribor
-Triglav
-Olimpija
 Bravo
 Olimpia Grudziądz
 Chrobry Głogów
@@ -368,27 +318,16 @@ Miedź Legnica
 Odra Opole
 Zagłębie Sosnowiec
 Podbeskidzie
-Bełchatów
-Stomil Olsztyn
 Puszcza Niepołomice
 Jastrzębie
 Nieciecza
 Sandecja Nowy Sącz
-Wigry Suwałki
 Chojniczanka Chojnice
 Warta Poznań
 Górnik Polkowice
 Legionovia Legionowo
-Hoang Anh Gia Lai
 Ho Chi Minh City
-Ha Noi
-Nam Dinh
-Hồng Lĩnh Hà Tĩnh
-Thanh Hóa
 Hai Phong
-Binh Duong
-Sai Gon
-Song Lam Nghe An
 IFK Göteborg
 Elfsborg
 Norrköping
@@ -437,3 +376,45 @@ Brage
 Norrby
 Akropolis
 Dalkurd
+Haka
+Honka
+Lahti
+HJK
+HIFK
+KuPS
+Ilves
+Mariehamn
+SJK
+TPS
+Inter Turku
+RoPS
+Breidablik
+FH
+KA
+Fjölnir
+Fylkir
+Grótta
+Víkingur Reykjavík
+Valur
+ÍA
+HK
+KR
+Stjarnan
+Blaublitz Akita
+Fukushima United
+Grulla Morioka
+Imabari
+Roasso Kumamoto
+Kagoshima United
+Parceiro Nagano
+Azul Claro Numazu
+Kataller Toyama
+YSCC
+Gamba Osaka II
+Cerezo Osaka II
+Kamatamare Sanuki
+Gainare Tottori
+Gifu
+Fujieda MYFC
+Sagamihara
+Vanraure Hachinohe
