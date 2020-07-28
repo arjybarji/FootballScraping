@@ -1,0 +1,552 @@
+Luton Town,Middlesbrough,2019-08-02,3,3,6,y,2,2,2,2,4,1,1,1,1,2,2,2,4,8,11,11,8,19,Championship - England,3035402
+Barnsley,Fulham,2019-08-03,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,7,5,5,7,12,Championship - England,3035405
+Blackburn Rovers,Charlton Athletic,2019-08-03,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,3,3,-1,-1,-1,-1,-1,Championship - England,3035407
+Brentford,Birmingham City,2019-08-03,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035409
+Millwall,Preston North End,2019-08-03,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,-1,-1,-1,-1,-1,Championship - England,3035411
+Nottingham Forest,West Bromwich Albion,2019-08-03,1,2,3,y,1,2,2,1,3,0,0,0,0,0,0,1,1,9,5,5,9,14,Championship - England,3035413
+Reading,Sheffield Wednesday,2019-08-03,1,3,4,y,0,1,1,0,1,1,2,2,1,3,0,4,4,-1,-1,-1,-1,-1,Championship - England,3035415
+Stoke City,Queens Park Rangers,2019-08-03,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035417
+Swansea City,Hull City,2019-08-03,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,2,5,-1,-1,-1,-1,-1,Championship - England,3035420
+Wigan Athletic,Cardiff City,2019-08-03,3,2,5,y,0,1,1,0,1,3,1,1,3,4,2,4,6,-1,-1,-1,-1,-1,Championship - England,3035422
+Bristol City,Leeds United,2019-08-04,1,3,4,y,0,1,1,0,1,1,2,2,1,3,3,2,5,4,6,6,4,10,Championship - England,3035424
+Huddersfield Town,Derby County,2019-08-05,1,2,3,y,1,2,2,1,3,0,0,0,0,0,0,0,0,8,0,0,8,8,Championship - England,3035426
+Birmingham City,Bristol City,2019-08-10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,3,5,-1,-1,-1,-1,-1,Championship - England,3035428
+Cardiff City,Luton Town,2019-08-10,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035430
+Charlton Athletic,Stoke City,2019-08-10,3,1,4,y,1,1,1,1,2,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3035432
+Derby County,Swansea City,2019-08-10,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035434
+Fulham,Blackburn Rovers,2019-08-10,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,2,2,-1,-1,-1,-1,-1,Championship - England,3035436
+Hull City,Reading,2019-08-10,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035438
+Leeds United,Nottingham Forest,2019-08-10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,10,3,3,10,13,Championship - England,3035440
+Middlesbrough,Brentford,2019-08-10,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035442
+Preston North End,Wigan Athletic,2019-08-10,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035444
+Queens Park Rangers,Huddersfield Town,2019-08-10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,5,7,7,0,0,7,7,Championship - England,3035446
+Sheffield Wednesday,Barnsley,2019-08-10,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035448
+West Bromwich Albion,Millwall,2019-08-10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035450
+Barnsley,Charlton Athletic,2019-08-17,2,2,4,y,1,1,1,1,2,1,1,1,1,2,4,3,7,-1,-1,-1,-1,-1,Championship - England,3035452
+Blackburn Rovers,Middlesbrough,2019-08-17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,5,3,8,-1,-1,-1,-1,-1,Championship - England,3035454
+Brentford,Hull City,2019-08-17,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035456
+Bristol City,Queens Park Rangers,2019-08-17,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035458
+Huddersfield Town,Fulham,2019-08-16,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,2,4,5,5,5,5,10,Championship - England,3035460
+Luton Town,West Bromwich Albion,2019-08-17,1,2,3,y,1,0,0,1,1,0,2,2,0,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035462
+Millwall,Sheffield Wednesday,2019-08-17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035464
+Nottingham Forest,Birmingham City,2019-08-17,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,2,2,3,6,6,3,9,Championship - England,3035466
+Reading,Cardiff City,2019-08-18,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,2,3,4,2,2,4,6,Championship - England,3035468
+Stoke City,Derby County,2019-08-17,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,3,6,-1,-1,-1,-1,-1,Championship - England,3035470
+Swansea City,Preston North End,2019-08-17,3,2,5,y,1,1,1,1,2,2,1,1,2,3,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035472
+Wigan Athletic,Leeds United,2019-08-17,0,2,2,n,0,1,1,0,1,0,1,1,0,1,5,2,7,-1,-1,-1,-1,-1,Championship - England,3035474
+Birmingham City,Barnsley,2019-08-20,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035476
+Derby County,Bristol City,2019-08-20,1,2,3,y,0,2,2,0,2,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035477
+Hull City,Blackburn Rovers,2019-08-20,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,1,5,1,8,8,1,9,Championship - England,3035479
+Middlesbrough,Wigan Athletic,2019-08-20,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035481
+Sheffield Wednesday,Luton Town,2019-08-20,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035483
+Cardiff City,Huddersfield Town,2019-08-21,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035485
+Charlton Athletic,Nottingham Forest,2019-08-21,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,3,6,-1,-1,-1,-1,-1,Championship - England,3035487
+Fulham,Millwall,2019-08-21,4,0,4,n,2,0,0,2,2,2,0,0,2,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035489
+Leeds United,Brentford,2019-08-21,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035491
+Preston North End,Stoke City,2019-08-21,3,1,4,y,2,0,0,2,2,1,1,1,1,2,3,2,5,0,4,4,0,4,Championship - England,3035493
+Queens Park Rangers,Swansea City,2019-08-21,1,3,4,y,0,1,1,0,1,1,2,2,1,3,2,3,5,-1,-1,-1,-1,-1,Championship - England,3035495
+West Bromwich Albion,Reading,2019-08-21,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035497
+Barnsley,Luton Town,2019-08-24,1,3,4,y,0,3,3,0,3,1,0,0,1,1,3,1,4,-1,-1,-1,-1,-1,Championship - England,3035499
+Blackburn Rovers,Cardiff City,2019-08-24,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035501
+Charlton Athletic,Brentford,2019-08-24,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035503
+Derby County,West Bromwich Albion,2019-08-24,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,1,2,6,6,6,6,12,Championship - England,3035505
+Fulham,Nottingham Forest,2019-08-24,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,4,6,-1,-1,-1,-1,-1,Championship - England,3035507
+Huddersfield Town,Reading,2019-08-24,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035509
+Hull City,Bristol City,2019-08-24,1,3,4,y,1,1,1,1,2,0,2,2,0,2,0,3,3,-1,-1,-1,-1,-1,Championship - England,3035511
+Middlesbrough,Millwall,2019-08-24,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,2,2,-1,-1,-1,-1,-1,Championship - England,3035513
+Preston North End,Sheffield Wednesday,2019-08-24,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,3,3,-1,-1,-1,-1,-1,Championship - England,3035514
+Queens Park Rangers,Wigan Athletic,2019-08-24,3,1,4,y,0,1,1,0,1,3,0,0,3,3,2,4,6,-1,-1,-1,-1,-1,Championship - England,3035516
+Stoke City,Leeds United,2019-08-24,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,2,2,4,4,4,4,8,Championship - England,3035518
+Swansea City,Birmingham City,2019-08-25,3,0,3,n,0,0,0,0,0,3,0,0,3,3,1,5,6,5,1,1,5,6,Championship - England,3035520
+Birmingham City,Stoke City,2019-08-31,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035522
+Brentford,Derby County,2019-08-31,3,0,3,n,3,0,0,3,3,0,0,0,0,0,0,2,2,6,3,3,6,9,Championship - England,3035523
+Bristol City,Middlesbrough,2019-08-31,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,1,2,6,10,10,6,16,Championship - England,3035525
+Cardiff City,Fulham,2019-08-30,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,5,6,4,3,3,4,7,Championship - England,3035528
+Leeds United,Swansea City,2019-08-31,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035530
+Luton Town,Huddersfield Town,2019-08-31,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035531
+Millwall,Hull City,2019-08-31,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,6,8,-1,-1,-1,-1,-1,Championship - England,3035533
+Nottingham Forest,Preston North End,2019-08-31,1,1,2,y,0,1,1,0,1,1,0,0,1,1,4,1,5,-1,-1,-1,-1,-1,Championship - England,3035535
+Reading,Charlton Athletic,2019-08-31,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035537
+Sheffield Wednesday,Queens Park Rangers,2019-08-31,1,2,3,y,1,0,0,1,1,0,2,2,0,2,4,3,7,-1,-1,-1,-1,-1,Championship - England,3035539
+West Bromwich Albion,Blackburn Rovers,2019-08-31,3,2,5,y,3,2,2,3,5,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035541
+Wigan Athletic,Barnsley,2019-08-31,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,6,7,-1,-1,-1,-1,-1,Championship - England,3035543
+Barnsley,Leeds United,2019-09-15,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,0,1,-1,-1,-1,-1,-1,Championship - England,3035545
+Blackburn Rovers,Millwall,2019-09-14,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035547
+Charlton Athletic,Birmingham City,2019-09-14,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035549
+Derby County,Cardiff City,2019-09-13,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,6,4,4,6,10,Championship - England,3035551
+Fulham,West Bromwich Albion,2019-09-14,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,13,3,3,13,16,Championship - England,3035553
+Huddersfield Town,Sheffield Wednesday,2019-09-15,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,3,5,3,3,3,3,6,Championship - England,3035555
+Hull City,Wigan Athletic,2019-09-14,2,2,4,y,2,1,1,2,3,0,1,1,0,1,2,6,8,-1,-1,-1,-1,-1,Championship - England,3035557
+Middlesbrough,Reading,2019-09-14,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,3,3,-1,-1,-1,-1,-1,Championship - England,3035559
+Preston North End,Brentford,2019-09-14,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035561
+Queens Park Rangers,Luton Town,2019-09-14,3,2,5,y,3,1,1,3,4,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035563
+Stoke City,Bristol City,2019-09-14,1,2,3,y,1,0,0,1,1,0,2,2,0,2,3,3,6,-1,-1,-1,-1,-1,Championship - England,3035565
+Swansea City,Nottingham Forest,2019-09-14,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035567
+Birmingham City,Preston North End,2019-09-21,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - England,3035569
+Brentford,Stoke City,2019-09-21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035571
+Bristol City,Swansea City,2019-09-21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035573
+Cardiff City,Middlesbrough,2019-09-21,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,3,8,8,3,11,Championship - England,3035575
+Leeds United,Derby County,2019-09-21,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,4,4,8,3,3,8,11,Championship - England,3035577
+Luton Town,Hull City,2019-09-21,0,3,3,n,0,0,0,0,0,0,3,3,0,3,0,2,2,-1,-1,-1,-1,-1,Championship - England,3035579
+Millwall,Queens Park Rangers,2019-09-21,1,2,3,y,0,0,0,0,0,1,2,2,1,3,2,3,5,-1,-1,-1,-1,-1,Championship - England,3035581
+Nottingham Forest,Barnsley,2019-09-21,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,Championship - England,3035583
+Reading,Blackburn Rovers,2019-09-21,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035585
+Sheffield Wednesday,Fulham,2019-09-21,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035586
+West Bromwich Albion,Huddersfield Town,2019-09-22,4,2,6,y,1,2,2,1,3,3,0,0,3,3,0,0,0,8,2,2,8,10,Championship - England,3035588
+Wigan Athletic,Charlton Athletic,2019-09-21,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035590
+Barnsley,Brentford,2019-09-29,1,3,4,y,1,1,1,1,2,0,2,2,0,2,0,0,0,8,3,3,8,11,Championship - England,3035592
+Blackburn Rovers,Luton Town,2019-09-28,1,2,3,y,1,1,1,1,2,0,1,1,0,1,1,2,3,8,1,1,8,9,Championship - England,3035594
+Charlton Athletic,Leeds United,2019-09-28,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,Championship - England,3035596
+Derby County,Birmingham City,2019-09-28,3,2,5,y,1,0,0,1,1,2,2,2,2,4,3,1,4,-1,-1,-1,-1,-1,Championship - England,3035598
+Fulham,Wigan Athletic,2019-09-27,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,3,5,-1,-1,-1,-1,-1,Championship - England,3035600
+Huddersfield Town,Millwall,2019-09-28,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035602
+Hull City,Cardiff City,2019-09-28,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,0,2,-1,-1,-1,-1,-1,Championship - England,3035604
+Middlesbrough,Sheffield Wednesday,2019-09-28,1,4,5,y,1,4,4,1,5,0,0,0,0,0,0,3,3,-1,-1,-1,-1,-1,Championship - England,3035606
+Preston North End,Bristol City,2019-09-28,3,3,6,y,1,2,2,1,3,2,1,1,2,3,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035608
+Queens Park Rangers,West Bromwich Albion,2019-09-28,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,2,5,4,6,6,4,10,Championship - England,3035610
+Stoke City,Nottingham Forest,2019-09-27,2,3,5,y,1,1,1,1,2,1,2,2,1,3,0,4,4,9,3,3,9,12,Championship - England,3035612
+Swansea City,Reading,2019-09-28,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,3,3,-1,-1,-1,-1,-1,Championship - England,3035614
+Blackburn Rovers,Nottingham Forest,2019-10-01,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035616
+Hull City,Sheffield Wednesday,2019-10-01,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035618
+Leeds United,West Bromwich Albion,2019-10-01,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,5,6,7,6,6,7,13,Championship - England,3035620
+Middlesbrough,Preston North End,2019-10-01,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035622
+Reading,Fulham,2019-10-01,1,4,5,y,0,3,3,0,3,1,1,1,1,2,3,0,3,-1,-1,-1,-1,-1,Championship - England,3035624
+Stoke City,Huddersfield Town,2019-10-01,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035626
+Wigan Athletic,Birmingham City,2019-10-01,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035628
+Barnsley,Derby County,2019-10-02,2,2,4,y,1,2,2,1,3,1,0,0,1,1,2,0,2,-1,-1,-1,-1,-1,Championship - England,3035630
+Brentford,Bristol City,2019-10-02,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035632
+Cardiff City,Queens Park Rangers,2019-10-02,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035634
+Charlton Athletic,Swansea City,2019-10-02,1,2,3,y,1,1,1,1,2,0,1,1,0,1,4,1,5,-1,-1,-1,-1,-1,Championship - England,3035636
+Luton Town,Millwall,2019-10-02,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,2,2,5,4,4,5,9,Championship - England,3035638
+Birmingham City,Middlesbrough,2019-10-04,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,3,5,11,3,3,11,14,Championship - England,3035640
+Bristol City,Reading,2019-10-05,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035642
+Derby County,Luton Town,2019-10-05,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3035644
+Fulham,Charlton Athletic,2019-10-05,2,2,4,y,0,1,1,0,1,2,1,1,2,3,2,1,3,8,6,6,8,14,Championship - England,3035646
+Huddersfield Town,Hull City,2019-10-05,3,0,3,n,0,0,0,0,0,3,0,0,3,3,3,1,4,-1,-1,-1,-1,-1,Championship - England,3035648
+Millwall,Leeds United,2019-10-05,2,1,3,y,2,0,0,2,2,0,1,1,0,1,4,2,6,-1,-1,-1,-1,-1,Championship - England,3035650
+Nottingham Forest,Brentford,2019-10-05,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035652
+Preston North End,Barnsley,2019-10-05,5,1,6,y,1,1,1,1,2,4,0,0,4,4,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035654
+Queens Park Rangers,Blackburn Rovers,2019-10-05,4,2,6,y,1,0,0,1,1,3,2,2,3,5,4,4,8,-1,-1,-1,-1,-1,Championship - England,3035656
+Sheffield Wednesday,Wigan Athletic,2019-10-05,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035658
+Swansea City,Stoke City,2019-10-05,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035660
+West Bromwich Albion,Cardiff City,2019-10-05,4,2,6,y,2,0,0,2,2,2,2,2,2,4,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035662
+Barnsley,Swansea City,2019-10-19,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035664
+Blackburn Rovers,Huddersfield Town,2019-10-19,2,2,4,y,2,1,1,2,3,0,1,1,0,1,1,3,4,5,6,6,5,11,Championship - England,3035666
+Brentford,Millwall,2019-10-19,3,2,5,y,0,1,1,0,1,3,1,1,3,4,3,6,9,-1,-1,-1,-1,-1,Championship - England,3035668
+Cardiff City,Sheffield Wednesday,2019-10-18,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,3,3,4,4,4,4,8,Championship - England,3035670
+Charlton Athletic,Derby County,2019-10-19,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035672
+Hull City,Queens Park Rangers,2019-10-19,2,3,5,y,1,1,1,1,2,1,2,2,1,3,1,0,1,-1,-1,-1,-1,-1,Championship - England,3035674
+Leeds United,Birmingham City,2019-10-19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035676
+Luton Town,Bristol City,2019-10-19,3,0,3,n,0,0,0,0,0,3,0,0,3,3,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035678
+Middlesbrough,West Bromwich Albion,2019-10-19,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,4,6,-1,-1,-1,-1,-1,Championship - England,3035680
+Reading,Preston North End,2019-10-19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035682
+Stoke City,Fulham,2019-10-19,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035684
+Wigan Athletic,Nottingham Forest,2019-10-20,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,2,7,7,2,9,Championship - England,3035686
+Birmingham City,Blackburn Rovers,2019-10-22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035688
+Millwall,Cardiff City,2019-10-22,2,2,4,y,1,1,1,1,2,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035690
+Queens Park Rangers,Reading,2019-10-22,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,2,4,1,5,5,1,6,Championship - England,3035692
+Sheffield Wednesday,Stoke City,2019-10-22,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035693
+Swansea City,Brentford,2019-10-22,0,3,3,n,0,2,2,0,2,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035696
+West Bromwich Albion,Barnsley,2019-10-22,2,2,4,y,0,2,2,0,2,2,0,0,2,2,3,8,11,-1,-1,-1,-1,-1,Championship - England,3035697
+Bristol City,Charlton Athletic,2019-10-23,2,1,3,y,0,0,0,0,0,2,1,1,2,3,3,5,8,-1,-1,-1,-1,-1,Championship - England,3035699
+Derby County,Wigan Athletic,2019-10-23,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035702
+Fulham,Luton Town,2019-10-23,3,2,5,y,1,0,0,1,1,2,2,2,2,4,1,0,1,-1,-1,-1,-1,-1,Championship - England,3035705
+Huddersfield Town,Middlesbrough,2019-10-23,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035707
+Nottingham Forest,Hull City,2019-10-23,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,3,6,-1,-1,-1,-1,-1,Championship - England,3035709
+Preston North End,Leeds United,2019-10-22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,0,1,-1,-1,-1,-1,-1,Championship - England,3035711
+Birmingham City,Luton Town,2019-10-26,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035713
+Bristol City,Wigan Athletic,2019-10-27,2,2,4,y,1,1,1,1,2,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035715
+Huddersfield Town,Barnsley,2019-10-26,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035717
+Hull City,Derby County,2019-10-26,2,0,2,n,0,0,0,0,0,2,0,0,2,2,4,1,5,-1,-1,-1,-1,-1,Championship - England,3035719
+Middlesbrough,Fulham,2019-10-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,3,6,-1,-1,-1,-1,-1,Championship - England,3035721
+Millwall,Stoke City,2019-10-26,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3035723
+Preston North End,Blackburn Rovers,2019-10-26,3,2,5,y,0,2,2,0,2,3,0,0,3,3,0,2,2,-1,-1,-1,-1,-1,Championship - England,3035726
+Queens Park Rangers,Brentford,2019-10-28,1,3,4,y,0,1,1,0,1,1,2,2,1,3,0,3,3,3,6,6,3,9,Championship - England,3035728
+Sheffield Wednesday,Leeds United,2019-10-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,0,2,5,4,4,5,9,Championship - England,3035730
+Swansea City,Cardiff City,2019-10-27,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,1,1,9,3,3,9,12,Championship - England,3035733
+West Bromwich Albion,Charlton Athletic,2019-10-26,2,2,4,y,1,0,0,1,1,1,2,2,1,3,3,3,6,-1,-1,-1,-1,-1,Championship - England,3035736
+Barnsley,Bristol City,2019-11-01,2,2,4,y,0,1,1,0,1,2,1,1,2,3,2,0,2,10,6,6,10,16,Championship - England,3035739
+Blackburn Rovers,Sheffield Wednesday,2019-11-02,2,1,3,y,0,0,0,0,0,2,1,1,2,3,0,0,0,-1,-1,-1,-1,-1,Championship - England,3035743
+Brentford,Huddersfield Town,2019-11-02,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,5,6,-1,-1,-1,-1,-1,Championship - England,3035746
+Cardiff City,Birmingham City,2019-11-02,4,2,6,y,2,1,1,2,3,2,1,1,2,3,2,4,6,-1,-1,-1,-1,-1,Championship - England,3035749
+Charlton Athletic,Preston North End,2019-11-03,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,5,8,3,9,9,3,12,Championship - England,3035753
+Derby County,Middlesbrough,2019-11-02,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,2,2,-1,-1,-1,-1,-1,Championship - England,3035756
+Fulham,Hull City,2019-11-02,0,3,3,n,0,1,1,0,1,0,2,2,0,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035759
+Leeds United,Queens Park Rangers,2019-11-02,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,4,5,-1,-1,-1,-1,-1,Championship - England,3035762
+Luton Town,Nottingham Forest,2019-11-02,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035766
+Reading,Millwall,2019-11-02,2,1,3,y,2,0,0,2,2,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3035770
+Stoke City,West Bromwich Albion,2019-11-04,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,1,3,4,3,3,4,7,Championship - England,3035774
+Wigan Athletic,Swansea City,2019-11-02,1,2,3,y,1,1,1,1,2,0,1,1,0,1,4,2,6,11,2,2,11,13,Championship - England,3035777
+Barnsley,Stoke City,2019-11-09,2,4,6,y,0,2,2,0,2,2,2,2,2,4,4,1,5,-1,-1,-1,-1,-1,Championship - England,3035780
+Birmingham City,Fulham,2019-11-09,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,-1,-1,-1,-1,-1,Championship - England,3035782
+Cardiff City,Bristol City,2019-11-10,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,7,2,2,7,9,Championship - England,3035785
+Hull City,West Bromwich Albion,2019-11-09,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,3,6,-1,-1,-1,-1,-1,Championship - England,3035788
+Leeds United,Blackburn Rovers,2019-11-09,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035791
+Millwall,Charlton Athletic,2019-11-09,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035793
+Nottingham Forest,Derby County,2019-11-09,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,7,8,8,7,15,Championship - England,3035796
+Preston North End,Huddersfield Town,2019-11-09,3,1,4,y,2,0,0,2,2,1,1,1,1,2,4,2,6,-1,-1,-1,-1,-1,Championship - England,3035800
+Queens Park Rangers,Middlesbrough,2019-11-09,2,2,4,y,2,1,1,2,3,0,1,1,0,1,4,2,6,-1,-1,-1,-1,-1,Championship - England,3035803
+Reading,Luton Town,2019-11-09,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035807
+Sheffield Wednesday,Swansea City,2019-11-09,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,0,1,-1,-1,-1,-1,-1,Championship - England,3035810
+Wigan Athletic,Brentford,2019-11-09,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,2,5,-1,-1,-1,-1,-1,Championship - England,3035814
+Blackburn Rovers,Barnsley,2019-11-23,3,2,5,y,1,0,0,1,1,2,2,2,2,4,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035818
+Brentford,Reading,2019-11-23,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,Championship - England,3035821
+Bristol City,Nottingham Forest,2019-11-23,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035824
+Charlton Athletic,Cardiff City,2019-11-23,2,2,4,y,2,0,0,2,2,0,2,2,0,2,1,3,4,5,4,4,5,9,Championship - England,3035828
+Derby County,Preston North End,2019-11-23,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,2,2,-1,-1,-1,-1,-1,Championship - England,3035832
+Fulham,Queens Park Rangers,2019-11-22,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,0,1,4,11,11,4,15,Championship - England,3035836
+Huddersfield Town,Birmingham City,2019-11-23,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035840
+Luton Town,Leeds United,2019-11-23,1,2,3,y,0,0,0,0,0,1,2,2,1,3,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035842
+Middlesbrough,Hull City,2019-11-24,2,2,4,y,2,0,0,2,2,0,2,2,0,2,3,1,4,3,9,9,3,12,Championship - England,3035845
+Stoke City,Wigan Athletic,2019-11-23,2,1,3,y,0,1,1,0,1,2,0,0,2,2,3,2,5,-1,-1,-1,-1,-1,Championship - England,3035849
+Swansea City,Millwall,2019-11-23,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,4,3,3,4,7,Championship - England,3035851
+West Bromwich Albion,Sheffield Wednesday,2019-11-23,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,4,5,-1,-1,-1,-1,-1,Championship - England,3035855
+Cardiff City,Stoke City,2019-11-26,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035858
+Fulham,Derby County,2019-11-26,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035863
+Huddersfield Town,Swansea City,2019-11-26,1,1,2,y,1,1,1,1,2,0,0,0,0,0,4,2,6,-1,-1,-1,-1,-1,Championship - England,3035867
+Luton Town,Charlton Athletic,2019-11-26,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,1,4,-1,-1,-1,-1,-1,Championship - England,3035871
+Millwall,Wigan Athletic,2019-11-26,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035875
+Reading,Leeds United,2019-11-26,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,7,11,11,7,18,Championship - England,3035878
+Blackburn Rovers,Brentford,2019-11-27,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035881
+Hull City,Preston North End,2019-11-27,4,0,4,n,1,0,0,1,1,3,0,0,3,3,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035885
+Middlesbrough,Barnsley,2019-11-27,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,0,3,-1,-1,-1,-1,-1,Championship - England,3035888
+Queens Park Rangers,Nottingham Forest,2019-11-27,0,4,4,n,0,1,1,0,1,0,3,3,0,3,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035892
+Sheffield Wednesday,Birmingham City,2019-11-27,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035895
+West Bromwich Albion,Bristol City,2019-11-27,4,1,5,y,2,0,0,2,2,2,1,1,2,3,0,2,2,-1,-1,-1,-1,-1,Championship - England,3035898
+Barnsley,Hull City,2019-11-30,3,1,4,y,1,0,0,1,1,2,1,1,2,3,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035900
+Birmingham City,Millwall,2019-11-30,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3035905
+Brentford,Luton Town,2019-11-30,7,0,7,n,5,0,0,5,5,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3035909
+Bristol City,Huddersfield Town,2019-11-30,5,2,7,y,4,1,1,4,5,1,1,1,1,2,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035912
+Charlton Athletic,Sheffield Wednesday,2019-11-30,1,3,4,y,1,1,1,1,2,0,2,2,0,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035915
+Derby County,Queens Park Rangers,2019-11-30,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,3,4,8,9,9,8,17,Championship - England,3035918
+Leeds United,Middlesbrough,2019-11-30,4,0,4,n,2,0,0,2,2,2,0,0,2,2,2,3,5,-1,-1,-1,-1,-1,Championship - England,3035923
+Nottingham Forest,Cardiff City,2019-11-30,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,1,1,-1,-1,-1,-1,-1,Championship - England,3035926
+Preston North End,West Bromwich Albion,2019-12-02,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,1,1,4,9,9,4,13,Championship - England,3035929
+Stoke City,Blackburn Rovers,2019-11-30,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3035932
+Swansea City,Fulham,2019-11-29,1,2,3,y,0,2,2,0,2,1,0,0,1,1,0,1,1,6,0,0,6,6,Championship - England,3035935
+Wigan Athletic,Reading,2019-11-30,1,3,4,y,1,0,0,1,1,0,3,3,0,3,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035937
+Blackburn Rovers,Derby County,2019-12-07,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035940
+Cardiff City,Barnsley,2019-12-07,3,2,5,y,1,1,1,1,2,2,1,1,2,3,1,5,6,-1,-1,-1,-1,-1,Championship - England,3035943
+Fulham,Bristol City,2019-12-07,1,2,3,y,0,1,1,0,1,1,1,1,1,2,6,2,8,-1,-1,-1,-1,-1,Championship - England,3035946
+Huddersfield Town,Leeds United,2019-12-07,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,3,5,7,5,5,7,12,Championship - England,3035949
+Hull City,Stoke City,2019-12-07,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3035952
+Luton Town,Wigan Athletic,2019-12-07,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,4,5,-1,-1,-1,-1,-1,Championship - England,3035955
+Middlesbrough,Charlton Athletic,2019-12-07,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3035959
+Millwall,Nottingham Forest,2019-12-06,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,2,3,10,2,2,10,12,Championship - England,3035962
+Queens Park Rangers,Preston North End,2019-12-07,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3035966
+Reading,Birmingham City,2019-12-07,2,3,5,y,1,1,1,1,2,1,2,2,1,3,1,1,2,-1,-1,-1,-1,-1,Championship - England,3035969
+Sheffield Wednesday,Brentford,2019-12-07,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,2,3,5,7,7,5,12,Championship - England,3035972
+West Bromwich Albion,Swansea City,2019-12-08,5,1,6,y,3,1,1,3,4,2,0,0,2,2,1,2,3,7,7,7,7,14,Championship - England,3035976
+Bristol City,Millwall,2019-12-10,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3035980
+Charlton Athletic,Huddersfield Town,2019-12-10,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,2,5,-1,-1,-1,-1,-1,Championship - England,3035983
+Leeds United,Hull City,2019-12-10,2,0,2,n,0,0,0,0,0,2,0,0,2,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3035987
+Nottingham Forest,Middlesbrough,2019-12-10,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,2,6,-1,-1,-1,-1,-1,Championship - England,3035991
+Preston North End,Fulham,2019-12-10,2,1,3,y,1,0,0,1,1,1,1,1,1,2,5,2,7,-1,-1,-1,-1,-1,Championship - England,3035995
+Stoke City,Luton Town,2019-12-10,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035998
+Barnsley,Reading,2019-12-11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036002
+Birmingham City,Queens Park Rangers,2019-12-11,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,2,4,9,0,0,9,9,Championship - England,3036005
+Brentford,Cardiff City,2019-12-11,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036009
+Derby County,Sheffield Wednesday,2019-12-11,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,5,8,-1,-1,-1,-1,-1,Championship - England,3036012
+Swansea City,Blackburn Rovers,2019-12-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036016
+Wigan Athletic,West Bromwich Albion,2019-12-11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036019
+Barnsley,Queens Park Rangers,2019-12-14,5,3,8,y,2,1,1,2,3,3,2,2,3,5,4,3,7,-1,-1,-1,-1,-1,Championship - England,3036022
+Birmingham City,West Bromwich Albion,2019-12-14,2,3,5,y,1,1,1,1,2,1,2,2,1,3,2,2,4,7,2,2,7,9,Championship - England,3036025
+Brentford,Fulham,2019-12-14,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036029
+Bristol City,Blackburn Rovers,2019-12-14,0,2,2,n,0,1,1,0,1,0,1,1,0,1,1,2,3,5,5,5,5,10,Championship - England,3036032
+Charlton Athletic,Hull City,2019-12-13,2,2,4,y,1,0,0,1,1,1,2,2,1,3,2,2,4,4,9,9,4,13,Championship - England,3036036
+Derby County,Millwall,2019-12-14,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036040
+Leeds United,Cardiff City,2019-12-14,3,3,6,y,2,0,0,2,2,1,3,3,1,4,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036045
+Nottingham Forest,Sheffield Wednesday,2019-12-14,0,4,4,n,0,4,4,0,4,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036049
+Preston North End,Luton Town,2019-12-14,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036052
+Stoke City,Reading,2019-12-14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036056
+Swansea City,Middlesbrough,2019-12-14,3,1,4,y,1,0,0,1,1,2,1,1,2,3,2,4,6,-1,-1,-1,-1,-1,Championship - England,3036060
+Wigan Athletic,Huddersfield Town,2019-12-14,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036063
+Cardiff City,Preston North End,2019-12-21,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,1,3,3,1,4,Championship - England,3036071
+Fulham,Leeds United,2019-12-21,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,4,7,-1,-1,-1,-1,-1,Championship - England,3036074
+Huddersfield Town,Nottingham Forest,2019-12-21,2,1,3,y,1,0,0,1,1,1,1,1,1,2,3,3,6,-1,-1,-1,-1,-1,Championship - England,3036078
+Hull City,Birmingham City,2019-12-21,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036082
+Luton Town,Swansea City,2019-12-21,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036085
+Middlesbrough,Stoke City,2019-12-20,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,4,6,4,2,2,4,6,Championship - England,3036088
+Queens Park Rangers,Charlton Athletic,2019-12-21,2,2,4,y,1,0,0,1,1,1,2,2,1,3,3,4,7,-1,-1,-1,-1,-1,Championship - England,3036093
+Reading,Derby County,2019-12-21,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,8,10,-1,-1,-1,-1,-1,Championship - England,3036096
+Sheffield Wednesday,Bristol City,2019-12-22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,8,1,1,8,9,Championship - England,3036099
+West Bromwich Albion,Brentford,2019-12-21,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036103
+Millwall,Barnsley,2019-12-21,1,2,3,y,0,1,1,0,1,1,1,1,1,2,2,4,6,8,3,3,8,11,Championship - England,3036091
+Blackburn Rovers,Wigan Athletic,2019-12-23,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,7,5,5,7,12,Championship - England,3036067
+Barnsley,West Bromwich Albion,2019-12-26,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036106
+Cardiff City,Millwall,2019-12-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036116
+Charlton Athletic,Bristol City,2019-12-26,3,2,5,y,1,0,0,1,1,2,2,2,2,4,3,1,4,-1,-1,-1,-1,-1,Championship - England,3036119
+Wigan Athletic,Derby County,2019-12-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036137
+Blackburn Rovers,Birmingham City,2019-12-26,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,3,6,-1,-1,-1,-1,-1,Championship - England,3036110
+Brentford,Swansea City,2019-12-26,3,1,4,y,2,0,0,2,2,1,1,1,1,2,0,2,2,7,2,2,7,9,Championship - England,3036113
+Hull City,Nottingham Forest,2019-12-26,0,2,2,n,0,1,1,0,1,0,1,1,0,1,4,2,6,-1,-1,-1,-1,-1,Championship - England,3036122
+Leeds United,Preston North End,2019-12-26,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,4,7,12,4,4,12,16,Championship - England,3036125
+Luton Town,Fulham,2019-12-26,3,3,6,y,2,1,1,2,3,1,2,2,1,3,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036128
+Middlesbrough,Huddersfield Town,2019-12-26,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,4,7,-1,-1,-1,-1,-1,Championship - England,3036131
+Reading,Queens Park Rangers,2019-12-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,0,1,7,6,6,7,13,Championship - England,3036133
+Stoke City,Sheffield Wednesday,2019-12-26,3,2,5,y,1,0,0,1,1,2,2,2,2,4,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036135
+Millwall,Brentford,2019-12-29,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,Championship - England,3036148
+Nottingham Forest,Wigan Athletic,2019-12-29,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036150
+Preston North End,Reading,2019-12-29,0,2,2,n,0,2,2,0,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036152
+Queens Park Rangers,Hull City,2019-12-29,1,2,3,y,1,1,1,1,2,0,1,1,0,1,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036154
+Sheffield Wednesday,Cardiff City,2019-12-29,1,2,3,y,1,2,2,1,3,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036156
+Birmingham City,Leeds United,2019-12-29,4,5,9,y,1,2,2,1,3,3,3,3,3,6,5,3,8,-1,-1,-1,-1,-1,Championship - England,3036139
+Bristol City,Luton Town,2019-12-29,3,0,3,n,2,0,0,2,2,1,0,0,1,1,1,4,5,-1,-1,-1,-1,-1,Championship - England,3036141
+Fulham,Stoke City,2019-12-29,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,3,5,-1,-1,-1,-1,-1,Championship - England,3036144
+Huddersfield Town,Blackburn Rovers,2019-12-29,2,1,3,y,1,1,1,1,2,1,0,0,1,1,2,1,3,7,3,3,7,10,Championship - England,3036146
+Swansea City,Barnsley,2019-12-29,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,4,5,-1,-1,-1,-1,-1,Championship - England,3036158
+West Bromwich Albion,Middlesbrough,2019-12-29,0,2,2,n,0,1,1,0,1,0,1,1,0,1,4,3,7,-1,-1,-1,-1,-1,Championship - England,3036160
+Derby County,Charlton Athletic,2019-12-30,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,5,7,5,2,2,5,7,Championship - England,3036143
+Bristol City,Brentford,2020-01-01,0,4,4,n,0,2,2,0,2,0,2,2,0,2,4,2,6,-1,-1,-1,-1,-1,Championship - England,3036164
+Fulham,Reading,2020-01-01,1,2,3,y,0,1,1,0,1,1,1,1,1,2,4,3,7,-1,-1,-1,-1,-1,Championship - England,3036168
+Millwall,Luton Town,2020-01-01,3,1,4,y,0,1,1,0,1,3,0,0,3,3,0,0,0,5,1,1,5,6,Championship - England,3036172
+Nottingham Forest,Blackburn Rovers,2020-01-01,3,2,5,y,2,1,1,2,3,1,1,1,1,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036173
+Preston North End,Middlesbrough,2020-01-01,0,2,2,n,0,1,1,0,1,0,1,1,0,1,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036175
+Queens Park Rangers,Cardiff City,2020-01-01,6,1,7,y,3,0,0,3,3,3,1,1,3,4,2,1,3,4,10,10,4,14,Championship - England,3036177
+Birmingham City,Wigan Athletic,2020-01-01,2,3,5,y,1,1,1,1,2,1,2,2,1,3,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036162
+Huddersfield Town,Stoke City,2020-01-01,2,5,7,y,0,1,1,0,1,2,4,4,2,6,5,2,7,-1,-1,-1,-1,-1,Championship - England,3036170
+Sheffield Wednesday,Hull City,2020-01-01,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036179
+West Bromwich Albion,Leeds United,2020-01-01,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,3,5,8,9,9,8,17,Championship - England,3036183
+Derby County,Barnsley,2020-01-02,2,1,3,y,1,0,0,1,1,1,1,1,1,2,1,0,1,5,6,6,5,11,Championship - England,3036166
+Swansea City,Charlton Athletic,2020-01-02,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,3,4,7,5,5,7,12,Championship - England,3036181
+Barnsley,Huddersfield Town,2020-01-11,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,5,7,-1,-1,-1,-1,-1,Championship - England,3036185
+Blackburn Rovers,Preston North End,2020-01-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,0,2,-1,-1,-1,-1,-1,Championship - England,3036187
+Brentford,Queens Park Rangers,2020-01-11,3,1,4,y,3,0,0,3,3,0,1,1,0,1,0,5,5,8,0,0,8,8,Championship - England,3036189
+Cardiff City,Swansea City,2020-01-12,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,2,6,4,8,8,4,12,Championship - England,3036191
+Charlton Athletic,West Bromwich Albion,2020-01-11,2,2,4,y,1,1,1,1,2,1,1,1,1,2,2,6,8,5,5,5,5,10,Championship - England,3036193
+Hull City,Fulham,2020-01-11,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,4,5,-1,-1,-1,-1,-1,Championship - England,3036195
+Reading,Nottingham Forest,2020-01-11,1,1,2,y,0,0,0,0,0,1,1,1,1,2,4,2,6,-1,-1,-1,-1,-1,Championship - England,3036203
+Stoke City,Millwall,2020-01-11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036205
+Wigan Athletic,Bristol City,2020-01-11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036207
+Leeds United,Sheffield Wednesday,2020-01-11,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036197
+Luton Town,Birmingham City,2020-01-11,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,5,6,-1,-1,-1,-1,-1,Championship - England,3036199
+Middlesbrough,Derby County,2020-01-11,2,2,4,y,1,0,0,1,1,1,2,2,1,3,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036201
+Birmingham City,Cardiff City,2020-01-18,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,3,4,8,6,6,8,14,Championship - England,3036210
+Bristol City,Barnsley,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036212
+Fulham,Middlesbrough,2020-01-17,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,3,8,8,3,11,Championship - England,3036216
+Huddersfield Town,Brentford,2020-01-18,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036219
+Nottingham Forest,Luton Town,2020-01-19,3,1,4,y,1,1,1,1,2,2,0,0,2,2,0,3,3,12,2,2,12,14,Championship - England,3036222
+Queens Park Rangers,Leeds United,2020-01-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,4,4,8,4,11,11,4,15,Championship - England,3036226
+Sheffield Wednesday,Blackburn Rovers,2020-01-18,0,5,5,n,0,3,3,0,3,0,2,2,0,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036228
+Swansea City,Wigan Athletic,2020-01-18,2,1,3,y,1,1,1,1,2,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036230
+Millwall,Reading,2020-01-18,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036220
+Derby County,Hull City,2020-01-18,1,0,1,n,0,0,0,0,0,1,0,0,1,1,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036214
+Preston North End,Charlton Athletic,2020-01-18,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036224
+Nottingham Forest,Reading,2020-01-22,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3035725
+West Bromwich Albion,Stoke City,2020-01-20,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,7,1,1,7,8,Championship - England,3036232
+Barnsley,Preston North End,2020-01-21,0,3,3,n,0,3,3,0,3,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036234
+Charlton Athletic,Fulham,2020-01-22,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036244
+Middlesbrough,Birmingham City,2020-01-21,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036252
+Stoke City,Swansea City,2020-01-25,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036256
+Blackburn Rovers,Queens Park Rangers,2020-01-28,2,1,3,y,2,1,1,2,3,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036237
+Brentford,Nottingham Forest,2020-01-28,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036240
+Cardiff City,West Bromwich Albion,2020-01-28,2,1,3,y,0,0,0,0,0,2,1,1,2,3,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036242
+Hull City,Huddersfield Town,2020-01-28,1,2,3,y,0,1,1,0,1,1,1,1,1,2,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036247
+Leeds United,Millwall,2020-01-28,3,2,5,y,0,2,2,0,2,3,0,0,3,3,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036249
+Luton Town,Derby County,2020-01-28,3,2,5,y,0,0,0,0,0,3,2,2,3,5,1,5,6,-1,-1,-1,-1,-1,Championship - England,3036250
+Reading,Bristol City,2020-01-28,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036254
+Wigan Athletic,Sheffield Wednesday,2020-01-28,2,1,3,y,0,1,1,0,1,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036258
+Birmingham City,Nottingham Forest,2020-02-01,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036260
+Charlton Athletic,Barnsley,2020-02-01,2,1,3,y,2,0,0,2,2,0,1,1,0,1,1,4,5,-1,-1,-1,-1,-1,Championship - England,3036265
+Derby County,Stoke City,2020-01-31,4,0,4,n,2,0,0,2,2,2,0,0,2,2,2,2,4,1,7,7,1,8,Championship - England,3036267
+Leeds United,Wigan Athletic,2020-02-01,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,2,2,13,6,6,13,19,Championship - England,3036273
+Preston North End,Swansea City,2020-02-01,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036278
+West Bromwich Albion,Luton Town,2020-02-01,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036283
+Cardiff City,Reading,2020-01-31,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,2,5,-1,-1,-1,-1,-1,Championship - England,3036263
+Fulham,Huddersfield Town,2020-02-01,3,2,5,y,3,2,2,3,5,0,0,0,0,0,4,1,5,-1,-1,-1,-1,-1,Championship - England,3036269
+Hull City,Brentford,2020-02-01,1,5,6,y,1,2,2,1,3,0,3,3,0,3,0,1,1,2,5,5,2,7,Championship - England,3036271
+Middlesbrough,Blackburn Rovers,2020-02-01,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036275
+Queens Park Rangers,Bristol City,2020-02-01,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036280
+Sheffield Wednesday,Millwall,2020-02-01,0,0,0,n,0,0,0,0,0,0,0,0,0,0,4,3,7,-1,-1,-1,-1,-1,Championship - England,3036282
+Blackburn Rovers,Fulham,2020-02-08,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036287
+Brentford,Middlesbrough,2020-02-08,3,2,5,y,1,0,0,1,1,2,2,2,2,4,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036289
+Bristol City,Birmingham City,2020-02-07,1,3,4,y,1,2,2,1,3,0,1,1,0,1,0,0,0,6,4,4,6,10,Championship - England,3036291
+Luton Town,Cardiff City,2020-02-08,0,1,1,n,0,0,0,0,0,0,1,1,0,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036296
+Millwall,West Bromwich Albion,2020-02-09,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,2,4,4,9,9,4,13,Championship - England,3036298
+Stoke City,Charlton Athletic,2020-02-08,3,1,4,y,1,1,1,1,2,2,0,0,2,2,0,5,5,-1,-1,-1,-1,-1,Championship - England,3036304
+Swansea City,Derby County,2020-02-08,2,3,5,y,0,1,1,0,1,2,2,2,2,4,1,4,5,-1,-1,-1,-1,-1,Championship - England,3036306
+Wigan Athletic,Preston North End,2020-02-08,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,3,4,11,8,8,11,19,Championship - England,3036308
+Barnsley,Sheffield Wednesday,2020-02-08,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036285
+Huddersfield Town,Queens Park Rangers,2020-02-08,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,3,3,-1,-1,-1,-1,-1,Championship - England,3036293
+Nottingham Forest,Leeds United,2020-02-08,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,3,6,3,8,8,3,11,Championship - England,3036300
+Reading,Hull City,2020-02-08,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,3,4,3,4,4,3,7,Championship - England,3036302
+Barnsley,Birmingham City,2020-02-11,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036310
+Blackburn Rovers,Hull City,2020-02-11,3,0,3,n,0,0,0,0,0,3,0,0,3,3,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036311
+Nottingham Forest,Charlton Athletic,2020-02-11,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,4,6,-1,-1,-1,-1,-1,Championship - England,3036315
+Swansea City,Queens Park Rangers,2020-02-11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036317
+Brentford,Leeds United,2020-02-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036313
+Wigan Athletic,Middlesbrough,2020-02-11,2,2,4,y,1,0,0,1,1,1,2,2,1,3,7,3,10,-1,-1,-1,-1,-1,Championship - England,3036319
+Bristol City,Derby County,2020-02-12,3,2,5,y,2,0,0,2,2,1,2,2,1,3,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036322
+Huddersfield Town,Cardiff City,2020-02-12,0,3,3,n,0,2,2,0,2,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036324
+Luton Town,Sheffield Wednesday,2020-02-12,1,0,1,n,1,0,0,1,1,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,Championship - England,3036326
+Millwall,Fulham,2020-02-12,1,1,2,y,1,1,1,1,2,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036329
+Reading,West Bromwich Albion,2020-02-12,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036330
+Stoke City,Preston North End,2020-02-12,0,2,2,n,0,0,0,0,0,0,2,2,0,2,3,2,5,-1,-1,-1,-1,-1,Championship - England,3036332
+Birmingham City,Brentford,2020-02-15,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,3,5,-1,-1,-1,-1,-1,Championship - England,3036334
+Charlton Athletic,Blackburn Rovers,2020-02-15,0,2,2,n,0,2,2,0,2,0,0,0,0,0,0,3,3,-1,-1,-1,-1,-1,Championship - England,3036339
+Derby County,Huddersfield Town,2020-02-15,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036342
+Fulham,Barnsley,2020-02-15,0,3,3,n,0,1,1,0,1,0,2,2,0,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036344
+Hull City,Swansea City,2020-02-14,4,4,8,y,1,1,1,1,2,3,3,3,3,6,0,3,3,3,8,8,3,11,Championship - England,3036346
+Leeds United,Bristol City,2020-02-15,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036349
+Middlesbrough,Luton Town,2020-02-15,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,4,5,8,9,9,8,17,Championship - England,3036351
+Preston North End,Millwall,2020-02-15,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036353
+Queens Park Rangers,Stoke City,2020-02-15,4,2,6,y,2,2,2,2,4,2,0,0,2,2,4,2,6,-1,-1,-1,-1,-1,Championship - England,3036354
+Sheffield Wednesday,Reading,2020-02-15,0,3,3,n,0,1,1,0,1,0,2,2,0,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036356
+West Bromwich Albion,Nottingham Forest,2020-02-15,2,2,4,y,1,1,1,1,2,1,1,1,1,2,1,3,4,8,0,0,8,8,Championship - England,3036359
+Cardiff City,Wigan Athletic,2020-02-15,2,2,4,y,1,2,2,1,3,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,Championship - England,3036337
+Birmingham City,Sheffield Wednesday,2020-02-22,3,3,6,y,2,2,2,2,4,1,1,1,1,2,1,5,6,-1,-1,-1,-1,-1,Championship - England,3036363
+Bristol City,West Bromwich Albion,2020-02-22,0,3,3,n,0,2,2,0,2,0,1,1,0,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036368
+Charlton Athletic,Luton Town,2020-02-22,3,1,4,y,1,1,1,1,2,2,0,0,2,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036370
+Derby County,Fulham,2020-02-21,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036372
+Leeds United,Reading,2020-02-22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036375
+Nottingham Forest,Queens Park Rangers,2020-02-22,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036377
+Preston North End,Hull City,2020-02-22,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036378
+Stoke City,Cardiff City,2020-02-22,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036380
+Barnsley,Middlesbrough,2020-02-22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,0,2,-1,-1,-1,-1,-1,Championship - England,3036361
+Brentford,Blackburn Rovers,2020-02-22,2,2,4,y,0,1,1,0,1,2,1,1,2,3,1,0,1,7,1,1,7,8,Championship - England,3036365
+Swansea City,Huddersfield Town,2020-02-22,3,1,4,y,1,0,0,1,1,2,1,1,2,3,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036382
+Wigan Athletic,Millwall,2020-02-22,1,0,1,n,0,0,0,0,0,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036385
+Cardiff City,Nottingham Forest,2020-02-25,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,4,5,5,4,9,Championship - England,3036387
+Huddersfield Town,Bristol City,2020-02-25,2,1,3,y,1,0,0,1,1,1,1,1,1,2,2,4,6,-1,-1,-1,-1,-1,Championship - England,3036391
+Luton Town,Brentford,2020-02-25,2,1,3,y,2,0,0,2,2,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036393
+West Bromwich Albion,Preston North End,2020-02-25,2,0,2,n,2,0,0,2,2,0,0,0,0,0,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036397
+Fulham,Swansea City,2020-02-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,4,4,-1,-1,-1,-1,-1,Championship - England,3036389
+Queens Park Rangers,Derby County,2020-02-25,2,1,3,y,1,1,1,1,2,1,0,0,1,1,3,1,4,-1,-1,-1,-1,-1,Championship - England,3036395
+Blackburn Rovers,Stoke City,2020-02-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036399
+Hull City,Barnsley,2020-02-26,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036401
+Middlesbrough,Leeds United,2020-02-26,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036403
+Reading,Wigan Athletic,2020-02-26,0,3,3,n,0,1,1,0,1,0,2,2,0,2,3,1,4,-1,-1,-1,-1,-1,Championship - England,3036408
+Sheffield Wednesday,Charlton Athletic,2020-02-26,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,3,5,-1,-1,-1,-1,-1,Championship - England,3036410
+Millwall,Birmingham City,2020-02-26,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,0,1,14,2,2,14,16,Championship - England,3036406
+Blackburn Rovers,Swansea City,2020-02-29,2,2,4,y,1,1,1,1,2,1,1,1,1,2,3,5,8,-1,-1,-1,-1,-1,Championship - England,3036411
+Cardiff City,Brentford,2020-02-29,2,2,4,y,2,2,2,2,4,0,0,0,0,0,4,1,5,-1,-1,-1,-1,-1,Championship - England,3036413
+Fulham,Preston North End,2020-02-29,2,0,2,n,0,0,0,0,0,2,0,0,2,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036415
+Hull City,Leeds United,2020-02-29,0,4,4,n,0,1,1,0,1,0,3,3,0,3,2,1,3,5,11,11,5,16,Championship - England,3036419
+Millwall,Bristol City,2020-02-29,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036424
+Queens Park Rangers,Birmingham City,2020-02-29,2,2,4,y,0,1,1,0,1,2,1,1,2,3,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036427
+Reading,Barnsley,2020-02-29,2,0,2,n,1,0,0,1,1,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036429
+West Bromwich Albion,Wigan Athletic,2020-02-29,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036434
+Huddersfield Town,Charlton Athletic,2020-02-29,4,0,4,n,1,0,0,1,1,3,0,0,3,3,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036417
+Luton Town,Stoke City,2020-02-29,1,1,2,y,0,1,1,0,1,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036420
+Sheffield Wednesday,Derby County,2020-02-29,1,3,4,y,0,3,3,0,3,1,0,0,1,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036432
+Middlesbrough,Nottingham Forest,2020-03-02,2,2,4,y,2,1,1,2,3,0,1,1,0,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036422
+Barnsley,Cardiff City,2020-03-07,0,2,2,n,0,0,0,0,0,0,2,2,0,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036436
+Birmingham City,Reading,2020-03-07,1,3,4,y,1,0,0,1,1,0,3,3,0,3,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036438
+Brentford,Sheffield Wednesday,2020-03-07,5,0,5,n,3,0,0,3,3,2,0,0,2,2,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036440
+Bristol City,Fulham,2020-03-07,1,1,2,y,0,0,0,0,0,1,1,1,1,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036442
+Charlton Athletic,Middlesbrough,2020-03-07,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,1,4,-1,-1,-1,-1,-1,Championship - England,3036444
+Leeds United,Huddersfield Town,2020-03-07,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,Championship - England,3036447
+Nottingham Forest,Millwall,2020-03-06,0,3,3,n,0,3,3,0,3,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036449
+Wigan Athletic,Luton Town,2020-03-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036456
+Derby County,Blackburn Rovers,2020-03-08,3,0,3,n,2,0,0,2,2,1,0,0,1,1,2,4,6,-1,-1,-1,-1,-1,Championship - England,3036446
+Stoke City,Hull City,2020-03-07,5,1,6,y,3,0,0,3,3,2,1,1,2,3,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036453
+Swansea City,West Bromwich Albion,2020-03-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036454
+Preston North End,Queens Park Rangers,2020-03-07,1,3,4,y,1,0,0,1,1,0,3,3,0,3,2,3,5,-1,-1,-1,-1,-1,Championship - England,3036451
+Fulham,Brentford,2020-06-20,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036460
+Millwall,Derby County,2020-06-20,2,3,5,y,1,1,1,1,2,1,2,2,1,3,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036471
+Blackburn Rovers,Bristol City,2020-06-20,3,1,4,y,1,1,1,1,2,2,0,0,2,2,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036457
+Huddersfield Town,Wigan Athletic,2020-06-20,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036463
+Hull City,Charlton Athletic,2020-06-20,0,1,1,n,0,1,1,0,1,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036465
+Luton Town,Preston North End,2020-06-20,1,1,2,y,0,0,0,0,0,1,1,1,1,2,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036467
+Middlesbrough,Swansea City,2020-06-20,0,3,3,n,0,3,3,0,3,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036469
+Queens Park Rangers,Barnsley,2020-06-20,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036473
+Reading,Stoke City,2020-06-20,1,1,2,y,1,0,0,1,1,0,1,1,0,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036475
+Sheffield Wednesday,Nottingham Forest,2020-06-20,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,3,6,-1,-1,-1,-1,-1,Championship - England,3036477
+West Bromwich Albion,Birmingham City,2020-06-20,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036479
+Cardiff City,Leeds United,2020-06-21,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,4,6,-1,-1,-1,-1,-1,Championship - England,3036459
+Preston North End,Cardiff City,2020-06-27,1,3,4,y,0,0,0,0,0,1,3,3,1,4,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036491
+Swansea City,Luton Town,2020-06-27,0,1,1,n,0,0,0,0,0,0,1,1,0,1,4,3,7,-1,-1,-1,-1,-1,Championship - England,3036501
+Barnsley,Millwall,2020-06-27,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036481
+Derby County,Reading,2020-06-27,2,1,3,y,2,0,0,2,2,0,1,1,0,1,5,2,7,-1,-1,-1,-1,-1,Championship - England,3036489
+Charlton Athletic,Queens Park Rangers,2020-06-27,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036487
+Birmingham City,Hull City,2020-06-27,3,3,6,y,0,2,2,0,2,3,1,1,3,4,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036493
+Leeds United,Fulham,2020-06-27,3,0,3,n,1,0,0,1,1,2,0,0,2,2,2,4,6,-1,-1,-1,-1,-1,Championship - England,3036495
+Stoke City,Middlesbrough,2020-06-27,0,2,2,n,0,1,1,0,1,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036499
+Wigan Athletic,Blackburn Rovers,2020-06-27,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036503
+Bristol City,Sheffield Wednesday,2020-06-28,1,2,3,y,0,1,1,0,1,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036485
+Nottingham Forest,Huddersfield Town,2020-06-28,3,1,4,y,1,0,0,1,1,2,1,1,2,3,3,2,5,-1,-1,-1,-1,-1,Championship - England,3036496
+Brentford,West Bromwich Albion,2020-06-26,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036483
+Millwall,Swansea City,2020-06-30,1,1,2,y,1,0,0,1,1,0,1,1,0,1,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036515
+Barnsley,Blackburn Rovers,2020-06-30,2,0,2,n,0,0,0,0,0,2,0,0,2,2,1,4,5,-1,-1,-1,-1,-1,Championship - England,3036505
+Reading,Brentford,2020-06-30,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036522
+Queens Park Rangers,Fulham,2020-06-30,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,3,5,-1,-1,-1,-1,-1,Championship - England,3036521
+Cardiff City,Charlton Athletic,2020-06-30,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036509
+Leeds United,Luton Town,2020-06-30,1,1,2,y,0,0,0,0,0,1,1,1,1,2,0,5,5,-1,-1,-1,-1,-1,Championship - England,3036513
+Wigan Athletic,Stoke City,2020-06-30,3,0,3,n,1,0,0,1,1,2,0,0,2,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036526
+Preston North End,Derby County,2020-07-01,0,1,1,n,0,1,1,0,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036519
+Birmingham City,Huddersfield Town,2020-07-01,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036507
+Nottingham Forest,Bristol City,2020-07-01,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,4,4,-1,-1,-1,-1,-1,Championship - England,3036517
+Sheffield Wednesday,West Bromwich Albion,2020-07-01,0,3,3,n,0,1,1,0,1,0,2,2,0,2,0,4,4,-1,-1,-1,-1,-1,Championship - England,3036524
+Hull City,Middlesbrough,2020-07-02,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036511
+Luton Town,Reading,2020-07-04,0,5,5,n,0,3,3,0,3,0,2,2,0,2,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036543
+Stoke City,Barnsley,2020-07-04,4,0,4,n,3,0,0,3,3,1,0,0,1,1,2,0,2,-1,-1,-1,-1,-1,Championship - England,3036547
+Swansea City,Sheffield Wednesday,2020-07-05,2,1,3,y,0,0,0,0,0,2,1,1,2,3,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036549
+Middlesbrough,Queens Park Rangers,2020-07-05,0,1,1,n,0,1,1,0,1,0,0,0,0,0,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036545
+West Bromwich Albion,Hull City,2020-07-05,4,2,6,y,2,1,1,2,3,2,1,1,2,3,3,1,4,-1,-1,-1,-1,-1,Championship - England,3036551
+Charlton Athletic,Millwall,2020-07-03,0,1,1,n,0,0,0,0,0,0,1,1,0,1,3,3,6,-1,-1,-1,-1,-1,Championship - England,3036534
+Derby County,Nottingham Forest,2020-07-04,1,1,2,y,0,1,1,0,1,1,0,0,1,1,3,3,6,-1,-1,-1,-1,-1,Championship - England,3036536
+Blackburn Rovers,Leeds United,2020-07-04,1,3,4,y,0,2,2,0,2,1,1,1,1,2,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036528
+Brentford,Wigan Athletic,2020-07-04,3,0,3,n,1,0,0,1,1,2,0,0,2,2,0,3,3,-1,-1,-1,-1,-1,Championship - England,3036530
+Bristol City,Cardiff City,2020-07-04,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036532
+Fulham,Birmingham City,2020-07-04,1,0,1,n,0,0,0,0,0,1,0,0,1,1,2,4,6,-1,-1,-1,-1,-1,Championship - England,3036538
+Huddersfield Town,Preston North End,2020-07-04,0,0,0,n,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036540
+Nottingham Forest,Fulham,2020-07-07,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036568
+Brentford,Charlton Athletic,2020-07-07,2,1,3,y,0,1,1,0,1,2,0,0,2,2,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036555
+Cardiff City,Blackburn Rovers,2020-07-07,2,3,5,y,2,1,1,2,3,0,2,2,0,2,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036559
+Luton Town,Barnsley,2020-07-07,1,1,2,y,1,0,0,1,1,0,1,1,0,1,4,2,6,-1,-1,-1,-1,-1,Championship - England,3036563
+Reading,Huddersfield Town,2020-07-07,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036570
+West Bromwich Albion,Derby County,2020-07-08,2,0,2,n,1,0,0,1,1,1,0,0,1,1,0,6,6,-1,-1,-1,-1,-1,Championship - England,3036575
+Birmingham City,Swansea City,2020-07-08,1,3,4,y,1,2,2,1,3,0,1,1,0,1,2,3,5,-1,-1,-1,-1,-1,Championship - England,3036553
+Wigan Athletic,Queens Park Rangers,2020-07-08,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036577
+Bristol City,Hull City,2020-07-08,2,1,3,y,1,0,0,1,1,1,1,1,1,2,0,3,3,-1,-1,-1,-1,-1,Championship - England,3036557
+Millwall,Middlesbrough,2020-07-08,0,2,2,n,0,0,0,0,0,0,2,2,0,2,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036565
+Sheffield Wednesday,Preston North End,2020-07-08,1,3,4,y,0,0,0,0,0,1,3,3,1,4,2,0,2,-1,-1,-1,-1,-1,Championship - England,3036573
+Leeds United,Stoke City,2020-07-09,5,0,5,n,1,0,0,1,1,4,0,0,4,4,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036561
+Barnsley,Wigan Athletic,2020-07-11,0,0,0,n,0,0,0,0,0,0,0,0,0,0,2,5,7,-1,-1,-1,-1,-1,Championship - England,3036580
+Blackburn Rovers,West Bromwich Albion,2020-07-11,1,1,2,y,0,1,1,0,1,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036582
+Charlton Athletic,Reading,2020-07-11,0,1,1,n,0,1,1,0,1,0,0,0,0,0,4,3,7,-1,-1,-1,-1,-1,Championship - England,3036584
+Derby County,Brentford,2020-07-11,1,3,4,y,1,1,1,1,2,0,2,2,0,2,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036586
+Fulham,Cardiff City,2020-07-10,2,0,2,n,1,0,0,1,1,1,0,0,1,1,3,1,4,-1,-1,-1,-1,-1,Championship - England,3036588
+Huddersfield Town,Luton Town,2020-07-10,0,2,2,n,0,0,0,0,0,0,2,2,0,2,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036590
+Hull City,Millwall,2020-07-11,0,1,1,n,0,1,1,0,1,0,0,0,0,0,2,0,2,-1,-1,-1,-1,-1,Championship - England,3036592
+Middlesbrough,Bristol City,2020-07-11,1,3,4,y,0,2,2,0,2,1,1,1,1,2,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036595
+Preston North End,Nottingham Forest,2020-07-11,1,1,2,y,1,1,1,1,2,0,0,0,0,0,2,0,2,-1,-1,-1,-1,-1,Championship - England,3036597
+Queens Park Rangers,Sheffield Wednesday,2020-07-11,0,3,3,n,0,2,2,0,2,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036599
+Stoke City,Birmingham City,2020-07-12,2,0,2,n,2,0,0,2,2,0,0,0,0,0,1,4,5,-1,-1,-1,-1,-1,Championship - England,3036601
+Swansea City,Leeds United,2020-07-12,0,1,1,n,0,0,0,0,0,0,1,1,0,1,2,3,5,-1,-1,-1,-1,-1,Championship - England,3036603
+Cardiff City,Derby County,2020-07-14,2,1,3,y,1,1,1,1,2,1,0,0,1,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036611
+Luton Town,Queens Park Rangers,2020-07-14,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036615
+Millwall,Blackburn Rovers,2020-07-14,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036617
+Sheffield Wednesday,Huddersfield Town,2020-07-14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036623
+Wigan Athletic,Hull City,2020-07-14,8,0,8,n,7,0,0,7,7,1,0,0,1,1,0,2,2,-1,-1,-1,-1,-1,Championship - England,3036627
+Reading,Middlesbrough,2020-07-14,1,2,3,y,1,1,1,1,2,0,1,1,0,1,2,0,2,-1,-1,-1,-1,-1,Championship - England,3036622
+West Bromwich Albion,Fulham,2020-07-14,0,0,0,n,0,0,0,0,0,0,0,0,0,0,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036625
+Birmingham City,Charlton Athletic,2020-07-15,1,1,2,y,0,0,0,0,0,1,1,1,1,2,3,1,4,-1,-1,-1,-1,-1,Championship - England,3036605
+Nottingham Forest,Swansea City,2020-07-15,2,2,4,y,1,2,2,1,3,1,0,0,1,1,4,4,8,-1,-1,-1,-1,-1,Championship - England,3036619
+Bristol City,Stoke City,2020-07-15,1,1,2,y,1,0,0,1,1,0,1,1,0,1,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036609
+Brentford,Preston North End,2020-07-15,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,1,3,-1,-1,-1,-1,-1,Championship - England,3036607
+Leeds United,Barnsley,2020-07-16,1,0,1,n,1,0,0,1,1,0,0,0,0,0,1,1,2,-1,-1,-1,-1,-1,Championship - England,3036613
+Blackburn Rovers,Reading,2020-07-18,4,3,7,y,2,1,1,2,3,2,2,2,2,4,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036630
+Charlton Athletic,Wigan Athletic,2020-07-18,2,2,4,y,1,2,2,1,3,1,0,0,1,1,1,3,4,-1,-1,-1,-1,-1,Championship - England,3036632
+Fulham,Sheffield Wednesday,2020-07-18,5,3,8,y,3,0,0,3,3,2,3,3,2,5,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036636
+Huddersfield Town,West Bromwich Albion,2020-07-17,2,1,3,y,1,1,1,1,2,1,0,0,1,1,4,6,10,-1,-1,-1,-1,-1,Championship - England,3036637
+Hull City,Luton Town,2020-07-18,0,1,1,n,0,0,0,0,0,0,1,1,0,1,1,2,3,-1,-1,-1,-1,-1,Championship - England,3036639
+Middlesbrough,Cardiff City,2020-07-18,1,3,4,y,0,1,1,0,1,1,2,2,1,3,4,2,6,-1,-1,-1,-1,-1,Championship - England,3036641
+Preston North End,Birmingham City,2020-07-18,2,0,2,n,1,0,0,1,1,1,0,0,1,1,2,2,4,-1,-1,-1,-1,-1,Championship - England,3036643
+Queens Park Rangers,Millwall,2020-07-18,4,3,7,y,1,0,0,1,1,3,3,3,3,6,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036645
+Stoke City,Brentford,2020-07-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,2,0,2,-1,-1,-1,-1,-1,Championship - England,3036647
+Swansea City,Bristol City,2020-07-18,1,0,1,n,1,0,0,1,1,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036649
+Barnsley,Nottingham Forest,2020-07-19,1,0,1,n,0,0,0,0,0,1,0,0,1,1,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036629
+Derby County,Leeds United,2020-07-19,1,3,4,y,0,0,0,0,0,1,3,3,1,4,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036634
+Nottingham Forest,Stoke City,2020-07-22,1,4,5,y,0,1,1,0,1,1,3,3,1,4,0,1,1,-1,-1,-1,-1,-1,Championship - England,3036665
+Reading,Swansea City,2020-07-22,1,4,5,y,1,1,1,1,2,0,3,3,0,3,3,0,3,-1,-1,-1,-1,-1,Championship - England,3036667
+Sheffield Wednesday,Middlesbrough,2020-07-22,1,2,3,y,1,1,1,1,2,0,1,1,0,1,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036669
+West Bromwich Albion,Queens Park Rangers,2020-07-22,2,2,4,y,1,1,1,1,2,1,1,1,1,2,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036671
+Wigan Athletic,Fulham,2020-07-22,1,1,2,y,1,0,0,1,1,0,1,1,0,1,3,4,7,-1,-1,-1,-1,-1,Championship - England,3036673
+Birmingham City,Derby County,2020-07-22,1,3,4,y,0,1,1,0,1,1,2,2,1,3,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036651
+Brentford,Barnsley,2020-07-22,1,2,3,y,0,1,1,0,1,1,1,1,1,2,3,3,6,-1,-1,-1,-1,-1,Championship - England,3036653
+Bristol City,Preston North End,2020-07-22,1,1,2,y,0,1,1,0,1,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036655
+Cardiff City,Hull City,2020-07-22,3,0,3,n,2,0,0,2,2,1,0,0,1,1,0,0,0,-1,-1,-1,-1,-1,Championship - England,3036657
+Leeds United,Charlton Athletic,2020-07-22,4,0,4,n,2,0,0,2,2,2,0,0,2,2,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036659
+Luton Town,Blackburn Rovers,2020-07-22,3,2,5,y,2,1,1,2,3,1,1,1,1,2,4,1,5,-1,-1,-1,-1,-1,Championship - England,3036661
+Millwall,Huddersfield Town,2020-07-22,4,1,5,y,1,1,1,1,2,3,0,0,3,3,1,0,1,-1,-1,-1,-1,-1,Championship - England,3036663

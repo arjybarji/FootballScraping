@@ -1,53 +1,266 @@
-Crystal Palace,Manchester United,36,16/07/2020,Premier League - England,3029426
-Everton,Aston Villa,36,16/07/2020,Premier League - England,3029427
-Leicester City,Sheffield United,36,16/07/2020,Premier League - England,3029428
-Southampton,Brighton & Hove Albion,36,16/07/2020,Premier League - England,3029431
-West Ham United,Watford,36,17/07/2020,Premier League - England,3029432
-AFC Bournemouth,Southampton,37,19/07/2020,Premier League - England,3029433
-Aston Villa,Arsenal - Premier League - England,37,21/07/2020,Premier League - England,3029434
-Brighton & Hove Albion,Newcastle United,37,20/07/2020,Premier League - England,3029435
-Liverpool,Chelsea,37,22/07/2020,Premier League - England,3029436
-Manchester United,West Ham United,37,22/07/2020,Premier League - England,3029437
-Norwich City,Burnley,37,18/07/2020,Premier League - England,3029438
-Sheffield United,Everton,37,20/07/2020,Premier League - England,3029439
-Tottenham Hotspur,Leicester City,37,19/07/2020,Premier League - England,3029440
-Watford,Manchester City,37,21/07/2020,Premier League - England,3029441
-Wolverhampton Wanderers,Crystal Palace,37,20/07/2020,Premier League - England,3029442
-Arsenal - Premier League - England,Watford,38,26/07/2020,Premier League - England,3029443
-Burnley,Brighton & Hove Albion,38,26/07/2020,Premier League - England,3029444
-Chelsea,Wolverhampton Wanderers,38,26/07/2020,Premier League - England,3029445
-Crystal Palace,Tottenham Hotspur,38,26/07/2020,Premier League - England,3029446
-Everton,AFC Bournemouth,38,26/07/2020,Premier League - England,3029447
-Leicester City,Manchester United,38,26/07/2020,Premier League - England,3029448
-Manchester City,Norwich City,38,26/07/2020,Premier League - England,3029449
-Newcastle United,Liverpool,38,26/07/2020,Premier League - England,3029450
-Southampton,Sheffield United,38,26/07/2020,Premier League - England,3029451
-West Ham United,Aston Villa,38,26/07/2020,Premier League - England,3029452
-Nottingham Forest,Stoke City,46,22/07/2020,Championship - England,3036665
-Reading,Swansea City,46,22/07/2020,Championship - England,3036667
-Sheffield Wednesday,Middlesbrough,46,22/07/2020,Championship - England,3036669
-West Bromwich Albion,Queens Park Rangers,46,22/07/2020,Championship - England,3036671
-Wigan Athletic,Fulham,46,22/07/2020,Championship - England,3036673
-Leeds United,Barnsley,44,16/07/2020,Championship - England,3036613
-Barnsley,Nottingham Forest,45,19/07/2020,Championship - England,3036629
-Blackburn Rovers,Reading,45,18/07/2020,Championship - England,3036630
-Charlton Athletic,Wigan Athletic,45,18/07/2020,Championship - England,3036632
-Derby County,Leeds United,45,19/07/2020,Championship - England,3036634
-Fulham,Sheffield Wednesday,45,18/07/2020,Championship - England,3036636
-Huddersfield Town,West Bromwich Albion,45,17/07/2020,Championship - England,3036637
-Hull City,Luton Town,45,18/07/2020,Championship - England,3036639
-Middlesbrough,Cardiff City,45,18/07/2020,Championship - England,3036641
-Preston North End,Birmingham City,45,18/07/2020,Championship - England,3036643
-Queens Park Rangers,Millwall,45,18/07/2020,Championship - England,3036645
-Stoke City,Brentford,45,18/07/2020,Championship - England,3036647
-Swansea City,Bristol City,45,18/07/2020,Championship - England,3036649
-Birmingham City,Derby County,46,22/07/2020,Championship - England,3036651
-Brentford,Barnsley,46,22/07/2020,Championship - England,3036653
-Bristol City,Preston North End,46,22/07/2020,Championship - England,3036655
-Cardiff City,Hull City,46,22/07/2020,Championship - England,3036657
-Leeds United,Charlton Athletic,46,22/07/2020,Championship - England,3036659
-Luton Town,Blackburn Rovers,46,22/07/2020,Championship - England,3036661
-Millwall,Huddersfield Town,46,22/07/2020,Championship - England,3036663
+Aberdeen,Kilmarnock,33,03/04/2021,Premiership - Scotland,3285046
+Hibernian,Hamilton Academical,33,03/04/2021,Premiership - Scotland,3285047
+Motherwell,St. Johnstone,33,03/04/2021,Premiership - Scotland,3285048
+Rangers,Dundee United,33,03/04/2021,Premiership - Scotland,3285049
+Ross County,Celtic,33,03/04/2021,Premiership - Scotland,3285050
+St. Mirren,Livingston,33,03/04/2021,Premiership - Scotland,3285051
+Celtic,Aberdeen,30,27/02/2021,Premiership - Scotland,3285028
+Hamilton Academical,St. Johnstone,30,27/02/2021,Premiership - Scotland,3285029
+Hibernian,Motherwell,30,27/02/2021,Premiership - Scotland,3285030
+Kilmarnock,Dundee United,30,27/02/2021,Premiership - Scotland,3285031
+Livingston,Rangers,30,27/02/2021,Premiership - Scotland,3285032
+St. Mirren,Ross County,30,27/02/2021,Premiership - Scotland,3285033
+Aberdeen,Hamilton Academical,31,06/03/2021,Premiership - Scotland,3285034
+Dundee United,Celtic,31,06/03/2021,Premiership - Scotland,3285035
+Motherwell,Livingston,31,06/03/2021,Premiership - Scotland,3285036
+Rangers,St. Mirren,31,06/03/2021,Premiership - Scotland,3285037
+Ross County,Kilmarnock,31,06/03/2021,Premiership - Scotland,3285038
+St. Johnstone,Hibernian,31,06/03/2021,Premiership - Scotland,3285039
+Celtic,Rangers,32,20/03/2021,Premiership - Scotland,3285040
+Dundee United,Aberdeen,32,20/03/2021,Premiership - Scotland,3285041
+Hamilton Academical,St. Mirren,32,20/03/2021,Premiership - Scotland,3285042
+Kilmarnock,Motherwell,32,20/03/2021,Premiership - Scotland,3285043
+Livingston,Hibernian,32,20/03/2021,Premiership - Scotland,3285044
+St. Johnstone,Ross County,32,20/03/2021,Premiership - Scotland,3285045
+Aberdeen,Livingston,27,03/02/2021,Premiership - Scotland,3285010
+Hamilton Academical,Ross County,27,03/02/2021,Premiership - Scotland,3285011
+Kilmarnock,Celtic,27,03/02/2021,Premiership - Scotland,3285012
+Motherwell,Dundee United,27,03/02/2021,Premiership - Scotland,3285013
+Rangers,St. Johnstone,27,03/02/2021,Premiership - Scotland,3285014
+St. Mirren,Hibernian,27,03/02/2021,Premiership - Scotland,3285015
+Celtic,Motherwell,28,06/02/2021,Premiership - Scotland,3285016
+Hamilton Academical,Rangers,28,06/02/2021,Premiership - Scotland,3285017
+Hibernian,Aberdeen,28,06/02/2021,Premiership - Scotland,3285018
+Livingston,St. Johnstone,28,06/02/2021,Premiership - Scotland,3285019
+Ross County,Dundee United,28,06/02/2021,Premiership - Scotland,3285020
+St. Mirren,Kilmarnock,28,06/02/2021,Premiership - Scotland,3285021
+Aberdeen,St. Mirren,29,13/02/2021,Premiership - Scotland,3285022
+Dundee United,Livingston,29,13/02/2021,Premiership - Scotland,3285023
+Motherwell,Hamilton Academical,29,13/02/2021,Premiership - Scotland,3285024
+Rangers,Kilmarnock,29,13/02/2021,Premiership - Scotland,3285025
+Ross County,Hibernian,29,13/02/2021,Premiership - Scotland,3285026
+St. Johnstone,Celtic,29,13/02/2021,Premiership - Scotland,3285027
+Celtic,Livingston,24,16/01/2021,Premiership - Scotland,3284992
+Hamilton Academical,Dundee United,24,16/01/2021,Premiership - Scotland,3284993
+Hibernian,Kilmarnock,24,16/01/2021,Premiership - Scotland,3284994
+Motherwell,Rangers,24,16/01/2021,Premiership - Scotland,3284995
+Ross County,Aberdeen,24,16/01/2021,Premiership - Scotland,3284996
+St. Johnstone,St. Mirren,24,16/01/2021,Premiership - Scotland,3284997
+Aberdeen,Motherwell,25,23/01/2021,Premiership - Scotland,3284998
+Dundee United,Hibernian,25,23/01/2021,Premiership - Scotland,3284999
+Kilmarnock,St. Johnstone,25,23/01/2021,Premiership - Scotland,3285000
+Livingston,Hamilton Academical,25,23/01/2021,Premiership - Scotland,3285001
+Rangers,Ross County,25,23/01/2021,Premiership - Scotland,3285002
+St. Mirren,Celtic,25,23/01/2021,Premiership - Scotland,3285003
+Celtic,Hamilton Academical,26,27/01/2021,Premiership - Scotland,3285004
+Dundee United,St. Mirren,26,27/01/2021,Premiership - Scotland,3285005
+Hibernian,Rangers,26,27/01/2021,Premiership - Scotland,3285006
+Livingston,Kilmarnock,26,27/01/2021,Premiership - Scotland,3285007
+Ross County,Motherwell,26,27/01/2021,Premiership - Scotland,3285008
+St. Johnstone,Aberdeen,26,27/01/2021,Premiership - Scotland,3285009
+Celtic,Dundee United,21,30/12/2020,Premiership - Scotland,3284974
+Hibernian,Ross County,21,30/12/2020,Premiership - Scotland,3284975
+Livingston,Aberdeen,21,30/12/2020,Premiership - Scotland,3284976
+Motherwell,Kilmarnock,21,30/12/2020,Premiership - Scotland,3284977
+St. Johnstone,Hamilton Academical,21,30/12/2020,Premiership - Scotland,3284978
+St. Mirren,Rangers,21,30/12/2020,Premiership - Scotland,3284979
+Aberdeen,Dundee United,22,02/01/2021,Premiership - Scotland,3284980
+Hamilton Academical,Motherwell,22,02/01/2021,Premiership - Scotland,3284981
+Hibernian,Livingston,22,02/01/2021,Premiership - Scotland,3284982
+Kilmarnock,St. Mirren,22,02/01/2021,Premiership - Scotland,3284983
+Rangers,Celtic,22,02/01/2021,Premiership - Scotland,3284984
+Ross County,St. Johnstone,22,02/01/2021,Premiership - Scotland,3284985
+Aberdeen,Rangers,23,09/01/2021,Premiership - Scotland,3284986
+Celtic,Hibernian,23,09/01/2021,Premiership - Scotland,3284987
+Dundee United,St. Johnstone,23,09/01/2021,Premiership - Scotland,3284988
+Kilmarnock,Hamilton Academical,23,09/01/2021,Premiership - Scotland,3284989
+Livingston,Ross County,23,09/01/2021,Premiership - Scotland,3284990
+St. Mirren,Motherwell,23,09/01/2021,Premiership - Scotland,3284991
+Hibernian,Dundee United,18,19/12/2020,Premiership - Scotland,3284956
+Kilmarnock,Aberdeen,18,19/12/2020,Premiership - Scotland,3284957
+Livingston,Celtic,18,19/12/2020,Premiership - Scotland,3284958
+Rangers,Motherwell,18,19/12/2020,Premiership - Scotland,3284959
+Ross County,Hamilton Academical,18,19/12/2020,Premiership - Scotland,3284960
+St. Mirren,St. Johnstone,18,19/12/2020,Premiership - Scotland,3284961
+Celtic,Ross County,19,23/12/2020,Premiership - Scotland,3284962
+Dundee United,Kilmarnock,19,23/12/2020,Premiership - Scotland,3284963
+Hamilton Academical,Livingston,19,23/12/2020,Premiership - Scotland,3284964
+Hibernian,St. Mirren,19,23/12/2020,Premiership - Scotland,3284965
+Motherwell,Aberdeen,19,23/12/2020,Premiership - Scotland,3284966
+St. Johnstone,Rangers,19,23/12/2020,Premiership - Scotland,3284967
+Aberdeen,St. Johnstone,20,26/12/2020,Premiership - Scotland,3284968
+Dundee United,Motherwell,20,26/12/2020,Premiership - Scotland,3284969
+Hamilton Academical,Celtic,20,26/12/2020,Premiership - Scotland,3284970
+Kilmarnock,Livingston,20,26/12/2020,Premiership - Scotland,3284971
+Rangers,Hibernian,20,26/12/2020,Premiership - Scotland,3284972
+Ross County,St. Mirren,20,26/12/2020,Premiership - Scotland,3284973
+Dundee United,Hamilton Academical,15,21/11/2020,Premiership - Scotland,3284938
+Hibernian,Celtic,15,21/11/2020,Premiership - Scotland,3284939
+Kilmarnock,Ross County,15,21/11/2020,Premiership - Scotland,3284940
+Livingston,St. Mirren,15,21/11/2020,Premiership - Scotland,3284941
+Rangers,Aberdeen,15,21/11/2020,Premiership - Scotland,3284942
+St. Johnstone,Motherwell,15,21/11/2020,Premiership - Scotland,3284943
+Celtic,St. Johnstone,16,05/12/2020,Premiership - Scotland,3284944
+Hamilton Academical,Kilmarnock,16,05/12/2020,Premiership - Scotland,3284945
+Livingston,Dundee United,16,05/12/2020,Premiership - Scotland,3284946
+Motherwell,Hibernian,16,05/12/2020,Premiership - Scotland,3284947
+Ross County,Rangers,16,05/12/2020,Premiership - Scotland,3284948
+St. Mirren,Aberdeen,16,05/12/2020,Premiership - Scotland,3284949
+Aberdeen,Ross County,17,12/12/2020,Premiership - Scotland,3284950
+Celtic,Kilmarnock,17,12/12/2020,Premiership - Scotland,3284951
+Dundee United,Rangers,17,12/12/2020,Premiership - Scotland,3284952
+Hamilton Academical,Hibernian,17,12/12/2020,Premiership - Scotland,3284953
+Motherwell,St. Mirren,17,12/12/2020,Premiership - Scotland,3284954
+St. Johnstone,Livingston,17,12/12/2020,Premiership - Scotland,3284955
+Celtic,Hibernian,9,26/09/2020,Premiership - Scotland,3284902
+Hamilton Academical,Dundee United,9,26/09/2020,Premiership - Scotland,3284903
+Livingston,St. Johnstone,9,26/09/2020,Premiership - Scotland,3284904
+Motherwell,Rangers,9,26/09/2020,Premiership - Scotland,3284905
+Ross County,Aberdeen,9,26/09/2020,Premiership - Scotland,3284906
+St. Mirren,Kilmarnock,9,26/09/2020,Premiership - Scotland,3284907
+Aberdeen,St. Mirren,10,02/10/2020,Premiership - Scotland,3284908
+Dundee United,Livingston,10,02/10/2020,Premiership - Scotland,3284909
+Hibernian,Hamilton Academical,10,02/10/2020,Premiership - Scotland,3284910
+Kilmarnock,Motherwell,10,02/10/2020,Premiership - Scotland,3284911
+Rangers,Ross County,10,02/10/2020,Premiership - Scotland,3284912
+St. Johnstone,Celtic,10,02/10/2020,Premiership - Scotland,3284913
+Celtic,Rangers,11,17/10/2020,Premiership - Scotland,3284914
+Dundee United,Aberdeen,11,17/10/2020,Premiership - Scotland,3284915
+Hamilton Academical,St. Johnstone,11,17/10/2020,Premiership - Scotland,3284916
+Livingston,Kilmarnock,11,17/10/2020,Premiership - Scotland,3284917
+Ross County,Hibernian,11,17/10/2020,Premiership - Scotland,3284918
+St. Mirren,Motherwell,11,17/10/2020,Premiership - Scotland,3284919
+Celtic,Motherwell,6,29/08/2020,Premiership - Scotland,3284884
+Kilmarnock,Dundee United,6,29/08/2020,Premiership - Scotland,3284886
+Livingston,Ross County,6,29/08/2020,Premiership - Scotland,3284887
+St. Johnstone,St. Mirren,6,29/08/2020,Premiership - Scotland,3284888
+Hamilton Academical,Rangers,6,29/08/2020,Premiership - Scotland,3284885
+Hibernian,Aberdeen,6,30/08/2020,Premiership - Scotland,3284889
+Aberdeen,Kilmarnock,7,12/09/2020,Premiership - Scotland,3284890
+Livingston,Hamilton Academical,7,12/09/2020,Premiership - Scotland,3284891
+Motherwell,St. Johnstone,7,12/09/2020,Premiership - Scotland,3284892
+Rangers,Dundee United,7,12/09/2020,Premiership - Scotland,3284893
+Ross County,Celtic,7,12/09/2020,Premiership - Scotland,3284894
+St. Mirren,Hibernian,7,12/09/2020,Premiership - Scotland,3284895
+Aberdeen,Motherwell,8,19/09/2020,Premiership - Scotland,3284896
+Celtic,Livingston,8,19/09/2020,Premiership - Scotland,3284897
+Dundee United,St. Mirren,8,19/09/2020,Premiership - Scotland,3284898
+Hibernian,Rangers,8,19/09/2020,Premiership - Scotland,3284899
+Kilmarnock,Hamilton Academical,8,19/09/2020,Premiership - Scotland,3284900
+St. Johnstone,Ross County,8,19/09/2020,Premiership - Scotland,3284901
+Dundee United,Hibernian,3,11/08/2020,Premiership - Scotland,3284866
+St. Mirren,Celtic,3,12/08/2020,Premiership - Scotland,3284871
+Aberdeen,Hamilton Academical,3,12/08/2020,Premiership - Scotland,3284867
+Motherwell,Livingston,3,12/08/2020,Premiership - Scotland,3284868
+Rangers,St. Johnstone,3,12/08/2020,Premiership - Scotland,3284869
+Ross County,Kilmarnock,3,12/08/2020,Premiership - Scotland,3284870
+Celtic,Aberdeen,4,15/08/2020,Premiership - Scotland,3284872
+Hamilton Academical,St. Mirren,4,15/08/2020,Premiership - Scotland,3284873
+Kilmarnock,St. Johnstone,4,15/08/2020,Premiership - Scotland,3284875
+Ross County,Dundee United,4,15/08/2020,Premiership - Scotland,3284876
+Hibernian,Motherwell,4,15/08/2020,Premiership - Scotland,3284874
+Livingston,Rangers,4,16/08/2020,Premiership - Scotland,3284877
+Aberdeen,Livingston,5,22/08/2020,Premiership - Scotland,3284878
+Motherwell,Hamilton Academical,5,22/08/2020,Premiership - Scotland,3284880
+Rangers,Kilmarnock,5,22/08/2020,Premiership - Scotland,3284881
+St. Mirren,Ross County,5,22/08/2020,Premiership - Scotland,3284882
+Dundee United,Celtic,5,22/08/2020,Premiership - Scotland,3284879
+St. Johnstone,Hibernian,5,23/08/2020,Premiership - Scotland,3284883
+Aberdeen,Celtic,12,24/10/2020,Premiership - Scotland,3284920
+Kilmarnock,Hibernian,12,24/10/2020,Premiership - Scotland,3284921
+Motherwell,Ross County,12,24/10/2020,Premiership - Scotland,3284922
+Rangers,Livingston,12,24/10/2020,Premiership - Scotland,3284923
+St. Johnstone,Dundee United,12,24/10/2020,Premiership - Scotland,3284924
+St. Mirren,Hamilton Academical,12,24/10/2020,Premiership - Scotland,3284925
+Dundee United,Ross County,13,31/10/2020,Premiership - Scotland,3284927
+Kilmarnock,Rangers,13,31/10/2020,Premiership - Scotland,3284930
+Livingston,Motherwell,13,31/10/2020,Premiership - Scotland,3284931
+Aberdeen,Hibernian,14,06/11/2020,Premiership - Scotland,3284932
+Motherwell,Celtic,14,06/11/2020,Premiership - Scotland,3284933
+Rangers,Hamilton Academical,14,06/11/2020,Premiership - Scotland,3284934
+Ross County,Livingston,14,06/11/2020,Premiership - Scotland,3284935
+St. Johnstone,Kilmarnock,14,06/11/2020,Premiership - Scotland,3284936
+St. Mirren,Dundee United,14,06/11/2020,Premiership - Scotland,3284937
+Aberdeen,Rangers,1,01/08/2020,Premiership - Scotland,3284854
+Dundee United,St. Johnstone,1,01/08/2020,Premiership - Scotland,3284855
+Hibernian,Kilmarnock,1,01/08/2020,Premiership - Scotland,3284856
+St. Mirren,Livingston,1,01/08/2020,Premiership - Scotland,3284857
+Celtic,Hamilton Academical,1,02/08/2020,Premiership - Scotland,3284858
+Ross County,Motherwell,1,03/08/2020,Premiership - Scotland,3284859
+St. Johnstone,Aberdeen,2,08/08/2020,Premiership - Scotland,3284864
+Hamilton Academical,Ross County,2,08/08/2020,Premiership - Scotland,3284860
+Livingston,Hibernian,2,08/08/2020,Premiership - Scotland,3284861
+Motherwell,Dundee United,2,08/08/2020,Premiership - Scotland,3284862
+Rangers,St. Mirren,2,09/08/2020,Premiership - Scotland,3284863
+Kilmarnock,Celtic,2,09/08/2020,Premiership - Scotland,3284865
+Cork City,Waterford,16,16/10/2020,Premier Division - Republic of ireland,3197186
+Dundalk,Bohemians,16,16/10/2020,Premier Division - Republic of ireland,3197187
+Shelbourne,Sligo Rovers,16,16/10/2020,Premier Division - Republic of ireland,3197188
+Finn Harps,St Patrick's Athletic,16,16/10/2020,Premier Division - Republic of ireland,3197189
+Shamrock Rovers,Derry City,16,16/10/2020,Premier Division - Republic of ireland,3197190
+Bohemians,Finn Harps,17,23/10/2020,Premier Division - Republic of ireland,3197191
+Derry City,Shelbourne,17,23/10/2020,Premier Division - Republic of ireland,3197192
+Waterford,Dundalk,17,23/10/2020,Premier Division - Republic of ireland,3197193
+Shamrock Rovers,St Patrick's Athletic,17,23/10/2020,Premier Division - Republic of ireland,3197194
+Sligo Rovers,Cork City,17,24/10/2020,Premier Division - Republic of ireland,3197195
+Cork City,Derry City,18,30/10/2020,Premier Division - Republic of ireland,3197196
+Dundalk,Sligo Rovers,18,30/10/2020,Premier Division - Republic of ireland,3197197
+St Patrick's Athletic,Bohemians,18,30/10/2020,Premier Division - Republic of ireland,3197198
+Shelbourne,Shamrock Rovers,18,30/10/2020,Premier Division - Republic of ireland,3197199
+Finn Harps,Waterford,18,30/10/2020,Premier Division - Republic of ireland,3197200
+Bohemians,Derry City,13,25/09/2020,Premier Division - Republic of ireland,3197171
+Dundalk,Shamrock Rovers,13,25/09/2020,Premier Division - Republic of ireland,3197172
+St Patrick's Athletic,Shelbourne,13,25/09/2020,Premier Division - Republic of ireland,3197173
+Waterford,Sligo Rovers,13,25/09/2020,Premier Division - Republic of ireland,3197174
+Finn Harps,Cork City,13,25/09/2020,Premier Division - Republic of ireland,3197175
+Cork City,St Patrick's Athletic,14,02/10/2020,Premier Division - Republic of ireland,3197176
+Derry City,Waterford,14,02/10/2020,Premier Division - Republic of ireland,3197177
+Dundalk,Finn Harps,14,02/10/2020,Premier Division - Republic of ireland,3197178
+Shelbourne,Bohemians,14,02/10/2020,Premier Division - Republic of ireland,3197179
+Shamrock Rovers,Sligo Rovers,14,02/10/2020,Premier Division - Republic of ireland,3197180
+Bohemians,Cork City,15,09/10/2020,Premier Division - Republic of ireland,3197181
+St Patrick's Athletic,Dundalk,15,09/10/2020,Premier Division - Republic of ireland,3197182
+Waterford,Shelbourne,15,09/10/2020,Premier Division - Republic of ireland,3197183
+Finn Harps,Shamrock Rovers,15,09/10/2020,Premier Division - Republic of ireland,3197184
+Sligo Rovers,Derry City,15,10/10/2020,Premier Division - Republic of ireland,3197185
+Waterford,St Patrick's Athletic,10,04/09/2020,Premier Division - Republic of ireland,3197158
+Derry City,Dundalk,10,04/09/2020,Premier Division - Republic of ireland,3197156
+Shelbourne,Cork City,10,05/09/2020,Premier Division - Republic of ireland,3197157
+Shamrock Rovers,Bohemians,10,05/09/2020,Premier Division - Republic of ireland,3197159
+Sligo Rovers,Finn Harps,10,07/09/2020,Premier Division - Republic of ireland,3197160
+Bohemians,Waterford,11,11/09/2020,Premier Division - Republic of ireland,3197161
+Dundalk,Shelbourne,11,11/09/2020,Premier Division - Republic of ireland,3197163
+Cork City,Shamrock Rovers,11,12/09/2020,Premier Division - Republic of ireland,3197162
+St Patrick's Athletic,Sligo Rovers,11,12/09/2020,Premier Division - Republic of ireland,3197164
+Finn Harps,Derry City,11,13/09/2020,Premier Division - Republic of ireland,3197165
+Cork City,Dundalk,12,18/09/2020,Premier Division - Republic of ireland,3197166
+Derry City,St Patrick's Athletic,12,18/09/2020,Premier Division - Republic of ireland,3197167
+Shelbourne,Finn Harps,12,18/09/2020,Premier Division - Republic of ireland,3197168
+Shamrock Rovers,Waterford,12,18/09/2020,Premier Division - Republic of ireland,3197170
+Sligo Rovers,Bohemians,12,19/09/2020,Premier Division - Republic of ireland,3197169
+Bohemians,Dundalk,7,07/08/2020,Premier Division - Republic of ireland,3197141
+St Patrick's Athletic,Finn Harps,7,07/08/2020,Premier Division - Republic of ireland,3197143
+Waterford,Cork City,7,08/08/2020,Premier Division - Republic of ireland,3197144
+Sligo Rovers,Shelbourne,7,08/08/2020,Premier Division - Republic of ireland,3197145
+Derry City,Shamrock Rovers,7,09/08/2020,Premier Division - Republic of ireland,3197142
+Dundalk,Waterford,8,14/08/2020,Premier Division - Republic of ireland,3197147
+Cork City,Sligo Rovers,8,14/08/2020,Premier Division - Republic of ireland,3197146
+Finn Harps,Bohemians,8,15/08/2020,Premier Division - Republic of ireland,3197150
+Shelbourne,Derry City,8,15/08/2020,Premier Division - Republic of ireland,3197149
+St Patrick's Athletic,Shamrock Rovers,8,16/08/2020,Premier Division - Republic of ireland,3197148
+Derry City,Cork City,9,21/08/2020,Premier Division - Republic of ireland,3197152
+Shamrock Rovers,Shelbourne,9,21/08/2020,Premier Division - Republic of ireland,3197154
+Bohemians,St Patrick's Athletic,9,22/08/2020,Premier Division - Republic of ireland,3197151
+Sligo Rovers,Dundalk,9,22/08/2020,Premier Division - Republic of ireland,3197155
+Waterford,Finn Harps,9,23/08/2020,Premier Division - Republic of ireland,3197153
+Sligo Rovers,Waterford,4,04/08/2020,Premier Division - Republic of ireland,3197130
+Derry City,Sligo Rovers,6,31/07/2020,Premier Division - Republic of ireland,3197137
+Dundalk,St Patrick's Athletic,6,31/07/2020,Premier Division - Republic of ireland,3197138
+Shelbourne,Waterford,6,01/08/2020,Premier Division - Republic of ireland,3197139
+Shamrock Rovers,Finn Harps,6,01/08/2020,Premier Division - Republic of ireland,3197140
+Cork City,Bohemians,6,02/08/2020,Premier Division - Republic of ireland,3197136
+St Patrick's Athletic,Derry City,3,03/08/2020,Premier Division - Republic of ireland,3197123
+Finn Harps,Shelbourne,3,04/08/2020,Premier Division - Republic of ireland,3197125
 Parma,Atalanta,37,28/07/2020,Serie A - Italy,3112060
 Fiorentina,Bologna,37,29/07/2020,Serie A - Italy,3112061
 Lazio,Brescia,37,29/07/2020,Serie A - Italy,3112062
@@ -68,68 +281,6 @@ Juventus,Roma,38,02/08/2020,Serie A - Italy,3112076
 Brescia,Sampdoria,38,02/08/2020,Serie A - Italy,3112077
 Bologna,Torino,38,02/08/2020,Serie A - Italy,3112078
 Sassuolo,Udinese,38,02/08/2020,Serie A - Italy,3112079
-Juventus,Lazio,34,20/07/2020,Serie A - Italy,3112033
-Atalanta,Bologna,35,21/07/2020,Serie A - Italy,3112040
-Sassuolo,Milan,35,21/07/2020,Serie A - Italy,3112047
-Parma,Napoli,35,22/07/2020,Serie A - Italy,3112048
-Lecce,Brescia,35,22/07/2020,Serie A - Italy,3112041
-Internazionale,Fiorentina,35,22/07/2020,Serie A - Italy,3112043
-Sampdoria,Genoa,35,22/07/2020,Serie A - Italy,3112044
-Torino,Hellas Verona,35,22/07/2020,Serie A - Italy,3112045
-SPAL,Roma,35,22/07/2020,Serie A - Italy,3112049
-Udinese,Juventus,35,23/07/2020,Serie A - Italy,3112046
-Lazio,Cagliari,35,23/07/2020,Serie A - Italy,3112042
-Milan,Atalanta,36,24/07/2020,Serie A - Italy,3112050
-Roma,Fiorentina,36,26/07/2020,Serie A - Italy,3112051
-Genoa,Internazionale,36,25/07/2020,Serie A - Italy,3112052
-Hellas Verona,Lazio,36,26/07/2020,Serie A - Italy,3112053
-Bologna,Lecce,36,26/07/2020,Serie A - Italy,3112054
-Brescia,Parma,36,25/07/2020,Serie A - Italy,3112055
-Juventus,Sampdoria,36,26/07/2020,Serie A - Italy,3112056
-Napoli,Sassuolo,36,25/07/2020,Serie A - Italy,3112057
-SPAL,Torino,36,26/07/2020,Serie A - Italy,3112058
-Cagliari,Udinese,36,26/07/2020,Serie A - Italy,3112059
-Torino,Genoa,33,16/07/2020,Serie A - Italy,3112023
-SPAL,Internazionale,33,16/07/2020,Serie A - Italy,3112025
-Hellas Verona,Atalanta,34,18/07/2020,Serie A - Italy,3112030
-Cagliari,Sassuolo,34,18/07/2020,Serie A - Italy,3112036
-Milan,Bologna,34,18/07/2020,Serie A - Italy,3112031
-Parma,Sampdoria,34,19/07/2020,Serie A - Italy,3112035
-Genoa,Lecce,34,19/07/2020,Serie A - Italy,3112034
-Brescia,SPAL,34,19/07/2020,Serie A - Italy,3112037
-Fiorentina,Torino,34,19/07/2020,Serie A - Italy,3112038
-Napoli,Udinese,34,19/07/2020,Serie A - Italy,3112039
-Roma,Internazionale,34,19/07/2020,Serie A - Italy,3112032
-Cittadella,Ascoli,35,17/07/2020,Serie B - Italy,3122883
-Juve Stabia,Chievo,35,17/07/2020,Serie B - Italy,3122884
-Pordenone,Cosenza,35,17/07/2020,Serie B - Italy,3122885
-Perugia,Cremonese,35,17/07/2020,Serie B - Italy,3122886
-Pescara,Frosinone,35,17/07/2020,Serie B - Italy,3122887
-Benevento,Livorno,35,17/07/2020,Serie B - Italy,3122888
-Crotone,Salernitana,35,17/07/2020,Serie B - Italy,3122889
-Pisa,Trapani,35,17/07/2020,Serie B - Italy,3122890
-Spezia,Venezia,35,17/07/2020,Serie B - Italy,3122891
-Empoli,Virtus Entella,35,17/07/2020,Serie B - Italy,3122892
-Frosinone,Benevento,36,24/07/2020,Serie B - Italy,3122893
-Chievo,Cittadella,36,24/07/2020,Serie B - Italy,3122894
-Livorno,Crotone,36,24/07/2020,Serie B - Italy,3122895
-Salernitana,Empoli,36,24/07/2020,Serie B - Italy,3122896
-Venezia,Juve Stabia,36,24/07/2020,Serie B - Italy,3122897
-Virtus Entella,Perugia,36,24/07/2020,Serie B - Italy,3122898
-Trapani,Pescara,36,24/07/2020,Serie B - Italy,3122899
-Cosenza,Pisa,36,24/07/2020,Serie B - Italy,3122900
-Ascoli,Pordenone,36,24/07/2020,Serie B - Italy,3122901
-Cremonese,Spezia,36,24/07/2020,Serie B - Italy,3122902
-Pisa,Ascoli,37,27/07/2020,Serie B - Italy,3122903
-Benevento,Chievo,37,27/07/2020,Serie B - Italy,3122904
-Empoli,Cosenza,37,27/07/2020,Serie B - Italy,3122905
-Juve Stabia,Cremonese,37,27/07/2020,Serie B - Italy,3122906
-Crotone,Frosinone,37,27/07/2020,Serie B - Italy,3122907
-Pescara,Livorno,37,27/07/2020,Serie B - Italy,3122908
-Pordenone,Salernitana,37,27/07/2020,Serie B - Italy,3122909
-Perugia,Trapani,37,27/07/2020,Serie B - Italy,3122910
-Cittadella,Venezia,37,27/07/2020,Serie B - Italy,3122911
-Spezia,Virtus Entella,37,27/07/2020,Serie B - Italy,3122912
 Ascoli,Benevento,38,31/07/2020,Serie B - Italy,3122913
 Virtus Entella,Cittadella,38,31/07/2020,Serie B - Italy,3122914
 Trapani,Crotone,38,31/07/2020,Serie B - Italy,3122915
@@ -140,83 +291,6 @@ Chievo,Pescara,38,31/07/2020,Serie B - Italy,3122919
 Frosinone,Pisa,38,31/07/2020,Serie B - Italy,3122920
 Cremonese,Pordenone,38,31/07/2020,Serie B - Italy,3122921
 Salernitana,Spezia,38,31/07/2020,Serie B - Italy,3122922
-Athletic Club,Leganes,37,16/07/2020,La Liga - Spain,3059170
-Barcelona,Osasuna,37,16/07/2020,La Liga - Spain,3059171
-Real Betis,Deportivo Alavés,37,16/07/2020,La Liga - Spain,3059172
-Celta Vigo,Levante,37,16/07/2020,La Liga - Spain,3059173
-Eibar,Real Valladolid,37,16/07/2020,La Liga - Spain,3059174
-Getafe,Atletico Madrid,37,16/07/2020,La Liga - Spain,3059175
-Mallorca,Granada,37,16/07/2020,La Liga - Spain,3059176
-Real Madrid,Villarreal,37,16/07/2020,La Liga - Spain,3059177
-Real Sociedad,Sevilla,37,16/07/2020,La Liga - Spain,3059178
-Valencia,Espanyol,37,16/07/2020,La Liga - Spain,3059179
-Deportivo Alavés,Barcelona,38,19/07/2020,La Liga - Spain,3059180
-Atletico Madrid,Real Sociedad,38,19/07/2020,La Liga - Spain,3059181
-Espanyol,Celta Vigo,38,19/07/2020,La Liga - Spain,3059182
-Granada,Athletic Club,38,19/07/2020,La Liga - Spain,3059183
-Leganes,Real Madrid,38,19/07/2020,La Liga - Spain,3059184
-Levante,Getafe,38,19/07/2020,La Liga - Spain,3059185
-Osasuna,Mallorca,38,19/07/2020,La Liga - Spain,3059186
-Sevilla,Valencia,38,19/07/2020,La Liga - Spain,3059187
-Villarreal,Eibar,38,19/07/2020,La Liga - Spain,3059188
-Real Valladolid,Real Betis,38,19/07/2020,La Liga - Spain,3059189
-Albacete,Real Zaragoza,41,17/07/2020,Segunda División - Spain,3060353
-Extremadura UD,Sporting Gijón,41,17/07/2020,Segunda División - Spain,3060354
-Fuenlabrada,Elche,41,17/07/2020,Segunda División - Spain,3060355
-Girona,Cádiz,41,17/07/2020,Segunda División - Spain,3060356
-Huesca,Numancia,41,17/07/2020,Segunda División - Spain,3060357
-Mirandés,Deportivo La Coruña,41,17/07/2020,Segunda División - Spain,3060358
-Málaga,Alcorcón,41,17/07/2020,Segunda División - Spain,3060359
-Ponferradina,Almería,41,17/07/2020,Segunda División - Spain,3060360
-Real Oviedo,Racing Santander,41,17/07/2020,Segunda División - Spain,3060361
-Rayo Vallecano,Las Palmas,41,17/07/2020,Segunda División - Spain,3060362
-Tenerife,Lugo,41,17/07/2020,Segunda División - Spain,3060363
-Alcorcón,Girona,42,20/07/2020,Segunda División - Spain,3060364
-Almería,Málaga,42,20/07/2020,Segunda División - Spain,3060365
-Cádiz,Albacete,42,20/07/2020,Segunda División - Spain,3060366
-Deportivo La Coruña,Fuenlabrada,42,20/07/2020,Segunda División - Spain,3060367
-Elche,Real Oviedo,42,20/07/2020,Segunda División - Spain,3060368
-Las Palmas,Extremadura UD,42,20/07/2020,Segunda División - Spain,3060369
-Lugo,Mirandés,42,20/07/2020,Segunda División - Spain,3060370
-Numancia,Tenerife,42,20/07/2020,Segunda División - Spain,3060371
-Racing Santander,Rayo Vallecano,42,20/07/2020,Segunda División - Spain,3060372
-Sporting Gijón,Huesca,42,20/07/2020,Segunda División - Spain,3060373
-Real Zaragoza,Ponferradina,42,20/07/2020,Segunda División - Spain,3060374
-Paços de Ferreira,Portimonense,33,20/07/2020,Primeira Liga - Portugal,3064938
-Tondela,Sporting Braga,33,20/07/2020,Primeira Liga - Portugal,3064933
-Porto,Moreirense,33,20/07/2020,Primeira Liga - Portugal,3064935
-Sporting CP,Vitória Setúbal,33,21/07/2020,Primeira Liga - Portugal,3064936
-Desportivo Aves,Benfica,33,21/07/2020,Primeira Liga - Portugal,3064939
-Marítimo,Famalicão,34,26/07/2020,Primeira Liga - Portugal,3064941
-Portimonense,Desportivo Aves,34,26/07/2020,Primeira Liga - Portugal,3064942
-Vitória Setúbal,Belenenses,34,26/07/2020,Primeira Liga - Portugal,3064943
-Gil Vicente,Paços de Ferreira,34,26/07/2020,Primeira Liga - Portugal,3064944
-Benfica,Sporting CP,34,26/07/2020,Primeira Liga - Portugal,3064945
-Boavista,Rio Ave,34,26/07/2020,Primeira Liga - Portugal,3064946
-Sporting Braga,Porto,34,26/07/2020,Primeira Liga - Portugal,3064947
-Santa Clara,Vitoria Guimaraes,34,26/07/2020,Primeira Liga - Portugal,3064948
-Moreirense,Tondela,34,26/07/2020,Primeira Liga - Portugal,3064949
-Rio Ave,Santa Clara,33,18/07/2020,Primeira Liga - Portugal,3064934
-Famalicão,Boavista,33,18/07/2020,Primeira Liga - Portugal,3064937
-Belenenses,Gil Vicente,33,19/07/2020,Primeira Liga - Portugal,3064932
-Vitoria Guimaraes,Marítimo,33,19/07/2020,Primeira Liga - Portugal,3064940
-Grazer AK,Kapfenberger SV,27,22/07/2020,2. Liga - Austria,3040587
-Ried,Wacker Innsbruck,28,17/07/2020,2. Liga - Austria,3040588
-Kapfenberger SV,Austria Lustenau,28,17/07/2020,2. Liga - Austria,3040589
-Blau-Weiß Linz,Amstetten,28,17/07/2020,2. Liga - Austria,3040590
-Liefering,Grazer AK,28,19/07/2020,2. Liga - Austria,3040592
-Austria Wien II,Juniors OÖ,28,17/07/2020,2. Liga - Austria,3040593
-Vorwärts Steyr,Lafnitz,28,17/07/2020,2. Liga - Austria,3040594
-Austria Klagenfurt,Floridsdorfer AC,28,18/07/2020,2. Liga - Austria,3040591
-Dornbirn,Horn,28,18/07/2020,2. Liga - Austria,3040595
-Wacker Innsbruck,Austria Lustenau,29,24/07/2020,2. Liga - Austria,3040596
-Juniors OÖ,Liefering,29,24/07/2020,2. Liga - Austria,3040597
-Floridsdorfer AC,Kapfenberger SV,29,24/07/2020,2. Liga - Austria,3040598
-Amstetten,Austria Klagenfurt,29,24/07/2020,2. Liga - Austria,3040599
-Lafnitz,Blau-Weiß Linz,29,24/07/2020,2. Liga - Austria,3040600
-Horn,Ried,29,24/07/2020,2. Liga - Austria,3040601
-Dornbirn,Austria Wien II,29,24/07/2020,2. Liga - Austria,3040602
-Grazer AK,Vorwärts Steyr,29,24/07/2020,2. Liga - Austria,3040603
 Ried,Floridsdorfer AC,30,31/07/2020,2. Liga - Austria,3040604
 Austria Lustenau,Amstetten,30,31/07/2020,2. Liga - Austria,3040605
 Kapfenberger SV,Austria Wien II,30,31/07/2020,2. Liga - Austria,3040606
@@ -225,21 +299,6 @@ Juniors OÖ,Horn,30,31/07/2020,2. Liga - Austria,3040608
 Austria Klagenfurt,Wacker Innsbruck,30,31/07/2020,2. Liga - Austria,3040609
 Vorwärts Steyr,Liefering,30,31/07/2020,2. Liga - Austria,3040610
 Grazer AK,Lafnitz,30,31/07/2020,2. Liga - Austria,3040611
-Hvidovre,Skive,31,16/07/2020,1st Division - Denmark,3034313
-Næstved,Roskilde,31,16/07/2020,1st Division - Denmark,3034315
-HB Køge,Fremad Amager,31,15/07/2020,1st Division - Denmark,3034316
-Nykøbing,Vendsyssel,32,19/07/2020,1st Division - Denmark,3034318
-Kolding IF,Fremad Amager,32,19/07/2020,1st Division - Denmark,3034319
-Roskilde,Fredericia,32,19/07/2020,1st Division - Denmark,3034320
-Næstved,Hvidovre,32,19/07/2020,1st Division - Denmark,3034321
-Vejle,Viborg,32,19/07/2020,1st Division - Denmark,3034322
-Skive,HB Køge,32,19/07/2020,1st Division - Denmark,3034323
-Fremad Amager,Vejle,33,25/07/2020,1st Division - Denmark,3034324
-Fredericia,Nykøbing,33,25/07/2020,1st Division - Denmark,3034325
-Hvidovre,Roskilde,33,25/07/2020,1st Division - Denmark,3034326
-Viborg,Kolding IF,33,25/07/2020,1st Division - Denmark,3034327
-HB Køge,Næstved,33,25/07/2020,1st Division - Denmark,3034328
-Vendsyssel,Skive,33,25/07/2020,1st Division - Denmark,3034329
 Stabæk,Brann,15,24/08/2020,Eliteserien - Norway,3281571
 Haugesund,Vålerenga,16,29/08/2020,Eliteserien - Norway,3281579
 Brann,Strømsgodset,16,29/08/2020,Eliteserien - Norway,3281580
@@ -288,24 +347,207 @@ Haugesund,Stabæk,12,02/08/2020,Eliteserien - Norway,3281547
 Sarpsborg 08,Aalesund,12,02/08/2020,Eliteserien - Norway,3281549
 Start,Mjøndalen,12,02/08/2020,Eliteserien - Norway,3281551
 Odd,Rosenborg,12,02/08/2020,Eliteserien - Norway,3281545
-Odd,Aalesund,10,25/07/2020,Eliteserien - Norway,3281529
-Brann,Kristiansund,10,25/07/2020,Eliteserien - Norway,3281532
-Bodø / Glimt,Molde,10,26/07/2020,Eliteserien - Norway,3281528
-Viking,Sarpsborg 08,10,26/07/2020,Eliteserien - Norway,3281530
-Vålerenga,Strømsgodset,10,26/07/2020,Eliteserien - Norway,3281533
-Sandefjord,Mjøndalen,10,26/07/2020,Eliteserien - Norway,3281534
-Start,Stabæk,10,26/07/2020,Eliteserien - Norway,3281535
-Haugesund,Rosenborg,10,26/07/2020,Eliteserien - Norway,3281531
-Stabæk,Sarpsborg 08,8,16/07/2020,Eliteserien - Norway,3281514
-Start,Rosenborg,8,16/07/2020,Eliteserien - Norway,3281518
-Mjøndalen,Bodø / Glimt,9,18/07/2020,Eliteserien - Norway,3281525
-Haugesund,Viking,9,18/07/2020,Eliteserien - Norway,3281521
-Rosenborg,Sandefjord,9,19/07/2020,Eliteserien - Norway,3281519
-Kristiansund,Vålerenga,9,19/07/2020,Eliteserien - Norway,3281520
-Strømsgodset,Molde,9,19/07/2020,Eliteserien - Norway,3281523
-Sarpsborg 08,Odd,9,19/07/2020,Eliteserien - Norway,3281524
-Aalesund,Stabæk,9,19/07/2020,Eliteserien - Norway,3281526
-Brann,Start,9,19/07/2020,Eliteserien - Norway,3281522
+HamKam,Ranheim,5,28/07/2020,1. Division - Norway,3274558
+KFUM,Åsane,6,31/07/2020,1. Division - Norway,3274559
+Ranheim,Kongsvinger,6,31/07/2020,1. Division - Norway,3274560
+Sogndal,Raufoss,6,31/07/2020,1. Division - Norway,3274561
+Strømmen,Sandnes Ulf,6,31/07/2020,1. Division - Norway,3274562
+Tromsø,Stjørdals-Blink,6,31/07/2020,1. Division - Norway,3274563
+Ullensaker / Kisa,HamKam,6,31/07/2020,1. Division - Norway,3274564
+Øygarden,Grorud,6,31/07/2020,1. Division - Norway,3274565
+Jerv,Lillestrøm,6,31/07/2020,1. Division - Norway,3274566
+Grorud,Ullensaker / Kisa,7,03/08/2020,1. Division - Norway,3274567
+HamKam,KFUM,7,03/08/2020,1. Division - Norway,3274568
+Kongsvinger,Øygarden,7,03/08/2020,1. Division - Norway,3274569
+Raufoss,Strømmen,7,03/08/2020,1. Division - Norway,3274570
+Sandnes Ulf,Ranheim,7,03/08/2020,1. Division - Norway,3274571
+Stjørdals-Blink,Jerv,7,03/08/2020,1. Division - Norway,3274572
+Åsane,Tromsø,7,03/08/2020,1. Division - Norway,3274573
+Lillestrøm,Sogndal,7,04/08/2020,1. Division - Norway,3274574
+Jerv,Kongsvinger,8,10/08/2020,1. Division - Norway,3274575
+Ranheim,Raufoss,8,10/08/2020,1. Division - Norway,3274576
+Sogndal,HamKam,8,10/08/2020,1. Division - Norway,3274577
+Strømmen,Grorud,8,10/08/2020,1. Division - Norway,3274578
+Tromsø,Sandnes Ulf,8,10/08/2020,1. Division - Norway,3274579
+Ullensaker / Kisa,Åsane,8,10/08/2020,1. Division - Norway,3274580
+Øygarden,Stjørdals-Blink,8,10/08/2020,1. Division - Norway,3274581
+KFUM,Lillestrøm,8,11/08/2020,1. Division - Norway,3274582
+Grorud,Tromsø,9,14/08/2020,1. Division - Norway,3274583
+Kongsvinger,Strømmen,9,14/08/2020,1. Division - Norway,3274584
+Ranheim,Øygarden,9,14/08/2020,1. Division - Norway,3274585
+Raufoss,Jerv,9,14/08/2020,1. Division - Norway,3274586
+Sandnes Ulf,KFUM,9,14/08/2020,1. Division - Norway,3274587
+Stjørdals-Blink,Sogndal,9,14/08/2020,1. Division - Norway,3274588
+Åsane,HamKam,9,14/08/2020,1. Division - Norway,3274589
+Lillestrøm,Ullensaker / Kisa,9,14/08/2020,1. Division - Norway,3274590
+HamKam,Grorud,10,17/08/2020,1. Division - Norway,3274591
+Jerv,Tromsø,10,17/08/2020,1. Division - Norway,3274592
+Lillestrøm,Raufoss,10,17/08/2020,1. Division - Norway,3274593
+Sogndal,Ranheim,10,17/08/2020,1. Division - Norway,3274594
+Strømmen,Øygarden,10,17/08/2020,1. Division - Norway,3274595
+Ullensaker / Kisa,Stjørdals-Blink,10,17/08/2020,1. Division - Norway,3274596
+Åsane,Sandnes Ulf,10,17/08/2020,1. Division - Norway,3274597
+KFUM,Kongsvinger,10,18/08/2020,1. Division - Norway,3274598
+Grorud,KFUM,11,24/08/2020,1. Division - Norway,3274599
+Ranheim,Strømmen,11,24/08/2020,1. Division - Norway,3274600
+Raufoss,Ullensaker / Kisa,11,24/08/2020,1. Division - Norway,3274601
+Sandnes Ulf,HamKam,11,24/08/2020,1. Division - Norway,3274602
+Stjørdals-Blink,Åsane,11,24/08/2020,1. Division - Norway,3274603
+Tromsø,Sogndal,11,24/08/2020,1. Division - Norway,3274604
+Øygarden,Jerv,11,24/08/2020,1. Division - Norway,3274605
+Kongsvinger,Lillestrøm,11,25/08/2020,1. Division - Norway,3274606
+Jerv,Ranheim,12,28/08/2020,1. Division - Norway,3274607
+KFUM,Stjørdals-Blink,12,28/08/2020,1. Division - Norway,3274608
+Lillestrøm,Strømmen,12,28/08/2020,1. Division - Norway,3274609
+Sandnes Ulf,Raufoss,12,28/08/2020,1. Division - Norway,3274610
+Sogndal,Øygarden,12,28/08/2020,1. Division - Norway,3274611
+Ullensaker / Kisa,Kongsvinger,12,28/08/2020,1. Division - Norway,3274612
+Åsane,Grorud,12,28/08/2020,1. Division - Norway,3274613
+HamKam,Tromsø,12,28/08/2020,1. Division - Norway,3274614
+Grorud,Sandnes Ulf,13,31/08/2020,1. Division - Norway,3275089
+Kongsvinger,Sogndal,13,31/08/2020,1. Division - Norway,3275090
+Ranheim,KFUM,13,31/08/2020,1. Division - Norway,3275091
+Raufoss,Åsane,13,31/08/2020,1. Division - Norway,3275092
+Stjørdals-Blink,HamKam,13,31/08/2020,1. Division - Norway,3275093
+Strømmen,Jerv,13,31/08/2020,1. Division - Norway,3275094
+Tromsø,Ullensaker / Kisa,13,31/08/2020,1. Division - Norway,3275095
+Øygarden,Lillestrøm,13,31/08/2020,1. Division - Norway,3275096
+Grorud,Stjørdals-Blink,14,08/09/2020,1. Division - Norway,3275097
+HamKam,Raufoss,14,08/09/2020,1. Division - Norway,3275098
+KFUM,Tromsø,14,08/09/2020,1. Division - Norway,3275099
+Lillestrøm,Ranheim,14,08/09/2020,1. Division - Norway,3275100
+Sandnes Ulf,Kongsvinger,14,08/09/2020,1. Division - Norway,3275101
+Sogndal,Strømmen,14,08/09/2020,1. Division - Norway,3275102
+Ullensaker / Kisa,Øygarden,14,08/09/2020,1. Division - Norway,3275103
+Åsane,Jerv,14,08/09/2020,1. Division - Norway,3275104
+Jerv,Sogndal,15,14/09/2020,1. Division - Norway,3275105
+Kongsvinger,Åsane,15,14/09/2020,1. Division - Norway,3275106
+Ranheim,Ullensaker / Kisa,15,14/09/2020,1. Division - Norway,3275107
+Raufoss,Grorud,15,14/09/2020,1. Division - Norway,3275108
+Stjørdals-Blink,Sandnes Ulf,15,14/09/2020,1. Division - Norway,3275109
+Strømmen,HamKam,15,14/09/2020,1. Division - Norway,3275110
+Tromsø,Lillestrøm,15,14/09/2020,1. Division - Norway,3275111
+Øygarden,KFUM,15,14/09/2020,1. Division - Norway,3275112
+Grorud,Ranheim,16,21/09/2020,1. Division - Norway,3275113
+HamKam,Jerv,16,21/09/2020,1. Division - Norway,3275114
+KFUM,Strømmen,16,21/09/2020,1. Division - Norway,3275115
+Lillestrøm,Kongsvinger,16,21/09/2020,1. Division - Norway,3275116
+Sandnes Ulf,Tromsø,16,21/09/2020,1. Division - Norway,3275117
+Sogndal,Stjørdals-Blink,16,21/09/2020,1. Division - Norway,3275118
+Ullensaker / Kisa,Raufoss,16,21/09/2020,1. Division - Norway,3275119
+Åsane,Øygarden,16,21/09/2020,1. Division - Norway,3275120
+Jerv,Ullensaker / Kisa,17,25/09/2020,1. Division - Norway,3275121
+Kongsvinger,HamKam,17,25/09/2020,1. Division - Norway,3275122
+Ranheim,Åsane,17,25/09/2020,1. Division - Norway,3275123
+Raufoss,Sandnes Ulf,17,25/09/2020,1. Division - Norway,3275124
+Stjørdals-Blink,KFUM,17,25/09/2020,1. Division - Norway,3275125
+Strømmen,Lillestrøm,17,25/09/2020,1. Division - Norway,3275126
+Tromsø,Grorud,17,25/09/2020,1. Division - Norway,3275127
+Øygarden,Sogndal,17,25/09/2020,1. Division - Norway,3275128
+Grorud,Øygarden,18,28/09/2020,1. Division - Norway,3275129
+HamKam,Stjørdals-Blink,18,28/09/2020,1. Division - Norway,3275130
+KFUM,Sandnes Ulf,18,28/09/2020,1. Division - Norway,3275131
+Lillestrøm,Jerv,18,28/09/2020,1. Division - Norway,3275132
+Sogndal,Kongsvinger,18,28/09/2020,1. Division - Norway,3275133
+Strømmen,Ranheim,18,28/09/2020,1. Division - Norway,3275134
+Ullensaker / Kisa,Tromsø,18,28/09/2020,1. Division - Norway,3275135
+Åsane,Raufoss,18,28/09/2020,1. Division - Norway,3275136
+Jerv,Strømmen,19,05/10/2020,1. Division - Norway,3275137
+Kongsvinger,KFUM,19,05/10/2020,1. Division - Norway,3275138
+Ranheim,Sogndal,19,05/10/2020,1. Division - Norway,3275139
+Raufoss,HamKam,19,05/10/2020,1. Division - Norway,3275140
+Sandnes Ulf,Grorud,19,05/10/2020,1. Division - Norway,3275141
+Stjørdals-Blink,Lillestrøm,19,05/10/2020,1. Division - Norway,3275142
+Tromsø,Åsane,19,05/10/2020,1. Division - Norway,3275143
+Øygarden,Ullensaker / Kisa,19,05/10/2020,1. Division - Norway,3275144
+HamKam,Sandnes Ulf,20,12/10/2020,1. Division - Norway,3275145
+Jerv,Raufoss,20,12/10/2020,1. Division - Norway,3275146
+Lillestrøm,Øygarden,20,12/10/2020,1. Division - Norway,3275147
+Sogndal,Tromsø,20,12/10/2020,1. Division - Norway,3275148
+Strømmen,Kongsvinger,20,12/10/2020,1. Division - Norway,3275149
+Ullensaker / Kisa,Ranheim,20,12/10/2020,1. Division - Norway,3275150
+Åsane,Stjørdals-Blink,20,12/10/2020,1. Division - Norway,3275151
+KFUM,Grorud,20,12/10/2020,1. Division - Norway,3275152
+Grorud,HamKam,21,19/10/2020,1. Division - Norway,3275153
+Kongsvinger,Jerv,21,19/10/2020,1. Division - Norway,3275154
+Ranheim,Lillestrøm,21,19/10/2020,1. Division - Norway,3275155
+Sandnes Ulf,Åsane,21,19/10/2020,1. Division - Norway,3275156
+Stjørdals-Blink,Ullensaker / Kisa,21,19/10/2020,1. Division - Norway,3275157
+Tromsø,KFUM,21,19/10/2020,1. Division - Norway,3275158
+Øygarden,Strømmen,21,19/10/2020,1. Division - Norway,3275159
+Raufoss,Sogndal,21,19/10/2020,1. Division - Norway,3275455
+HamKam,Sogndal,22,26/10/2020,1. Division - Norway,3275160
+Jerv,Øygarden,22,26/10/2020,1. Division - Norway,3275161
+Kongsvinger,Ranheim,22,26/10/2020,1. Division - Norway,3275162
+Lillestrøm,Sandnes Ulf,22,26/10/2020,1. Division - Norway,3275163
+Stjørdals-Blink,Tromsø,22,26/10/2020,1. Division - Norway,3275164
+Strømmen,Raufoss,22,26/10/2020,1. Division - Norway,3275165
+Ullensaker / Kisa,Grorud,22,26/10/2020,1. Division - Norway,3275166
+Åsane,KFUM,22,26/10/2020,1. Division - Norway,3275167
+Grorud,Åsane,23,30/10/2020,1. Division - Norway,3275168
+KFUM,Ullensaker / Kisa,23,30/10/2020,1. Division - Norway,3275169
+Ranheim,Stjørdals-Blink,23,30/10/2020,1. Division - Norway,3275170
+Raufoss,Lillestrøm,23,30/10/2020,1. Division - Norway,3275171
+Sandnes Ulf,Strømmen,23,30/10/2020,1. Division - Norway,3275172
+Sogndal,Jerv,23,30/10/2020,1. Division - Norway,3275173
+Tromsø,HamKam,23,30/10/2020,1. Division - Norway,3275174
+Øygarden,Kongsvinger,23,30/10/2020,1. Division - Norway,3275175
+HamKam,Åsane,24,02/11/2020,1. Division - Norway,3275176
+Jerv,KFUM,24,02/11/2020,1. Division - Norway,3275177
+Kongsvinger,Raufoss,24,02/11/2020,1. Division - Norway,3275178
+Lillestrøm,Tromsø,24,02/11/2020,1. Division - Norway,3275179
+Stjørdals-Blink,Grorud,24,02/11/2020,1. Division - Norway,3275180
+Strømmen,Sogndal,24,02/11/2020,1. Division - Norway,3275181
+Ullensaker / Kisa,Sandnes Ulf,24,02/11/2020,1. Division - Norway,3275182
+Øygarden,Ranheim,24,02/11/2020,1. Division - Norway,3275183
+Grorud,Strømmen,25,06/11/2020,1. Division - Norway,3275184
+KFUM,HamKam,25,06/11/2020,1. Division - Norway,3275185
+Ranheim,Jerv,25,06/11/2020,1. Division - Norway,3275186
+Raufoss,Øygarden,25,06/11/2020,1. Division - Norway,3275187
+Sandnes Ulf,Stjørdals-Blink,25,06/11/2020,1. Division - Norway,3275188
+Sogndal,Lillestrøm,25,06/11/2020,1. Division - Norway,3275189
+Tromsø,Kongsvinger,25,06/11/2020,1. Division - Norway,3275190
+Åsane,Ullensaker / Kisa,25,06/11/2020,1. Division - Norway,3275191
+HamKam,Ullensaker / Kisa,26,09/11/2020,1. Division - Norway,3275282
+Jerv,Grorud,26,09/11/2020,1. Division - Norway,3275283
+Kongsvinger,Sandnes Ulf,26,09/11/2020,1. Division - Norway,3275284
+Lillestrøm,Åsane,26,09/11/2020,1. Division - Norway,3275285
+Raufoss,Ranheim,26,09/11/2020,1. Division - Norway,3275286
+Sogndal,KFUM,26,09/11/2020,1. Division - Norway,3275287
+Strømmen,Stjørdals-Blink,26,09/11/2020,1. Division - Norway,3275288
+Øygarden,Tromsø,26,09/11/2020,1. Division - Norway,3275289
+Grorud,Raufoss,27,16/11/2020,1. Division - Norway,3275290
+HamKam,Strømmen,27,16/11/2020,1. Division - Norway,3275291
+KFUM,Ranheim,27,16/11/2020,1. Division - Norway,3275292
+Sandnes Ulf,Sogndal,27,16/11/2020,1. Division - Norway,3275293
+Stjørdals-Blink,Øygarden,27,16/11/2020,1. Division - Norway,3275294
+Tromsø,Jerv,27,16/11/2020,1. Division - Norway,3275295
+Ullensaker / Kisa,Lillestrøm,27,16/11/2020,1. Division - Norway,3275296
+Åsane,Kongsvinger,27,16/11/2020,1. Division - Norway,3275297
+Jerv,Åsane,28,23/11/2020,1. Division - Norway,3275298
+Kongsvinger,Stjørdals-Blink,28,23/11/2020,1. Division - Norway,3275299
+Lillestrøm,KFUM,28,23/11/2020,1. Division - Norway,3275300
+Ranheim,HamKam,28,23/11/2020,1. Division - Norway,3275301
+Raufoss,Tromsø,28,23/11/2020,1. Division - Norway,3275302
+Sogndal,Grorud,28,23/11/2020,1. Division - Norway,3275303
+Strømmen,Ullensaker / Kisa,28,23/11/2020,1. Division - Norway,3275304
+Øygarden,Sandnes Ulf,28,23/11/2020,1. Division - Norway,3275305
+Grorud,Kongsvinger,29,30/11/2020,1. Division - Norway,3275306
+HamKam,Lillestrøm,29,30/11/2020,1. Division - Norway,3275307
+KFUM,Øygarden,29,30/11/2020,1. Division - Norway,3275308
+Sandnes Ulf,Jerv,29,30/11/2020,1. Division - Norway,3275309
+Stjørdals-Blink,Raufoss,29,30/11/2020,1. Division - Norway,3275310
+Tromsø,Ranheim,29,30/11/2020,1. Division - Norway,3275311
+Ullensaker / Kisa,Sogndal,29,30/11/2020,1. Division - Norway,3275312
+Åsane,Strømmen,29,30/11/2020,1. Division - Norway,3275313
+Jerv,Stjørdals-Blink,30,07/12/2020,1. Division - Norway,3275314
+Kongsvinger,Ullensaker / Kisa,30,07/12/2020,1. Division - Norway,3275315
+Lillestrøm,Grorud,30,07/12/2020,1. Division - Norway,3275316
+Ranheim,Sandnes Ulf,30,07/12/2020,1. Division - Norway,3275317
+Raufoss,KFUM,30,07/12/2020,1. Division - Norway,3275318
+Sogndal,Åsane,30,07/12/2020,1. Division - Norway,3275319
+Strømmen,Tromsø,30,07/12/2020,1. Division - Norway,3275320
+Øygarden,HamKam,30,07/12/2020,1. Division - Norway,3275321
 Elfsborg,AIK,30,06/12/2020,Allsvenskan - Sweden,3282132
 Norrköping,Helsingborg,30,06/12/2020,Allsvenskan - Sweden,3282133
 IFK Göteborg,Sirius,30,06/12/2020,Allsvenskan - Sweden,3282134
@@ -452,41 +694,12 @@ Falkenberg,Malmö FF,14,09/08/2020,Allsvenskan - Sweden,3282007
 Djurgården,Hammarby,14,09/08/2020,Allsvenskan - Sweden,3282006
 Östersunds FK,Elfsborg,14,09/08/2020,Allsvenskan - Sweden,3282009
 Mjällby,AIK,14,09/08/2020,Allsvenskan - Sweden,3282011
-Hammarby,Örebro,11,27/07/2020,Allsvenskan - Sweden,3281981
-Östersunds FK,Helsingborg,11,27/07/2020,Allsvenskan - Sweden,3281986
-Mjällby,Kalmar,11,27/07/2020,Allsvenskan - Sweden,3281987
 Djurgården,Häcken,12,01/08/2020,Allsvenskan - Sweden,3281991
 Örebro,Falkenberg,12,01/08/2020,Allsvenskan - Sweden,3281993
 Kalmar,AIK,12,02/08/2020,Allsvenskan - Sweden,3281992
 Helsingborg,Hammarby,12,02/08/2020,Allsvenskan - Sweden,3281994
 IFK Göteborg,Malmö FF,12,02/08/2020,Allsvenskan - Sweden,3281990
 Varberg,Östersunds FK,12,02/08/2020,Allsvenskan - Sweden,3281995
-Hammarby,IFK Göteborg,9,20/07/2020,Allsvenskan - Sweden,3281965
-Örebro,Mjällby,9,20/07/2020,Allsvenskan - Sweden,3281968
-Häcken,AIK,10,22/07/2020,Allsvenskan - Sweden,3281972
-Norrköping,Varberg,10,22/07/2020,Allsvenskan - Sweden,3281973
-Djurgården,Östersunds FK,10,22/07/2020,Allsvenskan - Sweden,3281975
-IFK Göteborg,Falkenberg,10,23/07/2020,Allsvenskan - Sweden,3281974
-Kalmar,Sirius,10,23/07/2020,Allsvenskan - Sweden,3281976
-Helsingborg,Örebro,10,23/07/2020,Allsvenskan - Sweden,3281977
-Malmö FF,Hammarby,10,23/07/2020,Allsvenskan - Sweden,3281978
-Mjällby,Elfsborg,10,23/07/2020,Allsvenskan - Sweden,3281979
-Elfsborg,Varberg,11,26/07/2020,Allsvenskan - Sweden,3281982
-Häcken,IFK Göteborg,11,26/07/2020,Allsvenskan - Sweden,3281983
-Falkenberg,Norrköping,11,26/07/2020,Allsvenskan - Sweden,3281984
-Sirius,Malmö FF,11,26/07/2020,Allsvenskan - Sweden,3281980
-AIK,Djurgården,11,26/07/2020,Allsvenskan - Sweden,3281985
-Häcken,Elfsborg,8,16/07/2020,Allsvenskan - Sweden,3281956
-Norrköping,Örebro,8,16/07/2020,Allsvenskan - Sweden,3281957
-Kalmar,Hammarby,8,16/07/2020,Allsvenskan - Sweden,3281960
-Östersunds FK,Malmö FF,8,16/07/2020,Allsvenskan - Sweden,3281962
-Varberg,Mjällby,8,16/07/2020,Allsvenskan - Sweden,3281963
-Sirius,Norrköping,9,19/07/2020,Allsvenskan - Sweden,3281964
-Malmö FF,Kalmar,9,19/07/2020,Allsvenskan - Sweden,3281970
-Varberg,AIK,9,19/07/2020,Allsvenskan - Sweden,3281971
-Elfsborg,Djurgården,9,19/07/2020,Allsvenskan - Sweden,3281966
-Falkenberg,Helsingborg,9,19/07/2020,Allsvenskan - Sweden,3281967
-Östersunds FK,Häcken,9,19/07/2020,Allsvenskan - Sweden,3281969
 Ljungskile,Degerfors,30,05/12/2020,Superettan - Sweden,3283247
 Akropolis,Jönköpings Södra,30,05/12/2020,Superettan - Sweden,3283248
 AFC Eskilstuna,Norrby,30,05/12/2020,Superettan - Sweden,3283249
@@ -599,21 +812,21 @@ GAIS,GIF Sundsvall,17,13/09/2020,Superettan - Sweden,3283147
 Norrby,Västerås SK,17,13/09/2020,Superettan - Sweden,3283148
 Degerfors,Jönköpings Södra,17,13/09/2020,Superettan - Sweden,3283149
 Örgryte,Ljungskile,17,13/09/2020,Superettan - Sweden,3283150
-Ljungskile,Akropolis,16,06/09/2020,Superettan - Sweden,3283135
-GIF Sundsvall,Öster,16,06/09/2020,Superettan - Sweden,3283136
+Ljungskile,Akropolis,16,05/09/2020,Superettan - Sweden,3283135
+GIF Sundsvall,Öster,16,05/09/2020,Superettan - Sweden,3283136
 Västerås SK,Dalkurd,16,06/09/2020,Superettan - Sweden,3283137
-Jönköpings Södra,AFC Eskilstuna,16,06/09/2020,Superettan - Sweden,3283138
-Halmstad,Degerfors,16,06/09/2020,Superettan - Sweden,3283139
-GAIS,Trelleborg,16,06/09/2020,Superettan - Sweden,3283140
-Örgryte,Norrby,16,06/09/2020,Superettan - Sweden,3283141
+Jönköpings Södra,AFC Eskilstuna,16,05/09/2020,Superettan - Sweden,3283138
+Halmstad,Degerfors,16,07/09/2020,Superettan - Sweden,3283139
+GAIS,Trelleborg,16,04/09/2020,Superettan - Sweden,3283140
+Örgryte,Norrby,16,05/09/2020,Superettan - Sweden,3283141
 Umeå FC,Brage,16,06/09/2020,Superettan - Sweden,3283142
 Akropolis,Ljungskile,15,30/08/2020,Superettan - Sweden,3283127
-AFC Eskilstuna,GIF Sundsvall,15,30/08/2020,Superettan - Sweden,3283128
-Trelleborg,Jönköpings Södra,15,30/08/2020,Superettan - Sweden,3283129
-Dalkurd,Västerås SK,15,30/08/2020,Superettan - Sweden,3283130
-Norrby,Örgryte,15,30/08/2020,Superettan - Sweden,3283131
-Degerfors,Halmstad,15,30/08/2020,Superettan - Sweden,3283132
-Öster,GAIS,15,30/08/2020,Superettan - Sweden,3283133
+AFC Eskilstuna,GIF Sundsvall,15,29/08/2020,Superettan - Sweden,3283128
+Trelleborg,Jönköpings Södra,15,29/08/2020,Superettan - Sweden,3283129
+Dalkurd,Västerås SK,15,29/08/2020,Superettan - Sweden,3283130
+Norrby,Örgryte,15,31/08/2020,Superettan - Sweden,3283131
+Degerfors,Halmstad,15,29/08/2020,Superettan - Sweden,3283132
+Öster,GAIS,15,29/08/2020,Superettan - Sweden,3283133
 Brage,Umeå FC,15,30/08/2020,Superettan - Sweden,3283134
 AFC Eskilstuna,Akropolis,13,17/08/2020,Superettan - Sweden,3283111
 Örgryte,Jönköpings Södra,13,18/08/2020,Superettan - Sweden,3283117
@@ -663,40 +876,6 @@ AFC Eskilstuna,Öster,10,01/08/2020,Superettan - Sweden,3283089
 GIF Sundsvall,Degerfors,10,01/08/2020,Superettan - Sweden,3283090
 Norrby,Jönköpings Södra,10,02/08/2020,Superettan - Sweden,3283091
 Akropolis,GAIS,10,02/08/2020,Superettan - Sweden,3283088
-Akropolis,Västerås SK,7,20/07/2020,Superettan - Sweden,3283064
-AFC Eskilstuna,GAIS,8,24/07/2020,Superettan - Sweden,3283071
-Örgryte,Degerfors,8,24/07/2020,Superettan - Sweden,3283076
-Umeå FC,Ljungskile,8,25/07/2020,Superettan - Sweden,3283078
-Västerås SK,Norrby,8,25/07/2020,Superettan - Sweden,3283073
-Öster,GIF Sundsvall,8,25/07/2020,Superettan - Sweden,3283077
-Trelleborg,Dalkurd,8,25/07/2020,Superettan - Sweden,3283072
-Jönköpings Södra,Brage,8,25/07/2020,Superettan - Sweden,3283074
-Halmstad,Akropolis,8,25/07/2020,Superettan - Sweden,3283075
-Ljungskile,Dalkurd,7,18/07/2020,Superettan - Sweden,3283063
-GIF Sundsvall,Norrby,7,18/07/2020,Superettan - Sweden,3283065
-GAIS,Umeå FC,7,18/07/2020,Superettan - Sweden,3283067
-Degerfors,Trelleborg,7,18/07/2020,Superettan - Sweden,3283068
-Öster,Jönköpings Södra,7,18/07/2020,Superettan - Sweden,3283069
-Brage,Örgryte,7,19/07/2020,Superettan - Sweden,3283070
-Halmstad,AFC Eskilstuna,7,19/07/2020,Superettan - Sweden,3283066
-Inter Turku,HJK,3,17/07/2020,Veikkausliiga - Finland,3276854
-Ilves,KuPS,3,17/07/2020,Veikkausliiga - Finland,3276855
-RoPS,Haka,3,17/07/2020,Veikkausliiga - Finland,3276856
-SJK,Mariehamn,3,17/07/2020,Veikkausliiga - Finland,3276857
-Honka,TPS,4,18/07/2020,Veikkausliiga - Finland,3276858
-HIFK,Lahti,4,18/07/2020,Veikkausliiga - Finland,3276859
-RoPS,Ilves,4,21/07/2020,Veikkausliiga - Finland,3276860
-Honka,Inter Turku,4,22/07/2020,Veikkausliiga - Finland,3276861
-HIFK,SJK,4,22/07/2020,Veikkausliiga - Finland,3276862
-Mariehamn,Haka,4,22/07/2020,Veikkausliiga - Finland,3276863
-KuPS,Lahti,5,22/07/2020,Veikkausliiga - Finland,3276864
-TPS,HJK,5,22/07/2020,Veikkausliiga - Finland,3276865
-HJK,Ilves,5,25/07/2020,Veikkausliiga - Finland,3276866
-TPS,Lahti,5,25/07/2020,Veikkausliiga - Finland,3276867
-Haka,Inter Turku,5,26/07/2020,Veikkausliiga - Finland,3276868
-Honka,RoPS,5,26/07/2020,Veikkausliiga - Finland,3276869
-Mariehamn,HIFK,6,26/07/2020,Veikkausliiga - Finland,3276870
-KuPS,SJK,6,26/07/2020,Veikkausliiga - Finland,3276871
 Inter Turku,Mariehamn,6,01/08/2020,Veikkausliiga - Finland,3276872
 HJK,KuPS,6,01/08/2020,Veikkausliiga - Finland,3276873
 Ilves,HIFK,6,01/08/2020,Veikkausliiga - Finland,3276874
@@ -724,16 +903,16 @@ Mariehamn,TPS,10,16/08/2020,Veikkausliiga - Finland,3276895
 Ilves,Lahti,10,22/08/2020,Veikkausliiga - Finland,3276896
 KuPS,Mariehamn,10,22/08/2020,Veikkausliiga - Finland,3276897
 RoPS,HJK,10,22/08/2020,Veikkausliiga - Finland,3276898
-TPS,Inter Turku,10,23/08/2020,Veikkausliiga - Finland,3276899
+TPS,Inter Turku,10,22/08/2020,Veikkausliiga - Finland,3276899
 HIFK,Haka,11,23/08/2020,Veikkausliiga - Finland,3276900
-SJK,Honka,11,23/08/2020,Veikkausliiga - Finland,3276901
+SJK,Honka,11,21/08/2020,Veikkausliiga - Finland,3276901
 Haka,Lahti,11,26/08/2020,Veikkausliiga - Finland,3276902
 HJK,SJK,11,26/08/2020,Veikkausliiga - Finland,3276903
 Mariehamn,RoPS,11,26/08/2020,Veikkausliiga - Finland,3276904
 TPS,HIFK,11,26/08/2020,Veikkausliiga - Finland,3276905
 KuPS,TPS,12,29/08/2020,Veikkausliiga - Finland,3276906
 SJK,RoPS,12,29/08/2020,Veikkausliiga - Finland,3276907
-Honka,HIFK,12,30/08/2020,Veikkausliiga - Finland,3276908
+Honka,HIFK,12,01/09/2020,Veikkausliiga - Finland,3276908
 HJK,Mariehamn,12,30/08/2020,Veikkausliiga - Finland,3276909
 Lahti,Inter Turku,12,31/08/2020,Veikkausliiga - Finland,3276910
 Haka,Ilves,12,01/09/2020,Veikkausliiga - Finland,3276911
@@ -767,11 +946,11 @@ Mariehamn,KuPS,17,27/09/2020,Veikkausliiga - Finland,3276938
 Ilves,TPS,17,27/09/2020,Veikkausliiga - Finland,3276939
 Inter Turku,Lahti,17,28/09/2020,Veikkausliiga - Finland,3276940
 SJK,HIFK,17,28/09/2020,Veikkausliiga - Finland,3276941
-Haka,HJK,18,02/10/2020,Veikkausliiga - Finland,3276942
+Haka,HJK,18,18/08/2020,Veikkausliiga - Finland,3276942
 Lahti,Mariehamn,18,02/10/2020,Veikkausliiga - Finland,3276943
 HIFK,Honka,18,02/10/2020,Veikkausliiga - Finland,3276944
 KuPS,Ilves,18,02/10/2020,Veikkausliiga - Finland,3276945
-RoPS,Inter Turku,18,02/10/2020,Veikkausliiga - Finland,3276946
+RoPS,Inter Turku,18,18/08/2020,Veikkausliiga - Finland,3276946
 TPS,SJK,18,02/10/2020,Veikkausliiga - Finland,3276947
 Haka,TPS,19,07/10/2020,Veikkausliiga - Finland,3276948
 Honka,Mariehamn,19,07/10/2020,Veikkausliiga - Finland,3276949
@@ -878,105 +1057,7 @@ HK,KR,11,09/08/2020,Úrvalsdeild - Iceland,3207751
 ÍA,FH,11,09/08/2020,Úrvalsdeild - Iceland,3207753
 Valur,Grótta,11,09/08/2020,Úrvalsdeild - Iceland,3207755
 Stjarnan,Fjölnir,11,09/08/2020,Úrvalsdeild - Iceland,3207756
-Fylkir,HK,9,27/07/2020,Úrvalsdeild - Iceland,3207740
-FH,Grótta,9,27/07/2020,Úrvalsdeild - Iceland,3207741
-Fjölnir,Valur,9,27/07/2020,Úrvalsdeild - Iceland,3207742
-Stjarnan,Víkingur Reykjavík,9,27/07/2020,Úrvalsdeild - Iceland,3207737
-FH,KA,8,22/07/2020,Úrvalsdeild - Iceland,3207734
-KR,Fjölnir,8,22/07/2020,Úrvalsdeild - Iceland,3207736
-ÍA,Stjarnan,8,23/07/2020,Úrvalsdeild - Iceland,3207733
-Grótta,Víkingur Reykjavík,8,23/07/2020,Úrvalsdeild - Iceland,3207732
-Valur,Fylkir,8,23/07/2020,Úrvalsdeild - Iceland,3207735
-HK,Breidablik,8,23/07/2020,Úrvalsdeild - Iceland,3207731
-KA,KR,9,26/07/2020,Úrvalsdeild - Iceland,3207739
-Breidablik,ÍA,9,26/07/2020,Úrvalsdeild - Iceland,3207738
-Stjarnan,HK,7,17/07/2020,Úrvalsdeild - Iceland,3207729
-KA,Grótta,7,18/07/2020,Úrvalsdeild - Iceland,3207725
-Fjölnir,FH,7,18/07/2020,Úrvalsdeild - Iceland,3207726
-Fylkir,KR,7,19/07/2020,Úrvalsdeild - Iceland,3207727
-Víkingur Reykjavík,ÍA,7,19/07/2020,Úrvalsdeild - Iceland,3207728
-Breidablik,Valur,7,19/07/2020,Úrvalsdeild - Iceland,3207730
-Třinec,Vlašim,24,17/07/2020,FNL - Czech republic,3039435
-Slaven Koprivnica,Inter Zaprešić,35,17/07/2020,1. HNL - Croatia,3029982
-Lokomotiva Zagreb,HNK Gorica,35,19/07/2020,1. HNL - Croatia,3029983
-Varaždin,Osijek,35,18/07/2020,1. HNL - Croatia,3029984
-Istra 1961,Dinamo Zagreb,35,18/07/2020,1. HNL - Croatia,3029985
-Hajduk Split,Rijeka,35,19/07/2020,1. HNL - Croatia,3029986
-Inter Zaprešić,Hajduk Split,36,25/07/2020,1. HNL - Croatia,3029987
-Rijeka,Istra 1961,36,25/07/2020,1. HNL - Croatia,3029988
-Dinamo Zagreb,Varaždin,36,25/07/2020,1. HNL - Croatia,3029989
-Osijek,Lokomotiva Zagreb,36,25/07/2020,1. HNL - Croatia,3029990
-HNK Gorica,Slaven Koprivnica,36,25/07/2020,1. HNL - Croatia,3029991
-Miedź Legnica,Bełchatów,32,16/07/2020,I Liga - Poland,3034658
-Olimpia Grudziądz,Jastrzębie,32,16/07/2020,I Liga - Poland,3034660
-Chojniczanka Chojnice,Warta Poznań,33,18/07/2020,I Liga - Poland,3034665
-Zagłębie Sosnowiec,Stal Mielec,33,17/07/2020,I Liga - Poland,3034666
-Chrobry Głogów,Wigry Suwałki,33,17/07/2020,I Liga - Poland,3034667
-Sandecja Nowy Sącz,Podbeskidzie,33,18/07/2020,I Liga - Poland,3034668
-Odra Opole,Olimpia Grudziądz,33,19/07/2020,I Liga - Poland,3034669
-Jastrzębie,Nieciecza,33,19/07/2020,I Liga - Poland,3034670
-Radomiak Radom,Miedź Legnica,33,19/07/2020,I Liga - Poland,3034671
-Bełchatów,Puszcza Niepołomice,33,19/07/2020,I Liga - Poland,3034672
-Stomil Olsztyn,Tychy 71,33,18/07/2020,I Liga - Poland,3034673
-Warta Poznań,Stomil Olsztyn,34,25/07/2020,I Liga - Poland,3034674
-Tychy 71,Bełchatów,34,25/07/2020,I Liga - Poland,3034675
-Puszcza Niepołomice,Radomiak Radom,34,25/07/2020,I Liga - Poland,3034676
-Miedź Legnica,Jastrzębie,34,25/07/2020,I Liga - Poland,3034677
-Nieciecza,Odra Opole,34,25/07/2020,I Liga - Poland,3034678
-Olimpia Grudziądz,Sandecja Nowy Sącz,34,25/07/2020,I Liga - Poland,3034679
-Podbeskidzie,Chrobry Głogów,34,25/07/2020,I Liga - Poland,3034680
-Wigry Suwałki,Zagłębie Sosnowiec,34,25/07/2020,I Liga - Poland,3034681
-Stal Mielec,Chojniczanka Chojnice,34,25/07/2020,I Liga - Poland,3034682
-SKRA Częstochowa,Pogoń Siedlce,33,19/07/2020,II Liga - Poland,3037282
-Górnik Łęczna,Stal Rzeszów,33,19/07/2020,II Liga - Poland,3037283
-Stargard Szczeciński,Garbarnia Kraków,33,19/07/2020,II Liga - Poland,3037284
-Bytovia Bytów,Lech Poznań II,33,19/07/2020,II Liga - Poland,3037285
-Gryf Wejherowo,Górnik Polkowice,33,19/07/2020,II Liga - Poland,3037286
-Znicz Pruszków,Elana Toruń,33,19/07/2020,II Liga - Poland,3037287
-Resovia Rzeszów,Widzew Łódź,33,19/07/2020,II Liga - Poland,3037288
-Stal Stalowa Wola,GKS Katowice,33,19/07/2020,II Liga - Poland,3037289
-Olimpia Elbląg,Legionovia Legionowo,33,19/07/2020,II Liga - Poland,3079247
-Stal Stalowa Wola,Pogoń Siedlce,34,25/07/2020,II Liga - Poland,3037290
-GKS Katowice,Resovia Rzeszów,34,25/07/2020,II Liga - Poland,3037291
-Elana Toruń,Gryf Wejherowo,34,25/07/2020,II Liga - Poland,3037293
-Górnik Polkowice,Bytovia Bytów,34,25/07/2020,II Liga - Poland,3037294
-Lech Poznań II,Stargard Szczeciński,34,25/07/2020,II Liga - Poland,3037295
-Garbarnia Kraków,Olimpia Elbląg,34,25/07/2020,II Liga - Poland,3037296
-Stal Rzeszów,SKRA Częstochowa,34,25/07/2020,II Liga - Poland,3037297
-Legionovia Legionowo,Górnik Łęczna,34,25/07/2020,II Liga - Poland,3079248
-Widzew Łódź,Znicz Pruszków,34,25/07/2020,II Liga - Poland,3037292
-Krasnodar,Dinamo Moscow,23,19/07/2020,Premier League - Russia,3027249
-Tambov,Sochi,29,16/07/2020,Premier League - Russia,3027299
-Lokomotiv Moscow,CSKA Moscow,29,16/07/2020,Premier League - Russia,3027300
-Rubin Kazan,Rostov,29,16/07/2020,Premier League - Russia,3027301
-Ufa,Dinamo Moscow,29,16/07/2020,Premier League - Russia,3027303
-Rostov,Zenit,30,22/07/2020,Premier League - Russia,3027305
-Krasnodar,Akhmat Grozny,30,22/07/2020,Premier League - Russia,3027306
-CSKA Moscow,Tambov,30,22/07/2020,Premier League - Russia,3027307
-Dinamo Moscow,Orenburg,30,22/07/2020,Premier League - Russia,3027308
-Rubin Kazan,Spartak Moscow,30,22/07/2020,Premier League - Russia,3027309
-Krylya Sovetov,Sochi,30,22/07/2020,Premier League - Russia,3027310
-Ufa,Arsenal Tula,30,22/07/2020,Premier League - Russia,3027311
-Ural,Lokomotiv Moscow,30,22/07/2020,Premier League - Russia,3027312
 Zürich,Sion,30,28/07/2020,Super League - Switzerland,3037964
-Neuchâtel Xamax,Sion,31,16/07/2020,Super League - Switzerland,3037967
-St. Gallen,Luzern,31,16/07/2020,Super League - Switzerland,3037968
-Young Boys,Servette,31,15/07/2020,Super League - Switzerland,3037969
-Luzern,Neuchâtel Xamax,32,19/07/2020,Super League - Switzerland,3037970
-Servette,Basel,32,19/07/2020,Super League - Switzerland,3037971
-Sion,Lugano,32,19/07/2020,Super League - Switzerland,3037972
-Thun,St. Gallen,32,19/07/2020,Super League - Switzerland,3037973
-Zürich,Young Boys,32,18/07/2020,Super League - Switzerland,3037974
-Lugano,Zürich,33,21/07/2020,Super League - Switzerland,3037975
-Luzern,Sion,33,22/07/2020,Super League - Switzerland,3037976
-Neuchâtel Xamax,Young Boys,33,23/07/2020,Super League - Switzerland,3037977
-St. Gallen,Basel,33,22/07/2020,Super League - Switzerland,3037978
-Thun,Servette,33,22/07/2020,Super League - Switzerland,3037979
-Basel,Lugano,34,26/07/2020,Super League - Switzerland,3037980
-Servette,Neuchâtel Xamax,34,26/07/2020,Super League - Switzerland,3037981
-Sion,Thun,34,25/07/2020,Super League - Switzerland,3037982
-Young Boys,Luzern,34,26/07/2020,Super League - Switzerland,3037983
-Zürich,St. Gallen,34,25/07/2020,Super League - Switzerland,3037984
 Lugano,Servette,35,31/07/2020,Super League - Switzerland,3037985
 Luzern,Zürich,35,31/07/2020,Super League - Switzerland,3037986
 Sion,Young Boys,35,31/07/2020,Super League - Switzerland,3037987
@@ -987,22 +1068,6 @@ Neuchâtel Xamax,Lugano,36,03/08/2020,Super League - Switzerland,3037991
 Servette,Sion,36,03/08/2020,Super League - Switzerland,3037992
 Young Boys,St. Gallen,36,03/08/2020,Super League - Switzerland,3037993
 Zürich,Thun,36,03/08/2020,Super League - Switzerland,3037994
-Wil,Grasshopper,30,27/07/2020,Challenge League - Switzerland,3039815
-Aarau,Stade Lausanne-Ouchy,32,18/07/2020,Challenge League - Switzerland,3039821
-Chiasso,Winterthur,32,17/07/2020,Challenge League - Switzerland,3039822
-Lausanne Sport,Grasshopper,32,17/07/2020,Challenge League - Switzerland,3039823
-FC Schaffhausen,Kriens,32,17/07/2020,Challenge League - Switzerland,3039824
-Wil,Vaduz,32,18/07/2020,Challenge League - Switzerland,3039825
-Aarau,Chiasso,33,21/07/2020,Challenge League - Switzerland,3039826
-Grasshopper,FC Schaffhausen,33,21/07/2020,Challenge League - Switzerland,3039827
-Stade Lausanne-Ouchy,Kriens,33,21/07/2020,Challenge League - Switzerland,3039828
-Vaduz,Lausanne Sport,33,21/07/2020,Challenge League - Switzerland,3039829
-Winterthur,Wil,33,21/07/2020,Challenge League - Switzerland,3039830
-Chiasso,Vaduz,34,25/07/2020,Challenge League - Switzerland,3039831
-Kriens,Grasshopper,34,24/07/2020,Challenge League - Switzerland,3039832
-Lausanne Sport,Winterthur,34,24/07/2020,Challenge League - Switzerland,3039833
-FC Schaffhausen,Stade Lausanne-Ouchy,34,24/07/2020,Challenge League - Switzerland,3039834
-Wil,Aarau,34,24/07/2020,Challenge League - Switzerland,3039835
 Aarau,Grasshopper,35,30/07/2020,Challenge League - Switzerland,3039836
 Stade Lausanne-Ouchy,Lausanne Sport,35,30/07/2020,Challenge League - Switzerland,3039837
 Vaduz,FC Schaffhausen,35,30/07/2020,Challenge League - Switzerland,3039838
@@ -1013,48 +1078,256 @@ Grasshopper,Winterthur,36,02/08/2020,Challenge League - Switzerland,3039842
 Kriens,Vaduz,36,02/08/2020,Challenge League - Switzerland,3039843
 Lausanne Sport,Wil,36,02/08/2020,Challenge League - Switzerland,3039844
 FC Schaffhausen,Aarau,36,02/08/2020,Challenge League - Switzerland,3039845
-Rizespor,Yeni Malatyaspor,33,19/07/2020,Süper Lig - Turkey,3082065
-Trabzonspor,Konyaspor,33,19/07/2020,Süper Lig - Turkey,3082066
-Galatasaray,Göztepe,33,18/07/2020,Süper Lig - Turkey,3082067
-Ankaragücü,Antalyaspor,33,19/07/2020,Süper Lig - Turkey,3082068
-Sivasspor,Gençlerbirliği,33,19/07/2020,Süper Lig - Turkey,3082069
-Beşiktaş,Fenerbahçe,33,19/07/2020,Süper Lig - Turkey,3082070
-Gaziantep FK,Kasımpaşa,33,18/07/2020,Süper Lig - Turkey,3082071
-Istanbul Basaksehir,Kayserispor,33,19/07/2020,Süper Lig - Turkey,3082072
-Alanyaspor,Denizlispor,33,19/07/2020,Süper Lig - Turkey,3082073
-Göztepe,Sivasspor,34,26/07/2020,Süper Lig - Turkey,3082074
-Kasımpaşa,Istanbul Basaksehir,34,26/07/2020,Süper Lig - Turkey,3082075
-Gençlerbirliği,Beşiktaş,34,26/07/2020,Süper Lig - Turkey,3082076
-Denizlispor,Ankaragücü,34,26/07/2020,Süper Lig - Turkey,3082077
-Konyaspor,Alanyaspor,34,26/07/2020,Süper Lig - Turkey,3082078
-Kayserispor,Trabzonspor,34,26/07/2020,Süper Lig - Turkey,3082079
-Yeni Malatyaspor,Gaziantep FK,34,26/07/2020,Süper Lig - Turkey,3082080
-Fenerbahçe,Rizespor,34,26/07/2020,Süper Lig - Turkey,3082081
-Antalyaspor,Galatasaray,34,26/07/2020,Süper Lig - Turkey,3082082
-Giresunspor,Altay,34,18/07/2020,1. Lig - Turkey,3083466
-Eskişehirspor,Boluspor,34,19/07/2020,1. Lig - Turkey,3083467
-BB Erzurumspor,Ümraniyespor,34,18/07/2020,1. Lig - Turkey,3083468
-Hatayspor,Bursaspor,34,18/07/2020,1. Lig - Turkey,3083469
-Fatih Karagümrük,Adanaspor,34,18/07/2020,1. Lig - Turkey,3083470
-Akhisarspor,Keçiörengücü,34,18/07/2020,1. Lig - Turkey,3083471
-Osmanlıspor,Balıkesirspor,34,19/07/2020,1. Lig - Turkey,3083472
-Adana Demirspor,İstanbulspor,34,18/07/2020,1. Lig - Turkey,3083473
-Menemenspor,Altınordu,34,17/07/2020,1. Lig - Turkey,3083474
-Aluminij,Domžale,34,16/07/2020,1. SNL - Slovenia,3039649
-Bravo,Maribor,34,15/07/2020,1. SNL - Slovenia,3039650
-Tabor Sežana,Rudar,34,16/07/2020,1. SNL - Slovenia,3039652
-Mura,Olimpija,34,16/07/2020,1. SNL - Slovenia,3039653
-Mura,Aluminij,35,19/07/2020,1. SNL - Slovenia,3039654
-Olimpija,Tabor Sežana,35,19/07/2020,1. SNL - Slovenia,3039655
-Rudar,Celje,35,19/07/2020,1. SNL - Slovenia,3039656
-Triglav,Bravo,35,19/07/2020,1. SNL - Slovenia,3039657
-Maribor,Domžale,35,19/07/2020,1. SNL - Slovenia,3039658
-Aluminij,Maribor,36,22/07/2020,1. SNL - Slovenia,3039659
-Domžale,Triglav,36,22/07/2020,1. SNL - Slovenia,3039660
-Bravo,Rudar,36,22/07/2020,1. SNL - Slovenia,3039661
-Celje,Olimpija,36,22/07/2020,1. SNL - Slovenia,3039662
-Tabor Sežana,Mura,36,22/07/2020,1. SNL - Slovenia,3039663
 Minsk,Neman Grodno,9,15/08/2020,Premier League - Belarus,3233187
+Puebla,León,15,24/10/2020,Liga MX - Mexico,3296719
+Mazatlán,Monterrey,15,24/10/2020,Liga MX - Mexico,3296720
+Querétaro,Necaxa,15,25/10/2020,Liga MX - Mexico,3296721
+Tigres UANL,Juárez,15,25/10/2020,Liga MX - Mexico,3296722
+América,Atlas,15,25/10/2020,Liga MX - Mexico,3296723
+Toluca,Tijuana,15,25/10/2020,Liga MX - Mexico,3296724
+Guadalajara,Cruz Azul,15,26/10/2020,Liga MX - Mexico,3296725
+Santos Laguna,Atlético San Luis,15,26/10/2020,Liga MX - Mexico,3296726
+Pachuca,Pumas UNAM,15,27/10/2020,Liga MX - Mexico,3296727
+Atlético San Luis,Mazatlán,16,30/10/2020,Liga MX - Mexico,3296728
+Necaxa,Toluca,16,31/10/2020,Liga MX - Mexico,3296729
+Tijuana,Pachuca,16,31/10/2020,Liga MX - Mexico,3296730
+Juárez,Querétaro,16,31/10/2020,Liga MX - Mexico,3296731
+Atlas,Puebla,16,01/11/2020,Liga MX - Mexico,3296732
+Pumas UNAM,Guadalajara,16,01/11/2020,Liga MX - Mexico,3296733
+Monterrey,Cruz Azul,16,01/11/2020,Liga MX - Mexico,3296734
+América,Tigres UANL,16,02/11/2020,Liga MX - Mexico,3296735
+León,Santos Laguna,16,03/11/2020,Liga MX - Mexico,3296736
+Puebla,Atlético San Luis,17,07/11/2020,Liga MX - Mexico,3296737
+Juárez,América,17,07/11/2020,Liga MX - Mexico,3296738
+Guadalajara,Monterrey,17,08/11/2020,Liga MX - Mexico,3296739
+Tigres UANL,Atlas,17,08/11/2020,Liga MX - Mexico,3296740
+Cruz Azul,Pumas UNAM,17,08/11/2020,Liga MX - Mexico,3296741
+Toluca,León,17,08/11/2020,Liga MX - Mexico,3296742
+Santos Laguna,Mazatlán,17,09/11/2020,Liga MX - Mexico,3296743
+Querétaro,Tijuana,17,09/11/2020,Liga MX - Mexico,3296744
+Pachuca,Necaxa,17,10/11/2020,Liga MX - Mexico,3296745
+Puebla,Querétaro,12,26/09/2020,Liga MX - Mexico,3296692
+Juárez,Atlas,12,26/09/2020,Liga MX - Mexico,3296693
+Guadalajara,Mazatlán,12,27/09/2020,Liga MX - Mexico,3296694
+Pumas UNAM,Necaxa,12,27/09/2020,Liga MX - Mexico,3296695
+Monterrey,Tigres UANL,12,27/09/2020,Liga MX - Mexico,3296696
+Atlético San Luis,León,12,28/09/2020,Liga MX - Mexico,3296697
+Santos Laguna,Tijuana,12,28/09/2020,Liga MX - Mexico,3296698
+Cruz Azul,América,12,28/09/2020,Liga MX - Mexico,3296699
+Pachuca,Toluca,12,29/09/2020,Liga MX - Mexico,3296700
+Puebla,Santos Laguna,13,03/10/2020,Liga MX - Mexico,3296701
+Juárez,Pachuca,13,03/10/2020,Liga MX - Mexico,3296702
+Atlas,Necaxa,13,04/10/2020,Liga MX - Mexico,3296703
+Tigres UANL,Atlético San Luis,13,04/10/2020,Liga MX - Mexico,3296704
+América,Pumas UNAM,13,04/10/2020,Liga MX - Mexico,3296705
+Toluca,Cruz Azul,13,04/10/2020,Liga MX - Mexico,3296706
+Querétaro,Monterrey,13,05/10/2020,Liga MX - Mexico,3296707
+Tijuana,Guadalajara,13,05/10/2020,Liga MX - Mexico,3296708
+León,Mazatlán,13,06/10/2020,Liga MX - Mexico,3296709
+Atlético San Luis,Querétaro,14,16/10/2020,Liga MX - Mexico,3296710
+Necaxa,Tijuana,14,17/10/2020,Liga MX - Mexico,3296711
+Mazatlán,Juárez,14,17/10/2020,Liga MX - Mexico,3296712
+Monterrey,Puebla,14,18/10/2020,Liga MX - Mexico,3296713
+Guadalajara,Atlas,14,18/10/2020,Liga MX - Mexico,3296714
+Cruz Azul,Tigres UANL,14,18/10/2020,Liga MX - Mexico,3296715
+Pumas UNAM,Toluca,14,18/10/2020,Liga MX - Mexico,3296716
+Santos Laguna,Pachuca,14,19/10/2020,Liga MX - Mexico,3296717
+León,América,14,20/10/2020,Liga MX - Mexico,3296718
+Atlético San Luis,Necaxa,9,09/09/2020,Liga MX - Mexico,3296665
+Toluca,Juárez,9,09/09/2020,Liga MX - Mexico,3296666
+Monterrey,Atlas,9,09/09/2020,Liga MX - Mexico,3296667
+Guadalajara,Querétaro,9,09/09/2020,Liga MX - Mexico,3296668
+Puebla,América,9,09/09/2020,Liga MX - Mexico,3296669
+León,Tigres UANL,9,10/09/2020,Liga MX - Mexico,3296670
+Cruz Azul,Pachuca,9,10/09/2020,Liga MX - Mexico,3296671
+Santos Laguna,Pumas UNAM,9,10/09/2020,Liga MX - Mexico,3296672
+Mazatlán,Tijuana,9,10/09/2020,Liga MX - Mexico,3296673
+Necaxa,Guadalajara,10,12/09/2020,Liga MX - Mexico,3296674
+Juárez,Puebla,10,12/09/2020,Liga MX - Mexico,3296675
+Atlas,Mazatlán,10,13/09/2020,Liga MX - Mexico,3296676
+Tigres UANL,Santos Laguna,10,13/09/2020,Liga MX - Mexico,3296677
+América,Toluca,10,13/09/2020,Liga MX - Mexico,3296678
+Pumas UNAM,Atlético San Luis,10,13/09/2020,Liga MX - Mexico,3296679
+Querétaro,León,10,14/09/2020,Liga MX - Mexico,3296680
+Tijuana,Cruz Azul,10,14/09/2020,Liga MX - Mexico,3296681
+Pachuca,Monterrey,10,15/09/2020,Liga MX - Mexico,3296682
+Necaxa,Puebla,11,19/09/2020,Liga MX - Mexico,3296683
+Tijuana,Juárez,11,19/09/2020,Liga MX - Mexico,3296684
+Mazatlán,Cruz Azul,11,19/09/2020,Liga MX - Mexico,3296685
+Atlas,Pachuca,11,20/09/2020,Liga MX - Mexico,3296686
+Tigres UANL,Querétaro,11,20/09/2020,Liga MX - Mexico,3296687
+América,Guadalajara,11,20/09/2020,Liga MX - Mexico,3296688
+Toluca,Santos Laguna,11,20/09/2020,Liga MX - Mexico,3296689
+Atlético San Luis,Monterrey,11,21/09/2020,Liga MX - Mexico,3296690
+León,Pumas UNAM,11,22/09/2020,Liga MX - Mexico,3296691
+Tijuana,Puebla,6,21/08/2020,Liga MX - Mexico,3296638
+Necaxa,Santos Laguna,6,22/08/2020,Liga MX - Mexico,3296639
+Juárez,León,6,22/08/2020,Liga MX - Mexico,3296640
+Atlas,Querétaro,6,23/08/2020,Liga MX - Mexico,3296641
+Tigres UANL,Pumas UNAM,6,23/08/2020,Liga MX - Mexico,3296642
+América,Monterrey,6,23/08/2020,Liga MX - Mexico,3296643
+Toluca,Guadalajara,6,24/08/2020,Liga MX - Mexico,3296644
+Atlético San Luis,Cruz Azul,6,24/08/2020,Liga MX - Mexico,3296645
+Pachuca,Mazatlán,6,25/08/2020,Liga MX - Mexico,3296646
+Puebla,Toluca,7,29/08/2020,Liga MX - Mexico,3296647
+Mazatlán,Tigres UANL,7,29/08/2020,Liga MX - Mexico,3296648
+Monterrey,Juárez,7,30/08/2020,Liga MX - Mexico,3296649
+Atlético San Luis,América,7,30/08/2020,Liga MX - Mexico,3296650
+Guadalajara,Pachuca,7,30/08/2020,Liga MX - Mexico,3296651
+Cruz Azul,Necaxa,7,30/08/2020,Liga MX - Mexico,3296652
+Pumas UNAM,Tijuana,7,30/08/2020,Liga MX - Mexico,3296653
+Santos Laguna,Querétaro,7,31/08/2020,Liga MX - Mexico,3296654
+León,Atlas,7,01/09/2020,Liga MX - Mexico,3296655
+Querétaro,Toluca,8,04/09/2020,Liga MX - Mexico,3296656
+Pachuca,Atlético San Luis,8,04/09/2020,Liga MX - Mexico,3296657
+Necaxa,León,8,05/09/2020,Liga MX - Mexico,3296658
+Juárez,Santos Laguna,8,05/09/2020,Liga MX - Mexico,3296659
+Pumas UNAM,Puebla,8,06/09/2020,Liga MX - Mexico,3296660
+Atlas,Cruz Azul,8,06/09/2020,Liga MX - Mexico,3296661
+Tijuana,Monterrey,8,06/09/2020,Liga MX - Mexico,3296662
+Tigres UANL,Guadalajara,8,06/09/2020,Liga MX - Mexico,3296663
+América,Mazatlán,8,07/09/2020,Liga MX - Mexico,3296664
+Pachuca,Querétaro,3,07/08/2020,Liga MX - Mexico,3296611
+Tijuana,Tigres UANL,3,07/08/2020,Liga MX - Mexico,3296612
+Necaxa,América,3,08/08/2020,Liga MX - Mexico,3296613
+Mazatlán,Toluca,3,08/08/2020,Liga MX - Mexico,3296614
+Cruz Azul,León,3,09/08/2020,Liga MX - Mexico,3296615
+Monterrey,Santos Laguna,3,09/08/2020,Liga MX - Mexico,3296616
+Guadalajara,Puebla,3,09/08/2020,Liga MX - Mexico,3296617
+Pumas UNAM,Juárez,3,09/08/2020,Liga MX - Mexico,3296618
+Atlético San Luis,Atlas,3,10/08/2020,Liga MX - Mexico,3296619
+Necaxa,Mazatlán,4,12/08/2020,Liga MX - Mexico,3296620
+Pachuca,León,4,12/08/2020,Liga MX - Mexico,3296621
+Tigres UANL,Puebla,4,12/08/2020,Liga MX - Mexico,3296622
+Querétaro,Cruz Azul,4,13/08/2020,Liga MX - Mexico,3296623
+Juárez,Guadalajara,4,13/08/2020,Liga MX - Mexico,3296624
+Tijuana,Atlético San Luis,4,13/08/2020,Liga MX - Mexico,3296625
+Pumas UNAM,Monterrey,4,13/08/2020,Liga MX - Mexico,3296626
+Atlas,Toluca,4,14/08/2020,Liga MX - Mexico,3296627
+América,Santos Laguna,4,14/08/2020,Liga MX - Mexico,3296628
+Puebla,Pachuca,5,15/08/2020,Liga MX - Mexico,3296629
+Guadalajara,Atlético San Luis,5,16/08/2020,Liga MX - Mexico,3296630
+Cruz Azul,Juárez,5,16/08/2020,Liga MX - Mexico,3296631
+Monterrey,Necaxa,5,16/08/2020,Liga MX - Mexico,3296632
+Mazatlán,Pumas UNAM,5,16/08/2020,Liga MX - Mexico,3296633
+Toluca,Tigres UANL,5,16/08/2020,Liga MX - Mexico,3296634
+Santos Laguna,Atlas,5,17/08/2020,Liga MX - Mexico,3296635
+Querétaro,América,5,17/08/2020,Liga MX - Mexico,3296636
+León,Tijuana,5,18/08/2020,Liga MX - Mexico,3296637
+Monterrey,Toluca,1,29/07/2020,Liga MX - Mexico,3296600
+Puebla,Cruz Azul,2,01/08/2020,Liga MX - Mexico,3296602
+Juárez,Necaxa,2,01/08/2020,Liga MX - Mexico,3296603
+América,Tijuana,2,02/08/2020,Liga MX - Mexico,3296604
+Tigres UANL,Pachuca,2,02/08/2020,Liga MX - Mexico,3296605
+Atlas,Pumas UNAM,2,02/08/2020,Liga MX - Mexico,3296606
+Toluca,Atlético San Luis,2,02/08/2020,Liga MX - Mexico,3296607
+Querétaro,Mazatlán,2,03/08/2020,Liga MX - Mexico,3296608
+Santos Laguna,Guadalajara,2,03/08/2020,Liga MX - Mexico,3296609
+León,Monterrey,2,04/08/2020,Liga MX - Mexico,3296610
+Guangzhou Evergrande,Dalian Pro,14,27/09/2020,CSL - China pr,3297250
+Shandong Luneng,Guangzhou R&F,14,27/09/2020,CSL - China pr,3297251
+Shanghai Shenhua,Henan Jianye,14,27/09/2020,CSL - China pr,3297252
+Shenzhen,Jiangsu Suning,14,27/09/2020,CSL - China pr,3297253
+Beijing Guoan,Shijiazhuang Ever Bright,14,28/09/2020,CSL - China pr,3297254
+Hebei CFFC,Qingdao Huanghai,14,28/09/2020,CSL - China pr,3297255
+Tianjin Teda,Wuhan Zall,14,28/09/2020,CSL - China pr,3297256
+Chongqing Dangdai Lifan,Shanghai SIPG,14,28/09/2020,CSL - China pr,3297257
+Guangzhou R&F,Shanghai Shenhua,13,23/09/2020,CSL - China pr,3297242
+Dalian Pro,Shenzhen,13,23/09/2020,CSL - China pr,3297243
+Henan Jianye,Shandong Luneng,13,23/09/2020,CSL - China pr,3297244
+Jiangsu Suning,Guangzhou Evergrande,13,23/09/2020,CSL - China pr,3297245
+Shijiazhuang Ever Bright,Chongqing Dangdai Lifan,13,24/09/2020,CSL - China pr,3297246
+Qingdao Huanghai,Tianjin Teda,13,24/09/2020,CSL - China pr,3297247
+Wuhan Zall,Hebei CFFC,13,24/09/2020,CSL - China pr,3297248
+Shanghai SIPG,Beijing Guoan,13,24/09/2020,CSL - China pr,3297249
+Guangzhou Evergrande,Henan Jianye,12,19/09/2020,CSL - China pr,3297234
+Shenzhen,Shandong Luneng,12,19/09/2020,CSL - China pr,3297235
+Shanghai Shenhua,Jiangsu Suning,12,19/09/2020,CSL - China pr,3297236
+Guangzhou R&F,Dalian Pro,12,19/09/2020,CSL - China pr,3297237
+Beijing Guoan,Qingdao Huanghai,12,20/09/2020,CSL - China pr,3297238
+Tianjin Teda,Hebei CFFC,12,20/09/2020,CSL - China pr,3297239
+Chongqing Dangdai Lifan,Wuhan Zall,12,20/09/2020,CSL - China pr,3297240
+Shijiazhuang Ever Bright,Shanghai SIPG,12,20/09/2020,CSL - China pr,3297241
+Jiangsu Suning,Guangzhou R&F,11,13/09/2020,CSL - China pr,3297226
+Shandong Luneng,Guangzhou Evergrande,11,13/09/2020,CSL - China pr,3297227
+Henan Jianye,Shenzhen,11,14/09/2020,CSL - China pr,3297228
+Dalian Pro,Shanghai Shenhua,11,14/09/2020,CSL - China pr,3297229
+Wuhan Zall,Shanghai SIPG,11,15/09/2020,CSL - China pr,3297230
+Hebei CFFC,Beijing Guoan,11,15/09/2020,CSL - China pr,3297231
+Qingdao Huanghai,Chongqing Dangdai Lifan,11,16/09/2020,CSL - China pr,3297232
+Tianjin Teda,Shijiazhuang Ever Bright,11,16/09/2020,CSL - China pr,3297233
+Guangzhou R&F,Henan Jianye,10,08/09/2020,CSL - China pr,3297218
+Dalian Pro,Jiangsu Suning,10,08/09/2020,CSL - China pr,3297219
+Guangzhou Evergrande,Shenzhen,10,09/09/2020,CSL - China pr,3297220
+Shanghai Shenhua,Shandong Luneng,10,09/09/2020,CSL - China pr,3297221
+Beijing Guoan,Tianjin Teda,10,10/09/2020,CSL - China pr,3297222
+Shanghai SIPG,Qingdao Huanghai,10,10/09/2020,CSL - China pr,3297223
+Chongqing Dangdai Lifan,Hebei CFFC,10,11/09/2020,CSL - China pr,3297224
+Shijiazhuang Ever Bright,Wuhan Zall,10,11/09/2020,CSL - China pr,3297225
+Henan Jianye,Dalian Pro,9,03/09/2020,CSL - China pr,3297210
+Shandong Luneng,Jiangsu Suning,9,03/09/2020,CSL - China pr,3297211
+Shenzhen,Shanghai Shenhua,9,04/09/2020,CSL - China pr,3297212
+Guangzhou Evergrande,Guangzhou R&F,9,04/09/2020,CSL - China pr,3297213
+Hebei CFFC,Shanghai SIPG,9,05/09/2020,CSL - China pr,3297214
+Qingdao Huanghai,Shijiazhuang Ever Bright,9,05/09/2020,CSL - China pr,3297215
+Tianjin Teda,Chongqing Dangdai Lifan,9,06/09/2020,CSL - China pr,3297216
+Wuhan Zall,Beijing Guoan,9,06/09/2020,CSL - China pr,3297217
+Guangzhou R&F,Shenzhen,8,29/08/2020,CSL - China pr,3297202
+Shandong Luneng,Dalian Pro,8,29/08/2020,CSL - China pr,3297203
+Jiangsu Suning,Henan Jianye,8,30/08/2020,CSL - China pr,3297204
+Shanghai Shenhua,Guangzhou Evergrande,8,30/08/2020,CSL - China pr,3297205
+Shijiazhuang Ever Bright,Hebei CFFC,8,31/08/2020,CSL - China pr,3297206
+Shanghai SIPG,Tianjin Teda,8,31/08/2020,CSL - China pr,3297207
+Qingdao Huanghai,Wuhan Zall,8,01/09/2020,CSL - China pr,3297208
+Beijing Guoan,Chongqing Dangdai Lifan,8,01/09/2020,CSL - China pr,3297209
+Henan Jianye,Shanghai Shenhua,7,24/08/2020,CSL - China pr,3297194
+Jiangsu Suning,Shenzhen,7,24/08/2020,CSL - China pr,3297195
+Guangzhou R&F,Shandong Luneng,7,25/08/2020,CSL - China pr,3297196
+Dalian Pro,Guangzhou Evergrande,7,25/08/2020,CSL - China pr,3297197
+Shanghai SIPG,Chongqing Dangdai Lifan,7,26/08/2020,CSL - China pr,3297198
+Wuhan Zall,Tianjin Teda,7,26/08/2020,CSL - China pr,3297199
+Shijiazhuang Ever Bright,Beijing Guoan,7,27/08/2020,CSL - China pr,3297200
+Qingdao Huanghai,Hebei CFFC,7,27/08/2020,CSL - China pr,3297201
+Shandong Luneng,Henan Jianye,6,19/08/2020,CSL - China pr,3297186
+Shanghai Shenhua,Guangzhou R&F,6,19/08/2020,CSL - China pr,3297187
+Guangzhou Evergrande,Jiangsu Suning,6,20/08/2020,CSL - China pr,3297188
+Shenzhen,Dalian Pro,6,20/08/2020,CSL - China pr,3297189
+Hebei CFFC,Wuhan Zall,6,21/08/2020,CSL - China pr,3297190
+Chongqing Dangdai Lifan,Shijiazhuang Ever Bright,6,21/08/2020,CSL - China pr,3297191
+Tianjin Teda,Qingdao Huanghai,6,22/08/2020,CSL - China pr,3297192
+Beijing Guoan,Shanghai SIPG,6,22/08/2020,CSL - China pr,3297193
+Henan Jianye,Guangzhou Evergrande,5,14/08/2020,CSL - China pr,3297178
+Jiangsu Suning,Shanghai Shenhua,5,14/08/2020,CSL - China pr,3297179
+Shandong Luneng,Shenzhen,5,15/08/2020,CSL - China pr,3297180
+Dalian Pro,Guangzhou R&F,5,15/08/2020,CSL - China pr,3297181
+Qingdao Huanghai,Beijing Guoan,5,16/08/2020,CSL - China pr,3297182
+Shanghai SIPG,Shijiazhuang Ever Bright,5,16/08/2020,CSL - China pr,3297183
+Wuhan Zall,Chongqing Dangdai Lifan,5,17/08/2020,CSL - China pr,3297184
+Hebei CFFC,Tianjin Teda,5,17/08/2020,CSL - China pr,3297185
+Guangzhou Evergrande,Shandong Luneng,4,09/08/2020,CSL - China pr,3297170
+Guangzhou R&F,Jiangsu Suning,4,09/08/2020,CSL - China pr,3297171
+Shanghai Shenhua,Dalian Pro,4,10/08/2020,CSL - China pr,3297172
+Shenzhen,Henan Jianye,4,10/08/2020,CSL - China pr,3297173
+Shijiazhuang Ever Bright,Tianjin Teda,4,11/08/2020,CSL - China pr,3297174
+Chongqing Dangdai Lifan,Qingdao Huanghai,4,11/08/2020,CSL - China pr,3297175
+Shanghai SIPG,Wuhan Zall,4,12/08/2020,CSL - China pr,3297176
+Beijing Guoan,Hebei CFFC,4,12/08/2020,CSL - China pr,3297177
+Shenzhen,Guangzhou Evergrande,3,04/08/2020,CSL - China pr,3297162
+Jiangsu Suning,Dalian Pro,3,04/08/2020,CSL - China pr,3297163
+Shandong Luneng,Shanghai Shenhua,3,05/08/2020,CSL - China pr,3297164
+Henan Jianye,Guangzhou R&F,3,05/08/2020,CSL - China pr,3297165
+Tianjin Teda,Beijing Guoan,3,06/08/2020,CSL - China pr,3297166
+Qingdao Huanghai,Shanghai SIPG,3,06/08/2020,CSL - China pr,3297167
+Wuhan Zall,Shijiazhuang Ever Bright,3,07/08/2020,CSL - China pr,3297168
+Hebei CFFC,Chongqing Dangdai Lifan,3,07/08/2020,CSL - China pr,3297169
+Shanghai Shenhua,Shenzhen,2,30/07/2020,CSL - China pr,3297154
+Guangzhou R&F,Guangzhou Evergrande,2,30/07/2020,CSL - China pr,3297155
+Jiangsu Suning,Shandong Luneng,2,31/07/2020,CSL - China pr,3297156
+Dalian Pro,Henan Jianye,2,31/07/2020,CSL - China pr,3297157
+Beijing Guoan,Wuhan Zall,2,01/08/2020,CSL - China pr,3297158
+Shijiazhuang Ever Bright,Qingdao Huanghai,2,01/08/2020,CSL - China pr,3297159
+Shanghai SIPG,Hebei CFFC,2,02/08/2020,CSL - China pr,3297160
+Chongqing Dangdai Lifan,Tianjin Teda,2,02/08/2020,CSL - China pr,3297161
 Tokyo,Consadole Sapporo,33,16/12/2020,J1 League - Japan,3279464
 Kawasaki Frontale,Urawa Reds,33,16/12/2020,J1 League - Japan,3279465
 Yokohama F. Marinos,Nagoya Grampus,33,16/12/2020,J1 League - Japan,3279466
@@ -1289,33 +1562,6 @@ Shonan Bellmare,Cerezo Osaka,8,01/08/2020,J1 League - Japan,3279244
 Gamba Osaka,Kawasaki Frontale,8,01/08/2020,J1 League - Japan,3279245
 Oita Trinita,Kashima Antlers,8,01/08/2020,J1 League - Japan,3279246
 Consadole Sapporo,Vissel Kobe,8,02/08/2020,J1 League - Japan,3279247
-Yokohama F. Marinos,Yokohama,6,22/07/2020,J1 League - Japan,3279221
-Shonan Bellmare,Kashima Antlers,6,22/07/2020,J1 League - Japan,3279222
-Gamba Osaka,Sanfrecce Hiroshima,6,22/07/2020,J1 League - Japan,3279223
-Sagan Tosu,Shimizu S-Pulse,6,22/07/2020,J1 League - Japan,3279224
-Consadole Sapporo,Tokyo,6,22/07/2020,J1 League - Japan,3279225
-Vegalta Sendai,Kawasaki Frontale,6,22/07/2020,J1 League - Japan,3279226
-Urawa Reds,Kashiwa Reysol,6,22/07/2020,J1 League - Japan,3279227
-Cerezo Osaka,Vissel Kobe,6,22/07/2020,J1 League - Japan,3279228
-Oita Trinita,Nagoya Grampus,6,22/07/2020,J1 League - Japan,3279229
-Consadole Sapporo,Yokohama F. Marinos,7,26/07/2020,J1 League - Japan,3279230
-Yokohama,Urawa Reds,7,26/07/2020,J1 League - Japan,3279231
-Shimizu S-Pulse,Oita Trinita,7,26/07/2020,J1 League - Japan,3279232
-Sanfrecce Hiroshima,Nagoya Grampus,7,26/07/2020,J1 League - Japan,3279233
-Kashima Antlers,Tokyo,7,26/07/2020,J1 League - Japan,3279234
-Kashiwa Reysol,Vegalta Sendai,7,26/07/2020,J1 League - Japan,3279235
-Kawasaki Frontale,Shonan Bellmare,7,26/07/2020,J1 League - Japan,3279236
-Vissel Kobe,Gamba Osaka,7,26/07/2020,J1 League - Japan,3279237
-Sagan Tosu,Cerezo Osaka,7,26/07/2020,J1 League - Japan,3279238
-Vegalta Sendai,Consadole Sapporo,5,18/07/2020,J1 League - Japan,3279212
-Kashima Antlers,Yokohama F. Marinos,5,18/07/2020,J1 League - Japan,3279213
-Yokohama,Kawasaki Frontale,5,18/07/2020,J1 League - Japan,3279214
-Nagoya Grampus,Sagan Tosu,5,18/07/2020,J1 League - Japan,3279215
-Kashiwa Reysol,Shonan Bellmare,5,18/07/2020,J1 League - Japan,3279216
-Tokyo,Urawa Reds,5,18/07/2020,J1 League - Japan,3279217
-Gamba Osaka,Oita Trinita,5,18/07/2020,J1 League - Japan,3279218
-Vissel Kobe,Shimizu S-Pulse,5,18/07/2020,J1 League - Japan,3279219
-Sanfrecce Hiroshima,Cerezo Osaka,5,18/07/2020,J1 League - Japan,3279220
 Consadole Sapporo,Shonan Bellmare,21,10/10/2020,J1 League - Japan,3279356
 Kashima Antlers,Yokohama,21,10/10/2020,J1 League - Japan,3279357
 Kashiwa Reysol,Vissel Kobe,21,10/10/2020,J1 League - Japan,3279358
@@ -1710,28 +1956,6 @@ Omiya Ardija,Avispa Fukuoka,9,02/08/2020,J2 League - Japan,3278817
 JEF United,ThespaKusatsu Gunma,9,02/08/2020,J2 League - Japan,3278818
 Tokushima Vortis,Montedio Yamagata,9,02/08/2020,J2 League - Japan,3278819
 Ehime,Júbilo Iwata,9,02/08/2020,J2 League - Japan,3278820
-Tokyo Verdy,Montedio Yamagata,7,25/07/2020,J2 League - Japan,3278788
-Ventforet Kofu,JEF United,7,25/07/2020,J2 League - Japan,3278789
-Albirex Niigata,Mito Hollyhock,7,25/07/2020,J2 League - Japan,3278790
-Omiya Ardija,Matsumoto Yamaga,7,25/07/2020,J2 League - Japan,3278791
-Júbilo Iwata,Tokushima Vortis,7,25/07/2020,J2 League - Japan,3278792
-Ehime,Ryūkyū,7,25/07/2020,J2 League - Japan,3278793
-Avispa Fukuoka,Fagiano Okayama,7,25/07/2020,J2 League - Japan,3278794
-Giravanz Kitakyushu,Renofa Yamaguchi,7,25/07/2020,J2 League - Japan,3278795
-V-Varen Nagasaki,Kyoto Sanga,7,25/07/2020,J2 League - Japan,3278796
-ThespaKusatsu Gunma,Zweigen Kanazawa,7,26/07/2020,J2 League - Japan,3278797
-Machida Zelvia,Tochigi,7,26/07/2020,J2 League - Japan,3278798
-JEF United,Tokyo Verdy,6,18/07/2020,J2 League - Japan,3278777
-Renofa Yamaguchi,Ryūkyū,6,18/07/2020,J2 League - Japan,3278778
-Tochigi,Zweigen Kanazawa,6,19/07/2020,J2 League - Japan,3278779
-Ventforet Kofu,Omiya Ardija,6,19/07/2020,J2 League - Japan,3278780
-Matsumoto Yamaga,ThespaKusatsu Gunma,6,19/07/2020,J2 League - Japan,3278781
-Albirex Niigata,Montedio Yamagata,6,19/07/2020,J2 League - Japan,3278782
-Júbilo Iwata,Giravanz Kitakyushu,6,19/07/2020,J2 League - Japan,3278783
-Kyoto Sanga,Ehime,6,19/07/2020,J2 League - Japan,3278784
-Mito Hollyhock,Machida Zelvia,6,19/07/2020,J2 League - Japan,3278785
-Fagiano Okayama,V-Varen Nagasaki,6,19/07/2020,J2 League - Japan,3278786
-Tokushima Vortis,Avispa Fukuoka,6,19/07/2020,J2 League - Japan,3278787
 YSCC,Fujieda MYFC,34,20/12/2020,J3 League - Japan,3278724
 Parceiro Nagano,Grulla Morioka,34,20/12/2020,J3 League - Japan,3278725
 Azul Claro Numazu,Kataller Toyama,34,20/12/2020,J3 League - Japan,3278726
@@ -1984,36 +2208,6 @@ Parceiro Nagano,Gamba Osaka II,8,02/08/2020,J3 League - Japan,3278495
 Kamatamare Sanuki,Azul Claro Numazu,8,02/08/2020,J3 League - Japan,3278496
 Roasso Kumamoto,Fukushima United,8,02/08/2020,J3 League - Japan,3278497
 Gainare Tottori,Kataller Toyama,8,02/08/2020,J3 League - Japan,3278498
-Vanraure Hachinohe,Azul Claro Numazu,6,25/07/2020,J3 League - Japan,3278472
-Fukushima United,Kataller Toyama,6,25/07/2020,J3 League - Japan,3278473
-Sagamihara,Grulla Morioka,6,25/07/2020,J3 League - Japan,3278474
-Fujieda MYFC,Blaublitz Akita,6,25/07/2020,J3 League - Japan,3278475
-Parceiro Nagano,YSCC,6,25/07/2020,J3 League - Japan,3278476
-Kamatamare Sanuki,Roasso Kumamoto,6,25/07/2020,J3 League - Japan,3278477
-Cerezo Osaka II,Kagoshima United,6,25/07/2020,J3 League - Japan,3278478
-Gainare Tottori,Imabari,6,25/07/2020,J3 League - Japan,3278479
-Gifu,Gamba Osaka II,6,26/07/2020,J3 League - Japan,3278480
-Sagamihara,Vanraure Hachinohe,5,18/07/2020,J3 League - Japan,3278463
-Grulla Morioka,Kataller Toyama,5,19/07/2020,J3 League - Japan,3278464
-Fukushima United,Fujieda MYFC,5,19/07/2020,J3 League - Japan,3278465
-Imabari,Cerezo Osaka II,5,19/07/2020,J3 League - Japan,3278466
-YSCC,Azul Claro Numazu,5,19/07/2020,J3 League - Japan,3278467
-Blaublitz Akita,Parceiro Nagano,5,19/07/2020,J3 League - Japan,3278468
-Gifu,Roasso Kumamoto,5,19/07/2020,J3 League - Japan,3278469
-Gamba Osaka II,Kagoshima United,5,19/07/2020,J3 League - Japan,3278470
-Gainare Tottori,Kamatamare Sanuki,5,19/07/2020,J3 League - Japan,3278471
-Seoul,Pohang Steelers,12,18/07/2020,K League 1 - Korea republic,3269484
-Sangju Sangmu,Daegu,12,18/07/2020,K League 1 - Korea republic,3269485
-Busan IPark,Gwangju,12,18/07/2020,K League 1 - Korea republic,3269486
-Ulsan,Gangwon,12,19/07/2020,K League 1 - Korea republic,3269487
-Suwon Bluewings,Seongnam,12,19/07/2020,K League 1 - Korea republic,3269488
-Incheon United,Jeonbuk Motors,12,19/07/2020,K League 1 - Korea republic,3269489
-Sangju Sangmu,Ulsan,13,25/07/2020,K League 1 - Korea republic,3269490
-Seongnam,Gangwon,13,25/07/2020,K League 1 - Korea republic,3269491
-Gwangju,Suwon Bluewings,13,25/07/2020,K League 1 - Korea republic,3269492
-Jeonbuk Motors,Seoul,13,26/07/2020,K League 1 - Korea republic,3269493
-Pohang Steelers,Incheon United,13,26/07/2020,K League 1 - Korea republic,3269494
-Daegu,Busan IPark,13,26/07/2020,K League 1 - Korea republic,3269495
 Jeonbuk Motors,Pohang Steelers,14,01/08/2020,K League 1 - Korea republic,3269496
 Seongnam,Seoul,14,01/08/2020,K League 1 - Korea republic,3269497
 Incheon United,Gwangju,14,01/08/2020,K League 1 - Korea republic,3269498
@@ -2069,16 +2263,7 @@ Gangwon,Incheon United,22,04/10/2020,K League 1 - Korea republic,3269547
 Sangju Sangmu,Suwon Bluewings,22,04/10/2020,K League 1 - Korea republic,3269548
 Seongnam,Jeonbuk Motors,22,04/10/2020,K League 1 - Korea republic,3269549
 Suwon,Seoul E-Land,16,23/08/2020,K League 2 - Korea republic,3269324
-Jeonnam Dragons,Bucheon 1995,11,18/07/2020,K League 2 - Korea republic,3269333
-Seoul E-Land,Jeju United,11,18/07/2020,K League 2 - Korea republic,3269334
-Chungnam Asan,Anyang,11,19/07/2020,K League 2 - Korea republic,3269335
-Daejeon Hana Citizen,Suwon,11,19/07/2020,K League 2 - Korea republic,3269336
-Ansan Greeners,Gyeongnam,11,20/07/2020,K League 2 - Korea republic,3269337
-Anyang,Suwon,12,25/07/2020,K League 2 - Korea republic,3269338
-Seoul E-Land,Chungnam Asan,12,25/07/2020,K League 2 - Korea republic,3269339
-Bucheon 1995,Ansan Greeners,12,25/07/2020,K League 2 - Korea republic,3269340
-Jeonnam Dragons,Gyeongnam,12,26/07/2020,K League 2 - Korea republic,3269341
-Daejeon Hana Citizen,Jeju United,12,26/07/2020,K League 2 - Korea republic,3269342
+Jeju United,Bucheon 1995,10,26/08/2020,K League 2 - Korea republic,3269330
 Jeju United,Jeonnam Dragons,13,01/08/2020,K League 2 - Korea republic,3269343
 Chungnam Asan,Daejeon Hana Citizen,13,01/08/2020,K League 2 - Korea republic,3269344
 Suwon,Ansan Greeners,13,01/08/2020,K League 2 - Korea republic,3269345
@@ -2153,58 +2338,21 @@ Anyang,Suwon,27,07/11/2020,K League 2 - Korea republic,3269414
 Ansan Greeners,Bucheon 1995,27,07/11/2020,K League 2 - Korea republic,3269415
 Chungnam Asan,Jeju United,27,07/11/2020,K League 2 - Korea republic,3269416
 Seoul E-Land,Jeonnam Dragons,27,07/11/2020,K League 2 - Korea republic,3269417
-Hoang Anh Gia Lai,Quang Nam,10,17/07/2020,V.League 1 - Vietnam,3215332
-Hồng Lĩnh Hà Tĩnh,Ho Chi Minh City,10,17/07/2020,V.League 1 - Vietnam,3215328
-Ha Noi,Hai Phong,10,17/07/2020,V.League 1 - Vietnam,3215334
-Song Lam Nghe An,Viettel,10,18/07/2020,V.League 1 - Vietnam,3215329
-Da Nang,Than Quang Ninh,10,18/07/2020,V.League 1 - Vietnam,3215330
-Binh Duong,Thanh Hóa,10,18/07/2020,V.League 1 - Vietnam,3215333
-Sai Gon,Nam Dinh,10,18/07/2020,V.League 1 - Vietnam,3215331
-Thanh Hóa,Hoang Anh Gia Lai,11,23/07/2020,V.League 1 - Vietnam,3215339
-Nam Dinh,Binh Duong,11,23/07/2020,V.League 1 - Vietnam,3215337
-Viettel,Da Nang,11,23/07/2020,V.League 1 - Vietnam,3215338
-Hai Phong,Hồng Lĩnh Hà Tĩnh,11,24/07/2020,V.League 1 - Vietnam,3215335
-Quang Nam,Sai Gon,11,24/07/2020,V.League 1 - Vietnam,3215336
-Than Quang Ninh,Song Lam Nghe An,11,24/07/2020,V.League 1 - Vietnam,3215340
-Ho Chi Minh City,Ha Noi,11,24/07/2020,V.League 1 - Vietnam,3215341
-Than Quang Ninh,Binh Duong,12,29/07/2020,V.League 1 - Vietnam,3215342
-Da Nang,Hai Phong,12,29/07/2020,V.League 1 - Vietnam,3215343
-Thanh Hóa,Hồng Lĩnh Hà Tĩnh,12,29/07/2020,V.League 1 - Vietnam,3215344
-Song Lam Nghe An,Hoang Anh Gia Lai,12,29/07/2020,V.League 1 - Vietnam,3215345
-Viettel,Sai Gon,12,29/07/2020,V.League 1 - Vietnam,3215346
-Quang Nam,Ha Noi,12,29/07/2020,V.League 1 - Vietnam,3215354
-Ho Chi Minh City,Nam Dinh,12,29/07/2020,V.League 1 - Vietnam,3215355
-Hai Phong,Song Lam Nghe An,13,03/08/2020,V.League 1 - Vietnam,3215347
-Binh Duong,Viettel,13,03/08/2020,V.League 1 - Vietnam,3215348
-Hồng Lĩnh Hà Tĩnh,Quang Nam,13,03/08/2020,V.League 1 - Vietnam,3215349
-Ha Noi,Thanh Hóa,13,03/08/2020,V.League 1 - Vietnam,3215350
-Hoang Anh Gia Lai,Ho Chi Minh City,13,03/08/2020,V.League 1 - Vietnam,3215351
-Nam Dinh,Da Nang,13,03/08/2020,V.League 1 - Vietnam,3215352
-Sai Gon,Than Quang Ninh,13,03/08/2020,V.League 1 - Vietnam,3215353
-Sydney,Wellington Phoenix,21,17/07/2020,A-League - Australia,3129369
 Perth Glory,Western United,24,12/08/2020,A-League - Australia,3129386
 Newcastle Jets,Wellington Phoenix,24,13/08/2020,A-League - Australia,3129387
 Melbourne Victory,Brisbane Roar,24,29/07/2020,A-League - Australia,3129388
 Melbourne City,Adelaide United,25,11/08/2020,A-League - Australia,3129389
-Central Coast Mariners,Newcastle Jets,25,24/07/2020,A-League - Australia,3129390
 Brisbane Roar,Sydney,25,10/08/2020,A-League - Australia,3129391
 Western United,Western Sydney Wanderers,25,07/08/2020,A-League - Australia,3129392
 Perth Glory,Melbourne Victory,25,08/08/2020,A-League - Australia,3129393
 Sydney,Western United,26,15/08/2020,A-League - Australia,3129394
 Melbourne Victory,Central Coast Mariners,26,03/08/2020,A-League - Australia,3129395
 Western Sydney Wanderers,Perth Glory,26,04/08/2020,A-League - Australia,3129396
-Wellington Phoenix,Adelaide United,26,25/07/2020,A-League - Australia,3129397
 Western United,Melbourne City,27,19/08/2020,A-League - Australia,3129399
 Western Sydney Wanderers,Melbourne Victory,27,12/08/2020,A-League - Australia,3129400
 Adelaide United,Sydney,27,06/08/2020,A-League - Australia,3129401
-Perth Glory,Wellington Phoenix,27,22/07/2020,A-League - Australia,3129403
 Adelaide United,Perth Glory,28,30/07/2020,A-League - Australia,3129404
-Sydney,Newcastle Jets,28,21/07/2020,A-League - Australia,3129405
-Melbourne Victory,Western United,28,25/07/2020,A-League - Australia,3129406
 Wellington Phoenix,Brisbane Roar,28,05/08/2020,A-League - Australia,3129407
-Central Coast Mariners,Western Sydney Wanderers,28,27/07/2020,A-League - Australia,3129408
 Newcastle Jets,Western United,29,02/08/2020,A-League - Australia,3129409
-Brisbane Roar,Adelaide United,29,19/07/2020,A-League - Australia,3129410
 Western Sydney Wanderers,Wellington Phoenix,29,31/07/2020,A-League - Australia,3129411
 Melbourne City,Sydney,29,01/08/2020,A-League - Australia,3129412
-Perth Glory,Central Coast Mariners,29,18/07/2020,A-League - Australia,3129413

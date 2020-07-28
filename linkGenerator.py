@@ -20,7 +20,7 @@ def getLinksFromFile(fileq):
 getLinksFromFile("Premier League 1920")
 
 #Championship
-getLinksFromFile("Championship 1920")
+#getLinksFromFile()
 
 #League One
 #getLinksFromFile()
@@ -29,25 +29,25 @@ getLinksFromFile("Championship 1920")
 #getLinksFromFile()
 
 #National League
-#getLinks(3053879,3054430)
+#getLinksFromFile()
 
 #National League North and South
-#getLinks(3054487,3055410)
+#getLinksFromFile()
 
 #Scotland Premier
-#getLinks(3038361,3038558)
+getLinksFromFile("Scotland Premier 2021")
 
 #Scotland Championship
-#getLinks(3038559,3038738)
+#getLinksFromFile()
 
 #Scotland League One
-#getLinks(3038181,3038360)
+#getLinksFromFile()
 
 #Scotland League 2
-#getLinks(3038739,3038918)
+#getLinksFromFile()
 
 #Ireland
-#getLinks(3197111,3197290)
+getLinksFromFile('Ireland 20')
 
 #Wales
 #getLinks(3042798,3042929)
@@ -59,29 +59,28 @@ getLinksFromFile('Serie A 1920')
 getLinks(3122543,3122922)
 
 #La Liga
-getLinksFromFile("La Liga 1920")
+#getLinksFromFile()
 
 #Segunda Division
-getLinks(3059913,3060374)
-#Do a getLinks
+#getLinksFromFile()
 
 #Bundesliga
-getLinks(3047020,3047325)
+#getLinksFromFile()
 
 #2. Bundes
-getLinks(3047327,3047632)
+#getLinksFromFile()
 
 #3. Bundesliga
-getLinks(3053138,3053517)
+#getLinksFromFile()
 
 #Ligue1
-#getLinks(3030547,3030926)
+#getLinksFromFile()
 
 #Ligue 2
-#getLinks(3031016,3031395)
+#getLinksFromFile()
 
 #National 1 
-#getLinks(3073147,3073452)
+#getLinksFromFile()
 
 #Portugal League
 getLinksFromFile("Portugal 1920")
@@ -90,19 +89,19 @@ getLinksFromFile("Portugal 1920")
 #getLinks(3065081,3065386)
 
 #Eredivisie
-#getLinks(3032053,3032358)
+#getLinksFromFile()
 
 #Eerste Divisie
-#getLinks(3031673,3032052)
+#getLinksFromFile()
 
 #Austria
-getLinks(3034837,3034968)
+#getLinksFromFile()
 
 #Austria 2
 getLinksFromFile("Austria 2 1920")
 
 #Denmark
-getLinks(3026880,3027061)
+#getLinksFromFile()
 
 #Denmark1
 getLinks(3034132,3034329)
@@ -110,6 +109,9 @@ getLinks(3034132,3034329)
 #Norway - Only 16 out of 30 gameweeks
 #Last day collected 30/08/20
 getLinksFromFile("Norway 20")
+
+#Norway 2
+getLinksFromFile("Norway 2 20")
 
 #Sweden 
 getLinksFromFile("Sweden 20")
@@ -124,19 +126,19 @@ getLinksFromFile("Finland 20")
 getLinksFromFile("Iceland 20")
 
 #Belgium
-#getLinks(3050137,3050387)
+#getLinksFromFile()
 
 #Czech
-getLinks(3036786,3037025)
+#getLinksFromFile()
 
 #Czech2
-getLinks(3039244,3039483)
+#getLinksFromFile()
 
 #Croatia
 getLinks(3029812,3029991)
 
 #Poland
-getLinks(3025700,3025939)
+#getLinksFromFile()
 
 #Poland2
 getLinksFromFile("Poland 2 1920")
@@ -145,7 +147,7 @@ getLinksFromFile("Poland 2 1920")
 getLinksFromFile("Poland 3 1920")
 
 #Russia
-getLinks(3027073,3027312)       
+#getLinksFromFile()  
 
 #Switzerland
 getLinks(3037815,3037994)
@@ -157,28 +159,28 @@ getLinks(3039666,3039845)
 getLinks(3081777,3082082)
 
 #Turkey2
-getLinks(3083169,3083474)
+#getLinksFromFile()
 
 #Greece
-#getLinks(3051869,3052050)
+#getLinksFromFile()
 
 #Romania
-getLinks(3048255,3048436)
+#getLinksFromFile()
 
 #Slovakia
-#getLinks(3032576,3032707)
+#getLinksFromFile()
 
 #Slovenia
-getLinks(3039484,3039663)
+#getLinksFromFile()
 
 #Serbia
-getLinks(3030015,3030254)
+#getLinksFromFile()
 
 #Isreal League 
-#getLinks(3033612,3033793)
+#getLinksFromFile()
 
 #Hungary League 
-getLinks(3050532,3050729)
+#getLinksFromFile()
 
 #Belarus
 getLinksFromFile("Belarus 20")
@@ -191,7 +193,7 @@ getLinksFromFile("Belarus 20")
 
 #LigaMx
 #Apertura
-#getLinks(3040957,3041127)
+getLinksFromFile("Mexico Apertura 20")
 #Clausera
 #getLinks(3195272,3195424)
 
@@ -211,7 +213,8 @@ getLinksFromFile("Belarus 20")
 #getLinks(,)
 
 #China
-#getLinks(,)
+#Only 14/30 gameweeks. Until 27/09/20
+getLinksFromFile("CSL 2021")
 
 #J1 League
 getLinksFromFile("Japan 20")
@@ -232,12 +235,17 @@ getLinks(3269283,3269417)
 getLinksFromFile("Vietnam 20")
 
 #Egpyt
-#getLinks(3172275,3172580)
+#getLinksFromFile()
 
 #A-League
 getLinks(3129271,3129413)
 
 #MLS
-#getLinks(3195739,3196180)
+#getLinksFromFile()
 
 #getLinks(,)
+
+'''
+ToGet:
+    
+    '''

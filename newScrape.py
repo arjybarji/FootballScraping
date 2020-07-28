@@ -216,7 +216,7 @@ def parse(url):
                     dateDay = int(date.lower().split("/")[0])
                     dateMonth = int(date.lower().split("/")[1])
 
-                    if(dateDay < todayDay+1 and todayMonth == dateMonth):
+                    if(dateDay < todayDay+2 and todayMonth == dateMonth):
                         print(homeTeam + " vs " + awayTeam + " Date: " + date)                    
                     return("F$" + homeTeam + "," + awayTeam  + "," + gameWeek + "," + date + "," + league + "," + gameID +  "£" + url)
         
@@ -290,3 +290,4 @@ if __name__ == '__main__':
     freq = 440  # Hz
     winsound.Beep(freq, duration)    
     print("--- %s minutes ---" % ((time.time() - start_time)/60))
+    input("Done")

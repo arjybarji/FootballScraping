@@ -5,10 +5,10 @@ with open("Statsv2.csv","r",encoding = "utf8") as f:
     content = f.readlines()
 content = [x.strip() for x in content]
 
-right = "Ligat ha'Al - Israel"
+right = input("League?   ")
+
 stats = open("newStats.csv","w",encoding = "utf8")
 leagueFile = open(right + " ending in "+str(now.year)+ " .csv","w",encoding = "utf8")
-
 
 
 for c in content:

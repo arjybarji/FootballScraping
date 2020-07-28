@@ -1,48 +1,4 @@
 Card Teams
-Liverpool
-Norwich City
-AFC Bournemouth
-Sheffield United
-Burnley
-Southampton
-Crystal Palace
-Everton
-Leicester City
-Wolverhampton Wanderers
-Tottenham Hotspur
-Aston Villa
-Watford
-Brighton & Hove Albion
-West Ham United
-Manchester City
-Manchester United
-Chelsea
-Newcastle United
-Arsenal - Premier League - England
-Luton Town
-Middlesbrough
-Barnsley
-Fulham
-Blackburn Rovers
-Charlton Athletic
-Brentford
-Birmingham City
-Millwall
-Preston North End
-Nottingham Forest
-West Bromwich Albion
-Reading
-Sheffield Wednesday
-Stoke City
-Queens Park Rangers
-Swansea City
-Hull City
-Wigan Athletic
-Cardiff City
-Bristol City
-Leeds United
-Huddersfield Town
-Derby County
 Cagliari
 Brescia
 Fiorentina
@@ -83,66 +39,6 @@ Venezia
 Cremonese
 Virtus Entella
 Livorno
-Deportivo Alavés
-Levante
-Athletic Club
-Barcelona
-Atletico Madrid
-Getafe
-Real Betis
-Real Valladolid
-Celta Vigo
-Real Madrid
-Espanyol
-Sevilla
-Leganes
-Osasuna
-Mallorca
-Eibar
-Valencia
-Real Sociedad
-Villarreal
-Granada
-Almería
-Albacete
-Cádiz
-Ponferradina
-Deportivo La Coruña
-Real Oviedo
-Elche
-Fuenlabrada
-Girona
-Sporting Gijón
-Las Palmas
-Huesca
-Lugo
-Extremadura UD
-Numancia
-Alcorcón
-Racing Santander
-Málaga
-Rayo Vallecano
-Mirandés
-Real Zaragoza
-Tenerife
-Gil Vicente
-Porto
-Sporting Braga
-Moreirense
-Marítimo
-Sporting CP
-Vitória Setúbal
-Tondela
-Santa Clara
-Famalicão
-Benfica
-Paços de Ferreira
-Boavista
-Desportivo Aves
-Portimonense
-Belenenses
-Rio Ave
-Vitoria Guimaraes
 Ried
 Austria Klagenfurt
 Blau-Weiß Linz
@@ -159,24 +55,6 @@ Vorwärts Steyr
 Wacker Innsbruck
 Dornbirn
 Austria Lustenau
-Inter Zaprešić
-Lokomotiva Zagreb
-Zenit
-Tambov
-Spartak Moscow
-Sochi
-Rostov
-Orenburg
-Lokomotiv Moscow
-Rubin Kazan
-Akhmat Grozny
-Krasnodar
-Arsenal Tula
-Dinamo Moscow
-Krylya Sovetov
-CSKA Moscow
-Ural
-Ufa
 Sion
 Basel
 Thun
@@ -187,42 +65,6 @@ Young Boys
 Servette
 Zürich
 Lugano
-Sivasspor
-Beşiktaş
-Fenerbahçe
-Gaziantep FK
-Yeni Malatyaspor
-Istanbul Basaksehir
-Gençlerbirliği
-Rizespor
-Kasımpaşa
-Trabzonspor
-Kayserispor
-Alanyaspor
-Konyaspor
-Ankaragücü
-Denizlispor
-Galatasaray
-Göztepe
-Antalyaspor
-Altay
-Ümraniyespor
-Adana Demirspor
-Balıkesirspor
-Osmanlıspor
-Boluspor
-BB Erzurumspor
-İstanbulspor
-Eskişehirspor
-Keçiörengücü
-Akhisarspor
-Adanaspor
-Fatih Karagümrük
-Bursaspor
-Hatayspor
-Altınordu
-Giresunspor
-Menemenspor
 Adelaide United
 Sydney
 Western Sydney Wanderers
@@ -238,12 +80,14 @@ Winterthur
 Aarau
 Grasshopper
 Stade Lausanne-Ouchy
-Chiasso
 Wil
 FC Schaffhausen
 Lausanne Sport
 Kriens
-Vaduz
+Shamrock Rovers
+Derry City
+Waterford
+Sligo Rovers
 Shonan Bellmare
 Urawa Reds
 Vegalta Sendai
@@ -306,28 +150,8 @@ Jeonnam Dragons
 Daegu
 Pohang Steelers
 Incheon United
-Třinec
-Vlašim
 Neman Grodno
 Minsk
-Bravo
-Olimpia Grudziądz
-Chrobry Głogów
-Radomiak Radom
-Miedź Legnica
-Odra Opole
-Zagłębie Sosnowiec
-Podbeskidzie
-Puszcza Niepołomice
-Jastrzębie
-Nieciecza
-Sandecja Nowy Sącz
-Chojniczanka Chojnice
-Warta Poznań
-Górnik Polkowice
-Legionovia Legionowo
-Ho Chi Minh City
-Hai Phong
 IFK Göteborg
 Elfsborg
 Norrköping
@@ -418,3 +242,51 @@ Gifu
 Fujieda MYFC
 Sagamihara
 Vanraure Hachinohe
+Grorud
+Lillestrøm
+KFUM
+Jerv
+Stjørdals-Blink
+Ranheim
+Sandnes Ulf
+Øygarden
+Tromsø
+Raufoss
+Ullensaker / Kisa
+Strømmen
+Åsane
+Sogndal
+HamKam
+Kongsvinger
+Shenzhen
+Guangzhou R&F
+Guangzhou Evergrande
+Shanghai Shenhua
+Henan Jianye
+Jiangsu Suning
+Dalian Pro
+Shandong Luneng
+Tianjin Teda
+Shanghai SIPG
+Wuhan Zall
+Qingdao Huanghai
+Chongqing Dangdai Lifan
+Beijing Guoan
+Hebei CFFC
+Shijiazhuang Ever Bright
+Necaxa
+Tigres UANL
+Guadalajara
+León
+Cruz Azul
+Santos Laguna
+Tijuana
+Atlas
+Pumas UNAM
+Querétaro
+Atlético San Luis
+Juárez
+Pachuca
+América
+Mazatlán
+Puebla

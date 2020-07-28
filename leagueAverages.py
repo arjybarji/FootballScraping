@@ -22,6 +22,7 @@ def getPercent(league):
     cursor = conn.cursor()
     print(league)
     for field in fieldsPerc:
+        print(league)
         over = field.split(",")[1]
         field = field.split(",")[0]
         cursor.execute("SELECT count("+field+") FROM stats WHERE league = ? AND " + field + " > " +over, (league,))
@@ -37,6 +38,16 @@ def leagueAveragesFunc():
     with open('fixturesv2.csv',encoding="utf8") as f:
             content = f.readlines()
     content = [x.strip() for x in content]
+    
+    database = 'allStats.db'
+    conn = sqlite3.connect(database)
+    cursor = conn.cursor()
+    cursor.execute("SELECT DISTINCT(league) FROM stats")
+    leaguesDB=cursor.fetchall()
+    leagueStats = []
+    for c in leaguesDB:
+        leagueStats.append(c[0])
+    
     leagues = []
     for c in content:
         league = c.split(",")[4]
@@ -44,8 +55,9 @@ def leagueAveragesFunc():
             leagues.append(league)
 
     for league in leagues:
-        getAverages(league)
-        getPercent(league)
+        if(league in leaguesDB):
+            getAverages(league)
+            getPercent(league)
 
     for l in toWrite:
         averages.write(l+"," + toWrite[l]+"\n")
